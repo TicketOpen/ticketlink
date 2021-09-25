@@ -1,14 +1,4 @@
-[ticketlink]
-title = "티켓링크"
-url = "http://www.ticketlink.co.kr/help/notice"
-entrySelector = "tbody[id='nTableBody'] tr"
-titleSelector = "td.tl.p_reative > a"
-linkSelector = "td a"
-contentSelector = "td[class='open_info']"
-waitForSelector = "div.help_rcont"
-onFail = "stale"
-
-[ticketlink_m]
+[ticket_m]
 title = "티켓링크 모바일"
 url = "http://m.ticketlink.co.kr/help/notice"
 entrySelector = "#detail_content > li"
