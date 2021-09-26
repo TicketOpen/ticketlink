@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-26T02:23:32.140Z</updated>
+    <updated>2021-09-26T03:10:37.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 〈혜영에게〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53165</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53165"/>
+        <updated>2021-09-26T03:10:34.760Z</updated>
+        <content type="html"><![CDATA[2021.09.27(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 포항시립교향악단 제181회 정기연주회​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53164</id>
@@ -101,12 +108,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53151"/>
         <updated>2021-09-25T19:09:32.415Z</updated>
         <content type="html"><![CDATA[2021.09.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이국악극 〈금다래꿍〉 - 영주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53150</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53150"/>
-        <updated>2021-09-25T19:09:32.417Z</updated>
-        <content type="html"><![CDATA[2021.09.23(목) 00:00]]></content>
     </entry>
 </feed>
