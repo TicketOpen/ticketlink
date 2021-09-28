@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-28T08:12:20.578Z</updated>
+    <updated>2021-09-28T09:10:04.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 〈The Europeans : 사랑에 관한 색채의 연상〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53187</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53187"/>
+        <updated>2021-09-28T09:10:02.175Z</updated>
+        <content type="html"><![CDATA[2021.09.29(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈메리셸리〉 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53186</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53173"/>
         <updated>2021-09-27T02:24:37.757Z</updated>
         <content type="html"><![CDATA[2021.09.28(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 세종 체임버시리즈 Ⅲ – 신창용 김동현 듀오 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53172</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53172"/>
-        <updated>2021-09-27T01:54:47.175Z</updated>
-        <content type="html"><![CDATA[2021.09.29(수) 05:00]]></content>
     </entry>
 </feed>
