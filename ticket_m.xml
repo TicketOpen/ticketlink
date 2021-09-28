@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-28T06:12:18.979Z</updated>
+    <updated>2021-09-28T07:10:40.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈메리셸리〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53186</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53186"/>
+        <updated>2021-09-28T07:10:37.883Z</updated>
+        <content type="html"><![CDATA[2021.10.01(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬〈고고다이노 공룡탐험대〉- 구미 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53185</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53172"/>
         <updated>2021-09-27T01:54:47.175Z</updated>
         <content type="html"><![CDATA[2021.09.29(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 제38회 대한민국국제음악제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53171</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53171"/>
-        <updated>2021-09-26T13:16:05.591Z</updated>
-        <content type="html"><![CDATA[2021.09.27(월) 02:00]]></content>
     </entry>
 </feed>
