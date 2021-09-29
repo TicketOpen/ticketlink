@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-29T07:10:21.180Z</updated>
+    <updated>2021-09-29T08:12:20.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 성악 꽃피다 - 대구​ ​​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53193</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53193"/>
+        <updated>2021-09-29T08:12:18.350Z</updated>
+        <content type="html"><![CDATA[2021.09.30(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 인칸토 솔리스트 앙상블의 오페레타 박쥐 하이라이트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53192</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53192"/>
+        <updated>2021-09-29T08:12:18.350Z</updated>
+        <content type="html"><![CDATA[2021.10.01(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 행복 - 대구 ​​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53191</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53179"/>
         <updated>2021-09-27T10:11:25.947Z</updated>
         <content type="html"><![CDATA[2021.09.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을 밤, 가곡의 향기 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53178</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53178"/>
-        <updated>2021-09-27T10:11:25.947Z</updated>
-        <content type="html"><![CDATA[2021.09.28(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제8회 이데일리 문화대상 시상식 –Awards & gala- 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53177</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53177"/>
-        <updated>2021-09-27T07:10:44.044Z</updated>
-        <content type="html"><![CDATA[2021.09.29(수) 06:00]]></content>
     </entry>
 </feed>
