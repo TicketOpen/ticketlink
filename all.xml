@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-29T06:14:35.330Z</updated>
+    <updated>2021-09-29T07:10:21.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 행복 - 대구 ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53191</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53191"/>
+        <updated>2021-09-29T07:10:18.472Z</updated>
+        <content type="html"><![CDATA[2021.09.30(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 [여행] - 대구​ ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53190</id>
@@ -101,12 +108,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53177"/>
         <updated>2021-09-27T07:10:44.044Z</updated>
         <content type="html"><![CDATA[2021.09.29(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 거미 전국투어 콘서트〈다시, Winter Ballad〉- 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53176</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53176"/>
-        <updated>2021-09-27T06:12:28.108Z</updated>
-        <content type="html"><![CDATA[2021.09.30(목) 06:00]]></content>
     </entry>
 </feed>
