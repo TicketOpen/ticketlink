@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-30T05:10:57.119Z</updated>
+    <updated>2021-09-30T06:12:20.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -94,7 +94,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/53186</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53186"/>
         <updated>2021-09-28T07:10:37.883Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 05:00]]></content>
+        <content type="html"><![CDATA[2021.10.01(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬〈고고다이노 공룡탐험대〉- 구미 티켓오픈 안내]]></title>
