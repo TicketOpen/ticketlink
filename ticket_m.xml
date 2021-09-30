@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-09-30T02:01:52.084Z</updated>
+    <updated>2021-09-30T02:34:37.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 '렛잇고2' - 삼척 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53196</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53196"/>
+        <updated>2021-09-30T02:34:37.149Z</updated>
+        <content type="html"><![CDATA[2021.10.06(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 제주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53195</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53182"/>
         <updated>2021-09-28T01:55:42.652Z</updated>
         <content type="html"><![CDATA[2021.10.01(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 전주 앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53181</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53181"/>
-        <updated>2021-09-28T00:33:54.073Z</updated>
-        <content type="html"><![CDATA[2021.09.30(목) 00:00]]></content>
     </entry>
 </feed>
