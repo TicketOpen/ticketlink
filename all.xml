@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-30T10:11:14.505Z</updated>
+    <updated>2021-09-30T11:08:58.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 재즈 인 대구 페스티벌 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53205</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53205"/>
+        <updated>2021-09-30T11:08:57.703Z</updated>
+        <content type="html"><![CDATA[2021.10.01(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 우리 가락 시김새의 멋 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53204</id>
@@ -100,13 +107,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53191</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53191"/>
         <updated>2021-09-29T07:10:18.472Z</updated>
-        <content type="html"><![CDATA[2021.09.30(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [여행] - 대구​ ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53190</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53190"/>
-        <updated>2021-09-29T02:20:08.603Z</updated>
         <content type="html"><![CDATA[2021.09.30(목) 05:00]]></content>
     </entry>
 </feed>
