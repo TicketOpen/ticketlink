@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T10:11:23.353Z</updated>
+    <updated>2021-10-01T11:09:07.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53215</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53215"/>
+        <updated>2021-10-01T11:09:05.220Z</updated>
+        <content type="html"><![CDATA[2021.10.05(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53214</id>
@@ -101,12 +108,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53201"/>
         <updated>2021-09-30T08:12:11.604Z</updated>
         <content type="html"><![CDATA[2021.10.01(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021 셀러브리티 로코연극]러브액츄얼리 오리지날 크리스마스 특별공연 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53200</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53200"/>
-        <updated>2021-09-30T07:10:31.762Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 08:00]]></content>
     </entry>
 </feed>
