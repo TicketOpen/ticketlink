@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-01T08:12:00.722Z</updated>
+    <updated>2021-10-01T09:10:25.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53214</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53214"/>
+        <updated>2021-10-01T09:10:22.551Z</updated>
+        <content type="html"><![CDATA[2021.10.06(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 사랑&동행 음악회 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53213</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53200"/>
         <updated>2021-09-30T07:10:31.762Z</updated>
         <content type="html"><![CDATA[2021.10.01(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 창작가무극 독립의 혼 임청각 - 안동 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53199</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53199"/>
-        <updated>2021-09-30T07:10:31.762Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 00:00]]></content>
     </entry>
 </feed>
