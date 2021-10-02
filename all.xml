@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-02T02:24:43.835Z</updated>
+    <updated>2021-10-02T03:10:34.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 영남필하모니오케스트라 15회 정기연주회 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53218</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53218"/>
+        <updated>2021-10-02T03:10:32.191Z</updated>
+        <content type="html"><![CDATA[2021.10.02(토) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53215</id>
@@ -101,12 +108,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53202"/>
         <updated>2021-09-30T09:09:51.542Z</updated>
         <content type="html"><![CDATA[2021.10.06(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장혁준 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53201</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53201"/>
-        <updated>2021-09-30T08:12:11.604Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 01:00]]></content>
     </entry>
 </feed>
