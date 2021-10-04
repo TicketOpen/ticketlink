@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-04T02:35:56.604Z</updated>
+    <updated>2021-10-04T03:11:01.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  제5회 대구국제컴퓨터음악제 DICMF 2021 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53222</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53222"/>
+        <updated>2021-10-04T03:10:59.316Z</updated>
+        <content type="html"><![CDATA[2021.10.05(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 함윤혜 바이올린 독주회 - 대구​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53220</id>
@@ -25,6 +32,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53218"/>
         <updated>2021-10-02T03:10:32.191Z</updated>
         <content type="html"><![CDATA[2021.10.02(토) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RE:SPES 안동 2021×롤링홀​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53217</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53217"/>
+        <updated>2021-10-04T03:10:59.327Z</updated>
+        <content type="html"><![CDATA[2021.10.06(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Violet Time]​​ KIM HYUN JOONG Monthly Concert 'Prism Time'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53216</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53216"/>
+        <updated>2021-10-04T03:10:59.329Z</updated>
+        <content type="html"><![CDATA[2021.10.06(수) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 고양 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53207"/>
         <updated>2021-10-01T05:09:37.642Z</updated>
         <content type="html"><![CDATA[2021.10.06(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 창원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53206</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53206"/>
-        <updated>2021-10-01T05:09:37.642Z</updated>
-        <content type="html"><![CDATA[2021.10.06(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 재즈 인 대구 페스티벌 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53205</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53205"/>
-        <updated>2021-09-30T11:08:57.703Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 우리 가락 시김새의 멋 - 안동 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53204</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53204"/>
-        <updated>2021-09-30T10:11:11.820Z</updated>
-        <content type="html"><![CDATA[2021.10.01(금) 08:00]]></content>
     </entry>
 </feed>
