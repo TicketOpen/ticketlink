@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-05T08:12:45.934Z</updated>
+    <updated>2021-10-05T09:10:20.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 LIVE CONCERT 노지훈 김중연 황윤성 ‘미스터 트리오’​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53230</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53230"/>
+        <updated>2021-10-05T09:10:17.914Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53229</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53216"/>
         <updated>2021-10-04T03:10:59.329Z</updated>
         <content type="html"><![CDATA[2021.10.06(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53215</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53215"/>
-        <updated>2021-10-01T11:09:05.220Z</updated>
-        <content type="html"><![CDATA[2021.10.05(화) 01:00]]></content>
     </entry>
 </feed>
