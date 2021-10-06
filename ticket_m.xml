@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-06T06:12:04.659Z</updated>
+    <updated>2021-10-06T07:10:27.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이가족뮤지컬  〈신데렐라〉  - 목포​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53237</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53237"/>
+        <updated>2021-10-06T07:10:24.412Z</updated>
+        <content type="html"><![CDATA[2021.10.07(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의로운 BJ깨비들 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53236</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53236"/>
+        <updated>2021-10-06T07:10:24.414Z</updated>
+        <content type="html"><![CDATA[2021.10.07(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이베스트셀러 뮤지컬 〈누가 내머리에 똥쌌어?〉- 원주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53235</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53223"/>
         <updated>2021-10-04T04:13:11.323Z</updated>
         <content type="html"><![CDATA[2021.10.05(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  제5회 대구국제컴퓨터음악제 DICMF 2021 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53222</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53222"/>
-        <updated>2021-10-04T03:10:59.316Z</updated>
-        <content type="html"><![CDATA[2021.10.05(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박수를 보내다 : 테너 존노 리사이틀-광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53221</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53221"/>
-        <updated>2021-10-05T08:12:45.176Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 01:00]]></content>
     </entry>
 </feed>
