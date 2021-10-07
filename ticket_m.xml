@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-07T07:11:12.725Z</updated>
+    <updated>2021-10-07T08:12:35.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈분장실〉 VER 2 마지막​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53250</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53250"/>
+        <updated>2021-10-07T08:12:32.837Z</updated>
+        <content type="html"><![CDATA[2021.10.12(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[겨울이야기 -김천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53248</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53234"/>
         <updated>2021-10-06T06:12:01.950Z</updated>
         <content type="html"><![CDATA[2021.10.08(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈​카포네 트릴로지〉​ 마지막​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53233</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53233"/>
-        <updated>2021-10-06T05:09:45.922Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 04:00]]></content>
     </entry>
 </feed>
