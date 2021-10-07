@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-07T06:12:26.462Z</updated>
+    <updated>2021-10-07T07:11:12.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[겨울이야기 -김천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53248</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53248"/>
+        <updated>2021-10-07T07:11:10.025Z</updated>
+        <content type="html"><![CDATA[2021.10.08(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53246</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53233"/>
         <updated>2021-10-06T05:09:45.922Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 금명 : 현에 새긴 글 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53232</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53232"/>
-        <updated>2021-10-05T10:10:50.733Z</updated>
-        <content type="html"><![CDATA[2021.10.07(목) 01:00]]></content>
     </entry>
 </feed>
