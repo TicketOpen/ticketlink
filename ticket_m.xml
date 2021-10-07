@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-07T04:13:08.680Z</updated>
+    <updated>2021-10-07T05:09:25.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53246</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53246"/>
+        <updated>2021-10-07T05:09:25.094Z</updated>
+        <content type="html"><![CDATA[2021.10.12(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 소춘대유희 문화탐방패키지​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53245</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53232"/>
         <updated>2021-10-05T10:10:50.733Z</updated>
         <content type="html"><![CDATA[2021.10.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티브바라캇 내한공연 with 데이드림 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53231</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53231"/>
-        <updated>2021-10-05T10:10:50.734Z</updated>
-        <content type="html"><![CDATA[2021.10.06(수) 05:00]]></content>
     </entry>
 </feed>
