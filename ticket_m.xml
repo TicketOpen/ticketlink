@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-08T07:10:39.032Z</updated>
+    <updated>2021-10-08T08:12:43.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉포유 렉처스테이지IV 〈잠비나이X드링킹소년소녀합창단〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53262</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53262"/>
+        <updated>2021-10-08T08:12:40.963Z</updated>
+        <content type="html"><![CDATA[2021.10.09(토) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 경산시립합창단 25회 정기연주회 - 경산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53261</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53246"/>
         <updated>2021-10-07T05:09:25.094Z</updated>
         <content type="html"><![CDATA[2021.10.12(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 소춘대유희 문화탐방패키지​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53245</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53245"/>
-        <updated>2021-10-07T04:13:08.061Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 02:00]]></content>
     </entry>
 </feed>
