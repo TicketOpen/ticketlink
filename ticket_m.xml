@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-08T08:12:43.663Z</updated>
+    <updated>2021-10-08T09:10:33.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53265</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53265"/>
+        <updated>2021-10-08T09:10:32.837Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 승가원 기부하이킹 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53264</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53264"/>
+        <updated>2021-10-08T09:10:32.839Z</updated>
+        <content type="html"><![CDATA[2021.10.13(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 〈신데렐라〉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53263</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53263"/>
+        <updated>2021-10-08T09:10:32.839Z</updated>
+        <content type="html"><![CDATA[2021.10.13(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 봉포유 렉처스테이지IV 〈잠비나이X드링킹소년소녀합창단〉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53262</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53251"/>
         <updated>2021-10-07T16:12:58.666Z</updated>
         <content type="html"><![CDATA[2021.10.08(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈분장실〉 VER 2 마지막​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53250</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53250"/>
-        <updated>2021-10-07T08:12:32.837Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울이야기 -김천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53248</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53248"/>
-        <updated>2021-10-07T07:11:10.025Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53246</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53246"/>
-        <updated>2021-10-07T05:09:25.094Z</updated>
-        <content type="html"><![CDATA[2021.10.12(화) 01:00]]></content>
     </entry>
 </feed>
