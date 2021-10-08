@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-08T09:10:33.654Z</updated>
+    <updated>2021-10-08T10:11:24.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제8회 이데일리 문화대상 시상식 –Awards & gala-​​​ 추가 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53266</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53266"/>
+        <updated>2021-10-08T10:11:21.705Z</updated>
+        <content type="html"><![CDATA[2021.10.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉3차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53265</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53252</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53252"/>
         <updated>2021-10-07T16:12:58.659Z</updated>
-        <content type="html"><![CDATA[2021.10.08(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 소년소녀합창축제 - 대구 (16:00공연) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53251</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53251"/>
-        <updated>2021-10-07T16:12:58.666Z</updated>
         <content type="html"><![CDATA[2021.10.08(금) 05:00]]></content>
     </entry>
 </feed>
