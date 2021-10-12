@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-12T08:12:36.568Z</updated>
+    <updated>2021-10-12T09:10:08.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​트레이스 유〉​ 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53278</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53278"/>
+        <updated>2021-10-12T09:10:05.734Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탱고와 뮤지컬의 만남 - 대구​  티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53277</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53264"/>
         <updated>2021-10-08T09:10:32.839Z</updated>
         <content type="html"><![CDATA[2021.10.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 〈신데렐라〉​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53263</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53263"/>
-        <updated>2021-10-08T09:10:32.839Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 01:00]]></content>
     </entry>
 </feed>
