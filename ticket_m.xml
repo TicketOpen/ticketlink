@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-13T05:09:34.065Z</updated>
+    <updated>2021-10-13T06:12:20.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 카라바지오 바로크의 빛을 만들다 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53290</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53290"/>
+        <updated>2021-10-13T06:12:17.858Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [현악사중주 ⑤] 아레테 콰르텟-광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53289</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[스티브바라캇 내한공연 with 데이드림 - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53276</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53276"/>
-        <updated>2021-10-12T08:12:35.885Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티브바라캇 내한공연 with 데이드림 - 춘천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53275</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53275"/>
         <updated>2021-10-12T08:12:35.885Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 01:00]]></content>
     </entry>
