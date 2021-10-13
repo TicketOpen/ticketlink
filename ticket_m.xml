@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-13T07:10:55.306Z</updated>
+    <updated>2021-10-13T08:12:37.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://m.ticketlink.co.kr/help/notice/53293</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53293"/>
         <updated>2021-10-13T07:10:52.755Z</updated>
+        <content type="html"><![CDATA[2021.10.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 달서청년연극제 <찬란한 여름> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53292</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53292"/>
+        <updated>2021-10-13T08:12:34.951Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 05:00]]></content>
     </entry>
     <entry>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53279"/>
         <updated>2021-10-13T00:34:16.201Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​트레이스 유〉​ 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53278</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53278"/>
-        <updated>2021-10-12T09:10:05.734Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
     </entry>
 </feed>
