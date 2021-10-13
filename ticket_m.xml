@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-13T08:12:37.640Z</updated>
+    <updated>2021-10-13T09:10:24.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립발레단 특별기획공연 [발레 살롱콘서트Ⅴ] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53294</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53294"/>
+        <updated>2021-10-13T09:10:24.258Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 달서청년연극제 <커튼 콜> - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53293</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53280</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53280"/>
         <updated>2021-10-13T01:59:58.617Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구세계합창축제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53279</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53279"/>
-        <updated>2021-10-13T00:34:16.201Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
     </entry>
 </feed>
