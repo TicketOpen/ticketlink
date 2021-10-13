@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-13T03:11:18.065Z</updated>
+    <updated>2021-10-13T04:13:11.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [현악사중주 ⑤] 아레테 콰르텟-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53289</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53289"/>
+        <updated>2021-10-13T04:13:08.828Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [현악사중주 ④] 리수스 콰르텟-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53288</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53288"/>
+        <updated>2021-10-13T04:13:08.830Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [현악사중주 ③] 아더첼로 콰르텟-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53287</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53287"/>
+        <updated>2021-10-13T04:13:08.831Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [현악사중주 ②] 아벨 콰르텟-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53286</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53286"/>
+        <updated>2021-10-13T04:13:08.832Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [현악사중주 ①] 에스메 콰르텟-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53285</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53285"/>
+        <updated>2021-10-13T04:13:08.835Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구국제방송교향악단 〈영화음악 & 애니메이션 콘서트〉​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53284</id>
@@ -45,7 +80,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/53278</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53278"/>
         <updated>2021-10-12T09:10:05.734Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 06:00]]></content>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱고와 뮤지컬의 만남 - 대구​  티켓오픈 안내]]></title>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53274"/>
         <updated>2021-10-12T08:12:35.888Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스티브바라캇 내한공연 with 데이드림 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53273</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53273"/>
-        <updated>2021-10-12T08:12:35.893Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤, 정홍일, 이무진 싱어게인 TOP3 전국투어 콘서트 - 부산​  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53272</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53272"/>
-        <updated>2021-10-12T06:12:26.407Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈빌리브 오셀로 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53271</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53271"/>
-        <updated>2021-10-12T05:09:20.757Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 포항시립교향악단 청소년을 위한 협주곡의 밤 - 포항​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53270</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53270"/>
-        <updated>2021-10-12T05:09:20.759Z</updated>
-        <content type="html"><![CDATA[2021.10.13(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕? 손호영 〈Hello? SHY〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53269</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53269"/>
-        <updated>2021-10-12T03:10:55.050Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 11:00]]></content>
     </entry>
 </feed>
