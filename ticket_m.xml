@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-14T04:13:08.601Z</updated>
+    <updated>2021-10-14T05:09:32.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] The One Chamber Orchestra 제4회 정기연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53297</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53297"/>
+        <updated>2021-10-14T05:09:29.463Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021_셀러브리티 로코연극] 러브액츄얼리 오리지날 크리스마스 특별공연 - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53296</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53283"/>
         <updated>2021-10-13T01:59:58.614Z</updated>
         <content type="html"><![CDATA[2021.10.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53282</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53282"/>
-        <updated>2021-10-13T05:09:31.507Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 05:00]]></content>
     </entry>
 </feed>
