@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-14T08:12:43.550Z</updated>
+    <updated>2021-10-14T09:10:29.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구국제방송교향악단 〈레미제라블:장발장〉티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53305</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53305"/>
+        <updated>2021-10-14T09:10:26.983Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021 셀러브리티 로코연극]러브액츄얼리 오리지날 크리스마스 특별공연 포항​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53304</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53291</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53291"/>
         <updated>2021-10-13T07:10:52.767Z</updated>
-        <content type="html"><![CDATA[2021.10.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 카라바지오 바로크의 빛을 만들다 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53290</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53290"/>
-        <updated>2021-10-13T06:12:17.858Z</updated>
         <content type="html"><![CDATA[2021.10.14(목) 05:00]]></content>
     </entry>
 </feed>
