@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-14T02:25:52.690Z</updated>
+    <updated>2021-10-14T03:10:52.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2021_셀러브리티 로코연극] 러브액츄얼리 오리지날 크리스마스 특별공연 - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53296</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53296"/>
+        <updated>2021-10-14T03:10:50.009Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 와이즈발레단 〈지젤 GISELLE〉 - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53295</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53295"/>
+        <updated>2021-10-14T03:10:50.010Z</updated>
+        <content type="html"><![CDATA[2021.10.18(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 특별기획공연 [발레 살롱콘서트Ⅴ] 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53294</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53282"/>
         <updated>2021-10-13T05:09:31.507Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 네트워크 작업(10/21)으로 인한 일부 서비스 제한 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53281</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53281"/>
-        <updated>2021-10-13T00:34:16.196Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/53281" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit">세종문화회관 네트워크 작업(10/21)으로 인한 일부 서비스 제한 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 갈라 콘서트 <빛나는 별들의 목소리> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53280</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53280"/>
-        <updated>2021-10-13T01:59:58.617Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
     </entry>
 </feed>
