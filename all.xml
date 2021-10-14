@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T06:12:00.683Z</updated>
+    <updated>2021-10-14T07:10:34.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [특별기획 : 개관 30주년] 12Cellists - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53303</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53303"/>
+        <updated>2021-10-14T07:10:32.236Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 갈라 콘서트 <빛나는 별들의 목소리> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53302</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53302"/>
+        <updated>2021-10-14T07:10:32.239Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박신혜 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53301</id>
@@ -93,20 +107,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53289</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53289"/>
         <updated>2021-10-13T04:13:08.828Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [현악사중주 ④] 리수스 콰르텟-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53288</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53288"/>
-        <updated>2021-10-13T04:13:08.830Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [현악사중주 ③] 아더첼로 콰르텟-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53287</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53287"/>
-        <updated>2021-10-13T04:13:08.831Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
     </entry>
 </feed>
