@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-14T05:09:32.103Z</updated>
+    <updated>2021-10-14T06:12:00.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 박신혜 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53301</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53301"/>
+        <updated>2021-10-14T06:11:58.006Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 한국가곡 Masterpiece “풍경소리” - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53300</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53300"/>
+        <updated>2021-10-14T06:11:58.013Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구세계합창축제 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53299</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53299"/>
+        <updated>2021-10-14T06:11:58.014Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS 번개맨 뮤지컬 “부제:검은 번개맨의 정체는?”-목포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53298</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53298"/>
+        <updated>2021-10-14T06:11:58.014Z</updated>
+        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] The One Chamber Orchestra 제4회 정기연주회 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53297</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53287"/>
         <updated>2021-10-13T04:13:08.831Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [현악사중주 ②] 아벨 콰르텟-광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53286</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53286"/>
-        <updated>2021-10-13T04:13:08.832Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [현악사중주 ①] 에스메 콰르텟-광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53285</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53285"/>
-        <updated>2021-10-13T04:13:08.835Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구국제방송교향악단 〈영화음악 & 애니메이션 콘서트〉​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53284</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53284"/>
-        <updated>2021-10-13T03:11:15.609Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 전설의 리틀 농구단_의성공연​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53283</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53283"/>
-        <updated>2021-10-13T01:59:58.614Z</updated>
-        <content type="html"><![CDATA[2021.10.18(월) 05:00]]></content>
     </entry>
 </feed>
