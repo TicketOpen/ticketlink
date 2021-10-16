@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-16T06:11:52.273Z</updated>
+    <updated>2021-10-16T07:10:18.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2021 김연자 라이브 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53316</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53316"/>
+        <updated>2021-10-16T07:10:15.297Z</updated>
+        <content type="html"><![CDATA[2021.10.18(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 피아졸라 탄생 100주년 기념 리베르 탱고 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53315</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53301</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53301"/>
         <updated>2021-10-14T06:11:58.006Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 한국가곡 Masterpiece “풍경소리” - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53300</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53300"/>
-        <updated>2021-10-14T06:11:58.013Z</updated>
         <content type="html"><![CDATA[2021.10.15(금) 01:00]]></content>
     </entry>
 </feed>
