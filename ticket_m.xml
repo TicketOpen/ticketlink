@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-17T00:34:31.798Z</updated>
+    <updated>2021-10-17T01:55:41.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 액션뮤지컬 <레이디버그> 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53323</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53323"/>
+        <updated>2021-10-17T01:55:40.803Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <슈퍼윙스> 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53322</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53322"/>
+        <updated>2021-10-17T01:55:40.803Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 액션뮤지컬 <레이디버그> 여수 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53321</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53321"/>
+        <updated>2021-10-17T01:55:40.805Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 액션뮤지컬 <레이디버그> 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53320</id>
@@ -87,27 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53309</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53309"/>
         <updated>2021-10-15T01:57:34.620Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제10회 대구 커피&카페 박람회 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53308</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53308"/>
-        <updated>2021-10-14T10:11:26.666Z</updated>
-        <content type="html"><![CDATA[2021.10.16(토) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2021 부산금정) 뮤지컬 루돌프와 산타클로스​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53307</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53307"/>
-        <updated>2021-10-15T00:34:50.958Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2021 전주) 뮤지컬 루돌프와 산타클로스​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53306</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53306"/>
-        <updated>2021-10-15T00:34:50.960Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 00:00]]></content>
     </entry>
 </feed>
