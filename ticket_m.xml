@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-17T03:10:52.610Z</updated>
+    <updated>2021-10-17T04:13:11.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <대구시립국악단 202회 정기공연: 유네스코가 선택한 우리음악, 우리춤> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53326</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53326"/>
+        <updated>2021-10-17T04:13:08.821Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 바리톤 김기훈 리사이틀 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53325</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53312"/>
         <updated>2021-10-15T06:12:41.322Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KRUSH ON : K-POP RUSH ON YOU] 내 방으로 놀러와 EP2. 아스트로 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53311</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53311"/>
-        <updated>2021-10-15T03:11:20.474Z</updated>
-        <content type="html"><![CDATA[2021.10.15(금) 09:00]]></content>
     </entry>
 </feed>
