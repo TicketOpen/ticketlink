@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-18T08:12:43.793Z</updated>
+    <updated>2021-10-18T09:10:51.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 우리음악집단 소옥 세번째 정기연주회 - 대구​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53336</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53336"/>
+        <updated>2021-10-18T09:10:48.954Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 창원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53335</id>
@@ -101,12 +108,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53319"/>
         <updated>2021-10-16T13:15:17.781Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족 뮤지컬  <오즈의 마법사> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53318</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53318"/>
-        <updated>2021-10-16T12:15:29.400Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
     </entry>
 </feed>
