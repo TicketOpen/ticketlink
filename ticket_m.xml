@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-18T09:10:51.676Z</updated>
+    <updated>2021-10-18T10:11:30.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 〈라흐마니노프〉-군산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53338</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53338"/>
+        <updated>2021-10-18T10:11:27.433Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 우리음악집단 소옥 세번째 정기연주회 - 대구​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53336</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53320"/>
         <updated>2021-10-17T00:34:31.186Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이가족뮤지컬 <신데렐라>  - 구미 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53319</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53319"/>
-        <updated>2021-10-16T13:15:17.781Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 02:00]]></content>
     </entry>
 </feed>
