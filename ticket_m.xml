@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-18T04:12:58.529Z</updated>
+    <updated>2021-10-18T05:09:39.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어]]></title>
+        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 "드라마" - 성남​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53333</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53333"/>
         <updated>2021-10-18T03:10:49.859Z</updated>
