@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T09:10:34.450Z</updated>
+    <updated>2021-10-19T10:11:42.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(계룡) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53358</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53358"/>
+        <updated>2021-10-19T10:11:39.453Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 소프라노 이은경 독창회 (SOPRANO EUNKYUNG LEE RECITAL) - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53357</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53357"/>
+        <updated>2021-10-19T10:11:39.454Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 음악 창의도시 특별 교류 프로그램 〈작곡가의 밤〉 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53356</id>
@@ -94,19 +108,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53343"/>
         <updated>2021-10-19T05:09:43.472Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021, 멜로우키친의 Autumn Concert] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53342</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53342"/>
-        <updated>2021-10-19T04:13:37.448Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별은 빛나건만: 오페라 & 크로스오버​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53341</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53341"/>
-        <updated>2021-10-19T04:13:37.448Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
     </entry>
 </feed>
