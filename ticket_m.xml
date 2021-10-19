@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-19T04:13:38.079Z</updated>
+    <updated>2021-10-19T05:09:46.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 이승철 전국투어 콘서트 “우리, 이제 만나요” – 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53346</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53346"/>
+        <updated>2021-10-19T05:09:43.470Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 적재 전국투어 '서로의 서로' - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53344</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53344"/>
+        <updated>2021-10-19T05:09:43.472Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 적재 전국투어 '서로의 서로' - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53343</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53343"/>
+        <updated>2021-10-19T05:09:43.472Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021, 멜로우키친의 Autumn Concert] 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53342</id>
@@ -87,27 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53328</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53328"/>
         <updated>2021-10-18T02:03:10.619Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 오르간 오딧세이 III. 크리스마스 판타지 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53327</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53327"/>
-        <updated>2021-10-17T09:09:44.874Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <대구시립국악단 202회 정기공연: 유네스코가 선택한 우리음악, 우리춤> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53326</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53326"/>
-        <updated>2021-10-17T04:13:08.821Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 바리톤 김기훈 리사이틀 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53325</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53325"/>
-        <updated>2021-10-17T03:10:49.903Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
     </entry>
 </feed>
