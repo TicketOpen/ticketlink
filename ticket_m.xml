@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-19T07:11:07.218Z</updated>
+    <updated>2021-10-19T08:12:58.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53352</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53352"/>
+        <updated>2021-10-19T08:12:55.950Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53351</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53351"/>
+        <updated>2021-10-19T08:12:55.951Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53350</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53350"/>
+        <updated>2021-10-19T08:12:55.954Z</updated>
+        <content type="html"><![CDATA[2021.10.25(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립발레단 <스페셜 발레 갈라> - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53349</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53349"/>
+        <updated>2021-10-19T08:12:55.954Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 뮤직 페스티벌 폐막공연 <마스터즈시리즈: 박범훈 & 대구시립국악단> - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53348</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53337"/>
         <updated>2021-10-19T00:34:50.288Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 우리음악집단 소옥 세번째 정기연주회 - 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53336</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53336"/>
-        <updated>2021-10-18T09:10:48.954Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 창원​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53335</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53335"/>
-        <updated>2021-10-18T07:11:02.516Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬〈로보카폴리〉_서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53334</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53334"/>
-        <updated>2021-10-18T07:11:02.522Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 "드라마" - 성남 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53333</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53333"/>
-        <updated>2021-10-18T03:10:49.859Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 08:00]]></content>
     </entry>
 </feed>
