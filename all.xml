@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T02:29:19.006Z</updated>
+    <updated>2021-10-19T03:11:04.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 〈분장실〉 VER 2 추가좌석 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53340</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53340"/>
+        <updated>2021-10-19T03:11:01.350Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 강연 〈클래식 “희로애락”-하이든의 세 가지 비밀〉 with 홍승찬​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53339</id>
@@ -99,13 +106,6 @@
         <title type="html"><![CDATA[어린이 액션뮤지컬 <레이디버그> 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53323</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53323"/>
-        <updated>2021-10-17T01:55:40.803Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <슈퍼윙스> 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53322</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53322"/>
         <updated>2021-10-17T01:55:40.803Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
     </entry>
