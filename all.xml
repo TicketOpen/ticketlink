@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T06:12:30.120Z</updated>
+    <updated>2021-10-19T07:11:07.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 뮤직 페스티벌 폐막공연 <마스터즈시리즈: 박범훈 & 대구시립국악단> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53348</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53348"/>
+        <updated>2021-10-19T07:11:04.521Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 특별 초청공연 <이자람의 판소리: 노인과 바다> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53347</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53347"/>
+        <updated>2021-10-19T07:11:04.530Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 이승철 전국투어 콘서트 “우리, 이제 만나요” – 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53346</id>
@@ -89,24 +103,10 @@
         <content type="html"><![CDATA[2021.10.19(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 "드라마" - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 "드라마" - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53333</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53333"/>
         <updated>2021-10-18T03:10:49.859Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈메리셸리〉 추가​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53329</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53329"/>
-        <updated>2021-10-18T02:03:10.617Z</updated>
-        <content type="html"><![CDATA[2021.10.18(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 클래식 키즈 콘서트 - 포항​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53328</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53328"/>
-        <updated>2021-10-18T02:03:10.619Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
     </entry>
 </feed>
