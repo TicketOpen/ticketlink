@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-19T10:11:42.156Z</updated>
+    <updated>2021-10-19T11:09:17.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 힐링콘서트 - 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53366</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53366"/>
+        <updated>2021-10-19T11:09:14.567Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 현대적인 의상과 라이브연주가 함께하는 『상상(想像)-상상하는 우리춤』 - 삼척 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53365</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53365"/>
+        <updated>2021-10-19T11:09:14.568Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[댄스씨어터 창 <굿_마른오구> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53364</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53364"/>
+        <updated>2021-10-19T11:09:14.568Z</updated>
+        <content type="html"><![CDATA[2021.11.01(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getz/Gilberto Encore! 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53363</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53363"/>
+        <updated>2021-10-19T11:09:14.568Z</updated>
+        <content type="html"><![CDATA[2021.10.25(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(수원) 2021 가족뮤지컬 어린이캣 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53362</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53362"/>
+        <updated>2021-10-19T11:09:14.568Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(부천) 2021 가족뮤지컬 어린이캣 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53361</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53361"/>
+        <updated>2021-10-19T11:09:14.569Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(당진) 2021 가족뮤지컬 백설공주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53360</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53360"/>
+        <updated>2021-10-19T11:09:14.570Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제1회 무용비엔날레 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53359</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53359"/>
+        <updated>2021-10-19T11:09:14.571Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(계룡) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53358</id>
@@ -53,61 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53352"/>
         <updated>2021-10-19T08:12:55.950Z</updated>
         <content type="html"><![CDATA[2021.10.22(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53351</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53351"/>
-        <updated>2021-10-19T08:12:55.951Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 성남 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53350</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53350"/>
-        <updated>2021-10-19T08:12:55.954Z</updated>
-        <content type="html"><![CDATA[2021.10.25(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 국립발레단 <스페셜 발레 갈라> - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53349</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53349"/>
-        <updated>2021-10-19T08:12:55.954Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 뮤직 페스티벌 폐막공연 <마스터즈시리즈: 박범훈 & 대구시립국악단> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53348</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53348"/>
-        <updated>2021-10-19T07:11:04.521Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 특별 초청공연 <이자람의 판소리: 노인과 바다> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53347</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53347"/>
-        <updated>2021-10-19T07:11:04.530Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 이승철 전국투어 콘서트 “우리, 이제 만나요” – 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53346</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53346"/>
-        <updated>2021-10-19T05:09:43.470Z</updated>
-        <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 '서로의 서로' - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53344</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53344"/>
-        <updated>2021-10-19T05:09:43.472Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 적재 전국투어 '서로의 서로' - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53343</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53343"/>
-        <updated>2021-10-19T05:09:43.472Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 07:00]]></content>
     </entry>
 </feed>
