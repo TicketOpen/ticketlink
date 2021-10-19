@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T03:11:04.032Z</updated>
+    <updated>2021-10-19T04:13:38.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[2021, 멜로우키친의 Autumn Concert] 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53342</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53342"/>
+        <updated>2021-10-19T04:13:37.448Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별은 빛나건만: 오페라 & 크로스오버​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53341</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53341"/>
+        <updated>2021-10-19T04:13:37.448Z</updated>
+        <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈분장실〉 VER 2 추가좌석 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53340</id>
@@ -94,19 +108,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53325"/>
         <updated>2021-10-17T03:10:49.903Z</updated>
         <content type="html"><![CDATA[2021.10.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] DAC인문학극장 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53324</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53324"/>
-        <updated>2021-10-17T02:25:01.401Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 액션뮤지컬 <레이디버그> 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53323</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53323"/>
-        <updated>2021-10-17T01:55:40.803Z</updated>
-        <content type="html"><![CDATA[2021.10.19(화) 01:00]]></content>
     </entry>
 </feed>
