@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-20T01:59:35.584Z</updated>
+    <updated>2021-10-20T02:31:30.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53369"/>
         <updated>2021-10-20T01:59:32.880Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 창원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53368</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53368"/>
+        <updated>2021-10-20T02:31:27.773Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Ensemble M - 대구​​​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53355"/>
         <updated>2021-10-19T09:10:31.752Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53354</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53354"/>
-        <updated>2021-10-19T09:10:31.752Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 09:00]]></content>
     </entry>
 </feed>
