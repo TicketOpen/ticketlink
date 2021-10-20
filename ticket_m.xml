@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-20T00:35:28.543Z</updated>
+    <updated>2021-10-20T01:59:35.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 블랙스트링 10주년 콘서트 - Road of Oasis - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53369</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53369"/>
+        <updated>2021-10-20T01:59:32.880Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Ensemble M - 대구​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53367</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53367"/>
+        <updated>2021-10-20T01:59:32.882Z</updated>
+        <content type="html"><![CDATA[2021.10.20(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 힐링콘서트 - 대구​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53366</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53354"/>
         <updated>2021-10-19T09:10:31.752Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W필하모닉오케스트라 <그리그, 시벨리우스> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53353</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53353"/>
-        <updated>2021-10-19T09:10:31.753Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53352</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53352"/>
-        <updated>2021-10-19T08:12:55.950Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 06:00]]></content>
     </entry>
 </feed>
