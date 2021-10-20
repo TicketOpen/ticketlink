@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-20T04:12:58.735Z</updated>
+    <updated>2021-10-20T05:09:59.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 K-POP in Suncheon 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53371</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53371"/>
+        <updated>2021-10-20T05:09:58.388Z</updated>
+        <content type="html"><![CDATA[2021.10.25(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 루체심포니오케스트라 & 스페셜 토크 콘서트 - 안동 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53370</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53370"/>
+        <updated>2021-10-20T05:09:58.388Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 블랙스트링 10주년 콘서트 - Road of Oasis - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53369</id>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53357</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53357"/>
         <updated>2021-10-19T10:11:39.454Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 음악 창의도시 특별 교류 프로그램 〈작곡가의 밤〉 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53356</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53356"/>
-        <updated>2021-10-19T09:10:31.751Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유네스코 네트워크 국제협업 특별공연 〈김주홍과 노름마치 & MONGOLIA: 바람의 노래〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53355</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53355"/>
-        <updated>2021-10-19T09:10:31.752Z</updated>
         <content type="html"><![CDATA[2021.10.20(수) 01:00]]></content>
     </entry>
 </feed>
