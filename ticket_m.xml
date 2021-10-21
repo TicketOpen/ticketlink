@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-21T05:09:39.525Z</updated>
+    <updated>2021-10-21T06:12:26.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뷰티풀라이프 - 문화예술전용극장CT 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53379</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53379"/>
+        <updated>2021-10-21T06:12:23.640Z</updated>
+        <content type="html"><![CDATA[2021.10.22(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 양희경의 달콤한 클래식 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53378</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53364"/>
         <updated>2021-10-19T11:09:14.568Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getz/Gilberto Encore! 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53363</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53363"/>
-        <updated>2021-10-19T11:09:14.568Z</updated>
-        <content type="html"><![CDATA[2021.10.25(월) 01:00]]></content>
     </entry>
 </feed>
