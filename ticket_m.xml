@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-21T07:10:59.603Z</updated>
+    <updated>2021-10-21T08:12:50.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제359회 정기연주회, 마지막 유산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53380</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53380"/>
+        <updated>2021-10-21T08:12:47.457Z</updated>
+        <content type="html"><![CDATA[2021.10.21(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 뷰티풀라이프 - 문화예술전용극장CT 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53379</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53365"/>
         <updated>2021-10-19T11:09:14.568Z</updated>
         <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댄스씨어터 창 <굿_마른오구> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53364</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53364"/>
-        <updated>2021-10-19T11:09:14.568Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 01:00]]></content>
     </entry>
 </feed>
