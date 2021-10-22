@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-22T00:39:25.320Z</updated>
+    <updated>2021-10-22T02:05:51.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2021 디에이드의 첫 토크콘서트] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53384</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53384"/>
+        <updated>2021-10-22T02:05:48.694Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<아기돼지삼형제>  대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53383</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53383"/>
+        <updated>2021-10-22T02:05:48.696Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hi－L 1st Concert＿Halloween Town] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53382</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53382"/>
+        <updated>2021-10-22T02:05:48.697Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬<헤드윅> - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53381</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53381"/>
+        <updated>2021-10-22T02:05:48.698Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제359회 정기연주회, 마지막 유산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53380</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53369"/>
         <updated>2021-10-20T01:59:32.880Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 창원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53368</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53368"/>
-        <updated>2021-10-20T02:31:27.773Z</updated>
-        <content type="html"><![CDATA[2021.10.22(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Ensemble M - 대구​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53367</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53367"/>
-        <updated>2021-10-20T01:59:32.882Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 힐링콘서트 - 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53366</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53366"/>
-        <updated>2021-10-19T11:09:14.567Z</updated>
-        <content type="html"><![CDATA[2021.10.20(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 현대적인 의상과 라이브연주가 함께하는 『상상(想像)-상상하는 우리춤』 - 삼척 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53365</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53365"/>
-        <updated>2021-10-19T11:09:14.568Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
     </entry>
 </feed>
