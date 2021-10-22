@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-22T09:10:21.741Z</updated>
+    <updated>2021-10-22T10:11:30.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GAC 11시 음악산책 8 - 서울 챔버뮤직 소사이어티의 위로 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53386</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53386"/>
+        <updated>2021-10-22T10:11:29.093Z</updated>
+        <content type="html"><![CDATA[2021.10.24(일) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Night of Operatic Ensembl - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53385</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53371"/>
         <updated>2021-10-20T05:09:58.388Z</updated>
         <content type="html"><![CDATA[2021.10.25(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 루체심포니오케스트라 & 스페셜 토크 콘서트 - 안동 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53370</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53370"/>
-        <updated>2021-10-20T05:09:58.388Z</updated>
-        <content type="html"><![CDATA[2021.10.21(목) 01:00]]></content>
     </entry>
 </feed>
