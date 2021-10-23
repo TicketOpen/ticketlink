@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-23T07:10:36.191Z</updated>
+    <updated>2021-10-23T08:11:45.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이정원 플루트 독주회- 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53389</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53389"/>
+        <updated>2021-10-23T08:11:42.309Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북경반점 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53388</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53388"/>
+        <updated>2021-10-23T08:11:42.315Z</updated>
+        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 코리안뮤직, 한계를 넘다 / 신노이 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53387</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53374"/>
         <updated>2021-10-20T08:12:34.443Z</updated>
         <content type="html"><![CDATA[2021.10.21(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] DSAC 로컬 아티스트 프로젝트Ⅹ〈2021 가곡열전〉- 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53373</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53373"/>
-        <updated>2021-10-20T08:12:34.448Z</updated>
-        <content type="html"><![CDATA[2021.10.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 창작타악 프로젝트 「일로(一路);한가지 길」 - 대구  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53372</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53372"/>
-        <updated>2021-10-20T06:12:32.425Z</updated>
-        <content type="html"><![CDATA[2021.10.21(목) 01:00]]></content>
     </entry>
 </feed>
