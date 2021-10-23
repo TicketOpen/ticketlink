@@ -1,7 +1,18 @@
-[ticket_m]
+[notice]
+title = "티켓링크"
+url = "http://www.ticketlink.co.kr/help/notice"
+entrySelector = "tbody[id='nTableBody'] tr"
+titleSelector = "td.tl.p_reative > a"
+linkSelector = "td a"
+contentSelector = "td[class='open_info']"
+waitForSelector = ".basic_tbl"
+onFail = "stale"
+
+[notice_m]
 title = "티켓링크 모바일"
 url = "http://m.ticketlink.co.kr/help/notice"
-entrySelector = "#detail_content > li"
+entrySelector = "ul.detail_content li"
 titleSelector = "h3"
 linkSelector = "a"
 contentSelector = "a > dl > dd:nth-child(2)"
+onFail = "stale"
