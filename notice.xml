@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-25T03:11:09.656Z</updated>
+    <updated>2021-10-25T04:13:45.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53394</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53394"/>
+        <updated>2021-10-25T04:13:33.372Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53393</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53380"/>
         <updated>2021-10-23T18:06:43.546Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.21(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 뷰티풀라이프 - 문화예술전용극장CT 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53379</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53379"/>
-        <updated>2021-10-23T18:06:43.548Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.22(금) 00:00]]></content>
     </entry>
 </feed>
