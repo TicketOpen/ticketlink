@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-25T08:12:35.003Z</updated>
+    <updated>2021-10-25T09:11:13.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53397</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53397"/>
+        <updated>2021-10-25T09:11:12.549Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Remind Memory - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53396</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53383"/>
         <updated>2021-10-23T18:06:53.548Z</updated>
         <content type="html"><![CDATA[2021.10.26(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hi－L 1st Concert＿Halloween Town] 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53382</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53382"/>
-        <updated>2021-10-23T18:06:53.549Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 03:00]]></content>
     </entry>
 </feed>
