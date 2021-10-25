@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-25T10:12:13.425Z</updated>
+    <updated>2021-10-25T11:09:44.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 1차​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -108,110 +108,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53383"/>
         <updated>2021-10-23T18:06:43.541Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.26(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53397</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53397"/>
-        <updated>2021-10-25T09:11:12.549Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Remind Memory - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53396</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53396"/>
-        <updated>2021-10-25T07:11:04.805Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 첼로의 성가 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53395</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53395"/>
-        <updated>2021-10-25T05:10:07.585Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53394</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53394"/>
-        <updated>2021-10-25T04:13:42.880Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53393</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53393"/>
-        <updated>2021-10-24T02:26:09.638Z</updated>
-        <content type="html"><![CDATA[2021.10.25(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌버벌퍼포먼스 툴스 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53392</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53392"/>
-        <updated>2021-10-23T09:10:11.463Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] PENSION '누구나' - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53391</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53391"/>
-        <updated>2021-10-23T09:10:11.463Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 포항시립교향악단 제182회 정기연주회 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53390</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53390"/>
-        <updated>2021-10-23T09:10:11.466Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이정원 플루트 독주회- 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53389</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53389"/>
-        <updated>2021-10-23T08:11:42.309Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북경반점 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53388</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53388"/>
-        <updated>2021-10-23T08:11:42.315Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 코리안뮤직, 한계를 넘다 / 신노이 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53387</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53387"/>
-        <updated>2021-10-23T04:13:01.874Z</updated>
-        <content type="html"><![CDATA[2021.10.25(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] GAC 11시 음악산책 8 - 서울 챔버뮤직 소사이어티의 위로 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53386</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53386"/>
-        <updated>2021-10-22T10:11:29.093Z</updated>
-        <content type="html"><![CDATA[2021.10.24(일) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Night of Operatic Ensembl - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53385</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53385"/>
-        <updated>2021-10-22T06:12:33.759Z</updated>
-        <content type="html"><![CDATA[2021.10.25(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021 디에이드의 첫 토크콘서트] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53384</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53384"/>
-        <updated>2021-10-22T02:05:48.694Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<아기돼지삼형제>  대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53383</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53383"/>
-        <updated>2021-10-22T02:05:48.696Z</updated>
-        <content type="html"><![CDATA[2021.10.26(화) 01:00]]></content>
     </entry>
 </feed>
