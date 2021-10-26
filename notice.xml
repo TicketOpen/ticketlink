@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-26T00:32:56.177Z</updated>
+    <updated>2021-10-26T01:52:15.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셰익스피어의 로맨틱 코미디 연극 <십이야> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53399</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53399"/>
+        <updated>2021-10-26T01:52:04.909Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.02(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 1차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53397</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53384"/>
         <updated>2021-10-23T18:06:43.536Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.26(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<아기돼지삼형제>  대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53383</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53383"/>
-        <updated>2021-10-23T18:06:43.541Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.26(화) 01:00]]></content>
     </entry>
 </feed>
