@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-26T11:09:24.765Z</updated>
+    <updated>2021-10-26T12:16:20.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2021 SBS Super 콘서트 in 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53409</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53409"/>
-        <updated>2021-10-26T06:12:24.418Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(인천서구) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53408</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53408"/>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53404"/>
         <updated>2021-10-26T05:09:22.216Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(내포,홍성) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53403</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53403"/>
+        <updated>2021-10-26T12:16:07.622Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
     </entry>
 </feed>
