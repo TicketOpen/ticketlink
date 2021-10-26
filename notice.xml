@@ -2,18 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-26T05:09:33.958Z</updated>
+    <updated>2021-10-26T06:12:33.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[2021 이승철 전국투어 콘서트  "우리, 이제 만나요" - 서울]]></title>
+        <title type="html"><![CDATA[(당진) 2021 베스트셀러뮤지컬 “누가 내머리에 똥쌌어” 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53410</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53410"/>
+        <updated>2021-10-26T06:12:24.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2021 SBS Super 콘서트 in 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53409</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53409"/>
+        <updated>2021-10-26T06:12:24.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(인천서구) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53408</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53408"/>
+        <updated>2021-10-26T06:12:24.422Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [부산] 2021 이승철 전국투어 콘서트 “우리, 이제 만나요”  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53407</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53407"/>
+        <updated>2021-10-26T06:12:24.423Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [대구] 2021 이승철 전국투어 콘서트  "우리, 이제 만나요" 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53406</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53406"/>
+        <updated>2021-10-26T06:12:24.424Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [서울] 2021 이승철 전국투어 콘서트  "우리, 이제 만나요" 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53405</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53405"/>
         <updated>2021-10-26T05:09:22.216Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 이승철 전국투어 콘서트 “우리, 이제 만나요” – 광주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] [광주] 2021 이승철 전국투어 콘서트]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53404</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53404"/>
         <updated>2021-10-26T05:09:22.216Z</updated>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53396"/>
         <updated>2021-10-25T07:10:56.877Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.02(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 첼로의 성가 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53395</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53395"/>
-        <updated>2021-10-25T05:09:58.757Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53394</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53394"/>
-        <updated>2021-10-25T04:13:33.372Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53393</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53393"/>
-        <updated>2021-10-24T02:25:59.725Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.25(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌버벌퍼포먼스 툴스 - 서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53392</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53392"/>
-        <updated>2021-10-23T18:06:43.524Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] PENSION '누구나' - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53391</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53391"/>
-        <updated>2021-10-23T18:06:43.524Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.26(화) 05:00]]></content>
     </entry>
 </feed>
