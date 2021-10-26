@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-26T06:12:33.776Z</updated>
+    <updated>2021-10-26T07:11:04.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈작은아씨들〉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53411</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53411"/>
+        <updated>2021-10-26T07:11:01.866Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(당진) 2021 베스트셀러뮤지컬 “누가 내머리에 똥쌌어” 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53410</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53397"/>
         <updated>2021-10-25T12:16:26.340Z</updated>
         <content type="html"><![CDATA[2021.10.28(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Remind Memory - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53396</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53396"/>
-        <updated>2021-10-25T12:16:26.343Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 00:00]]></content>
     </entry>
 </feed>
