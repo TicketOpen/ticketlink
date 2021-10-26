@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-26T09:10:55.939Z</updated>
+    <updated>2021-10-26T10:11:42.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 광주​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53418</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53418"/>
+        <updated>2021-10-26T10:11:39.677Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클래식 동요뮤지컬〈꿈꾸는 쌩상〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53417</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53417"/>
+        <updated>2021-10-26T10:11:39.682Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[판타지액션 어린이뮤지컬] 더퀸 선덕여왕의 귀환 - 포항​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53416</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53416"/>
+        <updated>2021-10-26T10:11:39.683Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DSAC 시그니처Ⅲ 〈슈퍼 스테이지 김경호X조성모〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53415</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53415"/>
+        <updated>2021-10-26T10:11:39.684Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53414</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53414"/>
+        <updated>2021-10-26T10:11:39.686Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 시간을파는상점 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53413</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53404"/>
         <updated>2021-10-26T05:09:31.385Z</updated>
         <content type="html"><![CDATA[2021.10.28(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(내포,홍성) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53403</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53403"/>
-        <updated>2021-10-26T05:09:31.385Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립극단 제17회 정기공연 ‘나의 살던 고향‘ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53402</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53402"/>
-        <updated>2021-10-26T02:23:10.197Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53401</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53401"/>
-        <updated>2021-10-26T03:11:18.703Z</updated>
-        <content type="html"><![CDATA[2021.11.28(일) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 거제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53400</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53400"/>
-        <updated>2021-10-26T02:23:10.198Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셰익스피어의 로맨틱 코미디 연극 <십이야> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53399</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53399"/>
-        <updated>2021-10-26T01:52:15.053Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 01:00]]></content>
     </entry>
 </feed>
