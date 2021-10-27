@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T04:13:38.096Z</updated>
+    <updated>2021-10-27T05:10:04.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 첼리스트 드미트리 쿠조프의 하우스 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53421</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53421"/>
+        <updated>2021-10-27T05:09:53.381Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈호두까기 인형〉- 구미 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53419</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [서울] 2021 이승철 전국투어 콘서트  “우리, 이제 만나요” ​ 티켓오픈 안​내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53405</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53405"/>
-        <updated>2021-10-26T05:09:22.216Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 첼리스트 드미트리 쿠조프의 하우스 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53421</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53421"/>
+        <updated>2021-10-27T05:10:01.923Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈호두까기 인형〉- 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53406"/>
         <updated>2021-10-26T06:12:33.078Z</updated>
         <content type="html"><![CDATA[2021.10.28(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [서울] 2021 이승철 전국투어 콘서트  “우리, 이제 만나요” ​ 티켓오픈 안​내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53405</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53405"/>
-        <updated>2021-10-26T05:09:31.382Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 05:00]]></content>
     </entry>
 </feed>
