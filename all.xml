@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T08:12:42.063Z</updated>
+    <updated>2021-10-27T09:10:59.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[〈표트르 안데르제프스키〉피아노 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53424</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53424"/>
+        <updated>2021-10-27T09:10:48.556Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​3차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53423</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53423"/>
+        <updated>2021-10-27T09:10:48.557Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53422</id>
@@ -17,6 +31,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53421"/>
         <updated>2021-10-27T05:09:53.381Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립발레단 꿈나무 교실 갈라 〈Fly Higher with KNB〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53420</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53420"/>
+        <updated>2021-10-27T09:10:48.587Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈호두까기 인형〉- 구미 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2021 SBS Super 콘서트 in 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53409</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53409"/>
-        <updated>2021-10-26T23:10:50.768Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
+        <title type="html"><![CDATA[〈표트르 안데르제프스키〉피아노 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53424</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53424"/>
+        <updated>2021-10-27T09:10:58.336Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(인천서구) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53408</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53408"/>
-        <updated>2021-10-26T06:12:24.422Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [부산] 2021 이승철 전국투어 콘서트 “우리, 이제 만나요”  티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53407</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53407"/>
-        <updated>2021-10-26T06:12:24.423Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 04:00]]></content>
+        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53423</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53423"/>
+        <updated>2021-10-27T09:10:58.337Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +136,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53421"/>
         <updated>2021-10-27T05:10:01.923Z</updated>
         <content type="html"><![CDATA[2021.10.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립발레단 꿈나무 교실 갈라 〈Fly Higher with KNB〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53420</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53420"/>
+        <updated>2021-10-27T09:10:58.340Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈호두까기 인형〉- 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53410"/>
         <updated>2021-10-26T06:12:33.072Z</updated>
         <content type="html"><![CDATA[2021.10.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2021 SBS Super 콘서트 in 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53409</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53409"/>
-        <updated>2021-10-26T23:10:58.779Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(인천서구) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53408</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53408"/>
-        <updated>2021-10-26T06:12:33.076Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [부산] 2021 이승철 전국투어 콘서트 “우리, 이제 만나요”  티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53407</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53407"/>
-        <updated>2021-10-26T06:12:33.077Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 04:00]]></content>
     </entry>
 </feed>
