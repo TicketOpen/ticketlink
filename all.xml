@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-27T15:11:34.830Z</updated>
+    <updated>2021-10-27T16:15:11.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 거제​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -108,5 +108,110 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53412"/>
         <updated>2021-10-26T08:12:59.824Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.27(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 거제​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53426</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53426"/>
+        <updated>2021-10-27T16:15:11.091Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 한예술단의 전통춤 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53425</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53425"/>
+        <updated>2021-10-27T16:15:11.092Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈표트르 안데르제프스키〉피아노 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53424</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53424"/>
+        <updated>2021-10-27T16:15:11.097Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53423</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53423"/>
+        <updated>2021-10-27T16:15:11.100Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53422</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53422"/>
+        <updated>2021-10-27T16:15:11.104Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 첼리스트 드미트리 쿠조프의 하우스 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53421</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53421"/>
+        <updated>2021-10-27T16:15:11.107Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립발레단 꿈나무 교실 갈라 〈Fly Higher with KNB〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53420</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53420"/>
+        <updated>2021-10-27T16:15:11.109Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈호두까기 인형〉- 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53419</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53419"/>
+        <updated>2021-10-27T16:15:11.111Z</updated>
+        <content type="html"><![CDATA[2021.10.28(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 광주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53418</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53418"/>
+        <updated>2021-10-27T16:15:11.113Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클래식 동요뮤지컬〈꿈꾸는 쌩상〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53417</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53417"/>
+        <updated>2021-10-27T16:15:11.120Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[판타지액션 어린이뮤지컬] 더퀸 선덕여왕의 귀환 - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53416</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53416"/>
+        <updated>2021-10-27T16:15:11.121Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DSAC 시그니처Ⅲ 〈슈퍼 스테이지 김경호X조성모〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53415</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53415"/>
+        <updated>2021-10-27T16:15:11.121Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53414</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53414"/>
+        <updated>2021-10-27T16:15:11.122Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 시간을파는상점 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53413</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53413"/>
+        <updated>2021-10-27T16:15:11.125Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2021, 윤형렬의 가을무대] 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53412</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53412"/>
+        <updated>2021-10-27T16:15:11.125Z</updated>
+        <content type="html"><![CDATA[2021.10.27(수) 03:00]]></content>
     </entry>
 </feed>
