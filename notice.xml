@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-28T05:10:55.530Z</updated>
+    <updated>2021-10-28T06:12:56.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[별은 빛나건만 : 오페라 & 크로스오버 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53427</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53427"/>
+        <updated>2021-10-28T06:12:44.279Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.29(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 거제​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53426</id>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[〈표트르 안데르제프스키〉피아노 리사이틀 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53424</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53424"/>
-        <updated>2021-10-27T09:10:48.556Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 02:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​3차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53423</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53423"/>
@@ -34,7 +34,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53422</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53422"/>
         <updated>2021-10-27T07:10:45.427Z</updated>
