@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-29T06:13:09.681Z</updated>
+    <updated>2021-10-29T07:11:04.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53439</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53439"/>
+        <updated>2021-10-29T07:11:02.117Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문지영 피아노 리사이틀 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53438</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53438"/>
+        <updated>2021-10-29T07:11:02.119Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <엑스칼리버> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53437</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53425"/>
         <updated>2021-10-27T16:15:11.092Z</updated>
         <content type="html"><![CDATA[2021.10.28(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​3차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53423</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53423"/>
-        <updated>2021-10-27T16:15:11.100Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53422</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53422"/>
-        <updated>2021-10-27T16:15:11.104Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 08:00]]></content>
     </entry>
 </feed>

@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-29T06:13:09.682Z</updated>
+    <updated>2021-10-29T07:11:04.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53439</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53439"/>
+        <updated>2021-10-29T07:10:52.730Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문지영 피아노 리사이틀 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53438</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53438"/>
+        <updated>2021-10-29T07:10:52.733Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <엑스칼리버> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53437</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​3차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53423</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53423"/>
-        <updated>2021-10-27T09:10:48.557Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 09:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown) (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53439</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53439"/>
+        <updated>2021-10-29T07:11:02.117Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53422</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53422"/>
-        <updated>2021-10-27T07:10:45.427Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 문지영 피아노 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53438</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53438"/>
+        <updated>2021-10-29T07:11:02.119Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <엑스칼리버> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53425"/>
         <updated>2021-10-27T16:15:11.092Z</updated>
         <content type="html"><![CDATA[2021.10.28(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53423</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53423"/>
-        <updated>2021-10-27T16:15:11.100Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅶ, 영국 음악여행 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53422</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53422"/>
-        <updated>2021-10-27T16:15:11.104Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 08:00]]></content>
     </entry>
 </feed>
