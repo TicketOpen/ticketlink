@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-29T08:12:59.354Z</updated>
+    <updated>2021-10-29T09:11:02.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더데빌> 1차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53441</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53441"/>
+        <updated>2021-10-29T09:10:49.044Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Now and Then : 다미로 10주년 콘서트 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53440</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.29(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 거제​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53426</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53426"/>
-        <updated>2021-10-27T12:16:35.559Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.28(목) 02:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <더데빌> 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53441</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53441"/>
+        <updated>2021-10-29T09:10:59.722Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Now and Then : 다미로 10주년 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53427"/>
         <updated>2021-10-28T05:10:52.889Z</updated>
         <content type="html"><![CDATA[2021.10.29(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 거제​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53426</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53426"/>
-        <updated>2021-10-27T16:15:11.091Z</updated>
-        <content type="html"><![CDATA[2021.10.28(목) 02:00]]></content>
     </entry>
 </feed>
