@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-29T00:32:27.977Z</updated>
+    <updated>2021-10-29T01:52:10.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉-경기 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53433</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53433"/>
+        <updated>2021-10-29T01:52:07.531Z</updated>
+        <content type="html"><![CDATA[2021.11.03(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－춘천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53432</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53432"/>
+        <updated>2021-10-29T01:52:07.531Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장 - 경기 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53431</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53431"/>
+        <updated>2021-10-29T01:52:07.533Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53430</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53430"/>
+        <updated>2021-10-29T01:52:07.534Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[판타지액션 어린이뮤지컬] 더퀸 선덕여왕의 귀환 - 안산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53429</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53418"/>
         <updated>2021-10-27T16:15:11.113Z</updated>
         <content type="html"><![CDATA[2021.10.27(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식 동요뮤지컬〈꿈꾸는 쌩상〉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53417</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53417"/>
-        <updated>2021-10-27T16:15:11.120Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[판타지액션 어린이뮤지컬] 더퀸 선덕여왕의 귀환 - 포항​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53416</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53416"/>
-        <updated>2021-10-27T16:15:11.121Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] DSAC 시그니처Ⅲ 〈슈퍼 스테이지 김경호X조성모〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53415</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53415"/>
-        <updated>2021-10-27T16:15:11.121Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈​2021 SOMEDAY THEATRE LAST CANTABILE〉​ ​2차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53414</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53414"/>
-        <updated>2021-10-27T16:15:11.122Z</updated>
-        <content type="html"><![CDATA[2021.10.27(수) 09:00]]></content>
     </entry>
 </feed>
