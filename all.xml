@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-30T00:32:47.231Z</updated>
+    <updated>2021-10-30T01:51:27.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 지금까지 빅타이거 그룹 이었습니다 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53442</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53442"/>
+        <updated>2021-10-30T01:51:15.314Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.02(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <더데빌> 1차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53441</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.29(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별은 빛나건만 : 오페라 & 크로스오버 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53427</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53427"/>
-        <updated>2021-10-28T06:12:44.279Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.29(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 지금까지 빅타이거 그룹 이었습니다 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53442</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53442"/>
+        <updated>2021-10-30T01:51:26.393Z</updated>
+        <content type="html"><![CDATA[2021.11.02(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <더데빌> 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53428"/>
         <updated>2021-10-28T07:11:07.148Z</updated>
         <content type="html"><![CDATA[2021.10.29(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별은 빛나건만 : 오페라 & 크로스오버 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53427</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53427"/>
-        <updated>2021-10-28T05:10:52.889Z</updated>
-        <content type="html"><![CDATA[2021.10.29(금) 05:00]]></content>
     </entry>
 </feed>
