@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-10-30T02:24:40.418Z</updated>
+    <updated>2021-10-30T03:11:28.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 판소리 완창 시리즈: 석지연의 판소리 완창 - 만정제 심청가 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53443</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53443"/>
+        <updated>2021-10-30T03:11:18.544Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.02(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 지금까지 빅타이거 그룹 이었습니다 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53442</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53429"/>
         <updated>2021-10-28T08:12:18.648Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.10.29(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <솜> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53428</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53428"/>
-        <updated>2021-10-28T07:10:57.848Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.10.29(금) 01:00]]></content>
     </entry>
 </feed>
