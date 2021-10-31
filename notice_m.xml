@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-10-31T08:12:08.783Z</updated>
+    <updated>2021-10-31T09:10:32.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영어놀이 뮤지컬〈헬로캐리〉- 평택/대전/청주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53447</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53447"/>
+        <updated>2021-10-31T09:10:31.415Z</updated>
+        <content type="html"><![CDATA[2021.11.01(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 크리스마스 캐롤 - 안성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53446</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53433"/>
         <updated>2021-10-29T01:52:07.531Z</updated>
         <content type="html"><![CDATA[2021.11.03(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－춘천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53432</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53432"/>
-        <updated>2021-10-29T01:52:07.531Z</updated>
-        <content type="html"><![CDATA[2021.11.02(화) 02:00]]></content>
     </entry>
 </feed>
