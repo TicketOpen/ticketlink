@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-01T04:13:37.516Z</updated>
+    <updated>2021-11-01T05:10:35.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53449"/>
         <updated>2021-11-01T04:13:36.766Z</updated>
         <content type="html"><![CDATA[2021.11.04(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASL 시즌 12 결승전​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53448</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53448"/>
+        <updated>2021-11-01T05:10:34.370Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영어놀이 뮤지컬〈헬로캐리〉- 평택/대전/청주 티켓오픈 안내]]></title>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[단독판매] 2021 클래식 영 아티스트 콘서트 - 안동 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53436</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53436"/>
-        <updated>2021-10-29T04:13:33.102Z</updated>
-        <content type="html"><![CDATA[2021.11.01(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이인관 팝밴드와 함께하는 희망나눔 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53435</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53435"/>
         <updated>2021-10-29T04:13:33.102Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 01:00]]></content>
     </entry>
