@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-01T03:11:16.896Z</updated>
+    <updated>2021-11-01T04:13:37.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(강북) 2021 가족뮤지컬 겨울이야기​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53450</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53450"/>
+        <updated>2021-11-01T04:13:36.760Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53449</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53449"/>
+        <updated>2021-11-01T04:13:36.766Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영어놀이 뮤지컬〈헬로캐리〉- 평택/대전/청주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53447</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53435"/>
         <updated>2021-10-29T04:13:33.102Z</updated>
         <content type="html"><![CDATA[2021.11.01(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 비발디&피아졸라 “팔계”-광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53434</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53434"/>
-        <updated>2021-10-29T03:11:22.011Z</updated>
-        <content type="html"><![CDATA[2021.10.29(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉-경기 부천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53433</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53433"/>
-        <updated>2021-10-29T01:52:07.531Z</updated>
-        <content type="html"><![CDATA[2021.11.03(수) 00:00]]></content>
     </entry>
 </feed>
