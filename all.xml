@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-02T01:56:48.738Z</updated>
+    <updated>2021-11-02T02:28:19.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <개와 고양이의 시간> 마지막 티켓 오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53454</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53454"/>
+        <updated>2021-11-02T02:28:07.428Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짙은 콘서트 [짙은, 겨울]-Winter Festa 2021​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53453</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.02(화) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53439</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53439"/>
-        <updated>2021-10-29T07:10:52.730Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <개와 고양이의 시간> 마지막 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53454</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53454"/>
+        <updated>2021-11-02T02:28:16.527Z</updated>
+        <content type="html"><![CDATA[2021.11.10(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[짙은 콘서트 [짙은, 겨울]-Winter Festa 2021​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53440"/>
         <updated>2021-10-29T08:12:56.689Z</updated>
         <content type="html"><![CDATA[2021.11.02(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 12월 연말 시즌 티켓 오픈! (Musical Hadestown) (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53439</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53439"/>
-        <updated>2021-10-29T07:11:02.117Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
     </entry>
 </feed>
