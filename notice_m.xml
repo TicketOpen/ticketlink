@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-03T03:11:37.952Z</updated>
+    <updated>2021-11-03T04:13:15.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53465"/>
         <updated>2021-11-03T03:11:37.285Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53464</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53464"/>
+        <updated>2021-11-03T04:13:14.458Z</updated>
+        <content type="html"><![CDATA[2021.11.10(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 리트플레이 겨울 나그네 - 대구 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53450</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53450"/>
         <updated>2021-11-01T04:13:36.760Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53449</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53449"/>
-        <updated>2021-11-01T04:13:36.766Z</updated>
         <content type="html"><![CDATA[2021.11.04(목) 02:00]]></content>
     </entry>
 </feed>
