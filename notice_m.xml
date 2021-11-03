@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-03T04:13:15.111Z</updated>
+    <updated>2021-11-03T05:09:34.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/53464</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53464"/>
         <updated>2021-11-03T04:13:14.458Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 01:00]]></content>
+        <content type="html"><![CDATA[2021.11.10(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 리트플레이 겨울 나그네 - 대구 티켓오픈 안내]]></title>
