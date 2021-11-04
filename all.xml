@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-03T23:10:54.362Z</updated>
+    <updated>2021-11-04T00:34:49.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53472</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53472"/>
+        <updated>2021-11-04T00:34:37.434Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마까투리 먹구렁이와 생일파티 - 경기 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53471</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53471"/>
+        <updated>2021-11-04T00:34:37.435Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 강원도립극단 <안티고네> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53470</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53470"/>
+        <updated>2021-11-04T00:34:37.435Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아카펠라와 함께하는 연극 - 굿모닝 산타 (안동) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53469</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53469"/>
+        <updated>2021-11-04T00:34:37.438Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.04(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(인천서구,청라) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53467</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.04(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53456</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53456"/>
-        <updated>2021-11-02T09:10:42.296Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.03(수) 02:00]]></content>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53472</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53472"/>
+        <updated>2021-11-04T00:34:46.701Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 리트플레이 - 겨울나그네 (안동) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53455</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53455"/>
-        <updated>2021-11-02T08:13:01.128Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.04(목) 01:00]]></content>
+        <title type="html"><![CDATA[엄마까투리 먹구렁이와 생일파티 - 경기 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53471</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53471"/>
+        <updated>2021-11-04T00:34:46.701Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <개와 고양이의 시간> 마지막 티켓 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53454</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53454"/>
-        <updated>2021-11-02T02:28:07.428Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 강원도립극단 <안티고네> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53470</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53470"/>
+        <updated>2021-11-04T00:34:46.701Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짙은 콘서트 [짙은, 겨울]-Winter Festa 2021​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53453</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53453"/>
-        <updated>2021-11-01T09:11:37.116Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.04(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 아카펠라와 함께하는 연극 - 굿모닝 산타 (안동) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53469</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53469"/>
+        <updated>2021-11-04T00:34:46.701Z</updated>
+        <content type="html"><![CDATA[2021.11.04(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(인천서구,청라) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -184,34 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53457</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53457"/>
         <updated>2021-11-02T09:10:50.517Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53456</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53456"/>
-        <updated>2021-11-02T09:10:50.517Z</updated>
-        <content type="html"><![CDATA[2021.11.03(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 리트플레이 - 겨울나그네 (안동) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53455</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53455"/>
-        <updated>2021-11-02T08:13:11.440Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <개와 고양이의 시간> 마지막 티켓 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53454</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53454"/>
-        <updated>2021-11-02T02:28:16.527Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짙은 콘서트 [짙은, 겨울]-Winter Festa 2021​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53453</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53453"/>
-        <updated>2021-11-01T09:11:46.451Z</updated>
         <content type="html"><![CDATA[2021.11.04(목) 05:00]]></content>
     </entry>
 </feed>
