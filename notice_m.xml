@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-04T00:34:49.336Z</updated>
+    <updated>2021-11-04T01:55:49.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유리상자 콘서트 - 구미 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53474</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53474"/>
+        <updated>2021-11-04T01:55:48.500Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유리상자 콘서트 - 안산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53473</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53473"/>
+        <updated>2021-11-04T01:55:48.500Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53472</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53459"/>
         <updated>2021-11-02T23:10:57.110Z</updated>
         <content type="html"><![CDATA[2021.11.04(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 그남자그여자 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53458</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53458"/>
-        <updated>2021-11-02T11:09:26.552Z</updated>
-        <content type="html"><![CDATA[2021.11.03(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 댄싱뮤지엄 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53457</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53457"/>
-        <updated>2021-11-02T09:10:50.517Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 05:00]]></content>
     </entry>
 </feed>
