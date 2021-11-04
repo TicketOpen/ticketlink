@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-04T07:11:20.473Z</updated>
+    <updated>2021-11-04T08:12:31.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53484</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53484"/>
+        <updated>2021-11-04T08:12:19.413Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 체험전 〈힐링매직쇼〉 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53483</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53483"/>
+        <updated>2021-11-04T08:12:19.415Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 심수봉 전국투어콘서트 - 익산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53482</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53482"/>
+        <updated>2021-11-04T08:12:19.415Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이머시브 씨어터 <그래비티 스페이스> - 경주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53481</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53481"/>
+        <updated>2021-11-04T08:12:19.416Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈어린왕자〉 - 원주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53480</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 아카펠라와 함께하는 연극 - 굿모닝 산타 (안동) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53469</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53469"/>
-        <updated>2021-11-04T00:34:37.438Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.04(목) 01:00]]></content>
+        <title type="html"><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53484</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53484"/>
+        <updated>2021-11-04T08:12:29.225Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(인천서구,청라) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53467</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53467"/>
-        <updated>2021-11-03T08:13:07.327Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 00:00]]></content>
+        <title type="html"><![CDATA[어린이 체험전 〈힐링매직쇼〉 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53483</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53483"/>
+        <updated>2021-11-04T08:12:29.225Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 수시공연 ‘송년 국악한마당’ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53466</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53466"/>
-        <updated>2021-11-03T07:11:33.013Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content>
+        <title type="html"><![CDATA[2021 심수봉 전국투어콘서트 - 익산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53482</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53482"/>
+        <updated>2021-11-04T08:12:29.227Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 전유진의 첫번째 팬미팅  아주 특별한 우리들만의 시간... 선물 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53465</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53465"/>
-        <updated>2021-11-03T03:11:26.412Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 이머시브 씨어터 <그래비티 스페이스> - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53481</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53481"/>
+        <updated>2021-11-04T08:12:29.227Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈어린왕자〉 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53470"/>
         <updated>2021-11-04T00:34:46.701Z</updated>
         <content type="html"><![CDATA[2021.11.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아카펠라와 함께하는 연극 - 굿모닝 산타 (안동) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53469</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53469"/>
-        <updated>2021-11-04T00:34:46.701Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(인천서구,청라) 2021 가족뮤지컬 호두까기인형 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53467</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53467"/>
-        <updated>2021-11-03T08:13:17.078Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 수시공연 ‘송년 국악한마당’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53466</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53466"/>
-        <updated>2021-11-03T07:11:41.321Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 전유진의 첫번째 팬미팅  아주 특별한 우리들만의 시간... 선물 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53465</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53465"/>
-        <updated>2021-11-03T03:11:37.285Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
     </entry>
 </feed>
