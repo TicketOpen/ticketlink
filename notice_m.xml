@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-04T08:12:31.898Z</updated>
+    <updated>2021-11-04T09:11:21.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루돌프와 산타할아버지 - 경기 파주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53487</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53487"/>
+        <updated>2021-11-04T09:11:20.863Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 심수봉 전국투어콘서트 - 포항 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53486</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53486"/>
+        <updated>2021-11-04T09:11:20.867Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테너 김동녘 독창회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53485</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53485"/>
+        <updated>2021-11-04T09:11:20.874Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53484</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53473"/>
         <updated>2021-11-04T01:55:48.500Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53472</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53472"/>
-        <updated>2021-11-04T00:34:46.701Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마까투리 먹구렁이와 생일파티 - 경기 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53471</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53471"/>
-        <updated>2021-11-04T00:34:46.701Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 강원도립극단 <안티고네> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53470</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53470"/>
-        <updated>2021-11-04T00:34:46.701Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 05:00]]></content>
     </entry>
 </feed>
