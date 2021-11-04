@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-04T05:09:55.422Z</updated>
+    <updated>2021-11-04T06:12:41.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈어린왕자〉 - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53480</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53480"/>
+        <updated>2021-11-04T06:12:41.149Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 용인 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53479</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53479"/>
+        <updated>2021-11-04T06:12:41.149Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​개와 고양이의 시간〉추가 좌석 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53478</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53478"/>
+        <updated>2021-11-04T06:12:41.149Z</updated>
+        <content type="html"><![CDATA[2021.11.05(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 장윤정 라이브 콘서트 – 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53477</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53465"/>
         <updated>2021-11-03T03:11:37.285Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53464</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53464"/>
-        <updated>2021-11-03T04:13:14.458Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 리트플레이 겨울 나그네 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53463</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53463"/>
-        <updated>2021-11-03T01:52:40.506Z</updated>
-        <content type="html"><![CDATA[2021.11.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 복사꽃 지면 송화 날리고 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53462</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53462"/>
-        <updated>2021-11-03T01:52:40.506Z</updated>
-        <content type="html"><![CDATA[2021.11.03(수) 05:00]]></content>
     </entry>
 </feed>
