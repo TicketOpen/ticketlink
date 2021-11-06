@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-06T04:13:21.015Z</updated>
+    <updated>2021-11-06T05:09:27.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53496</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53496"/>
+        <updated>2021-11-06T05:09:25.354Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53495</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53495"/>
+        <updated>2021-11-06T05:09:25.357Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 봉포유 렉처스테이지V <싱어스테이지 with 비아트리오> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53494</id>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53482</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53482"/>
         <updated>2021-11-04T08:12:29.227Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이머시브 씨어터 <그래비티 스페이스> - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53481</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53481"/>
-        <updated>2021-11-04T08:12:29.227Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈어린왕자〉 - 원주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53480</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53480"/>
-        <updated>2021-11-04T06:12:41.149Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
     </entry>
 </feed>
