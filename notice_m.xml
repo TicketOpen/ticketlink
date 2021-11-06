@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-06T05:09:27.877Z</updated>
+    <updated>2021-11-06T06:12:56.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립국악단 제203회 정기연주회 <세밑공연> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53497</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53497"/>
+        <updated>2021-11-06T06:12:53.768Z</updated>
+        <content type="html"><![CDATA[2021.11.08(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53496</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53483"/>
         <updated>2021-11-04T08:12:29.225Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 심수봉 전국투어콘서트 - 익산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53482</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53482"/>
-        <updated>2021-11-04T08:12:29.227Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 01:00]]></content>
     </entry>
 </feed>
