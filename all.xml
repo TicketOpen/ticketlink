@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-06T06:12:56.559Z</updated>
+    <updated>2021-11-06T07:10:37.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 개그쇼 개그쟁이 - 안동 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53499</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53499"/>
+        <updated>2021-11-06T07:10:27.578Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(인천) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53498</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53498"/>
+        <updated>2021-11-06T07:10:27.583Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구시립국악단 제203회 정기연주회 <세밑공연> 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53497</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53484</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53484"/>
-        <updated>2021-11-04T08:12:19.413Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 07:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 개그쇼 개그쟁이 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53499</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53499"/>
+        <updated>2021-11-06T07:10:36.593Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 체험전 〈힐링매직쇼〉 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53483</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53483"/>
-        <updated>2021-11-04T08:12:19.415Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 06:00]]></content>
+        <title type="html"><![CDATA[(인천) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53498</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53498"/>
+        <updated>2021-11-06T07:10:36.593Z</updated>
+        <content type="html"><![CDATA[2021.11.09(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구시립국악단 제203회 정기연주회 <세밑공연> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53485"/>
         <updated>2021-11-04T09:11:20.874Z</updated>
         <content type="html"><![CDATA[2021.11.05(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2022 대구 대백프라자) 가족뮤지컬 <백설공주> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53484</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53484"/>
-        <updated>2021-11-04T08:12:29.225Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 체험전 〈힐링매직쇼〉 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53483</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53483"/>
-        <updated>2021-11-04T08:12:29.225Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 06:00]]></content>
     </entry>
 </feed>
