@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-08T05:10:18.637Z</updated>
+    <updated>2021-11-08T06:13:24.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 울산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53505</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53505"/>
+        <updated>2021-11-08T06:13:21.570Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍대광 콘서트[우리가 다시 만난 날] 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53504</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53490"/>
         <updated>2021-11-05T07:11:21.894Z</updated>
         <content type="html"><![CDATA[2021.11.11(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동 판토리극〈배꼽잡는 슬로우〉- 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53489</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53489"/>
-        <updated>2021-11-05T02:26:23.579Z</updated>
-        <content type="html"><![CDATA[2021.11.05(금) 05:00]]></content>
     </entry>
 </feed>
