@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-07T23:10:56.235Z</updated>
+    <updated>2021-11-08T00:35:12.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -46,13 +46,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53496"/>
         <updated>2021-11-06T05:09:16.317Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53495</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53495"/>
-        <updated>2021-11-06T05:09:16.317Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 봉포유 렉처스테이지V <싱어스테이지 with 비아트리오> 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53487"/>
         <updated>2021-11-04T09:11:12.532Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 심수봉 전국투어콘서트 - 포항 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53486</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53486"/>
+        <updated>2021-11-08T00:35:01.974Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.05(금) 01:00]]></content>
     </entry>
 </feed>
