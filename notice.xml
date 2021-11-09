@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-09T04:13:33.396Z</updated>
+    <updated>2021-11-09T05:10:12.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오페라 속 '부부의 세계' - 안동 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53510</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53510"/>
+        <updated>2021-11-09T05:09:59.978Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 월곡 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53509</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53509"/>
+        <updated>2021-11-09T05:09:59.978Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  수성청소년오케스트라 제9회 정기연주회]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53508</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53508"/>
+        <updated>2021-11-09T05:09:59.978Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제이국악오케스트라 제2회 정기연주회 〈레거시 오브 제이〉 - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53507</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53496"/>
         <updated>2021-11-06T05:09:16.317Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 봉포유 렉처스테이지V <싱어스테이지 with 비아트리오> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53494</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53494"/>
-        <updated>2021-11-06T04:13:10.053Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 별이네 헤어살롱 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53493</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53493"/>
-        <updated>2021-11-06T03:11:11.503Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 강원도립극단 〈안티고네〉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53492</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53492"/>
-        <updated>2021-11-06T02:24:10.886Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 05:00]]></content>
     </entry>
 </feed>
