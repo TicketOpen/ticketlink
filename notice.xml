@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-09T06:13:04.693Z</updated>
+    <updated>2021-11-09T07:11:13.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 부평​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53513</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53513"/>
+        <updated>2021-11-09T07:11:03.778Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 유키구라모토 콘서트 <내일은 희망> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53512</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53512"/>
+        <updated>2021-11-09T07:11:03.778Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 포항시립연극단 제184회 정기공연 『무명,無名 』티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53511</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53499"/>
         <updated>2021-11-06T07:10:27.578Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(인천) 2021 가족뮤지컬 겨울이야기 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53498</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53498"/>
-        <updated>2021-11-06T07:10:27.583Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구시립국악단 제203회 정기연주회 <세밑공연> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53497</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53497"/>
-        <updated>2021-11-06T06:12:45.074Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 05:00]]></content>
     </entry>
 </feed>
