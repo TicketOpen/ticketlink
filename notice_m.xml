@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-09T05:10:12.919Z</updated>
+    <updated>2021-11-09T06:13:04.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 포항시립연극단 제184회 정기공연 『무명,無名 』티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53511</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53511"/>
+        <updated>2021-11-09T06:13:02.301Z</updated>
+        <content type="html"><![CDATA[2021.11.10(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 오페라 속 '부부의 세계' - 안동 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53510</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53497"/>
         <updated>2021-11-06T06:12:53.768Z</updated>
         <content type="html"><![CDATA[2021.11.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53496</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53496"/>
-        <updated>2021-11-06T05:09:25.354Z</updated>
-        <content type="html"><![CDATA[2021.11.08(월) 00:00]]></content>
     </entry>
 </feed>
