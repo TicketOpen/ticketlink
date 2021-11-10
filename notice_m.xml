@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-10T01:53:27.500Z</updated>
+    <updated>2021-11-10T02:26:50.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ – 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53517</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53517"/>
+        <updated>2021-11-10T02:26:49.424Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 디톡스 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53516</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53503"/>
         <updated>2021-11-08T05:10:15.901Z</updated>
         <content type="html"><![CDATA[2021.11.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021년 송년음악회 - 삼척 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53502"/>
-        <updated>2021-11-08T03:11:32.283Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 05:00]]></content>
     </entry>
 </feed>
