@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-09T23:11:05.400Z</updated>
+    <updated>2021-11-10T00:34:37.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 디톡스 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53516</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53516"/>
+        <updated>2021-11-10T00:34:29.053Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼팽으로 만나는 겨울왕국 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53515</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53502"/>
         <updated>2021-11-08T03:11:24.101Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립극단 8회 정기공연 〈​아비〉​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53501</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53501"/>
-        <updated>2021-11-06T08:12:03.350Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.08(월) 03:00]]></content>
     </entry>
 </feed>
