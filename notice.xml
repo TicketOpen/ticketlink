@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-10T08:13:00.339Z</updated>
+    <updated>2021-11-10T09:11:30.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2021 롯데콘서트홀 송년음악회 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53522</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53522"/>
-        <updated>2021-11-10T08:12:51.878Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[W필하모닉오케스트라 '크리스마스 인 러시아' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53521</id>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53508"/>
         <updated>2021-11-09T05:09:59.978Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제이국악오케스트라 제2회 정기연주회 〈레거시 오브 제이〉 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53507</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53507"/>
+        <updated>2021-11-10T09:11:18.625Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 01:00]]></content>
     </entry>
 </feed>
