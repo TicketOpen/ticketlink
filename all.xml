@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-10T04:13:54.611Z</updated>
+    <updated>2021-11-10T05:10:08.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  세빌리야의 이발사 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53520</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53520"/>
+        <updated>2021-11-10T05:09:56.701Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.24(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블록버스터급 멘탈매직쇼 최현우 〈더 브레인〉 홀리데이 시즌 마지막 티켓오픈! (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53519</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53519"/>
+        <updated>2021-11-10T05:09:56.701Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립무용단 제80회 정기공연 〈I Tube〉 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53518</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53518"/>
+        <updated>2021-11-10T05:09:56.702Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.12(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ – 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53517</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53505</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53505"/>
-        <updated>2021-11-08T06:13:13.524Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.12(금) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  세빌리야의 이발사 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53520</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53520"/>
+        <updated>2021-11-10T05:10:05.658Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍대광 콘서트[우리가 다시 만난 날] 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53504</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53504"/>
-        <updated>2021-11-08T05:10:05.135Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
+        <title type="html"><![CDATA[블록버스터급 멘탈매직쇼 최현우 〈더 브레인〉 홀리데이 시즌 마지막 티켓오픈! (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53519</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53519"/>
+        <updated>2021-11-10T05:10:05.659Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53503</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53503"/>
-        <updated>2021-11-08T05:10:05.136Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.12(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 대구시립무용단 제80회 정기공연 〈I Tube〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53518</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53518"/>
+        <updated>2021-11-10T05:10:05.661Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ – 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53506"/>
         <updated>2021-11-08T10:12:03.969Z</updated>
         <content type="html"><![CDATA[2021.11.11(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53505</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53505"/>
-        <updated>2021-11-08T06:13:21.570Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍대광 콘서트[우리가 다시 만난 날] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53504</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53504"/>
-        <updated>2021-11-08T05:10:15.894Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53503</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53503"/>
-        <updated>2021-11-08T05:10:15.901Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 05:00]]></content>
     </entry>
 </feed>
