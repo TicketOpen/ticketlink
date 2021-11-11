@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-11T06:13:16.282Z</updated>
+    <updated>2021-11-11T07:11:11.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[별은 빛나건만: 오페라 & 크로스오버 (인천) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53528</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53528"/>
+        <updated>2021-11-11T07:11:09.155Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 국립합창단 〈헨델의 메시아〉 - 경주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53527</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53514"/>
         <updated>2021-11-09T08:13:07.559Z</updated>
         <content type="html"><![CDATA[2021.11.10(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 부평​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53513</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53513"/>
-        <updated>2021-11-09T07:11:12.512Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 00:00]]></content>
     </entry>
 </feed>
