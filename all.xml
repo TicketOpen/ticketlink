@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-11T00:34:22.517Z</updated>
+    <updated>2021-11-11T01:53:51.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 [최후의 남자] - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53525</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53525"/>
+        <updated>2021-11-11T01:53:42.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 유리상자 콘서트 - 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53524</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53524"/>
+        <updated>2021-11-11T01:53:42.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 월드 클래식 오페라 시리즈Ⅰ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53523</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53523"/>
         <updated>2021-11-10T10:12:04.666Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A World Tour with CM - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53522</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53522"/>
+        <updated>2021-11-11T01:53:42.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[W필하모닉오케스트라 '크리스마스 인 러시아' 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 오페라 속 '부부의 세계' - 안동 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53510</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53510"/>
-        <updated>2021-11-09T05:09:59.978Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
+        <title type="html"><![CDATA[연극 [최후의 남자] - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53525</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53525"/>
+        <updated>2021-11-11T01:53:50.520Z</updated>
+        <content type="html"><![CDATA[2021.11.11(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 월곡 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53509</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53509"/>
-        <updated>2021-11-09T05:09:59.978Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  수성청소년오케스트라 제9회 정기연주회 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53508</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53508"/>
-        <updated>2021-11-09T05:09:59.978Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.09(화) 07:00]]></content>
+        <title type="html"><![CDATA[2021 유리상자 콘서트 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53524</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53524"/>
+        <updated>2021-11-11T01:53:50.520Z</updated>
+        <content type="html"><![CDATA[2021.11.11(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 월드 클래식 오페라 시리즈Ⅰ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53523"/>
         <updated>2021-11-10T10:12:24.234Z</updated>
         <content type="html"><![CDATA[2021.11.11(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A World Tour with CM - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53522</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53522"/>
+        <updated>2021-11-11T01:53:50.523Z</updated>
+        <content type="html"><![CDATA[2021.11.11(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[W필하모닉오케스트라 '크리스마스 인 러시아' 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53511"/>
         <updated>2021-11-09T06:13:02.301Z</updated>
         <content type="html"><![CDATA[2021.11.10(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오페라 속 '부부의 세계' - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53510</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53510"/>
-        <updated>2021-11-09T05:10:10.427Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 월곡 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53509</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53509"/>
-        <updated>2021-11-09T05:10:10.430Z</updated>
-        <content type="html"><![CDATA[2021.11.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  수성청소년오케스트라 제9회 정기연주회 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53508</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53508"/>
-        <updated>2021-11-09T05:10:10.432Z</updated>
-        <content type="html"><![CDATA[2021.11.09(화) 07:00]]></content>
     </entry>
 </feed>
