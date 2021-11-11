@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-11T22:10:49.853Z</updated>
+    <updated>2021-11-11T23:11:21.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 ‘렛잇고2’ - 파주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53535</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53535"/>
+        <updated>2021-11-11T23:11:18.710Z</updated>
+        <content type="html"><![CDATA[2021.11.12(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(서귀포) 2021 송년가족뮤지컬 호두까기인형 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53534</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53521"/>
         <updated>2021-11-10T08:12:59.644Z</updated>
         <content type="html"><![CDATA[2021.11.11(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  세빌리야의 이발사 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53520</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53520"/>
-        <updated>2021-11-10T05:10:05.658Z</updated>
-        <content type="html"><![CDATA[2021.11.24(수) 00:00]]></content>
     </entry>
 </feed>
