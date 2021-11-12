@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-12T05:10:21.333Z</updated>
+    <updated>2021-11-12T06:13:22.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2021 어린이뮤지컬 <크리스마스 캐롤> - 인천(서구) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53545</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53545"/>
+        <updated>2021-11-12T06:13:11.512Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.16(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 첫 티켓 오픈- 크리스마스 시즌 오픈 안내! (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53544</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53544"/>
+        <updated>2021-11-12T06:13:11.515Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.16(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2021 솔지 첫 단독 콘서트 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53543</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 주현미 콘서트 - 창원​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53530</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53530"/>
-        <updated>2021-11-11T10:11:44.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content>
+        <title type="html"><![CDATA[2021 어린이뮤지컬 <크리스마스 캐롤> - 인천(서구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53545</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53545"/>
+        <updated>2021-11-12T06:13:20.068Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 김창옥토크콘서트 시즌 2- 전주​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53529</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53529"/>
-        <updated>2021-11-11T09:10:50.302Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.12(금) 08:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <썸씽로튼> 첫 티켓 오픈- 크리스마스 시즌 오픈 안내! (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53544</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53544"/>
+        <updated>2021-11-12T06:13:20.070Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2021 솔지 첫 단독 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53531"/>
         <updated>2021-11-11T10:11:53.506Z</updated>
         <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 주현미 콘서트 - 창원​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53530</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53530"/>
-        <updated>2021-11-11T10:11:53.506Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 김창옥토크콘서트 시즌 2- 전주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53529</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53529"/>
-        <updated>2021-11-11T09:10:59.783Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 08:00]]></content>
     </entry>
 </feed>
