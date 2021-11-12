@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-12T03:11:28.351Z</updated>
+    <updated>2021-11-12T04:13:31.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2021「가을음악회」티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53536</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53536"/>
+        <updated>2021-11-12T04:13:22.617Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.15(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 ‘렛잇고2’ - 파주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53535</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53522"/>
         <updated>2021-11-11T01:53:42.747Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W필하모닉오케스트라 '크리스마스 인 러시아' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53521</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53521"/>
-        <updated>2021-11-10T08:12:51.879Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 02:00]]></content>
     </entry>
 </feed>
