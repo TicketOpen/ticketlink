@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-12T04:13:31.138Z</updated>
+    <updated>2021-11-12T05:10:21.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2021 솔지 첫 단독 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53543</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53543"/>
+        <updated>2021-11-12T05:10:10.367Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] – 춘천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53542</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53542"/>
+        <updated>2021-11-12T05:10:10.367Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.15(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 삼성현 열린 가족콘서트 - 경산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53541</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53541"/>
+        <updated>2021-11-12T05:10:10.369Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.15(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53540</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53540"/>
+        <updated>2021-11-12T05:10:10.370Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53539</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53539"/>
+        <updated>2021-11-12T05:10:10.373Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53538</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53538"/>
+        <updated>2021-11-12T05:10:10.375Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립소년소녀합창단 제124회 정기연주회 -행복을 노래하다- 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53537</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53537"/>
+        <updated>2021-11-12T05:10:10.377Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.15(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2021「가을음악회」티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53536</id>
@@ -61,53 +110,53 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.12(금) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별은 빛나건만: 오페라 & 크로스오버 (인천) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53528</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53528"/>
-        <updated>2021-11-11T07:11:00.894Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.12(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]2021 솔지 첫 단독 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53543</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53543"/>
+        <updated>2021-11-12T05:10:19.023Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 국립합창단 〈헨델의 메시아〉 - 경주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53527</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53527"/>
-        <updated>2021-11-11T06:13:07.566Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.22(월) 01:00]]></content>
+        <title type="html"><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] – 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53542</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53542"/>
+        <updated>2021-11-12T05:10:19.023Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극〈환상동화〉​1차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53526</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53526"/>
-        <updated>2021-11-11T05:09:55.600Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.18(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 삼성현 열린 가족콘서트 - 경산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53541</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53541"/>
+        <updated>2021-11-12T05:10:19.023Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 [최후의 남자] - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53525</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53525"/>
-        <updated>2021-11-11T01:53:42.747Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53540</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53540"/>
+        <updated>2021-11-12T05:10:19.024Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 유리상자 콘서트 - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53524</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53524"/>
-        <updated>2021-11-11T01:53:42.747Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
+        <title type="html"><![CDATA[2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53539</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53539"/>
+        <updated>2021-11-12T05:10:19.024Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 월드 클래식 오페라 시리즈Ⅰ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53523</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53523"/>
-        <updated>2021-11-10T10:12:04.666Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53538</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53538"/>
+        <updated>2021-11-12T05:10:19.035Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A World Tour with CM - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53522</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53522"/>
-        <updated>2021-11-11T01:53:42.747Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.11(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 대구시립소년소녀합창단 제124회 정기연주회 -행복을 노래하다- 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53537</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53537"/>
+        <updated>2021-11-12T05:10:19.035Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2021「가을음악회」티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -164,54 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53529"/>
         <updated>2021-11-11T09:10:59.783Z</updated>
         <content type="html"><![CDATA[2021.11.12(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별은 빛나건만: 오페라 & 크로스오버 (인천) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53528</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53528"/>
-        <updated>2021-11-11T07:11:09.155Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 국립합창단 〈헨델의 메시아〉 - 경주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53527</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53527"/>
-        <updated>2021-11-11T06:13:15.561Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극〈환상동화〉​1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53526</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53526"/>
-        <updated>2021-11-11T05:10:03.480Z</updated>
-        <content type="html"><![CDATA[2021.11.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 [최후의 남자] - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53525</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53525"/>
-        <updated>2021-11-11T01:53:50.520Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 유리상자 콘서트 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53524</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53524"/>
-        <updated>2021-11-11T01:53:50.520Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 월드 클래식 오페라 시리즈Ⅰ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53523</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53523"/>
-        <updated>2021-11-10T10:12:24.234Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A World Tour with CM - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53522</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53522"/>
-        <updated>2021-11-11T01:53:50.523Z</updated>
-        <content type="html"><![CDATA[2021.11.11(목) 05:00]]></content>
     </entry>
 </feed>
