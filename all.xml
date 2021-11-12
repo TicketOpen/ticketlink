@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-12T06:13:22.744Z</updated>
+    <updated>2021-11-12T07:11:16.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이탈리아와 프랑스 오페라 이야기 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53547</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53547"/>
+        <updated>2021-11-12T07:11:07.278Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.16(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 울산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53546</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53546"/>
+        <updated>2021-11-12T07:11:07.280Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 어린이뮤지컬 <크리스마스 캐롤> - 인천(서구) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53545</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.15(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이가족뮤지컬 〈​신데렐라〉​ - 제주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53532</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53532"/>
-        <updated>2021-11-11T10:11:44.287Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.16(화) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 이탈리아와 프랑스 오페라 이야기 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53547</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53547"/>
+        <updated>2021-11-12T07:11:16.126Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 김창옥 토크콘서트 시즌2 - 창원​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53531</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53531"/>
-        <updated>2021-11-11T10:11:44.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content>
+        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53546</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53546"/>
+        <updated>2021-11-12T07:11:16.127Z</updated>
+        <content type="html"><![CDATA[2021.11.17(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 어린이뮤지컬 <크리스마스 캐롤> - 인천(서구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53533"/>
         <updated>2021-11-11T10:11:53.505Z</updated>
         <content type="html"><![CDATA[2021.11.15(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이가족뮤지컬 〈​신데렐라〉​ - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53532</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53532"/>
-        <updated>2021-11-11T10:11:53.505Z</updated>
-        <content type="html"><![CDATA[2021.11.16(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 김창옥 토크콘서트 시즌2 - 창원​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53531</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53531"/>
-        <updated>2021-11-11T10:11:53.506Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
     </entry>
 </feed>
