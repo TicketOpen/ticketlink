@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-15T00:34:41.012Z</updated>
+    <updated>2021-11-15T01:53:32.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립현대무용단 어린이무용 루돌프 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53550</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53550"/>
+        <updated>2021-11-15T01:53:30.242Z</updated>
+        <content type="html"><![CDATA[2021.11.15(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 바리톤 김기훈 리사이틀 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53549</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53536"/>
         <updated>2021-11-12T04:13:30.467Z</updated>
         <content type="html"><![CDATA[2021.11.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 ‘렛잇고2’ - 파주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53535</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53535"/>
-        <updated>2021-11-11T23:11:18.710Z</updated>
-        <content type="html"><![CDATA[2021.11.12(금) 00:00]]></content>
     </entry>
 </feed>
