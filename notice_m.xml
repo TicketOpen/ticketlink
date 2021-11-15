@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-15T15:11:21.495Z</updated>
+    <updated>2021-11-15T16:15:40.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53558</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53558"/>
+        <updated>2021-11-15T16:15:39.390Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53557</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53557"/>
+        <updated>2021-11-15T16:15:39.393Z</updated>
+        <content type="html"><![CDATA[2021.11.16(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53556</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53544"/>
         <updated>2021-11-12T06:13:20.070Z</updated>
         <content type="html"><![CDATA[2021.11.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2021 솔지 첫 단독 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53543</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53543"/>
-        <updated>2021-11-12T05:10:19.023Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] – 춘천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53542</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53542"/>
-        <updated>2021-11-12T05:10:19.023Z</updated>
-        <content type="html"><![CDATA[2021.11.15(월) 05:00]]></content>
     </entry>
 </feed>
