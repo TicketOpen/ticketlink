@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-15T07:11:16.354Z</updated>
+    <updated>2021-11-15T08:13:10.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53556</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53556"/>
+        <updated>2021-11-15T08:12:57.706Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.16(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 군산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53555</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53555"/>
+        <updated>2021-11-15T08:12:57.707Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.16(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정동하 크리스마스 콘서트 “성탄동하” 서울공연 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53554</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53542"/>
         <updated>2021-11-12T05:10:10.367Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 삼성현 열린 가족콘서트 - 경산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53541</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53541"/>
-        <updated>2021-11-12T05:10:10.369Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.15(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021~22 이승철 전국투어 콘서트 “우리, 이제 만나요” - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53540</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53540"/>
-        <updated>2021-11-12T05:10:10.370Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.17(수) 05:00]]></content>
     </entry>
 </feed>
