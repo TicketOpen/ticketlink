@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-16T07:11:21.845Z</updated>
+    <updated>2021-11-16T08:13:18.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53568</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53568"/>
+        <updated>2021-11-16T08:13:18.092Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 부활 10대 보컬`김동명` 단독 콘서트 `the ROCK in busan`​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53567</id>
@@ -24,7 +31,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/53565</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53565"/>
         <updated>2021-11-16T07:11:21.163Z</updated>
-        <content type="html"><![CDATA[2021.11.19(금) 01:00]]></content>
+        <content type="html"><![CDATA[2021.11.22(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이은결 〈​MAGIC & ILLUSION〉​ - 창원​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53553"/>
         <updated>2021-11-15T05:10:19.704Z</updated>
         <content type="html"><![CDATA[2021.11.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] – 창원 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53552</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53552"/>
-        <updated>2021-11-15T02:25:38.114Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 06:00]]></content>
     </entry>
 </feed>
