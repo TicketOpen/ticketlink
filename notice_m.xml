@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-16T06:12:58.072Z</updated>
+    <updated>2021-11-16T07:11:21.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 부활 10대 보컬`김동명` 단독 콘서트 `the ROCK in busan`​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53567</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53567"/>
+        <updated>2021-11-16T07:11:21.156Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​호두까기 인형〉​ - 경주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53566</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53566"/>
+        <updated>2021-11-16T07:11:21.157Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈​엄마까투리 - 먹구렁이와 생일파티〉​ - 진주 ​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53565</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53565"/>
+        <updated>2021-11-16T07:11:21.163Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이은결 〈​MAGIC & ILLUSION〉​ - 창원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53564</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53564"/>
+        <updated>2021-11-16T07:11:21.166Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이가족뮤지컬 〈​오즈의마법사〉​ - 대전​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53563</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53563"/>
+        <updated>2021-11-16T07:11:21.167Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 제129회 정기공연 [호두까기 인형] 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53561</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53552"/>
         <updated>2021-11-15T02:25:38.114Z</updated>
         <content type="html"><![CDATA[2021.11.17(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트릿 우먼 파이터 [ON THE STAGE] – 대구 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53551</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53551"/>
-        <updated>2021-11-15T02:25:38.114Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 국립현대무용단 어린이무용 루돌프 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53550</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53550"/>
-        <updated>2021-11-15T01:53:30.242Z</updated>
-        <content type="html"><![CDATA[2021.11.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 바리톤 김기훈 리사이틀 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53549</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53549"/>
-        <updated>2021-11-15T00:34:40.305Z</updated>
-        <content type="html"><![CDATA[2021.11.16(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 광산문화예술회관 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53548</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53548"/>
-        <updated>2021-11-14T23:11:00.938Z</updated>
-        <content type="html"><![CDATA[2021.11.16(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이탈리아와 프랑스 오페라 이야기 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53547</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53547"/>
-        <updated>2021-11-12T07:11:16.126Z</updated>
-        <content type="html"><![CDATA[2021.11.16(화) 01:00]]></content>
     </entry>
 </feed>
