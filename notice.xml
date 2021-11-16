@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-16T08:13:18.664Z</updated>
+    <updated>2021-11-16T09:11:30.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 어반자카파 전국투어 콘서트 ‘겨울’ - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53569</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53569"/>
+        <updated>2021-11-16T09:11:24.005Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.18(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 수원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53568</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53554"/>
         <updated>2021-11-15T04:13:23.106Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 쇼팽과 샌드위치 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53553</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53553"/>
-        <updated>2021-11-15T05:10:12.076Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.16(화) 05:00]]></content>
     </entry>
 </feed>
