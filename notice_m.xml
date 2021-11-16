@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-16T03:11:37.236Z</updated>
+    <updated>2021-11-16T04:13:38.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53560"/>
         <updated>2021-11-16T02:25:39.686Z</updated>
         <content type="html"><![CDATA[2021.11.22(월) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬<스핏파이어 그릴> 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53559</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53559"/>
+        <updated>2021-11-16T04:13:37.702Z</updated>
+        <content type="html"><![CDATA[2021.11.18(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 부산 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53547"/>
         <updated>2021-11-12T07:11:16.126Z</updated>
         <content type="html"><![CDATA[2021.11.16(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 울산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53546</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53546"/>
-        <updated>2021-11-12T07:11:16.127Z</updated>
-        <content type="html"><![CDATA[2021.11.17(수) 00:00]]></content>
     </entry>
 </feed>
