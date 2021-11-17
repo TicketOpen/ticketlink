@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-17T01:53:32.203Z</updated>
+    <updated>2021-11-17T02:25:40.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53569"/>
         <updated>2021-11-16T09:11:29.643Z</updated>
         <content type="html"><![CDATA[2021.11.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53568</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53568"/>
-        <updated>2021-11-16T08:13:18.092Z</updated>
-        <content type="html"><![CDATA[2021.11.19(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 부활 10대 보컬`김동명` 단독 콘서트 `the ROCK in busan`​​ 티켓오픈 안내]]></title>
@@ -53,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53563"/>
         <updated>2021-11-16T07:11:21.167Z</updated>
         <content type="html"><![CDATA[2021.11.18(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어(Musical The Lion King) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53562</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53562"/>
+        <updated>2021-11-17T02:25:39.709Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 제129회 정기공연 [호두까기 인형] 티켓오픈 안내]]></title>
