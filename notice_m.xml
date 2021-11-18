@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-18T03:11:20.681Z</updated>
+    <updated>2021-11-18T04:13:27.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53582</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53582"/>
+        <updated>2021-11-18T04:13:26.715Z</updated>
+        <content type="html"><![CDATA[2021.11.23(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 헤라, 아프로디테, 아르테미스 - 포항​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53581</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53564"/>
         <updated>2021-11-16T07:11:21.166Z</updated>
         <content type="html"><![CDATA[2021.11.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이가족뮤지컬 〈​오즈의마법사〉​ - 대전​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53563</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53563"/>
-        <updated>2021-11-16T07:11:21.167Z</updated>
-        <content type="html"><![CDATA[2021.11.18(목) 02:00]]></content>
     </entry>
 </feed>
