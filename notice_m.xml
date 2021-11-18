@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-18T07:11:07.624Z</updated>
+    <updated>2021-11-18T08:12:52.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구문화예술회관 기획공연 <판소리 완창 시리즈: 양수진의 판소리 완창 - 만정제 흥보가> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53586</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53586"/>
+        <updated>2021-11-18T08:12:51.605Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포항시립합창단 2021년 가족송년음악회 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53585</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53571"/>
         <updated>2021-11-17T07:11:14.113Z</updated>
         <content type="html"><![CDATA[2021.11.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 부활 10대 보컬`김동명` 단독 콘서트 `the ROCK in busan`​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53567</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53567"/>
-        <updated>2021-11-16T07:11:21.156Z</updated>
-        <content type="html"><![CDATA[2021.11.19(금) 04:00]]></content>
     </entry>
 </feed>
