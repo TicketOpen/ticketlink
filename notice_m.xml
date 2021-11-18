@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-18T10:11:50.497Z</updated>
+    <updated>2021-11-18T11:09:42.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 경산필하모닉오케스트라 제16회 정기연주회 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53591</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53591"/>
+        <updated>2021-11-18T11:09:40.108Z</updated>
+        <content type="html"><![CDATA[2021.11.22(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈기분을 말해봐!〉 시즌2​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53590</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53590"/>
+        <updated>2021-11-18T11:09:40.116Z</updated>
+        <content type="html"><![CDATA[2021.11.19(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 너른 바위 - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53589</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53577"/>
         <updated>2021-11-17T09:11:15.594Z</updated>
         <content type="html"><![CDATA[2021.11.18(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 찰리재즈오케스트라 창단연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53576</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53576"/>
-        <updated>2021-11-17T08:13:03.314Z</updated>
-        <content type="html"><![CDATA[2021.11.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 GSL 슈퍼토너먼트 시즌3 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53575</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53575"/>
-        <updated>2021-11-17T08:13:03.314Z</updated>
-        <content type="html"><![CDATA[2021.11.19(금) 08:00]]></content>
     </entry>
 </feed>
