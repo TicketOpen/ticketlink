@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-18T09:11:13.580Z</updated>
+    <updated>2021-11-18T10:11:50.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 너른 바위 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53589</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53589"/>
+        <updated>2021-11-18T10:11:44.269Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.19(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈슈퍼윙스〉 울산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53588</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53575"/>
         <updated>2021-11-17T08:12:55.151Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.19(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 프리콘 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53574</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53574"/>
-        <updated>2021-11-17T08:12:55.156Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.18(목) 08:00]]></content>
     </entry>
 </feed>
