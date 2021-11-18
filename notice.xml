@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-18T05:10:00.880Z</updated>
+    <updated>2021-11-18T06:13:06.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 수원앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53583</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53583"/>
+        <updated>2021-11-18T06:12:55.673Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.19(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53582</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53566"/>
         <updated>2021-11-16T07:11:13.283Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.18(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈​엄마까투리 - 먹구렁이와 생일파티〉​ - 진주 ​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53565</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53565"/>
-        <updated>2021-11-16T07:11:13.285Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.22(월) 02:00]]></content>
     </entry>
 </feed>
