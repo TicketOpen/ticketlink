@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-19T05:10:01.615Z</updated>
+    <updated>2021-11-19T06:13:13.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립교향악단 '시민행복나눔콘서트' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53595</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53595"/>
+        <updated>2021-11-19T06:13:13.215Z</updated>
+        <content type="html"><![CDATA[2021.11.22(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2021, Autumn Fanmeeting with 리누] 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53594</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53581"/>
         <updated>2021-11-18T01:53:28.549Z</updated>
         <content type="html"><![CDATA[2021.11.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립합창단 제188회 정기연주회 '올 겨울엔 뭐니 뭐니 해도' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53580</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53580"/>
-        <updated>2021-11-17T11:09:15.057Z</updated>
-        <content type="html"><![CDATA[2021.11.18(목) 01:00]]></content>
     </entry>
 </feed>
