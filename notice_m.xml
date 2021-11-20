@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-20T07:10:58.371Z</updated>
+    <updated>2021-11-20T08:12:57.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유러피안 재즈 페스티벌 2021 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53599</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53599"/>
+        <updated>2021-11-20T08:12:55.230Z</updated>
+        <content type="html"><![CDATA[2021.11.22(월) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꽃은 사절합니다 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53598</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53585"/>
         <updated>2021-11-18T07:11:04.961Z</updated>
         <content type="html"><![CDATA[2021.11.19(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극<굿-day> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53584</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53584"/>
-        <updated>2021-11-18T07:11:04.961Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 01:00]]></content>
     </entry>
 </feed>
