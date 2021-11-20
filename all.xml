@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-20T05:09:50.563Z</updated>
+    <updated>2021-11-20T06:12:36.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최종면접 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53597</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53597"/>
+        <updated>2021-11-20T06:12:25.999Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.22(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 앙상블 모음 제 3회 정기 연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53596</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.19(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53582</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53582"/>
-        <updated>2021-11-18T04:13:16.805Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.23(화) 09:00]]></content>
+        <title type="html"><![CDATA[최종면접 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53597</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53597"/>
+        <updated>2021-11-20T06:12:33.548Z</updated>
+        <content type="html"><![CDATA[2021.11.22(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 앙상블 모음 제 3회 정기 연주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53583"/>
         <updated>2021-11-18T06:13:03.686Z</updated>
         <content type="html"><![CDATA[2021.11.19(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53582</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53582"/>
-        <updated>2021-11-18T04:13:26.715Z</updated>
-        <content type="html"><![CDATA[2021.11.23(화) 09:00]]></content>
     </entry>
 </feed>

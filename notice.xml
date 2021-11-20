@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-20T05:09:50.559Z</updated>
+    <updated>2021-11-20T06:12:36.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최종면접 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53597</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53597"/>
+        <updated>2021-11-20T06:12:25.999Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.22(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 앙상블 모음 제 3회 정기 연주회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53596</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53583"/>
         <updated>2021-11-18T06:12:55.673Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.19(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53582</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53582"/>
-        <updated>2021-11-18T04:13:16.805Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.23(화) 09:00]]></content>
     </entry>
 </feed>
