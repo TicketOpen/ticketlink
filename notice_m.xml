@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-22T08:13:25.237Z</updated>
+    <updated>2021-11-22T09:11:46.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(제주) 2022 가족뮤지컬 백설공주와 일곱난쟁이 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53609</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53609"/>
+        <updated>2021-11-22T09:11:45.586Z</updated>
+        <content type="html"><![CDATA[2021.11.23(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(서산) 2022 가족뮤지컬 백설공주와 일곱난쟁이 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53608</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53608"/>
+        <updated>2021-11-22T09:11:45.586Z</updated>
+        <content type="html"><![CDATA[2021.11.23(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53607</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53595"/>
         <updated>2021-11-19T06:13:13.215Z</updated>
         <content type="html"><![CDATA[2021.11.22(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2021, Autumn Fanmeeting with 리누] 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53594</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53594"/>
-        <updated>2021-11-19T01:54:01.536Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈호두까기 인형〉- 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53593</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53593"/>
-        <updated>2021-11-19T01:54:01.537Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 02:00]]></content>
     </entry>
 </feed>
