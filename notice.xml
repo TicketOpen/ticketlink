@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-23T09:11:05.824Z</updated>
+    <updated>2021-11-23T10:12:18.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈냉장고나라의싱싱마을코코몽〉_수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53618</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53618"/>
+        <updated>2021-11-23T10:12:07.104Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.24(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​더데빌〉​ 2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53617</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53604"/>
         <updated>2021-11-22T06:13:41.446Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(평택) 2021 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53603</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53603"/>
-        <updated>2021-11-22T06:13:41.446Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.23(화) 00:00]]></content>
     </entry>
 </feed>
