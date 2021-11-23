@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-23T06:12:57.242Z</updated>
+    <updated>2021-11-23T07:11:22.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​더데빌〉​ 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53617</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53617"/>
+        <updated>2021-11-23T07:11:13.819Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [독주회 ⑤] 재즈 보컬 나윤선 리사이틀 - 광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53616</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53603"/>
         <updated>2021-11-22T06:13:41.446Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] TBC·수성아트피아 소년소녀합창단 제10회 정기연주회 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53602</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53602"/>
-        <updated>2021-11-22T05:10:13.651Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.23(화) 05:00]]></content>
     </entry>
 </feed>
