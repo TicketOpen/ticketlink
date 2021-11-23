@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-23T02:25:40.040Z</updated>
+    <updated>2021-11-23T03:11:31.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민경인 트리오와 함께 하는 찰리 브라운 크리스마스 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53614</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53614"/>
+        <updated>2021-11-23T03:11:29.216Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포플레이 데뷔30주년 헌정 공연 - BigTiger Group Plays Fourplay 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53613</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53613"/>
+        <updated>2021-11-23T03:11:29.219Z</updated>
+        <content type="html"><![CDATA[2021.11.26(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 부산 앵콜​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53612</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53612"/>
+        <updated>2021-11-23T03:11:29.222Z</updated>
+        <content type="html"><![CDATA[2021.11.24(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 더원 콘서트 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53611</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53611"/>
+        <updated>2021-11-23T03:11:29.222Z</updated>
+        <content type="html"><![CDATA[2021.11.26(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온에어 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53610</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53600"/>
         <updated>2021-11-22T01:54:32.375Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유러피안 재즈 페스티벌 2021 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53599</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53599"/>
-        <updated>2021-11-20T08:12:55.230Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽃은 사절합니다 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53598</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53598"/>
-        <updated>2021-11-20T07:10:55.743Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최종면접 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53597</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53597"/>
-        <updated>2021-11-20T06:12:33.548Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 앙상블 모음 제 3회 정기 연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53596</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53596"/>
-        <updated>2021-11-19T09:11:18.678Z</updated>
-        <content type="html"><![CDATA[2021.11.22(월) 00:00]]></content>
     </entry>
 </feed>
