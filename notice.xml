@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-24T02:26:15.257Z</updated>
+    <updated>2021-11-24T03:11:28.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021 더원 콘서트 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53622</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53622"/>
+        <updated>2021-11-24T03:11:17.379Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.25(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53621</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53608"/>
         <updated>2021-11-22T09:11:36.439Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.23(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53607</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53607"/>
-        <updated>2021-11-22T07:11:18.356Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.25(목) 09:00]]></content>
     </entry>
 </feed>
