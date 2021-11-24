@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-24T06:13:21.639Z</updated>
+    <updated>2021-11-24T07:11:12.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트  - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53625</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53625"/>
+        <updated>2021-11-24T07:11:00.841Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈리차드3세〉 1차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53624</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온에어 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53610</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53610"/>
-        <updated>2021-11-23T00:34:22.040Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 07:00]]></content>
+        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트  - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53625</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53625"/>
+        <updated>2021-11-24T07:11:11.365Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈리차드3세〉 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53611"/>
         <updated>2021-11-23T03:11:29.222Z</updated>
         <content type="html"><![CDATA[2021.11.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온에어 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53610</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53610"/>
-        <updated>2021-11-23T00:34:30.214Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 07:00]]></content>
     </entry>
 </feed>
