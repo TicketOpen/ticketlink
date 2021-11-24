@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-24T05:10:25.042Z</updated>
+    <updated>2021-11-24T06:13:21.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 XIA Ballad & Musical Concert with Orchestra Vol. 7​ 추가 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[연극 〈리차드3세〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53624</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53624"/>
+        <updated>2021-11-24T06:13:20.871Z</updated>
+        <content type="html"><![CDATA[2021.12.02(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [추가티켓오픈] 2021 XIA Ballad & Musical Concert with Orchestra Vol. 7]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53623</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53623"/>
         <updated>2021-11-24T05:10:22.300Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53610"/>
         <updated>2021-11-23T00:34:30.214Z</updated>
         <content type="html"><![CDATA[2021.11.26(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(제주) 2022 가족뮤지컬 백설공주와 일곱난쟁이 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53609</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53609"/>
-        <updated>2021-11-22T09:11:45.586Z</updated>
-        <content type="html"><![CDATA[2021.11.23(화) 02:00]]></content>
     </entry>
 </feed>
