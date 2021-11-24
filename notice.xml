@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-23T23:11:27.147Z</updated>
+    <updated>2021-11-24T00:35:22.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 삼성현 열린 가족콘서트 - 경산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53620</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53620"/>
+        <updated>2021-11-24T00:35:10.543Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.24(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 보이스퀸 정수연과 팝스오케스트라가 함께하는 퓨전 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53619</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53606"/>
         <updated>2021-11-22T07:11:18.357Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.25(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프라노 조영주 독창회 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53605</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53605"/>
-        <updated>2021-11-22T07:11:18.359Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.23(화) 01:00]]></content>
     </entry>
 </feed>
