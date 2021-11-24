@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-24T00:35:22.877Z</updated>
+    <updated>2021-11-24T01:53:56.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53621</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53621"/>
+        <updated>2021-11-24T01:53:53.463Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 삼성현 열린 가족콘서트 - 경산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53620</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53607"/>
         <updated>2021-11-22T07:11:24.417Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 `노트르담 드 파리` 프렌치 오리지널 - 대구 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53606</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53606"/>
-        <updated>2021-11-22T07:11:24.419Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 05:00]]></content>
     </entry>
 </feed>
