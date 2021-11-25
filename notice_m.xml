@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-25T09:11:30.341Z</updated>
+    <updated>2021-11-25T10:12:10.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53630</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53630"/>
+        <updated>2021-11-25T10:12:09.704Z</updated>
+        <content type="html"><![CDATA[2021.11.26(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코믹오페라 하녀마님 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53629</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53616"/>
         <updated>2021-11-23T05:10:05.619Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] - 익산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53615</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53615"/>
-        <updated>2021-11-23T05:10:05.622Z</updated>
-        <content type="html"><![CDATA[2021.11.26(금) 05:00]]></content>
     </entry>
 </feed>
