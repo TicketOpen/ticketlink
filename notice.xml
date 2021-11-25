@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-25T01:55:56.102Z</updated>
+    <updated>2021-11-25T02:28:01.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈알타보이즈〉 1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53628</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53628"/>
+        <updated>2021-11-25T02:27:49.624Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 크리스마스 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53627</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53614"/>
         <updated>2021-11-23T03:11:21.742Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포플레이 데뷔30주년 헌정 공연 - BigTiger Group Plays Fourplay 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53613</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53613"/>
-        <updated>2021-11-23T03:11:21.743Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 01:00]]></content>
     </entry>
 </feed>
