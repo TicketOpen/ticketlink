@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-26T01:52:34.686Z</updated>
+    <updated>2021-11-26T02:26:12.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 – 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53632</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53632"/>
+        <updated>2021-11-26T02:26:11.509Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 원주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53631</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53617"/>
         <updated>2021-11-23T07:11:21.723Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [독주회 ⑤] 재즈 보컬 나윤선 리사이틀 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53616</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53616"/>
-        <updated>2021-11-23T05:10:05.619Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 08:00]]></content>
     </entry>
 </feed>
