@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-26T09:11:37.893Z</updated>
+    <updated>2021-11-26T10:12:15.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 휘성 [크리스마스 콘서트] - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53635</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53635"/>
+        <updated>2021-11-26T10:12:14.828Z</updated>
+        <content type="html"><![CDATA[2021.12.01(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘솔지 첫 단독 콘서트’ 취소안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53634</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53620"/>
         <updated>2021-11-24T00:35:20.409Z</updated>
         <content type="html"><![CDATA[2021.11.24(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 보이스퀸 정수연과 팝스오케스트라가 함께하는 퓨전 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53619</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53619"/>
-        <updated>2021-11-23T12:17:40.917Z</updated>
-        <content type="html"><![CDATA[2021.12.15(수) 00:00]]></content>
     </entry>
 </feed>
