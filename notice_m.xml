@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-25T23:11:20.740Z</updated>
+    <updated>2021-11-26T00:34:38.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53631</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53631"/>
+        <updated>2021-11-26T00:34:36.268Z</updated>
+        <content type="html"><![CDATA[2021.11.26(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53630</id>
@@ -60,13 +67,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53623"/>
         <updated>2021-11-24T05:10:22.300Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 더원 콘서트 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53622</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53622"/>
-        <updated>2021-11-24T03:11:27.460Z</updated>
-        <content type="html"><![CDATA[2021.11.25(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 대구 티켓오픈 안내]]></title>
