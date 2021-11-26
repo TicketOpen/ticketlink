@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-26T07:11:29.175Z</updated>
+    <updated>2021-11-26T08:13:14.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘솔지 첫 단독 콘서트’ 취소안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53634</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
+        <updated>2021-11-26T08:13:03.590Z</updated>
+        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">36</td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53633</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.15(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈냉장고나라의싱싱마을코코몽〉_수원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53618</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53618"/>
-        <updated>2021-11-23T10:12:07.104Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.24(수) 01:00]]></content>
+        <title type="html"><![CDATA[‘솔지 첫 단독 콘서트’ 취소안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53634</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53634"/>
+        <updated>2021-11-26T08:13:14.267Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/53634" class="info_wrap"><strong class="label">변경/취소</strong><h3 class="tit">‘솔지 첫 단독 콘서트’ 취소안내</h3></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53619"/>
         <updated>2021-11-23T12:17:40.917Z</updated>
         <content type="html"><![CDATA[2021.12.15(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈냉장고나라의싱싱마을코코몽〉_수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53618</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53618"/>
-        <updated>2021-11-23T10:12:16.484Z</updated>
-        <content type="html"><![CDATA[2021.11.24(수) 01:00]]></content>
     </entry>
 </feed>
