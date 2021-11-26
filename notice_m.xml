@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-26T04:13:47.755Z</updated>
+    <updated>2021-11-26T05:10:05.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53633</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53633"/>
+        <updated>2021-11-26T05:10:04.609Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 – 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53632</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53618"/>
         <updated>2021-11-23T10:12:16.484Z</updated>
         <content type="html"><![CDATA[2021.11.24(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​더데빌〉​ 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53617</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53617"/>
-        <updated>2021-11-23T07:11:21.723Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 05:00]]></content>
     </entry>
 </feed>
