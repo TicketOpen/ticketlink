@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-26T23:11:02.246Z</updated>
+    <updated>2021-11-27T00:34:01.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[〈로미오와줄리엣〉뮤지컬 - 대학로​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53636</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53636"/>
+        <updated>2021-11-27T00:33:50.148Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 휘성 [크리스마스 콘서트] - 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53635</id>
@@ -16,7 +23,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53634</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
         <updated>2021-11-26T08:13:03.590Z</updated>
-        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">169</td>]]></content>
+        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">173</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 삼성현 열린 가족콘서트 - 경산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53620</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53620"/>
-        <updated>2021-11-24T00:35:10.543Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.24(수) 01:00]]></content>
+        <title type="html"><![CDATA[〈로미오와줄리엣〉뮤지컬 - 대학로​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53636</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53636"/>
+        <updated>2021-11-27T00:33:58.628Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 휘성 [크리스마스 콘서트] - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53621"/>
         <updated>2021-11-24T01:53:53.463Z</updated>
         <content type="html"><![CDATA[2021.11.29(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 삼성현 열린 가족콘서트 - 경산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53620</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53620"/>
-        <updated>2021-11-24T00:35:20.409Z</updated>
-        <content type="html"><![CDATA[2021.11.24(수) 01:00]]></content>
     </entry>
 </feed>
