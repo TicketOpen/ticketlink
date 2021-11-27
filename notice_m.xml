@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-27T09:11:01.758Z</updated>
+    <updated>2021-11-27T10:11:24.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]영남필하모니오케스트라 기획연주회〈가족 클래식 음악회〉- 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53637</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53637"/>
+        <updated>2021-11-27T10:11:23.620Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈로미오와줄리엣〉뮤지컬 - 대학로​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53636</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53623"/>
         <updated>2021-11-24T05:10:22.300Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53621</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53621"/>
-        <updated>2021-11-24T01:53:53.463Z</updated>
-        <content type="html"><![CDATA[2021.11.29(월) 09:00]]></content>
     </entry>
 </feed>
