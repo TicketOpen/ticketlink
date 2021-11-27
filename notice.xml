@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-27T10:11:24.287Z</updated>
+    <updated>2021-11-27T11:09:16.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 광산문화예술회관 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53639</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53639"/>
+        <updated>2021-11-27T11:09:07.389Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]영남필하모니오케스트라 기획연주회〈가족 클래식 음악회〉- 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53637</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53624"/>
         <updated>2021-11-24T06:13:12.053Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.02(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [추가티켓오픈] 2021 XIA Ballad & Musical Concert with Orchestra Vol. 7]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53623</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53623"/>
-        <updated>2021-11-24T05:10:13.375Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.25(목) 11:00]]></content>
     </entry>
 </feed>
