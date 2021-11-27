@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-27T13:16:11.172Z</updated>
+    <updated>2021-11-27T14:10:01.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 128회 정기연주회 '청소년 협연의 밤' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53641</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53641"/>
+        <updated>2021-11-27T14:10:01.013Z</updated>
+        <content type="html"><![CDATA[2021.11.29(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 장수상회-목포 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53640</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53626"/>
         <updated>2021-11-24T08:13:05.938Z</updated>
         <content type="html"><![CDATA[2021.11.25(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트  - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53625</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53625"/>
-        <updated>2021-11-24T07:11:11.365Z</updated>
-        <content type="html"><![CDATA[2021.11.29(월) 05:00]]></content>
     </entry>
 </feed>
