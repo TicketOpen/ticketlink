@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-27T12:15:41.289Z</updated>
+    <updated>2021-11-27T13:16:11.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 장수상회-목포 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53640</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53640"/>
+        <updated>2021-11-27T13:16:01.624Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 광산문화예술회관 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53639</id>
@@ -38,7 +45,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53634</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
         <updated>2021-11-26T08:13:03.590Z</updated>
-        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">217</td>]]></content>
+        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">218</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53625"/>
         <updated>2021-11-24T07:11:00.841Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈리차드3세〉 1차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53624</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53624"/>
-        <updated>2021-11-24T06:13:12.053Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.02(목) 02:00]]></content>
     </entry>
 </feed>
