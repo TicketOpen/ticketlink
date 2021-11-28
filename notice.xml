@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-28T06:13:20.083Z</updated>
+    <updated>2021-11-28T07:11:01.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 어린이캣 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53642</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53642"/>
+        <updated>2021-11-28T07:10:49.829Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 128회 정기연주회 '청소년 협연의 밤' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53641</id>
@@ -52,7 +59,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53634</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
         <updated>2021-11-26T08:13:03.590Z</updated>
-        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">237</td>]]></content>
+        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">238</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53627"/>
         <updated>2021-11-24T08:12:58.875Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.22(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <창작가무극 '애기자운 꽃'> - 안동 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53626</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53626"/>
-        <updated>2021-11-24T08:12:58.875Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.25(목) 01:00]]></content>
     </entry>
 </feed>
