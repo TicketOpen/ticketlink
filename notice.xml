@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-29T06:13:49.779Z</updated>
+    <updated>2021-11-29T07:11:22.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE CONCERT - 경주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53645</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53645"/>
+        <updated>2021-11-29T07:11:11.719Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 〈강원도립무용단 기획공연 “무용詩 낭송회”〉- 춘천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53644</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53644"/>
+        <updated>2021-11-29T07:11:11.719Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 김중연 크리스마스 콘서트​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53643</id>
@@ -73,7 +87,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53634</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
         <updated>2021-11-26T08:13:03.590Z</updated>
-        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">279</td>]]></content>
+        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">281</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown)]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53631"/>
         <updated>2021-11-26T00:34:26.855Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quattro Per Quattro 〈사계〉티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53630</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53630"/>
-        <updated>2021-11-25T10:12:00.861Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코믹오페라 하녀마님 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53629</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53629"/>
-        <updated>2021-11-25T07:12:16.829Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 02:00]]></content>
     </entry>
 </feed>
