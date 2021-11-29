@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-29T00:35:15.141Z</updated>
+    <updated>2021-11-29T01:54:03.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 어린이캣 티켓오픈 안내 (티켓링크)]]></title>
@@ -33,6 +33,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 06:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대전​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53638</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53638"/>
+        <updated>2021-11-29T01:53:53.132Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.02(목) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]영남필하모니오케스트라 기획연주회〈가족 클래식 음악회〉- 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53637</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53637"/>
@@ -58,7 +65,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53634</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53634"/>
         <updated>2021-11-26T08:13:03.590Z</updated>
-        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">258</td>]]></content>
+        <content type="html"><![CDATA[<td>변경/취소</td><td class="tl p_reative"><a href="/help/notice/53634">‘솔지 첫 단독 콘서트’ 취소안내</a></td><td>2021.11.26</td><td class="ff_tahoma fs11">265</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 새해 1월 시즌 티켓 오픈! (Musical Hadestown) (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.26(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 크리스마스 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53627</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53627"/>
-        <updated>2021-11-24T08:12:58.875Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.22(수) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 어린이캣 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53642</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53642"/>
@@ -136,6 +136,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53639"/>
         <updated>2021-11-27T11:09:15.868Z</updated>
         <content type="html"><![CDATA[2021.11.29(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53638</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53638"/>
+        <updated>2021-11-29T01:54:01.084Z</updated>
+        <content type="html"><![CDATA[2021.12.02(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]영남필하모니오케스트라 기획연주회〈가족 클래식 음악회〉- 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53628"/>
         <updated>2021-11-25T02:27:58.573Z</updated>
         <content type="html"><![CDATA[2021.11.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 크리스마스 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53627</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53627"/>
-        <updated>2021-11-24T08:13:05.932Z</updated>
-        <content type="html"><![CDATA[2021.12.22(수) 00:00]]></content>
     </entry>
 </feed>
