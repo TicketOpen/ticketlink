@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-11-30T04:11:47.837Z</updated>
+    <updated>2021-11-30T05:09:07.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(2022 창원) 팥죽할멈과 호랑이 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53655</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53655"/>
+        <updated>2021-11-30T05:09:05.271Z</updated>
+        <content type="html"><![CDATA[2021.12.02(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2022 전주) 팥죽할멈과 호랑이 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53654</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53654"/>
+        <updated>2021-11-30T05:09:05.280Z</updated>
+        <content type="html"><![CDATA[2021.12.02(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53653</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53639"/>
         <updated>2021-11-27T11:09:15.868Z</updated>
         <content type="html"><![CDATA[2021.11.29(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대전​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53638</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53638"/>
-        <updated>2021-11-30T00:36:32.904Z</updated>
-        <content type="html"><![CDATA[2021.12.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]영남필하모니오케스트라 기획연주회〈가족 클래식 음악회〉- 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53637</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53637"/>
-        <updated>2021-11-30T01:45:35.505Z</updated>
-        <content type="html"><![CDATA[2021.11.29(월) 03:00]]></content>
     </entry>
 </feed>
