@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-11-30T05:09:07.165Z</updated>
+    <updated>2021-11-30T06:11:02.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 여수 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53656</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53656"/>
+        <updated>2021-11-30T06:10:53.956Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2022 창원) 팥죽할멈과 호랑이 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53655</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53640"/>
         <updated>2021-11-27T13:16:01.624Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 광산문화예술회관 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53639</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53639"/>
-        <updated>2021-11-27T11:09:07.389Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.11.29(월) 06:00]]></content>
     </entry>
 </feed>
