@@ -4,7 +4,7 @@ url = "http://www.ticketlink.co.kr/help/notice"
 entrySelector = "tbody[id='nTableBody'] tr"
 titleSelector = "td.tl.p_reative > a"
 linkSelector = "td a"
-contentSelector = "td[class='open_info']"
+contentSelector = "td:nth-child(3)"
 waitForSelector = ".basic_tbl"
 onFail = "stale"
 
