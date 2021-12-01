@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-01T02:55:43.792Z</updated>
+    <updated>2021-12-01T03:11:22.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53661</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53661"/>
+        <updated>2021-12-01T03:11:09.087Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOMEDAY PLEROMA 2021 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53660</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.11.30(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 쇼콰이어 하모나이즈의 해피홀릭 콘서트 - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53646</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53646"/>
-        <updated>2021-11-29T08:13:28.884Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 06:00]]></content>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53661</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53661"/>
+        <updated>2021-12-01T03:11:20.263Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SOMEDAY PLEROMA 2021 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53647"/>
         <updated>2021-11-29T08:13:38.804Z</updated>
         <content type="html"><![CDATA[2021.11.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 쇼콰이어 하모나이즈의 해피홀릭 콘서트 - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53646</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53646"/>
-        <updated>2021-11-29T08:13:38.806Z</updated>
-        <content type="html"><![CDATA[2021.12.01(수) 06:00]]></content>
     </entry>
 </feed>
