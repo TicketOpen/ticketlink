@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-02T06:15:37.457Z</updated>
+    <updated>2021-12-02T07:12:56.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 호두까기 인형과 환상의 나라 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53671</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53671"/>
+        <updated>2021-12-02T07:12:27.097Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈리차드3세〉​ 2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53670</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53656"/>
         <updated>2021-11-30T06:10:53.956Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2022 창원) 팥죽할멈과 호랑이 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53655</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53655"/>
-        <updated>2021-11-30T05:08:53.317Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.02(목) 00:00]]></content>
     </entry>
 </feed>
