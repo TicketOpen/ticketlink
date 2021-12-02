@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-02T05:10:35.644Z</updated>
+    <updated>2021-12-02T06:15:37.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 〈리차드3세〉​ 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53670</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53670"/>
+        <updated>2021-12-02T06:15:34.629Z</updated>
+        <content type="html"><![CDATA[2021.12.08(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트 <다시, Winter Ballad> - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53669</id>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[2021.12.09(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 - 전주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 전주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53666</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53666"/>
         <updated>2021-12-02T05:10:34.889Z</updated>
         <content type="html"><![CDATA[2021.12.07(화) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 거미 전국투어 콘서트 -  전주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2022 거미 전국투어 콘서트 <다시, Winter Ballad> - 전주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53665</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53665"/>
         <updated>2021-12-02T05:10:34.893Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 06:00]]></content>
+        <content type="html"><![CDATA[2021.12.07(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 영남필하모니오케스트라 제5회 신진작곡가 공모전 입상자 연주회​ 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53655</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53655"/>
         <updated>2021-11-30T05:09:05.271Z</updated>
-        <content type="html"><![CDATA[2021.12.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2022 전주) 팥죽할멈과 호랑이 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53654</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53654"/>
-        <updated>2021-11-30T05:09:05.280Z</updated>
         <content type="html"><![CDATA[2021.12.02(목) 00:00]]></content>
     </entry>
 </feed>
