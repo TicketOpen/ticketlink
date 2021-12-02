@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-02T04:14:00.143Z</updated>
+    <updated>2021-12-02T05:10:35.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 거미 전국투어 콘서트 <다시, Winter Ballad> - 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53669</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53669"/>
+        <updated>2021-12-02T05:10:34.871Z</updated>
+        <content type="html"><![CDATA[2021.12.07(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김필 10주년 콘서트  – 부산 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53668</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53668"/>
+        <updated>2021-12-02T05:10:34.887Z</updated>
+        <content type="html"><![CDATA[2021.12.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극〈환상동화〉​2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53667</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53667"/>
+        <updated>2021-12-02T05:10:34.888Z</updated>
+        <content type="html"><![CDATA[2021.12.09(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53666</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53666"/>
+        <updated>2021-12-02T05:10:34.889Z</updated>
+        <content type="html"><![CDATA[2021.12.07(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 거미 전국투어 콘서트 -  전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53665</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53665"/>
+        <updated>2021-12-02T05:10:34.893Z</updated>
+        <content type="html"><![CDATA[2021.12.07(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 영남필하모니오케스트라 제5회 신진작곡가 공모전 입상자 연주회​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53663</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53654"/>
         <updated>2021-11-30T05:09:05.280Z</updated>
         <content type="html"><![CDATA[2021.12.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53653</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53653"/>
-        <updated>2021-11-29T11:09:24.790Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 건강도시 원주 〈건강힐링콘서트〉`Quattro per Quattro(사계)` - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53652</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53652"/>
-        <updated>2021-11-29T10:12:10.781Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 내 영혼에 별꽃이 피다 - 부산​​​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53651</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53651"/>
-        <updated>2021-11-29T10:12:10.785Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 11회 한울림 골목연극제​​​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53650</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53650"/>
-        <updated>2021-11-29T10:12:10.785Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프라노 홍혜란의 HOPE​​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53649</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53649"/>
-        <updated>2021-12-01T10:12:07.004Z</updated>
-        <content type="html"><![CDATA[2021.11.30(화) 05:00]]></content>
     </entry>
 </feed>
