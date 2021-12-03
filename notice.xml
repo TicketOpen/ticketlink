@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-03T08:13:14.279Z</updated>
+    <updated>2021-12-03T09:11:46.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 조희창 ✕ 송영민의 겨울밤 쇼팽 - 예술아카데미 특강 (경주) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53677</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53677"/>
+        <updated>2021-12-03T09:11:29.252Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.06(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈천사에 관하여 : 타락천사 편〉4차(마지막)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53676</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53676"/>
+        <updated>2021-12-03T09:11:29.253Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.09(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53675</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53662"/>
         <updated>2021-12-01T09:11:37.605Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53661</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53661"/>
-        <updated>2021-12-01T03:11:09.087Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOMEDAY PLEROMA 2021 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53660</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53660"/>
-        <updated>2021-12-01T02:34:38.596Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.01(수) 11:00]]></content>
     </entry>
 </feed>
