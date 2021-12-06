@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-06T05:11:16.075Z</updated>
+    <updated>2021-12-06T06:13:05.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 거미 전국투어 콘서트 〈​다시, Winter Ballad〉​ - 김해​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53684</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53684"/>
+        <updated>2021-12-06T06:12:55.297Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.09(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 〈전설의 리틀 농구단〉 - 원주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53683</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53670"/>
         <updated>2021-12-02T06:15:26.076Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 거미 전국투어 콘서트 <다시, Winter Ballad> - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53669</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53669"/>
-        <updated>2021-12-02T05:10:26.555Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.07(화) 06:00]]></content>
     </entry>
 </feed>
