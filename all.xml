@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-06T06:13:05.737Z</updated>
+    <updated>2021-12-06T07:12:07.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​장수탕 선녀님〉​ - 군포​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53685</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53685"/>
+        <updated>2021-12-06T07:11:43.642Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트 〈​다시, Winter Ballad〉​ - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53684</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 〈리차드3세〉​ 2차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53670</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53670"/>
-        <updated>2021-12-02T06:15:26.076Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 02:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈​장수탕 선녀님〉​ - 군포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53685</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53685"/>
+        <updated>2021-12-06T07:12:07.245Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트 〈​다시, Winter Ballad〉​ - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53671"/>
         <updated>2021-12-02T07:12:55.938Z</updated>
         <content type="html"><![CDATA[2021.12.03(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈리차드3세〉​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53670</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53670"/>
-        <updated>2021-12-02T06:15:34.629Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 02:00]]></content>
     </entry>
 </feed>
