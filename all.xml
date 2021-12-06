@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-06T13:20:16.289Z</updated>
+    <updated>2021-12-06T14:10:22.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 3차​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -24,13 +24,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53686"/>
         <updated>2021-12-06T08:13:29.346Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​장수탕 선녀님〉​ - 군포​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53685</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53685"/>
-        <updated>2021-12-06T07:11:43.642Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트 〈​다시, Winter Ballad〉​ - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +103,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 11:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53673</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53673"/>
+        <updated>2021-12-06T14:10:10.212Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 07:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53688</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53688"/>
@@ -129,13 +129,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53686"/>
         <updated>2021-12-06T08:13:37.980Z</updated>
         <content type="html"><![CDATA[2021.12.08(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​장수탕 선녀님〉​ - 군포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53685</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53685"/>
-        <updated>2021-12-06T07:12:07.245Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트 〈​다시, Winter Ballad〉​ - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -213,5 +206,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53674"/>
         <updated>2021-12-02T12:16:44.905Z</updated>
         <content type="html"><![CDATA[2021.12.03(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53673</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53673"/>
+        <updated>2021-12-06T14:10:19.693Z</updated>
+        <content type="html"><![CDATA[2021.12.03(금) 07:00]]></content>
     </entry>
 </feed>
