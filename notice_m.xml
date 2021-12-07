@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-07T08:14:44.815Z</updated>
+    <updated>2021-12-07T09:11:52.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오주신무용학원 설립21주년 & 주니어무용단 “주신”의 우리들의 춤마당 열여덞번째 이야기 〈심연〉티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53692</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53692"/>
+        <updated>2021-12-07T09:11:52.000Z</updated>
+        <content type="html"><![CDATA[2021.12.10(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제6회 남자은 반주 피아노 리사이틀​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53691</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53678"/>
         <updated>2021-12-05T05:11:29.993Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 조희창 ✕ 송영민의 겨울밤 쇼팽 - 예술아카데미 특강 (경주) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53677</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53677"/>
-        <updated>2021-12-03T09:11:43.841Z</updated>
-        <content type="html"><![CDATA[2021.12.06(월) 05:00]]></content>
     </entry>
 </feed>

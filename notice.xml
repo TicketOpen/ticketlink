@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-07T08:14:44.782Z</updated>
+    <updated>2021-12-07T09:11:52.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오주신무용학원 설립21주년 & 주니어무용단 “주신”의 우리들의 춤마당 열여덞번째 이야기 〈심연〉티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53692</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53692"/>
+        <updated>2021-12-07T09:11:41.696Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.10(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제6회 남자은 반주 피아노 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53691</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53691"/>
+        <updated>2021-12-07T09:11:41.697Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53690</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53690"/>
+        <updated>2021-12-07T09:11:41.698Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53689</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53689"/>
+        <updated>2021-12-07T09:11:41.702Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 3차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53688</id>
@@ -27,6 +55,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 10:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​장수탕 선녀님〉​ - 군포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53685</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53685"/>
+        <updated>2021-12-07T09:11:41.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트 〈​다시, Winter Ballad〉​ - 김해​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53684</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53684"/>
@@ -41,7 +76,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.06(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 수성이트피아 제야음악회 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2021 수성아트피아 제야음악회 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53682</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53682"/>
         <updated>2021-12-05T07:10:52.631Z</updated>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53678"/>
         <updated>2021-12-05T05:11:04.836Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.06(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 조희창 ✕ 송영민의 겨울밤 쇼팽 - 예술아카데미 특강 (경주) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53677</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53677"/>
-        <updated>2021-12-03T09:11:29.252Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.06(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈천사에 관하여 : 타락천사 편〉4차(마지막)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53676</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53676"/>
-        <updated>2021-12-03T09:11:29.253Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.09(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53675</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53675"/>
-        <updated>2021-12-02T13:17:47.672Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 청소년힐링콘서트 with 난장​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53674</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53674"/>
-        <updated>2021-12-02T12:16:35.910Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아버지를 위하여 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53673</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53673"/>
-        <updated>2021-12-06T14:10:10.212Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.03(금) 07:00]]></content>
     </entry>
 </feed>
