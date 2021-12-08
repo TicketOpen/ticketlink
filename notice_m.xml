@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-08T07:11:15.247Z</updated>
+    <updated>2021-12-08T08:13:11.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]DSAC 웃는얼굴아트센터 송년음악회 <코리아윈드필하모니 크리스마스 콘서트> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53696</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53696"/>
+        <updated>2021-12-08T08:13:08.532Z</updated>
+        <content type="html"><![CDATA[2021.12.09(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이베스트셀러 뮤지컬 〈우리아빠가 최고야〉 - 원주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53695</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53682"/>
         <updated>2021-12-05T07:11:05.671Z</updated>
         <content type="html"><![CDATA[2021.12.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데아울렛 어린이 미술 놀이터 COLOR GARDEN-겨울시즌 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53681</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53681"/>
-        <updated>2021-12-05T06:12:40.004Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 02:00]]></content>
     </entry>
 </feed>
