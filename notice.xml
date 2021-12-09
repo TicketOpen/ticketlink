@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-09T07:11:23.294Z</updated>
+    <updated>2021-12-09T08:13:21.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53699</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53699"/>
+        <updated>2021-12-09T08:13:09.558Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.10(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 경산시립교향악단 2021송년음악회 - 경산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53698</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53685"/>
         <updated>2021-12-07T09:11:41.705Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 거미 전국투어 콘서트 〈​다시, Winter Ballad〉​ - 김해​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53684</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53684"/>
-        <updated>2021-12-06T06:12:55.297Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.09(목) 05:00]]></content>
     </entry>
 </feed>
