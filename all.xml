@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-09T00:36:30.428Z</updated>
+    <updated>2021-12-09T01:57:17.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알타보이즈> 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53697</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53697"/>
+        <updated>2021-12-09T01:57:05.612Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]DSAC 웃는얼굴아트센터 송년음악회 <코리아윈드필하모니 크리스마스 콘서트> - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53696</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.06(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 수성아트피아 제야음악회 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53682</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53682"/>
-        <updated>2021-12-05T07:10:52.631Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.07(화) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <알타보이즈> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53697</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53697"/>
+        <updated>2021-12-09T01:57:14.310Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]DSAC 웃는얼굴아트센터 송년음악회 <코리아윈드필하모니 크리스마스 콘서트> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53683"/>
         <updated>2021-12-05T10:11:34.126Z</updated>
         <content type="html"><![CDATA[2021.12.06(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 수성아트피아 제야음악회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53682</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53682"/>
-        <updated>2021-12-05T07:11:05.671Z</updated>
-        <content type="html"><![CDATA[2021.12.07(화) 05:00]]></content>
     </entry>
 </feed>
