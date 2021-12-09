@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-09T02:31:08.155Z</updated>
+    <updated>2021-12-09T03:11:31.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 2021송년음악회 - 경산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53698</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53698"/>
+        <updated>2021-12-09T03:11:20.702Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알타보이즈> 2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53697</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53684"/>
         <updated>2021-12-06T06:12:55.297Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈전설의 리틀 농구단〉 - 원주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53683</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53683"/>
-        <updated>2021-12-05T10:11:18.025Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.06(월) 05:00]]></content>
     </entry>
 </feed>
