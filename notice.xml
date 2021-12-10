@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-10T08:13:24.083Z</updated>
+    <updated>2021-12-10T09:11:35.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 환타 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53703</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53703"/>
+        <updated>2021-12-10T09:11:21.768Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김연자 박강성과 함께하는 2022 신년음악회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53702</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53689"/>
         <updated>2021-12-07T09:11:41.702Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈​스핏파이어 그릴〉​ 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53688</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53688"/>
-        <updated>2021-12-06T09:11:58.316Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.10(금) 07:00]]></content>
     </entry>
 </feed>
