@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-10T02:27:14.181Z</updated>
+    <updated>2021-12-10T03:11:19.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김연자 박강성과 함께하는 2022 신년음악회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53702</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53702"/>
+        <updated>2021-12-10T03:11:06.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 부산 해운대 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53701</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.10(금) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53687</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53687"/>
-        <updated>2021-12-06T09:11:58.318Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 09:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 김연자 박강성과 함께하는 2022 신년음악회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53702</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53702"/>
+        <updated>2021-12-10T03:11:16.584Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 부산 해운대 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53688"/>
         <updated>2021-12-06T09:12:11.430Z</updated>
         <content type="html"><![CDATA[2021.12.10(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 정승환의 〈​안녕 겨울〉​ : 다시 여기, 우리 - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53687</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53687"/>
-        <updated>2021-12-06T09:12:11.430Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 09:00]]></content>
     </entry>
 </feed>
