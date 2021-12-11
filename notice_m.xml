@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-11T07:11:18.167Z</updated>
+    <updated>2021-12-11T08:13:10.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 강릉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53711</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53711"/>
+        <updated>2021-12-11T08:13:09.817Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 목포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53710</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53710"/>
+        <updated>2021-12-11T08:13:09.817Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] DANGEROUS ACT FATMAN (덴져러스 액트 펫맨) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53709</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53697"/>
         <updated>2021-12-09T01:57:14.310Z</updated>
         <content type="html"><![CDATA[2021.12.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]DSAC 웃는얼굴아트센터 송년음악회 <코리아윈드필하모니 크리스마스 콘서트> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53696</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53696"/>
-        <updated>2021-12-08T08:13:08.532Z</updated>
-        <content type="html"><![CDATA[2021.12.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이베스트셀러 뮤지컬 〈우리아빠가 최고야〉 - 원주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53695</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53695"/>
-        <updated>2021-12-08T05:11:56.197Z</updated>
-        <content type="html"><![CDATA[2021.12.09(목) 01:00]]></content>
     </entry>
 </feed>
