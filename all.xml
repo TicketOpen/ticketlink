@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-11T01:54:28.119Z</updated>
+    <updated>2021-12-11T02:30:03.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 오산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53706</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53706"/>
+        <updated>2021-12-11T02:29:53.334Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 <신데렐라> - 여수 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53705</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.10(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 제6회 남자은 반주 피아노 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53691</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53691"/>
-        <updated>2021-12-07T09:11:41.697Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 01:00]]></content>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 오산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53706</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53706"/>
+        <updated>2021-12-11T02:30:01.208Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 <신데렐라> - 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53692"/>
         <updated>2021-12-07T09:11:52.000Z</updated>
         <content type="html"><![CDATA[2021.12.10(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제6회 남자은 반주 피아노 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53691</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53691"/>
-        <updated>2021-12-07T08:14:44.254Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 01:00]]></content>
     </entry>
 </feed>
