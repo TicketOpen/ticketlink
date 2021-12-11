@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-11T00:34:56.788Z</updated>
+    <updated>2021-12-11T01:54:28.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 <신데렐라> - 여수 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53705</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53705"/>
+        <updated>2021-12-11T01:54:17.892Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이강원 바이올린 독주회 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53704</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53704"/>
+        <updated>2021-12-11T01:54:17.893Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 환타 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53703</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 전주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53690</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53690"/>
-        <updated>2021-12-07T09:11:41.698Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 01:00]]></content>
+        <title type="html"><![CDATA[어린이뮤지컬 <신데렐라> - 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53705</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53705"/>
+        <updated>2021-12-11T01:54:27.526Z</updated>
+        <content type="html"><![CDATA[2021.12.13(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 수원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53689</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53689"/>
-        <updated>2021-12-07T09:11:41.702Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.08(수) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 이강원 바이올린 독주회 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53704</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53704"/>
+        <updated>2021-12-11T01:54:27.526Z</updated>
+        <content type="html"><![CDATA[2021.12.13(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 환타 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53691"/>
         <updated>2021-12-07T08:14:44.254Z</updated>
         <content type="html"><![CDATA[2021.12.08(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53690</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53690"/>
-        <updated>2021-12-07T08:14:44.255Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53689</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53689"/>
-        <updated>2021-12-07T08:14:44.256Z</updated>
-        <content type="html"><![CDATA[2021.12.08(수) 02:00]]></content>
     </entry>
 </feed>
