@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-12T08:12:44.034Z</updated>
+    <updated>2021-12-12T09:10:53.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제360회 정기연주회 - 2022 신년음악회 ‘Waltz & Rhapsody’​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53713</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53713"/>
+        <updated>2021-12-12T09:10:53.007Z</updated>
+        <content type="html"><![CDATA[2021.12.13(월) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 강릉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53711</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53698"/>
         <updated>2021-12-09T03:11:30.229Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알타보이즈> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53697</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53697"/>
-        <updated>2021-12-09T01:57:14.310Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 05:00]]></content>
     </entry>
 </feed>
