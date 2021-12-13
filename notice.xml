@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-13T03:11:42.863Z</updated>
+    <updated>2021-12-13T04:14:12.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <잭더리퍼> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53715</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53715"/>
+        <updated>2021-12-13T04:14:02.308Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.20(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53714</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53701"/>
         <updated>2021-12-10T00:36:56.660Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.10(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 성남 앵콜! 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53700</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53700"/>
-        <updated>2021-12-09T09:11:19.049Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content>
     </entry>
 </feed>
