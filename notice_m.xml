@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-13T05:10:40.872Z</updated>
+    <updated>2021-12-13T06:13:46.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53717</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53717"/>
+        <updated>2021-12-13T06:13:45.930Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <잭더리퍼> - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53715</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53702"/>
         <updated>2021-12-10T03:11:16.584Z</updated>
         <content type="html"><![CDATA[2021.12.14(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 부산 해운대 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53701</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53701"/>
-        <updated>2021-12-10T00:37:04.845Z</updated>
-        <content type="html"><![CDATA[2021.12.10(금) 00:00]]></content>
     </entry>
 </feed>
