@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-13T06:13:46.646Z</updated>
+    <updated>2021-12-13T07:11:57.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53717"/>
         <updated>2021-12-13T06:13:45.930Z</updated>
         <content type="html"><![CDATA[2021.12.14(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(충주) 2022 가족뮤지컬 백설공주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53716</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53716"/>
+        <updated>2021-12-13T07:11:54.997Z</updated>
+        <content type="html"><![CDATA[2021.12.14(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <잭더리퍼> - 부산 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53703"/>
         <updated>2021-12-10T09:11:35.061Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김연자 박강성과 함께하는 2022 신년음악회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53702</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53702"/>
-        <updated>2021-12-10T03:11:16.584Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 01:00]]></content>
     </entry>
 </feed>
