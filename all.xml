@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-12T23:10:49.221Z</updated>
+    <updated>2021-12-13T00:36:57.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제360회 정기연주회 - 2022 신년음악회 ‘Waltz & Rhapsody’​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53713"/>
         <updated>2021-12-12T09:10:33.663Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대구 앵콜 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53712</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53712"/>
+        <updated>2021-12-13T00:36:33.270Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.15(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 강릉 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.10(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 2021송년음악회 - 경산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53698</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53698"/>
-        <updated>2021-12-09T03:11:20.702Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 03:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제360회 정기연주회 - 2022 신년음악회 ‘Waltz & Rhapsody’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53713</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53713"/>
         <updated>2021-12-12T09:10:53.007Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대구 앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53712</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53712"/>
+        <updated>2021-12-13T00:36:56.497Z</updated>
+        <content type="html"><![CDATA[2021.12.15(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 강릉 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53699"/>
         <updated>2021-12-09T08:13:18.488Z</updated>
         <content type="html"><![CDATA[2021.12.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 2021송년음악회 - 경산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53698</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53698"/>
-        <updated>2021-12-09T03:11:30.229Z</updated>
-        <content type="html"><![CDATA[2021.12.13(월) 03:00]]></content>
     </entry>
 </feed>
