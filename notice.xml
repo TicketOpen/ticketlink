@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-13T09:15:30.740Z</updated>
+    <updated>2021-12-13T10:12:46.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방역패스] 한경필하모닉 오케스트라 송년음악회 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53718</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53718"/>
+        <updated>2021-12-13T10:12:35.091Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<쇼미더머니10 콘서트: THE CLIMAX> - 부산 추가 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53717</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/53704</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53704"/>
         <updated>2021-12-11T01:54:17.893Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 환타 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53703</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53703"/>
-        <updated>2021-12-10T09:11:21.768Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.13(월) 01:00]]></content>
     </entry>
 </feed>
