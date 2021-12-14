@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-14T01:59:39.691Z</updated>
+    <updated>2021-12-14T02:35:50.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/53712</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53712"/>
         <updated>2021-12-13T00:36:56.497Z</updated>
-        <content type="html"><![CDATA[2021.12.15(수) 00:00]]></content>
+        <content type="html"><![CDATA[2021.12.16(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 강릉 티켓오픈 안내]]></title>
