@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-15T05:10:53.006Z</updated>
+    <updated>2021-12-15T06:12:42.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극〈환상동화〉​3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53724</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53724"/>
+        <updated>2021-12-15T06:12:41.318Z</updated>
+        <content type="html"><![CDATA[2021.12.21(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[댄스씨어터 창 <굿(Exorcism)_사도> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53723</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53710"/>
         <updated>2021-12-11T08:13:09.817Z</updated>
         <content type="html"><![CDATA[2021.12.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] DANGEROUS ACT FATMAN (덴져러스 액트 펫맨) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53709</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53709"/>
-        <updated>2021-12-11T07:11:15.491Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 03:00]]></content>
     </entry>
 </feed>
