@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-15T07:11:49.728Z</updated>
+    <updated>2021-12-15T08:13:47.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구문화예술회관 신년음악회_ 대구시립국악단 204회 정기연주회 <전화위복> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53725</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53725"/>
+        <updated>2021-12-15T08:13:21.473Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극〈환상동화〉​3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53724</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/53711</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53711"/>
         <updated>2021-12-11T08:12:47.740Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 목포 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53710</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53710"/>
-        <updated>2021-12-11T08:12:47.742Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 05:00]]></content>
     </entry>
 </feed>
