@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-14T23:11:24.168Z</updated>
+    <updated>2021-12-15T00:36:00.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2021 최두혁의 춤 〈OPEN SPACE〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53722</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53722"/>
+        <updated>2021-12-15T00:35:57.647Z</updated>
+        <content type="html"><![CDATA[2021.12.15(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] – 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53721</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 전주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53708</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53708"/>
-        <updated>2021-12-11T05:10:08.843Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 부산 동래 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53707</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53707"/>
         <updated>2021-12-11T05:10:08.843Z</updated>
         <content type="html"><![CDATA[2021.12.14(화) 00:00]]></content>
     </entry>
