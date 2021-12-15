@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-15T00:36:00.166Z</updated>
+    <updated>2021-12-15T01:57:12.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[댄스씨어터 창 <굿(Exorcism)_사도> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53723</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53723"/>
+        <updated>2021-12-15T01:56:46.524Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.15(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2021 최두혁의 춤 〈OPEN SPACE〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53722</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53709"/>
         <updated>2021-12-11T07:11:02.632Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53708</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53708"/>
-        <updated>2021-12-11T05:09:55.145Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.14(화) 00:00]]></content>
     </entry>
 </feed>
