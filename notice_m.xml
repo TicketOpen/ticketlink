@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-15T08:13:47.523Z</updated>
+    <updated>2021-12-15T09:11:52.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 이성열 팬미팅 〈The loeYeol〉Online  티켓오픈 공지]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53727</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53727"/>
+        <updated>2021-12-15T09:11:51.382Z</updated>
+        <content type="html"><![CDATA[2021.12.17(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 이성열 팬미팅 〈The loeYeol〉티켓오픈 공지]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53726</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53726"/>
+        <updated>2021-12-15T09:11:51.382Z</updated>
+        <content type="html"><![CDATA[2021.12.17(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구문화예술회관 신년음악회_ 대구시립국악단 204회 정기연주회 <전화위복> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53725</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53713"/>
         <updated>2021-12-12T09:10:53.007Z</updated>
         <content type="html"><![CDATA[2021.12.13(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대구 앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53712</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53712"/>
-        <updated>2021-12-13T00:36:56.497Z</updated>
-        <content type="html"><![CDATA[2021.12.16(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 강릉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53711</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53711"/>
-        <updated>2021-12-11T08:13:09.817Z</updated>
-        <content type="html"><![CDATA[2021.12.14(화) 05:00]]></content>
     </entry>
 </feed>
