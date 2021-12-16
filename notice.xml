@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-16T08:13:35.244Z</updated>
+    <updated>2021-12-16T09:12:02.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [Online] 2021 XIA Ballad & Musical Concert with Orchestra Vol. 7 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53736</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53736"/>
+        <updated>2021-12-16T09:11:53.927Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.17(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 거미 전국투어 콘서트 <다시, Winter Ballad> - 진주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53735</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53722"/>
         <updated>2021-12-15T00:35:48.309Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.15(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 노을 연말 투어 콘서트 [노을이 내린 밤] – 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53721</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53721"/>
-        <updated>2021-12-14T06:12:57.103Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.16(목) 05:00]]></content>
     </entry>
 </feed>
