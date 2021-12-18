@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-18T07:11:24.186Z</updated>
+    <updated>2021-12-18T08:12:56.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 오르간 오딧세이 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53741</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53741"/>
+        <updated>2021-12-18T08:12:45.712Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.21(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라포엠 단독 콘서트 〈ECLIPSE〉 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53740</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53726"/>
         <updated>2021-12-15T09:11:27.447Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.17(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구문화예술회관 신년음악회_ 대구시립국악단 204회 정기연주회 <전화위복> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53725</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53725"/>
-        <updated>2021-12-15T08:13:21.473Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.17(금) 05:00]]></content>
     </entry>
 </feed>
