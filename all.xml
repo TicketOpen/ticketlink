@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-20T04:14:58.282Z</updated>
+    <updated>2021-12-20T05:12:17.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​더데빌〉​ 3차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53742</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53742"/>
+        <updated>2021-12-20T05:12:07.837Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.24(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 오르간 오딧세이 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53741</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.17(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 이성열 팬미팅 〈The loeYeol〉티켓오픈 공지 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53726</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53726"/>
-        <updated>2021-12-15T09:11:27.447Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.17(금) 09:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈​더데빌〉​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53742</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53742"/>
+        <updated>2021-12-20T05:12:16.615Z</updated>
+        <content type="html"><![CDATA[2021.12.24(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 오르간 오딧세이 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[[단독판매] 2022 이성열 팬미팅 〈The loeYeol〉Online  티켓오픈 공지 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53727</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53727"/>
-        <updated>2021-12-15T09:11:51.382Z</updated>
-        <content type="html"><![CDATA[2021.12.17(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 이성열 팬미팅 〈The loeYeol〉티켓오픈 공지 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53726</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53726"/>
         <updated>2021-12-15T09:11:51.382Z</updated>
         <content type="html"><![CDATA[2021.12.17(금) 09:00]]></content>
     </entry>
