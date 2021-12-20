@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-20T09:11:55.911Z</updated>
+    <updated>2021-12-20T10:12:21.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창작 어린이 뮤지컬 `우리엄마 최고 !`​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53743</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53743"/>
+        <updated>2021-12-20T10:12:20.865Z</updated>
+        <content type="html"><![CDATA[2021.12.21(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​더데빌〉​ 3차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53742</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53728"/>
         <updated>2021-12-16T00:36:31.161Z</updated>
         <content type="html"><![CDATA[2021.12.21(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 이성열 팬미팅 〈The loeYeol〉Online  티켓오픈 공지]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53727</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53727"/>
-        <updated>2021-12-15T09:11:51.382Z</updated>
-        <content type="html"><![CDATA[2021.12.17(금) 09:00]]></content>
     </entry>
 </feed>
