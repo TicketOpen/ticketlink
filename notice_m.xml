@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-22T05:14:25.060Z</updated>
+    <updated>2021-12-22T06:14:28.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 정연호 피아노 리사이틀 (Yun-Ho Jeong Piano Recital) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53747</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53747"/>
+        <updated>2021-12-22T06:14:28.117Z</updated>
+        <content type="html"><![CDATA[2021.12.23(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트, 로미오와 줄리엣 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53746</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 대구​ ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53732</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53732"/>
-        <updated>2021-12-16T00:36:31.160Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53731</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53731"/>
         <updated>2021-12-16T00:36:31.160Z</updated>
         <content type="html"><![CDATA[2021.12.23(목) 01:00]]></content>
     </entry>
