@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-24T00:37:07.672Z</updated>
+    <updated>2021-12-24T01:58:29.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈이퀄〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53756</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53756"/>
+        <updated>2021-12-24T01:58:29.235Z</updated>
+        <content type="html"><![CDATA[2021.12.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53755</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53742"/>
         <updated>2021-12-20T05:12:16.615Z</updated>
         <content type="html"><![CDATA[2021.12.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 오르간 오딧세이 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53741</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53741"/>
-        <updated>2021-12-18T08:12:55.734Z</updated>
-        <content type="html"><![CDATA[2021.12.21(화) 05:00]]></content>
     </entry>
 </feed>
