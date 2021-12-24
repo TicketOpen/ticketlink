@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-24T01:58:29.930Z</updated>
+    <updated>2021-12-24T02:34:17.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콜렉터(collecter) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53757</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53757"/>
+        <updated>2021-12-24T02:34:09.120Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.27(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이퀄〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53756</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53743"/>
         <updated>2021-12-20T10:12:12.054Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.21(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​더데빌〉​ 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53742</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53742"/>
-        <updated>2021-12-20T05:12:07.837Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.24(금) 05:00]]></content>
     </entry>
 </feed>
