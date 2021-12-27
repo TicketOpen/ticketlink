@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-27T04:14:08.057Z</updated>
+    <updated>2021-12-27T05:12:35.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53766</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53766"/>
+        <updated>2021-12-27T05:12:22.898Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 천안 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53765</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53765"/>
+        <updated>2021-12-27T05:12:22.909Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53764</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53764"/>
+        <updated>2021-12-27T05:12:22.909Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 순천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53763</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53763"/>
+        <updated>2021-12-27T05:12:22.909Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 부천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53762</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53762"/>
+        <updated>2021-12-27T05:12:22.911Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 광주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53761</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53761"/>
+        <updated>2021-12-27T05:12:22.913Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 목포 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53760</id>
@@ -68,46 +110,46 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.23(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 인 하우스 아티스트 시리즈 II. 신창용 (03.28) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53751</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53751"/>
-        <updated>2021-12-22T13:20:15.337Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.23(목) 05:00]]></content>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53766</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53766"/>
+        <updated>2021-12-27T05:12:32.876Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 인 하우스 아티스트 시리즈 I. 문태국 (09.16) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53750</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53750"/>
-        <updated>2021-12-22T13:20:15.341Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.23(목) 05:00]]></content>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53765</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53765"/>
+        <updated>2021-12-27T05:12:32.876Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 인 하우스 아티스트 시리즈 I. 문태국 (03.18) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53749</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53749"/>
-        <updated>2021-12-22T13:20:15.343Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.23(목) 05:00]]></content>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53764</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53764"/>
+        <updated>2021-12-27T05:12:32.880Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Supreme Live - 신명섭, 조윤성, 황호규, 신동진 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53748</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53748"/>
-        <updated>2021-12-22T07:11:20.430Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.24(금) 01:00]]></content>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 순천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53763</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53763"/>
+        <updated>2021-12-27T05:12:32.880Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 정연호 피아노 리사이틀 (Yun-Ho Jeong Piano Recital) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53747</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53747"/>
-        <updated>2021-12-22T06:14:21.312Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.23(목) 05:00]]></content>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53762</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53762"/>
+        <updated>2021-12-27T05:12:32.880Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트, 로미오와 줄리엣 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53746</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53746"/>
-        <updated>2021-12-22T02:01:14.901Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.22(수) 08:00]]></content>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53761</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53761"/>
+        <updated>2021-12-27T05:12:32.880Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -171,47 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53752"/>
         <updated>2021-12-22T13:20:39.170Z</updated>
         <content type="html"><![CDATA[2021.12.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 인 하우스 아티스트 시리즈 II. 신창용 (03.28) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53751</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53751"/>
-        <updated>2021-12-22T13:20:39.171Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 인 하우스 아티스트 시리즈 I. 문태국 (09.16) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53750</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53750"/>
-        <updated>2021-12-22T13:20:39.176Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 인 하우스 아티스트 시리즈 I. 문태국 (03.18) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53749</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53749"/>
-        <updated>2021-12-22T13:20:39.177Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Love Supreme Live - 신명섭, 조윤성, 황호규, 신동진 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53748</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53748"/>
-        <updated>2021-12-22T07:11:29.273Z</updated>
-        <content type="html"><![CDATA[2021.12.24(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 정연호 피아노 리사이틀 (Yun-Ho Jeong Piano Recital) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53747</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53747"/>
-        <updated>2021-12-22T06:14:28.117Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트, 로미오와 줄리엣 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53746</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53746"/>
-        <updated>2021-12-22T02:01:23.399Z</updated>
-        <content type="html"><![CDATA[2021.12.22(수) 08:00]]></content>
     </entry>
 </feed>
