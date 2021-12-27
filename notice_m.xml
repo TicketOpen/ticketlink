@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-27T06:14:21.400Z</updated>
+    <updated>2021-12-27T07:11:27.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이은결 〈THE ILLUSION〉 – 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53768</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53768"/>
+        <updated>2021-12-27T07:11:26.480Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 렛잇고2 - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53767</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53767"/>
+        <updated>2021-12-27T07:11:26.486Z</updated>
+        <content type="html"><![CDATA[2021.12.28(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 춘천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53766</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53754"/>
         <updated>2021-12-23T06:13:56.859Z</updated>
         <content type="html"><![CDATA[2021.12.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬〈엄마까투리 - 먹구렁이와 생일파티〉- 광주]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53753</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53753"/>
-        <updated>2021-12-23T04:14:15.005Z</updated>
-        <content type="html"><![CDATA[2021.12.27(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 인 하우스 아티스트 시리즈 II. 신창용 (11.26) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53752</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53752"/>
-        <updated>2021-12-22T13:20:39.170Z</updated>
-        <content type="html"><![CDATA[2021.12.23(목) 05:00]]></content>
     </entry>
 </feed>
