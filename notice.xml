@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-28T06:14:07.474Z</updated>
+    <updated>2021-12-28T07:11:43.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 양지원 신년콘서트 “​금의환향”​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53772</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53772"/>
+        <updated>2021-12-28T07:11:28.837Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.31(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔니오 모리꼬네를 위하여 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53771</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53758"/>
         <updated>2021-12-24T07:11:21.957Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.28(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜렉터(collecter) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53757</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53757"/>
-        <updated>2021-12-24T02:34:09.120Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.27(월) 05:00]]></content>
     </entry>
 </feed>
