@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-28T07:11:43.361Z</updated>
+    <updated>2021-12-28T08:14:15.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애니메이션 심포니 오케스트라 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53773</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53773"/>
+        <updated>2021-12-28T08:14:15.175Z</updated>
+        <content type="html"><![CDATA[2021.12.30(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 양지원 신년콘서트 “​금의환향”​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53772</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53759"/>
         <updated>2021-12-24T08:13:34.367Z</updated>
         <content type="html"><![CDATA[2021.12.27(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 렛잇고2 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53758</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53758"/>
-        <updated>2021-12-24T07:11:35.453Z</updated>
-        <content type="html"><![CDATA[2021.12.28(화) 06:00]]></content>
     </entry>
 </feed>
