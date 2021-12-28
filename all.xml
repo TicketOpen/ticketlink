@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-28T00:36:58.188Z</updated>
+    <updated>2021-12-28T01:58:53.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬〈​엄마까투리 - 먹구렁이와 생일파티〉​- 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53770</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53770"/>
+        <updated>2021-12-28T01:58:45.854Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.29(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 안양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53769</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.28(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53755</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53755"/>
-        <updated>2021-12-23T07:10:42.550Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.24(금) 04:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬〈​엄마까투리 - 먹구렁이와 생일파티〉​- 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53770</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53770"/>
+        <updated>2021-12-28T01:58:53.045Z</updated>
+        <content type="html"><![CDATA[2021.12.29(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53756"/>
         <updated>2021-12-24T01:58:29.235Z</updated>
         <content type="html"><![CDATA[2021.12.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53755</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53755"/>
-        <updated>2021-12-23T07:10:51.710Z</updated>
-        <content type="html"><![CDATA[2021.12.24(금) 04:00]]></content>
     </entry>
 </feed>
