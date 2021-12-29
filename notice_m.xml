@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-29T00:36:28.380Z</updated>
+    <updated>2021-12-29T01:59:00.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(의정부) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53777</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53777"/>
+        <updated>2021-12-29T01:58:57.763Z</updated>
+        <content type="html"><![CDATA[2021.12.31(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(문경) 2022 가족뮤지컬 백설공주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53776</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53776"/>
+        <updated>2021-12-29T01:58:57.776Z</updated>
+        <content type="html"><![CDATA[2021.12.31(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 최현우 〈The Brain〉 - 고양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53775</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53775"/>
+        <updated>2021-12-29T01:58:57.777Z</updated>
+        <content type="html"><![CDATA[2021.12.31(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 제주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53774</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53774"/>
+        <updated>2021-12-29T01:58:57.777Z</updated>
+        <content type="html"><![CDATA[2021.12.31(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애니메이션 심포니 오케스트라 콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53773</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53763"/>
         <updated>2021-12-27T05:12:32.880Z</updated>
         <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 부천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53762</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53762"/>
-        <updated>2021-12-27T05:12:32.880Z</updated>
-        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53761</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53761"/>
-        <updated>2021-12-27T05:12:32.880Z</updated>
-        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 목포 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53760</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53760"/>
-        <updated>2021-12-24T08:13:34.359Z</updated>
-        <content type="html"><![CDATA[2021.12.27(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 안동 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53759</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53759"/>
-        <updated>2021-12-24T08:13:34.367Z</updated>
-        <content type="html"><![CDATA[2021.12.27(월) 03:00]]></content>
     </entry>
 </feed>
