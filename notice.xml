@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-29T04:15:26.753Z</updated>
+    <updated>2021-12-29T05:12:03.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 박강성 & 김지연의 아웃 오브더 블루 - 이천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53780</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53780"/>
+        <updated>2021-12-29T05:11:53.978Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.28(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈하데스타운〉 마지막 티켓 오픈! (Musical Hadestown) 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53779</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53779"/>
+        <updated>2021-12-29T05:11:53.988Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 하남 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53778</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/53766</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53766"/>
         <updated>2021-12-27T05:12:22.898Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 천안 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53765</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53765"/>
-        <updated>2021-12-27T05:12:22.909Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53764</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53764"/>
-        <updated>2021-12-27T05:12:22.909Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
     </entry>
 </feed>
