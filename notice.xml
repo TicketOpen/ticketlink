@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2021-12-30T06:14:03.453Z</updated>
+    <updated>2021-12-30T07:11:36.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 성남​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53782</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53782"/>
+        <updated>2021-12-30T07:11:26.043Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.03(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬  〈​미녀와야수〉​ - 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53781</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53768"/>
         <updated>2021-12-27T07:11:16.888Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 렛잇고2 - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53767</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53767"/>
-        <updated>2021-12-27T07:11:16.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.28(화) 06:00]]></content>
     </entry>
 </feed>
