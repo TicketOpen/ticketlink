@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-30T02:34:22.140Z</updated>
+    <updated>2021-12-30T03:11:24.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬  〈​미녀와야수〉​ - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53781</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53781"/>
+        <updated>2021-12-30T03:11:23.890Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박강성 & 김지연의 아웃 오브더 블루 - 이천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53780</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53767"/>
         <updated>2021-12-27T07:11:26.486Z</updated>
         <content type="html"><![CDATA[2021.12.28(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 춘천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53766</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53766"/>
-        <updated>2021-12-27T05:12:32.876Z</updated>
-        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
 </feed>

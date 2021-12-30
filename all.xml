@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-30T02:34:22.136Z</updated>
+    <updated>2021-12-30T03:11:24.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬  〈​미녀와야수〉​ - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53781</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53781"/>
+        <updated>2021-12-30T03:11:10.634Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박강성 & 김지연의 아웃 오브더 블루 - 이천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53780</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.28(화) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53766</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53766"/>
-        <updated>2021-12-27T05:12:22.898Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 01:00]]></content>
+        <title type="html"><![CDATA[어린이뮤지컬  〈​미녀와야수〉​ - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53781</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53781"/>
+        <updated>2021-12-30T03:11:23.890Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박강성 & 김지연의 아웃 오브더 블루 - 이천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53767"/>
         <updated>2021-12-27T07:11:26.486Z</updated>
         <content type="html"><![CDATA[2021.12.28(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53766</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53766"/>
-        <updated>2021-12-27T05:12:32.876Z</updated>
-        <content type="html"><![CDATA[2021.12.30(목) 01:00]]></content>
     </entry>
 </feed>
