@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2021-12-31T06:13:21.470Z</updated>
+    <updated>2021-12-31T07:11:35.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 〈신데렐라〉 - 안동 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53784</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53784"/>
+        <updated>2021-12-31T07:11:32.967Z</updated>
+        <content type="html"><![CDATA[2022.01.04(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 개막 확정 및 티켓 오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53783</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53770"/>
         <updated>2021-12-28T01:58:53.045Z</updated>
         <content type="html"><![CDATA[2021.12.29(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 안양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53769</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53769"/>
-        <updated>2021-12-28T00:36:55.616Z</updated>
-        <content type="html"><![CDATA[2021.12.30(목) 00:00]]></content>
     </entry>
 </feed>
