@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-03T03:12:28.999Z</updated>
+    <updated>2022-01-03T04:14:18.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53789"/>
         <updated>2022-01-03T03:12:11.681Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온에어 3차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53788</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53788"/>
+        <updated>2022-01-03T04:14:07.684Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈잭더리퍼〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53786</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53786"/>
+        <updated>2022-01-03T04:14:07.690Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 개막 확정 및 티켓 오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53773"/>
         <updated>2021-12-28T08:14:02.088Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 양지원 신년콘서트 “​금의환향”​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53772</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53772"/>
-        <updated>2021-12-28T07:11:28.837Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.31(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔니오 모리꼬네를 위하여 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53771</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53771"/>
-        <updated>2021-12-28T03:11:07.486Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.30(목) 05:00]]></content>
     </entry>
 </feed>
