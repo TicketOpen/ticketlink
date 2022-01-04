@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-04T08:14:08.082Z</updated>
+    <updated>2022-01-04T09:11:22.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 김포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53802</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53802"/>
+        <updated>2022-01-04T09:11:10.072Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.05(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈2022 부활 밸런타인 콘서트〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53801</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53788"/>
         <updated>2022-01-03T04:14:07.684Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021-22 YB 전국투어 콘서트〈LIGHTS〉- 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53787</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53787"/>
-        <updated>2022-01-03T05:12:18.087Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.06(목) 05:00]]></content>
     </entry>
 </feed>
