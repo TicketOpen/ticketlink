@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-04T00:38:13.021Z</updated>
+    <updated>2022-01-04T02:01:40.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 특집 가정의달 연극 “장수상회” - 제주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53794</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53794"/>
+        <updated>2022-01-04T02:01:16.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.05(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［창원］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53793</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53793"/>
+        <updated>2022-01-04T02:01:16.234Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.07(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 대구 앵콜 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53792</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53779"/>
         <updated>2021-12-29T05:11:53.988Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 하남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53778</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53778"/>
-        <updated>2021-12-29T02:34:23.511Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.31(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(의정부) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53777</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53777"/>
-        <updated>2021-12-29T01:58:34.849Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2021.12.31(금) 00:00]]></content>
     </entry>
 </feed>
