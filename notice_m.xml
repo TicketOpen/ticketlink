@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-05T04:14:40.398Z</updated>
+    <updated>2022-01-05T05:12:22.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈더데빌〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53805</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53805"/>
+        <updated>2022-01-05T05:12:21.888Z</updated>
+        <content type="html"><![CDATA[2022.01.11(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 청주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53804</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53791"/>
         <updated>2022-01-03T07:12:01.348Z</updated>
         <content type="html"><![CDATA[2022.01.06(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사안나도 깜짝 놀란 마술 콘서트 -문산 (파주시) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53790</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53790"/>
-        <updated>2022-01-03T03:12:26.319Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 01:00]]></content>
     </entry>
 </feed>
