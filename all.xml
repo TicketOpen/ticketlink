@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-05T00:40:16.798Z</updated>
+    <updated>2022-01-05T02:03:38.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53804</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53804"/>
+        <updated>2022-01-05T02:03:24.344Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.07(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 남양주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53803</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 신데렐라 - 인천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53789</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53789"/>
-        <updated>2022-01-03T03:12:11.681Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.04(화) 00:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 공룡탐험대〉 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53804</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53804"/>
+        <updated>2022-01-05T02:03:37.833Z</updated>
+        <content type="html"><![CDATA[2022.01.07(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 남양주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53790"/>
         <updated>2022-01-03T03:12:26.319Z</updated>
         <content type="html"><![CDATA[2022.01.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 신데렐라 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53789</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53789"/>
-        <updated>2022-01-03T03:12:26.319Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 00:00]]></content>
     </entry>
 </feed>
