@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-06T00:40:35.302Z</updated>
+    <updated>2022-01-06T02:11:02.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 안성 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53809</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53809"/>
+        <updated>2022-01-06T02:11:01.823Z</updated>
+        <content type="html"><![CDATA[2022.01.10(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 신년콘서트 - 남상일의 ‘놀다歌 show’ (경주) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53808</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53808"/>
+        <updated>2022-01-06T02:11:01.824Z</updated>
+        <content type="html"><![CDATA[2022.01.12(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 박강성 & 김지연의 아웃 오브더 블루 - 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53807</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53807"/>
+        <updated>2022-01-06T02:11:01.826Z</updated>
+        <content type="html"><![CDATA[2022.01.10(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동주 하늘과 바람과 별...노래 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53806</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53795"/>
         <updated>2022-01-05T23:11:25.298Z</updated>
         <content type="html"><![CDATA[2022.01.07(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 특집 가정의달 연극 “장수상회” - 제주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53794</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53794"/>
-        <updated>2022-01-05T23:11:25.300Z</updated>
-        <content type="html"><![CDATA[2022.01.05(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［창원］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53793</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53793"/>
-        <updated>2022-01-05T23:11:25.301Z</updated>
-        <content type="html"><![CDATA[2022.01.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 대구 앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53792</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53792"/>
-        <updated>2022-01-05T23:11:25.302Z</updated>
-        <content type="html"><![CDATA[2022.01.04(화) 02:00]]></content>
     </entry>
 </feed>
