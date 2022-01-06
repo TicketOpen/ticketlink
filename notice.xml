@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-06T02:11:02.484Z</updated>
+    <updated>2022-01-06T03:14:52.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 안성 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53810</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53810"/>
+        <updated>2022-01-06T03:14:31.559Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.07(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번개맨 뮤지컬 : 검은 번개맨의 정체는? - 안성 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53809</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 제주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53796</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53796"/>
-        <updated>2022-01-04T05:14:14.501Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.07(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53795</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53795"/>
         <updated>2022-01-04T05:14:14.501Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.07(금) 02:00]]></content>
     </entry>
