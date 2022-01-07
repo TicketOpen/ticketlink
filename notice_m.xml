@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-07T00:41:04.101Z</updated>
+    <updated>2022-01-07T02:09:56.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트  – 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53818</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53818"/>
+        <updated>2022-01-07T02:09:53.985Z</updated>
+        <content type="html"><![CDATA[2022.01.11(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 천안 ​​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53817</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53804"/>
         <updated>2022-01-05T23:11:25.293Z</updated>
         <content type="html"><![CDATA[2022.01.07(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 남양주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53803</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53803"/>
-        <updated>2022-01-05T23:11:25.293Z</updated>
-        <content type="html"><![CDATA[2022.01.05(수) 00:00]]></content>
     </entry>
 </feed>
