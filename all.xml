@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T05:12:47.905Z</updated>
+    <updated>2022-01-07T06:13:55.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 진주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53823</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53823"/>
+        <updated>2022-01-07T06:13:46.506Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.11(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 소향X정동하 - 안산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53820</id>
@@ -16,7 +23,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/53819</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53819"/>
         <updated>2022-01-07T05:12:38.307Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트  – 수원 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.10(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동주 하늘과 바람과 별...노래 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53806</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53806"/>
-        <updated>2022-01-06T00:40:24.669Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.06(목) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 진주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53823</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53823"/>
+        <updated>2022-01-07T06:13:55.218Z</updated>
+        <content type="html"><![CDATA[2022.01.11(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 소향X정동하 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -121,7 +128,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/53819</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53819"/>
         <updated>2022-01-07T05:12:47.135Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 05:00]]></content>
+        <content type="html"><![CDATA[2022.01.13(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-22 백지영 전국투어 콘서트  – 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53807"/>
         <updated>2022-01-06T02:11:01.826Z</updated>
         <content type="html"><![CDATA[2022.01.10(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동주 하늘과 바람과 별...노래 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53806</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53806"/>
-        <updated>2022-01-06T00:40:34.493Z</updated>
-        <content type="html"><![CDATA[2022.01.06(목) 05:00]]></content>
     </entry>
 </feed>
