@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-07T06:13:55.936Z</updated>
+    <updated>2022-01-07T07:11:34.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53823"/>
         <updated>2022-01-07T06:13:46.506Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.11(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리 - 먹구렁이와 생일파티> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53822</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53822"/>
+        <updated>2022-01-07T07:11:16.105Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.11(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리 - 먹구렁이와 생일파티> - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53821</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53821"/>
+        <updated>2022-01-07T07:11:16.109Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.11(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 소향X정동하 - 안산 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53809"/>
         <updated>2022-01-06T02:10:48.137Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.10(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 신년콘서트 - 남상일의 ‘놀다歌 show’ (경주) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53808</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53808"/>
-        <updated>2022-01-06T02:10:48.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.12(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박강성 & 김지연의 아웃 오브더 블루 - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53807</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53807"/>
-        <updated>2022-01-06T02:10:48.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.10(월) 04:00]]></content>
     </entry>
 </feed>
