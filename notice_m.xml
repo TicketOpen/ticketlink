@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-10T04:14:13.952Z</updated>
+    <updated>2022-01-10T05:13:20.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극〈환상동화〉​마지막​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53832</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53832"/>
+        <updated>2022-01-10T05:13:19.560Z</updated>
+        <content type="html"><![CDATA[2022.01.19(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창작 어린이 뮤지컬 ‘우리엄마 최고 !’ - 홍성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53831</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53818"/>
         <updated>2022-01-07T02:09:53.985Z</updated>
         <content type="html"><![CDATA[2022.01.11(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 천안 ​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53817</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53817"/>
-        <updated>2022-01-07T00:41:01.512Z</updated>
-        <content type="html"><![CDATA[2022.01.11(화) 00:00]]></content>
     </entry>
 </feed>
