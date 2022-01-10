@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-10T07:11:53.011Z</updated>
+    <updated>2022-01-10T08:14:43.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53834</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53834"/>
+        <updated>2022-01-10T08:14:34.221Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.12(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Innovative Classic] 피아졸라, 루이 암스트롱을 만나다 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53833</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 소향X정동하 - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53819</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53819"/>
-        <updated>2022-01-07T05:12:38.307Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53834</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53834"/>
+        <updated>2022-01-10T08:14:43.022Z</updated>
+        <content type="html"><![CDATA[2022.01.12(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Innovative Classic] 피아졸라, 루이 암스트롱을 만나다 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53820"/>
         <updated>2022-01-07T05:12:47.134Z</updated>
         <content type="html"><![CDATA[2022.01.13(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 소향X정동하 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53819</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53819"/>
-        <updated>2022-01-07T05:12:47.135Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 01:00]]></content>
     </entry>
 </feed>
