@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-10T09:12:15.932Z</updated>
+    <updated>2022-01-10T10:12:48.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공지] NHN티켓링크 개인정보처리방침 변경에 대한 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53836</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53836"/>
+        <updated>2022-01-10T10:12:46.299Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/53836" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] NHN티켓링크 개인정보처리방침 변경에 대한 안내</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53834</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53821"/>
         <updated>2022-01-07T07:11:33.650Z</updated>
         <content type="html"><![CDATA[2022.01.11(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 소향X정동하 - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53820</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53820"/>
-        <updated>2022-01-07T05:12:47.134Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 05:00]]></content>
     </entry>
 </feed>
