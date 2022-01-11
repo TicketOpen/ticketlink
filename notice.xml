@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-11T03:14:20.185Z</updated>
+    <updated>2022-01-11T04:14:32.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박준병 귀국 파이프오르간 독주회​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53839</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53839"/>
+        <updated>2022-01-11T04:14:23.153Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.12(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ - 1차​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53838</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53838"/>
         <updated>2022-01-11T03:14:09.215Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.14(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테 디 콰트로 콘서트: 메타포닉 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53837</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53837"/>
-        <updated>2022-01-11T02:03:06.000Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.14(금) 05:00]]></content>
     </entry>
     <entry>
