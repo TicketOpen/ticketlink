@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T07:11:35.332Z</updated>
+    <updated>2022-01-11T08:14:18.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 〈콧구멍을 후비면〉 - 원주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53844</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53844"/>
+        <updated>2022-01-11T08:14:04.711Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제361회 정기연주회 '타임머신'​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53843</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53843"/>
+        <updated>2022-01-11T08:14:04.718Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콜렉터(collecter)​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53842</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53842"/>
         <updated>2022-01-11T06:13:37.543Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 심수봉 전국투어콘서트 - 천안 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53841</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53841"/>
-        <updated>2022-01-11T05:11:41.124Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 창원 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,11 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 울산 ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53827</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53827"/>
-        <updated>2022-01-10T02:01:32.208Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
+        <title type="html"><![CDATA[어린이 뮤지컬 〈콧구멍을 후비면〉 - 원주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53844</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53844"/>
+        <updated>2022-01-11T08:14:18.079Z</updated>
+        <content type="html"><![CDATA[2022.01.13(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제361회 정기연주회 '타임머신'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53843</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53843"/>
+        <updated>2022-01-11T08:14:18.079Z</updated>
+        <content type="html"><![CDATA[2022.01.13(목) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콜렉터(collecter)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,13 +129,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53842"/>
         <updated>2022-01-11T06:13:46.670Z</updated>
         <content type="html"><![CDATA[2022.01.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 심수봉 전국투어콘서트 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53841</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53841"/>
-        <updated>2022-01-11T05:11:50.488Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53828</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53828"/>
         <updated>2022-01-10T02:01:39.138Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 울산 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53827</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53827"/>
-        <updated>2022-01-10T02:01:39.145Z</updated>
         <content type="html"><![CDATA[2022.01.13(목) 01:00]]></content>
     </entry>
 </feed>
