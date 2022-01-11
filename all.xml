@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-11T04:14:32.228Z</updated>
+    <updated>2022-01-11T05:11:51.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 심수봉 전국투어콘서트 - 천안 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53841</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53841"/>
+        <updated>2022-01-11T05:11:41.124Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53840</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53840"/>
+        <updated>2022-01-11T05:11:41.126Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.14(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박준병 귀국 파이프오르간 독주회​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53839</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53825</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53825"/>
-        <updated>2022-01-10T02:01:32.218Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.12(수) 01:00]]></content>
+        <title type="html"><![CDATA[2022 심수봉 전국투어콘서트 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53841</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53841"/>
+        <updated>2022-01-11T05:11:50.488Z</updated>
+        <content type="html"><![CDATA[2022.01.13(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 울산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53824</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53824"/>
-        <updated>2022-01-10T00:38:16.617Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.12(수) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53840</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53840"/>
+        <updated>2022-01-11T05:11:50.490Z</updated>
+        <content type="html"><![CDATA[2022.01.14(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박준병 귀국 파이프오르간 독주회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -129,13 +143,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53836"/>
         <updated>2022-01-10T10:12:46.299Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/53836" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] NHN티켓링크 개인정보처리방침 변경에 대한 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53835</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53835"/>
-        <updated>2022-01-11T02:03:14.561Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53825"/>
         <updated>2022-01-10T02:01:39.147Z</updated>
         <content type="html"><![CDATA[2022.01.12(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53824</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53824"/>
-        <updated>2022-01-10T00:38:25.775Z</updated>
-        <content type="html"><![CDATA[2022.01.12(수) 00:00]]></content>
     </entry>
 </feed>
