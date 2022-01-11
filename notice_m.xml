@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-11T08:14:18.776Z</updated>
+    <updated>2022-01-11T09:11:54.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  네 손을 위한 살롱콘서트 〈​강지영 정나영 피아노 듀오 리사이틀〉​ - 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53845</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53845"/>
+        <updated>2022-01-11T09:11:51.353Z</updated>
+        <content type="html"><![CDATA[2022.01.12(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 〈콧구멍을 후비면〉 - 원주​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53844</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 전주​ ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53829</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53829"/>
-        <updated>2022-01-10T02:01:39.138Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 안양 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53828</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53828"/>
         <updated>2022-01-10T02:01:39.138Z</updated>
         <content type="html"><![CDATA[2022.01.13(목) 01:00]]></content>
     </entry>
