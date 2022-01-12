@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-12T00:42:18.898Z</updated>
+    <updated>2022-01-12T02:02:12.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품악극 <불효자는 웁니다> - 밀양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53847</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53847"/>
+        <updated>2022-01-12T02:01:59.838Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.21(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명품악극 <불효자는 웁니다> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53846</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53846"/>
+        <updated>2022-01-12T02:01:59.855Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.18(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  네 손을 위한 살롱콘서트 〈​강지영 정나영 피아노 듀오 리사이틀〉​ - 대구​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53845</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53831"/>
         <updated>2022-01-10T02:43:09.878Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53830</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53830"/>
-        <updated>2022-01-10T02:01:32.198Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 전주​ ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53829</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53829"/>
-        <updated>2022-01-10T02:01:32.206Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 01:00]]></content>
     </entry>
 </feed>
