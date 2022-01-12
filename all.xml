@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T09:11:16.233Z</updated>
+    <updated>2022-01-12T10:12:27.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53852</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53852"/>
+        <updated>2022-01-12T10:12:16.524Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.14(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 인천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53851</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[2022.01.10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 포항 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53835</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53835"/>
-        <updated>2022-01-11T02:03:06.000Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.13(목) 03:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53852</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53852"/>
+        <updated>2022-01-12T10:12:24.466Z</updated>
+        <content type="html"><![CDATA[2022.01.14(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53836"/>
         <updated>2022-01-10T10:12:46.299Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/53836" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] NHN티켓링크 개인정보처리방침 변경에 대한 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53835</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53835"/>
-        <updated>2022-01-11T06:13:46.679Z</updated>
-        <content type="html"><![CDATA[2022.01.13(목) 03:00]]></content>
     </entry>
 </feed>
