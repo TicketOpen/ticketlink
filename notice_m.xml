@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-13T05:12:58.348Z</updated>
+    <updated>2022-01-13T06:13:53.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​썸씽로튼〉​ 김동완, 최재림 뉴캐스트 출격! 3차​ 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53857</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53857"/>
+        <updated>2022-01-13T06:13:53.164Z</updated>
+        <content type="html"><![CDATA[2022.01.18(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 신년 음악회 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53856</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53843"/>
         <updated>2022-01-11T08:14:18.079Z</updated>
         <content type="html"><![CDATA[2022.01.13(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콜렉터(collecter)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53842</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53842"/>
-        <updated>2022-01-11T06:13:46.670Z</updated>
-        <content type="html"><![CDATA[2022.01.12(수) 05:00]]></content>
     </entry>
 </feed>
