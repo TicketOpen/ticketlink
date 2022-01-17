@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-17T00:39:15.355Z</updated>
+    <updated>2022-01-17T02:03:52.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53861</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53861"/>
+        <updated>2022-01-17T02:03:51.791Z</updated>
+        <content type="html"><![CDATA[2022.01.18(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈엄마까투리 - 먹구렁이와 생일파티〉 - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53860</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53847"/>
         <updated>2022-01-12T03:14:10.198Z</updated>
         <content type="html"><![CDATA[2022.01.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극 <불효자는 웁니다> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53846</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53846"/>
-        <updated>2022-01-12T03:14:10.203Z</updated>
-        <content type="html"><![CDATA[2022.01.18(화) 05:00]]></content>
     </entry>
 </feed>
