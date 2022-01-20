@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-20T05:10:28.879Z</updated>
+    <updated>2022-01-20T06:14:11.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 <피터팬> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53879</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53879"/>
+        <updated>2022-01-20T06:14:01.457Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.20(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(양산) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53878</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.20(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 당진​ ​​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53864</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53864"/>
-        <updated>2022-01-17T10:12:52.039Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.18(화) 01:00]]></content>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 <피터팬> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53879</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53879"/>
+        <updated>2022-01-20T06:14:10.516Z</updated>
+        <content type="html"><![CDATA[2022.01.20(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(양산) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53865"/>
         <updated>2022-01-18T00:41:03.227Z</updated>
         <content type="html"><![CDATA[2022.01.20(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 당진​ ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53864</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53864"/>
-        <updated>2022-01-17T10:12:59.945Z</updated>
-        <content type="html"><![CDATA[2022.01.18(화) 01:00]]></content>
     </entry>
 </feed>
