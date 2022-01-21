@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-21T05:09:28.356Z</updated>
+    <updated>2022-01-21T06:13:14.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 광주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53887</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53887"/>
+        <updated>2022-01-21T06:13:05.669Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밤하늘의별을 with my friends 첫 번째이야기 - 서울 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53886</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53886"/>
+        <updated>2022-01-21T06:13:05.671Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.27(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 안티고네 : 복종하지 않음을 선택하다 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53885</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.19(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈해시태그〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53871</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53871"/>
-        <updated>2022-01-18T05:13:39.783Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.24(월) 05:00]]></content>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53887</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53887"/>
+        <updated>2022-01-21T06:13:13.822Z</updated>
+        <content type="html"><![CDATA[2022.01.24(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 사)보훈무용예술협회 구미시지부 무용제 - 구미 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53870</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53870"/>
-        <updated>2022-01-18T03:14:14.205Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.19(수) 01:00]]></content>
+        <title type="html"><![CDATA[밤하늘의별을 with my friends 첫 번째이야기 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53886</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53886"/>
+        <updated>2022-01-21T06:13:13.823Z</updated>
+        <content type="html"><![CDATA[2022.01.27(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 안티고네 : 복종하지 않음을 선택하다 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53872</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53872"/>
         <updated>2022-01-18T06:12:39.954Z</updated>
-        <content type="html"><![CDATA[2022.01.19(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈해시태그〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53871</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53871"/>
-        <updated>2022-01-18T05:13:47.524Z</updated>
-        <content type="html"><![CDATA[2022.01.24(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 사)보훈무용예술협회 구미시지부 무용제 - 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53870</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53870"/>
-        <updated>2022-01-18T03:14:23.990Z</updated>
         <content type="html"><![CDATA[2022.01.19(수) 01:00]]></content>
     </entry>
 </feed>
