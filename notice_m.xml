@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-24T06:16:18.344Z</updated>
+    <updated>2022-01-24T07:18:44.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬  〈신데렐라〉- 창원​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53894</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53894"/>
+        <updated>2022-01-24T07:18:42.067Z</updated>
+        <content type="html"><![CDATA[2022.01.26(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(충남서산) 2022 가족뮤지컬 〈​출동! 슈퍼윙스 :빅콘서트〉​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53893</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53893"/>
+        <updated>2022-01-24T07:18:42.068Z</updated>
+        <content type="html"><![CDATA[2022.01.26(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백설공주 -속초 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53892</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53892"/>
+        <updated>2022-01-24T07:18:42.071Z</updated>
+        <content type="html"><![CDATA[2022.01.25(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(문경) 2022 가족뮤지컬 겨울이야기 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53891</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53891"/>
+        <updated>2022-01-24T07:18:42.072Z</updated>
+        <content type="html"><![CDATA[2022.01.26(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈​이퀄〉​- 2차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53890</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53879"/>
         <updated>2022-01-20T06:14:10.516Z</updated>
         <content type="html"><![CDATA[2022.01.20(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(양산) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53878</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53878"/>
-        <updated>2022-01-20T05:10:28.208Z</updated>
-        <content type="html"><![CDATA[2022.01.21(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(의정부) 2022 가족뮤지컬 어린이캣 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53877</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53877"/>
-        <updated>2022-01-20T02:12:45.494Z</updated>
-        <content type="html"><![CDATA[2022.01.21(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 피터팬 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53876</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53876"/>
-        <updated>2022-01-19T08:12:15.315Z</updated>
-        <content type="html"><![CDATA[2022.01.21(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈The Brain〉 - 용인 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53875</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53875"/>
-        <updated>2022-01-19T06:12:53.757Z</updated>
-        <content type="html"><![CDATA[2022.01.20(목) 02:00]]></content>
     </entry>
 </feed>
