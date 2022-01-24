@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-24T01:59:14.942Z</updated>
+    <updated>2022-01-24T02:33:58.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈​이퀄〉​- 2차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53890</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53890"/>
+        <updated>2022-01-24T02:33:47.463Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.25(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 GSL 슈퍼토너먼트 시즌1 (4강/결승전) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53889</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53875"/>
         <updated>2022-01-19T06:12:46.653Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.20(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 부산앵콜 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53873</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53873"/>
-        <updated>2022-01-24T01:59:04.390Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.21(금) 00:00]]></content>
     </entry>
 </feed>
