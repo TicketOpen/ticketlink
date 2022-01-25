@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-25T05:09:48.594Z</updated>
+    <updated>2022-01-25T06:12:45.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 백설공주 - 용인 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53900</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53900"/>
+        <updated>2022-01-25T06:12:36.342Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.27(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 군포 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53899</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53884"/>
         <updated>2022-01-21T04:15:01.700Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 이은미 전국투어 콘서트〈ACOUSTIC〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53883</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53883"/>
-        <updated>2022-01-21T05:09:18.901Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.26(수) 05:00]]></content>
     </entry>
 </feed>
