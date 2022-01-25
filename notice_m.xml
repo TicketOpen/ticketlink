@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-01-25T02:36:34.697Z</updated>
+    <updated>2022-01-25T03:11:38.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 군포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53899</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53899"/>
+        <updated>2022-01-25T03:11:35.909Z</updated>
+        <content type="html"><![CDATA[2022.01.27(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53898</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53898"/>
+        <updated>2022-01-25T03:11:35.921Z</updated>
+        <content type="html"><![CDATA[2022.01.26(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오나의귀신님 - 광주공연 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53895</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53883"/>
         <updated>2022-01-21T05:09:27.686Z</updated>
         <content type="html"><![CDATA[2022.01.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 울산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53882</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53882"/>
-        <updated>2022-01-21T03:10:38.454Z</updated>
-        <content type="html"><![CDATA[2022.01.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jazz for Valentine 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53881</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53881"/>
-        <updated>2022-01-21T02:26:18.862Z</updated>
-        <content type="html"><![CDATA[2022.01.25(화) 01:00]]></content>
     </entry>
 </feed>
