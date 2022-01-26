@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-26T02:38:31.875Z</updated>
+    <updated>2022-01-26T03:13:21.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 거제 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53909</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53909"/>
+        <updated>2022-01-26T03:13:14.384Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.28(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밤하늘의별을 with my friends 첫 번째이야기 - 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53908</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53892"/>
         <updated>2022-01-24T07:18:34.364Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.25(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(문경) 2022 가족뮤지컬 겨울이야기 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53891</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53891"/>
-        <updated>2022-01-26T00:41:24.104Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.26(수) 00:00]]></content>
     </entry>
 </feed>
