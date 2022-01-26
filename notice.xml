@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-25T23:12:47.777Z</updated>
+    <updated>2022-01-26T00:41:33.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53903"/>
         <updated>2022-01-25T08:12:52.754Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시,봄 〈길병민 박현수 이들림 이음아트프로젝트〉 - 원주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53902</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53902"/>
-        <updated>2022-01-25T08:12:52.760Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.28(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(당진) 2022 매직콘서트 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53892"/>
         <updated>2022-01-24T07:18:34.364Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.25(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(문경) 2022 가족뮤지컬 겨울이야기 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53891</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53891"/>
+        <updated>2022-01-26T00:41:24.104Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.26(수) 00:00]]></content>
     </entry>
 </feed>
