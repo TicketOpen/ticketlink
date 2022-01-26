@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T05:10:51.002Z</updated>
+    <updated>2022-01-26T06:14:04.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
@@ -194,6 +194,13 @@
         <content type="html"><![CDATA[2022.01.27(목) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아동극 〈팥죽할머니와 호랑이〉- 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53896</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53896"/>
+        <updated>2022-01-26T06:14:03.974Z</updated>
+        <content type="html"><![CDATA[2022.01.27(목) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오나의귀신님 - 광주공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53895</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53895"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53894"/>
         <updated>2022-01-24T07:18:42.067Z</updated>
         <content type="html"><![CDATA[2022.01.26(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(충남서산) 2022 가족뮤지컬 〈​출동! 슈퍼윙스 :빅콘서트〉​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53893</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53893"/>
-        <updated>2022-01-24T07:18:42.068Z</updated>
-        <content type="html"><![CDATA[2022.01.26(수) 00:00]]></content>
     </entry>
 </feed>
