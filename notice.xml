@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-01-27T10:12:31.783Z</updated>
+    <updated>2022-01-27T11:09:06.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주문화예술회관 기획공연 포커스] 프렌쥬 클래식 사파리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53922</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53922"/>
+        <updated>2022-01-27T11:08:56.408Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.28(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈로미오와줄리엣〉뮤지컬 - 대학로​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53921</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53908"/>
         <updated>2022-01-25T09:10:43.566Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 빅3＂행복한 만남＂콘서트(진성, 김용임, 강진) - 고양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53906</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53906"/>
-        <updated>2022-01-25T08:12:52.749Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 01:00]]></content>
     </entry>
 </feed>
