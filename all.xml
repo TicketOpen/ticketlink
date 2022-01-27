@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-27T02:26:07.496Z</updated>
+    <updated>2022-01-27T03:12:13.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 창원앵콜 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.27(목) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53914</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53914"/>
+        <updated>2022-01-27T03:12:10.380Z</updated>
+        <content type="html"><![CDATA[2022.01.28(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53913</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53913"/>
+        <updated>2022-01-27T03:12:10.384Z</updated>
+        <content type="html"><![CDATA[2022.02.03(목) 03:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 창원앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53912</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53912"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53898"/>
         <updated>2022-01-25T03:11:35.921Z</updated>
         <content type="html"><![CDATA[2022.01.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53897</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53897"/>
-        <updated>2022-01-25T07:12:53.780Z</updated>
-        <content type="html"><![CDATA[2022.01.27(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동극 〈팥죽할머니와 호랑이〉- 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53896</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53896"/>
-        <updated>2022-01-26T06:14:03.974Z</updated>
-        <content type="html"><![CDATA[2022.01.27(목) 00:00]]></content>
     </entry>
 </feed>
