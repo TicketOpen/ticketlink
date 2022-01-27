@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T23:10:49.419Z</updated>
+    <updated>2022-01-27T00:35:46.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 창원앵콜 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53912</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53912"/>
+        <updated>2022-01-27T00:35:38.301Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 수원 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53911</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.01.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오나의귀신님 - 광주공연 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53895</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53895"/>
-        <updated>2022-01-25T03:11:27.639Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.01.25(화) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 창원앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53912</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53912"/>
+        <updated>2022-01-27T00:35:45.500Z</updated>
+        <content type="html"><![CDATA[2022.02.03(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53896"/>
         <updated>2022-01-26T06:14:03.974Z</updated>
         <content type="html"><![CDATA[2022.01.27(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오나의귀신님 - 광주공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53895</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53895"/>
-        <updated>2022-01-25T02:36:32.038Z</updated>
-        <content type="html"><![CDATA[2022.01.25(화) 05:00]]></content>
     </entry>
 </feed>
