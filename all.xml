@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T04:14:27.821Z</updated>
+    <updated>2022-01-28T05:09:41.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53930</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53930"/>
+        <updated>2022-01-28T05:09:28.584Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.04(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 이은미 전국투어 콘서트〈ACOUSTIC〉 - 서울 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53929</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53916"/>
         <updated>2022-01-27T05:10:29.616Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​잭더리퍼〉​ - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53915</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53915"/>
-        <updated>2022-01-27T05:10:29.626Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
