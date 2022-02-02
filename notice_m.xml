@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-02T22:11:02.727Z</updated>
+    <updated>2022-02-02T23:11:01.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 정동하의 스페셜 스토리 - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53937</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53937"/>
+        <updated>2022-02-02T23:10:59.165Z</updated>
+        <content type="html"><![CDATA[2022.02.03(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제362회 정기연주회 '별, Stars' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53936</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53923"/>
         <updated>2022-01-28T01:54:00.104Z</updated>
         <content type="html"><![CDATA[2022.02.03(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주문화예술회관 기획공연 포커스] 프렌쥬 클래식 사파리​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53922</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53922"/>
-        <updated>2022-01-27T10:12:31.260Z</updated>
-        <content type="html"><![CDATA[2022.01.28(금) 01:00]]></content>
     </entry>
 </feed>
