@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-03T06:13:20.127Z</updated>
+    <updated>2022-02-03T07:10:47.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2022 원주문화재단 기획공연Ⅰ,클래식 콘서트 ‘다시, 봄’- 원주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53942</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53942"/>
+        <updated>2022-02-03T07:10:40.583Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.07(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬〈피터팬〉 - 구미 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53940</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.04(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 공주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53926</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53926"/>
-        <updated>2022-01-28T01:53:50.521Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]2022 원주문화재단 기획공연Ⅰ,클래식 콘서트 ‘다시, 봄’- 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53942</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53942"/>
+        <updated>2022-02-03T07:10:46.827Z</updated>
+        <content type="html"><![CDATA[2022.02.07(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬〈피터팬〉 - 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53927"/>
         <updated>2022-01-28T01:54:00.099Z</updated>
         <content type="html"><![CDATA[2022.02.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 공주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53926</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53926"/>
-        <updated>2022-01-28T01:54:00.103Z</updated>
-        <content type="html"><![CDATA[2022.02.03(목) 00:00]]></content>
     </entry>
 </feed>
