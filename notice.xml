@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-03T10:11:58.196Z</updated>
+    <updated>2022-02-03T11:09:35.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53938"/>
         <updated>2022-02-03T03:11:29.473Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 정동하의 스페셜 스토리 - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53937</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53937"/>
-        <updated>2022-02-02T23:10:48.871Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제362회 정기연주회 '별, Stars' 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53927"/>
         <updated>2022-01-28T01:53:50.520Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.04(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 공주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53926</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53926"/>
+        <updated>2022-02-03T11:09:23.453Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 00:00]]></content>
     </entry>
 </feed>
