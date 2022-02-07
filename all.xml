@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-07T04:13:30.337Z</updated>
+    <updated>2022-02-07T05:11:09.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이승철 콘서트: 우리, 이제 만나요 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.04(금) 08:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 최현우 〈The Brain〉 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53954</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53954"/>
+        <updated>2022-02-07T05:11:08.717Z</updated>
+        <content type="html"><![CDATA[2022.02.09(수) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이승철 콘서트: 우리, 이제 만나요 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53953</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53953"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53938"/>
         <updated>2022-02-03T03:11:38.051Z</updated>
         <content type="html"><![CDATA[2022.02.03(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제362회 정기연주회 '별, Stars' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53936</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53936"/>
-        <updated>2022-01-30T05:10:11.339Z</updated>
-        <content type="html"><![CDATA[2022.02.04(금) 08:00]]></content>
     </entry>
 </feed>
