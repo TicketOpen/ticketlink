@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-07T08:12:52.769Z</updated>
+    <updated>2022-02-07T09:11:20.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Colde 2022 Live : Surf in Busan 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53956</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53956"/>
+        <updated>2022-02-07T09:11:20.052Z</updated>
+        <content type="html"><![CDATA[2022.02.09(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈온에어〉 5차 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53955</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53955"/>
+        <updated>2022-02-07T09:11:20.056Z</updated>
+        <content type="html"><![CDATA[2022.02.08(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 최현우 〈The Brain〉 - 전주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53954</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53942"/>
         <updated>2022-02-03T07:10:46.827Z</updated>
         <content type="html"><![CDATA[2022.02.07(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬〈피터팬〉 - 구미 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53940</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53940"/>
-        <updated>2022-02-03T06:13:17.492Z</updated>
-        <content type="html"><![CDATA[2022.02.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온에어 4차 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53938</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53938"/>
-        <updated>2022-02-03T03:11:38.051Z</updated>
-        <content type="html"><![CDATA[2022.02.03(목) 07:00]]></content>
     </entry>
 </feed>
