@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-07T01:55:58.140Z</updated>
+    <updated>2022-02-07T02:25:26.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지소울&따마 BLESSED with Clazz Orchestra​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53952</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53952"/>
+        <updated>2022-02-07T02:25:17.320Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈또!오해영〉 1차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53951</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53951"/>
+        <updated>2022-02-07T02:25:17.328Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.09(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈​이퀄〉​- 마지막티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53950</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53950"/>
+        <updated>2022-02-07T02:25:17.328Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.08(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53949</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53935"/>
         <updated>2022-01-30T04:12:45.290Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.04(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW신비아파트 뮤지컬 시즌4 : 비명동산의 초대장 - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53934</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53934"/>
-        <updated>2022-01-29T06:12:10.596Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] AR트릭아이전-군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53933</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53933"/>
-        <updated>2022-01-29T06:12:10.628Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022무용여행舞游韩国 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53932</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53932"/>
-        <updated>2022-01-29T06:12:10.630Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.03(목) 01:00]]></content>
     </entry>
 </feed>
