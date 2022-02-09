@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-09T04:14:17.129Z</updated>
+    <updated>2022-02-09T05:09:43.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 1차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53966</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53966"/>
+        <updated>2022-02-09T05:09:32.194Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 부산 ​​티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53965</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.10(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈또!오해영〉 1차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53951</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53951"/>
-        <updated>2022-02-07T02:25:17.328Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.09(수) 02:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53966</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53966"/>
+        <updated>2022-02-09T05:09:40.530Z</updated>
+        <content type="html"><![CDATA[2022.02.15(화) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 부산 ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53952"/>
         <updated>2022-02-07T01:55:55.621Z</updated>
         <content type="html"><![CDATA[2022.02.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈또!오해영〉 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53951</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53951"/>
-        <updated>2022-02-07T02:25:25.871Z</updated>
-        <content type="html"><![CDATA[2022.02.09(수) 02:00]]></content>
     </entry>
 </feed>
