@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-10T02:25:40.400Z</updated>
+    <updated>2022-02-10T03:10:48.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 김포 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53971</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53971"/>
+        <updated>2022-02-10T03:10:35.113Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.14(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​킹아더〉​ 첫​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53970</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53970"/>
+        <updated>2022-02-10T03:10:35.114Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 1차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53969</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53969"/>
+        <updated>2022-02-10T03:10:35.114Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 포항 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53968</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53968"/>
+        <updated>2022-02-10T03:10:35.116Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.11(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론> - 전주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53967</id>
@@ -80,34 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/53957</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53957"/>
         <updated>2022-02-08T01:55:49.436Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.11(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colde 2022 Live : Surf in Busan 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53956</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53956"/>
-        <updated>2022-02-07T09:11:12.065Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.09(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈온에어〉 5차 티켓 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53955</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53955"/>
-        <updated>2022-02-07T09:11:12.068Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.08(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈The Brain〉 - 전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53954</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53954"/>
-        <updated>2022-02-07T06:13:30.324Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.09(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승철 콘서트: 우리, 이제 만나요 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53953</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53953"/>
-        <updated>2022-02-07T03:12:31.800Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.11(금) 01:00]]></content>
     </entry>
 </feed>
