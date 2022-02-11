@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-11T04:13:00.985Z</updated>
+    <updated>2022-02-11T05:10:47.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심포니 오브 메이플스토리 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53978</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53978"/>
+        <updated>2022-02-11T05:10:47.005Z</updated>
+        <content type="html"><![CDATA[2022.02.11(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2022 프란츠클래식 아티스트 시리즈: 비브라포니스트 윤현상 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53977</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53977"/>
+        <updated>2022-02-11T05:10:47.005Z</updated>
+        <content type="html"><![CDATA[2022.02.15(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2022 프란츠클래식 리사이틀 시리즈: 이희수 첼로 리사이틀 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53976</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53976"/>
+        <updated>2022-02-11T05:10:47.005Z</updated>
+        <content type="html"><![CDATA[2022.02.15(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밤하늘의별을 with my friends 첫 번째이야기 - 서울 공연연기 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53975</id>
@@ -87,27 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53964</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53964"/>
         <updated>2022-02-09T00:40:33.613Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53963</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53963"/>
-        <updated>2022-02-09T00:40:33.614Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의 여신 뮤지컬 시즌2 － 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53962</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53962"/>
-        <updated>2022-02-09T00:40:33.615Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '알라딘과 자스민공주' - 과천​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53961</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53961"/>
-        <updated>2022-02-08T07:10:37.177Z</updated>
         <content type="html"><![CDATA[2022.02.11(금) 00:00]]></content>
     </entry>
 </feed>
