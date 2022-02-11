@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-11T06:13:46.753Z</updated>
+    <updated>2022-02-11T07:11:08.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 부평 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53980</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53980"/>
+        <updated>2022-02-11T07:11:05.547Z</updated>
+        <content type="html"><![CDATA[2022.02.15(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53979</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53979"/>
+        <updated>2022-02-11T07:11:05.548Z</updated>
+        <content type="html"><![CDATA[2022.02.16(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심포니 오브 메이플스토리 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53978</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53966"/>
         <updated>2022-02-09T05:09:40.530Z</updated>
         <content type="html"><![CDATA[2022.02.15(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 부산 ​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53965</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53965"/>
-        <updated>2022-02-09T00:40:33.611Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 광주​​ ​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53964</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53964"/>
-        <updated>2022-02-09T00:40:33.613Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 00:00]]></content>
     </entry>
 </feed>
