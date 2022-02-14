@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-14T07:12:03.539Z</updated>
+    <updated>2022-02-14T08:14:00.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(부천) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53989</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53989"/>
+        <updated>2022-02-14T08:13:59.805Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(서귀포) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53988</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53988"/>
+        <updated>2022-02-14T08:13:59.812Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(용인) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53987</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53987"/>
+        <updated>2022-02-14T08:13:59.813Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(충남내포) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53986</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53986"/>
+        <updated>2022-02-14T08:13:59.813Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애니메이션 첼로 페스티벌: 디즈니 VS 지브리 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53985</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53975"/>
         <updated>2022-02-11T01:58:39.059Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/53975" class="info_wrap"><strong class="label">변경/취소</strong><h3 class="tit">밤하늘의별을 with my friends 첫 번째이야기 - 서울 공연연기 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 천안​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53974</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53974"/>
-        <updated>2022-02-10T06:12:40.665Z</updated>
-        <content type="html"><![CDATA[2022.02.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 - 서울 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53973</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53973"/>
-        <updated>2022-02-10T05:10:21.276Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 - 부산 첫 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53972</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53972"/>
-        <updated>2022-02-10T05:10:21.281Z</updated>
-        <content type="html"><![CDATA[2022.02.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 김포 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53971</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53971"/>
-        <updated>2022-02-10T02:25:37.747Z</updated>
-        <content type="html"><![CDATA[2022.02.14(월) 05:00]]></content>
     </entry>
 </feed>
