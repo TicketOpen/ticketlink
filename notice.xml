@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-14T05:12:12.157Z</updated>
+    <updated>2022-02-14T06:13:11.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도서관에 간 사자 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53984</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53984"/>
+        <updated>2022-02-14T06:13:00.384Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 부천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53983</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53983"/>
+        <updated>2022-02-14T06:13:00.385Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 당진 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53982</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53982"/>
+        <updated>2022-02-14T06:13:00.386Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[링크 Special Day] 뮤지컬 〈라이온 킹〉 인터내셔널 투어 - 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53981</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53970"/>
         <updated>2022-02-10T03:10:35.114Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 1차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53969</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53969"/>
-        <updated>2022-02-10T03:10:35.114Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 포항 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53968</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53968"/>
-        <updated>2022-02-10T03:10:35.116Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론> - 전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53967</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53967"/>
-        <updated>2022-02-09T08:13:16.197Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.14(월) 01:00]]></content>
     </entry>
 </feed>
