@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-14T06:13:11.753Z</updated>
+    <updated>2022-02-14T07:12:03.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애니메이션 첼로 페스티벌: 디즈니 VS 지브리 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/53985</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/53985"/>
+        <updated>2022-02-14T07:12:02.940Z</updated>
+        <content type="html"><![CDATA[2022.02.15(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서관에 간 사자 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53984</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53971"/>
         <updated>2022-02-10T02:25:37.747Z</updated>
         <content type="html"><![CDATA[2022.02.14(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​킹아더〉​ 첫​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53970</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53970"/>
-        <updated>2022-02-10T01:55:59.154Z</updated>
-        <content type="html"><![CDATA[2022.02.16(수) 06:00]]></content>
     </entry>
 </feed>
