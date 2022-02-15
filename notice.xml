@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-15T05:11:35.710Z</updated>
+    <updated>2022-02-15T06:13:43.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬쇼〈핑크퐁과 아기상어의 월드투어쇼〉 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53994</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53994"/>
+        <updated>2022-02-15T06:13:36.055Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 강북 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53993</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53993"/>
+        <updated>2022-02-15T06:13:36.055Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포르테 디 콰트로 콘서트 〈메타포닉〉- 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53992</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53992"/>
+        <updated>2022-02-15T06:13:36.059Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈레베카〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53991</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53991"/>
+        <updated>2022-02-15T06:13:36.059Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 <핑크퐁과 아기상어의 월드투어쇼> - 성남 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53990</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53980"/>
         <updated>2022-02-11T08:12:29.489Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53979</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53979"/>
-        <updated>2022-02-11T08:12:29.489Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심포니 오브 메이플스토리 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53978</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53978"/>
-        <updated>2022-02-11T06:13:36.351Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2022 프란츠클래식 아티스트 시리즈: 비브라포니스트 윤현상 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53977</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53977"/>
-        <updated>2022-02-11T06:13:36.357Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2022 프란츠클래식 리사이틀 시리즈: 이희수 첼로 리사이틀 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53976</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53976"/>
-        <updated>2022-02-11T06:13:36.357Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 01:00]]></content>
     </entry>
 </feed>
