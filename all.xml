@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-15T02:05:55.937Z</updated>
+    <updated>2022-02-15T03:11:19.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬쇼 <핑크퐁과 아기상어의 월드투어쇼> - 성남 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53990</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53990"/>
+        <updated>2022-02-15T03:11:10.574Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(부천) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53989</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53976"/>
         <updated>2022-02-11T06:13:36.357Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤하늘의별을 with my friends 첫 번째이야기 - 서울 공연연기 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53975</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53975"/>
-        <updated>2022-02-11T02:29:02.137Z</updated>
-        <content type="html"><![CDATA[2022.02.11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 <핑크퐁과 아기상어의 월드투어쇼> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
