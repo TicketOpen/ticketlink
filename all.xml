@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-16T06:14:01.918Z</updated>
+    <updated>2022-02-16T07:11:20.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[춘향_날개를 뜯긴 새 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제130회 정기공연 [Voice Of Spring]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54001</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54001"/>
+        <updated>2022-02-16T07:11:17.762Z</updated>
+        <content type="html"><![CDATA[2022.02.18(금) 03:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]  SOLJI 1st SOLO CONCERT  “​First Letter”​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54000</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54000"/>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[(용인) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/53987</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53987"/>
-        <updated>2022-02-14T08:13:59.813Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(충남내포) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53986</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53986"/>
         <updated>2022-02-14T08:13:59.813Z</updated>
         <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
     </entry>
