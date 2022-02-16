@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-16T02:03:36.631Z</updated>
+    <updated>2022-02-16T03:11:31.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[<선데이 브런치 콘서트> 오마주 투 브람스 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[춘향_날개를 뜯긴 새 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53998</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53998"/>
+        <updated>2022-02-16T03:11:19.198Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서거 125주년] 오마주 투 브람스 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53997</id>
         <link href="http://www.ticketlink.co.kr/help/notice/53997"/>
         <updated>2022-02-15T23:10:59.568Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53984"/>
         <updated>2022-02-14T06:13:00.384Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53983</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53983"/>
-        <updated>2022-02-14T06:13:00.385Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 05:00]]></content>
     </entry>
 </feed>
