@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-16T13:14:01.145Z</updated>
+    <updated>2022-02-16T14:10:42.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 실내악 시리즈 I, Andante Cantabile​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54003</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54003"/>
+        <updated>2022-02-16T14:10:42.088Z</updated>
+        <content type="html"><![CDATA[2022.02.17(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [포시즌] 스타인웨이 위너콘서트-박재홍 피아노 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54002</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54002"/>
+        <updated>2022-02-16T14:10:42.092Z</updated>
+        <content type="html"><![CDATA[2022.02.18(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 제130회 정기공연 [Voice Of Spring]​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54001</id>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/53989</id>
         <link href="http://m.ticketlink.co.kr/help/notice/53989"/>
         <updated>2022-02-14T08:13:59.805Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(서귀포) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53988</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53988"/>
-        <updated>2022-02-14T08:13:59.812Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(용인) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53987</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53987"/>
-        <updated>2022-02-14T08:13:59.813Z</updated>
         <content type="html"><![CDATA[2022.02.17(목) 00:00]]></content>
     </entry>
 </feed>
