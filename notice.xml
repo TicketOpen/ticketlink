@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-16T08:14:10.364Z</updated>
+    <updated>2022-02-16T09:10:44.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제130회 정기공연 [Voice Of Spring]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54001</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54001"/>
+        <updated>2022-02-16T09:10:34.059Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  SOLJI 1st SOLO CONCERT  “​First Letter”​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54000</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54000"/>
+        <updated>2022-02-16T09:10:34.064Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 “백설공주” - 중랑 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/53999</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/53999"/>
+        <updated>2022-02-16T09:10:34.067Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘향_날개를 뜯긴 새 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/53998</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53987"/>
         <updated>2022-02-14T08:13:50.730Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(충남내포) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53986</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53986"/>
-        <updated>2022-02-14T08:13:50.730Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니메이션 첼로 페스티벌: 디즈니 VS 지브리 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53985</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53985"/>
-        <updated>2022-02-14T08:13:50.730Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.15(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서관에 간 사자 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53984</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53984"/>
-        <updated>2022-02-14T06:13:00.384Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 01:00]]></content>
     </entry>
 </feed>
