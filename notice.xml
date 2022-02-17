@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-17T05:10:09.655Z</updated>
+    <updated>2022-02-17T06:13:52.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54006"/>
         <updated>2022-02-17T05:09:59.567Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.21(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54005</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54005"/>
+        <updated>2022-02-17T06:13:39.124Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.21(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 청주 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53993"/>
         <updated>2022-02-15T06:13:36.055Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테 디 콰트로 콘서트 〈메타포닉〉- 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53992</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53992"/>
-        <updated>2022-02-15T06:13:36.059Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 05:00]]></content>
     </entry>
 </feed>
