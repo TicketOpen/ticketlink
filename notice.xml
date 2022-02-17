@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-17T04:14:48.341Z</updated>
+    <updated>2022-02-17T05:10:09.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 평택북부 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54007</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54007"/>
+        <updated>2022-02-17T05:09:59.561Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.21(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54006</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54006"/>
+        <updated>2022-02-17T05:09:59.567Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.21(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54004</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54004"/>
+        <updated>2022-02-17T05:09:59.576Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 실내악 시리즈 I, Andante Cantabile​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54003</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53992"/>
         <updated>2022-02-15T06:13:36.059Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈레베카〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53991</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53991"/>
-        <updated>2022-02-15T06:13:36.059Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬쇼 <핑크퐁과 아기상어의 월드투어쇼> - 성남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53990</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53990"/>
-        <updated>2022-02-15T03:11:10.574Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(부천) 2021 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53989</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53989"/>
-        <updated>2022-02-14T08:13:50.718Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 00:00]]></content>
     </entry>
 </feed>
