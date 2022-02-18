@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T23:11:08.285Z</updated>
+    <updated>2022-02-18T00:43:14.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 청주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54011</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54011"/>
+        <updated>2022-02-18T00:43:05.465Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54010</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54010"/>
+        <updated>2022-02-18T00:43:05.468Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가치! 같이! 온기(溫氣) With You 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54009</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘 콘서트 시리즈 <아무르 무지크> II. 로미오와 줄리엣 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53996</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53996"/>
-        <updated>2022-02-15T08:12:53.397Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 청주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54011</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54011"/>
+        <updated>2022-02-18T00:43:13.409Z</updated>
+        <content type="html"><![CDATA[2022.02.22(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘 콘서트 시리즈 <아무르 무지크> I. 음악과 미술 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53995</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53995"/>
-        <updated>2022-02-15T08:12:53.401Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54010</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54010"/>
+        <updated>2022-02-18T00:43:13.410Z</updated>
+        <content type="html"><![CDATA[2022.02.22(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가치! 같이! 온기(溫氣) With You 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53997"/>
         <updated>2022-02-15T23:11:07.717Z</updated>
         <content type="html"><![CDATA[2022.02.16(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘 콘서트 시리즈 <아무르 무지크> II. 로미오와 줄리엣 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53996</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53996"/>
-        <updated>2022-02-15T08:13:03.404Z</updated>
-        <content type="html"><![CDATA[2022.02.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘 콘서트 시리즈 <아무르 무지크> I. 음악과 미술 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53995</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53995"/>
-        <updated>2022-02-15T08:13:03.405Z</updated>
-        <content type="html"><![CDATA[2022.02.16(수) 05:00]]></content>
     </entry>
 </feed>
