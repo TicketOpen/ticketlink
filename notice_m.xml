@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-19T04:18:36.327Z</updated>
+    <updated>2022-02-19T05:09:58.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌2 - 당진​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54013</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54013"/>
+        <updated>2022-02-19T05:09:55.684Z</updated>
+        <content type="html"><![CDATA[2022.02.21(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 `렛잇고2` - 당진​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54012</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/53999"/>
         <updated>2022-02-16T05:10:48.361Z</updated>
         <content type="html"><![CDATA[2022.02.18(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘향_날개를 뜯긴 새 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/53998</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/53998"/>
-        <updated>2022-02-16T02:03:36.118Z</updated>
-        <content type="html"><![CDATA[2022.02.17(목) 01:00]]></content>
     </entry>
 </feed>
