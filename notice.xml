@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-19T01:56:47.991Z</updated>
+    <updated>2022-02-19T02:28:38.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 `렛잇고2` - 당진​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54012</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54012"/>
+        <updated>2022-02-19T02:28:26.935Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.21(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 청주​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54011</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/53998"/>
         <updated>2022-02-16T03:11:19.198Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서거 125주년] 오마주 투 브람스 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/53997</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/53997"/>
-        <updated>2022-02-15T23:10:59.568Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.16(수) 02:00]]></content>
     </entry>
 </feed>
