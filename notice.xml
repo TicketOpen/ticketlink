@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-21T04:15:54.118Z</updated>
+    <updated>2022-02-21T05:10:51.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] KIMJUNSU 2022 CONCERT 'DIMENSION' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54018</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54018"/>
+        <updated>2022-02-21T05:10:39.365Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 스윗소로우 소극장 콘서트 〈화음〉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54017</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54017"/>
+        <updated>2022-02-21T05:10:39.367Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 '알라딘과 자스민공주' - 이천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54016</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54016"/>
+        <updated>2022-02-21T05:10:39.369Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54015</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54015"/>
         <updated>2022-02-21T02:27:20.671Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​썸씽로튼〉​ 마지막​​ 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54014</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54014"/>
+        <updated>2022-02-21T05:10:39.371Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌2 - 당진​​ 티켓오픈 안내]]></title>
@@ -80,34 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54004</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54004"/>
         <updated>2022-02-17T05:09:59.576Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 실내악 시리즈 I, Andante Cantabile​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54003</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54003"/>
-        <updated>2022-02-16T14:10:34.108Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.17(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [포시즌] 스타인웨이 위너콘서트-박재홍 피아노 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54002</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54002"/>
-        <updated>2022-02-16T14:10:34.114Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제130회 정기공연 [Voice Of Spring]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54001</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54001"/>
-        <updated>2022-02-16T09:10:34.059Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  SOLJI 1st SOLO CONCERT  “​First Letter”​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54000</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54000"/>
-        <updated>2022-02-16T09:10:34.064Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 05:00]]></content>
     </entry>
 </feed>
