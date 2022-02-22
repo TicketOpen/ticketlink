@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-22T02:26:09.549Z</updated>
+    <updated>2022-02-22T03:12:02.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독판매]그림이 향기를 만났을때 "향기의 미술관" - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 그림이 향기를 만났을때 “향기의 미술관” - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54024</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54024"/>
         <updated>2022-02-22T01:56:52.990Z</updated>
