@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-22T00:44:59.584Z</updated>
+    <updated>2022-02-22T01:57:02.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]그림이 향기를 만났을때 "향기의 미술관" - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54024</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54024"/>
+        <updated>2022-02-22T01:56:52.990Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오푸스라움 제2회 라이징스타즈 2022 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54023</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54023"/>
+        <updated>2022-02-22T01:56:52.991Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 세종 봄시즌 프로그램 개별​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54021</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54021"/>
+        <updated>2022-02-22T01:56:52.993Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54020</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54008</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54008"/>
-        <updated>2022-02-17T10:11:46.359Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.18(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]그림이 향기를 만났을때 "향기의 미술관" - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54024</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54024"/>
+        <updated>2022-02-22T01:57:00.113Z</updated>
+        <content type="html"><![CDATA[2022.02.23(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 평택북부 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54007</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54007"/>
-        <updated>2022-02-17T05:09:59.561Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.21(월) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 오푸스라움 제2회 라이징스타즈 2022 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54023</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54023"/>
+        <updated>2022-02-22T01:57:00.116Z</updated>
+        <content type="html"><![CDATA[2022.02.22(화) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 울산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54006</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54006"/>
-        <updated>2022-02-17T05:09:59.567Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.21(월) 00:00]]></content>
+        <title type="html"><![CDATA[2022 세종 봄시즌 프로그램 개별​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54021</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54021"/>
+        <updated>2022-02-22T01:57:00.121Z</updated>
+        <content type="html"><![CDATA[2022.02.23(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54009"/>
         <updated>2022-02-17T09:12:01.800Z</updated>
         <content type="html"><![CDATA[2022.02.18(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54008</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54008"/>
-        <updated>2022-02-17T08:13:55.582Z</updated>
-        <content type="html"><![CDATA[2022.02.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 평택북부 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54007</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54007"/>
-        <updated>2022-02-17T05:10:06.972Z</updated>
-        <content type="html"><![CDATA[2022.02.21(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54006</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54006"/>
-        <updated>2022-02-17T05:10:06.974Z</updated>
-        <content type="html"><![CDATA[2022.02.21(월) 00:00]]></content>
     </entry>
 </feed>
