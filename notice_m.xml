@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-23T00:46:04.661Z</updated>
+    <updated>2022-02-23T02:04:32.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 안성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54026</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54026"/>
+        <updated>2022-02-23T02:04:29.880Z</updated>
+        <content type="html"><![CDATA[2022.02.24(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 하남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54025</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54025"/>
+        <updated>2022-02-23T02:04:29.880Z</updated>
+        <content type="html"><![CDATA[2022.02.24(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 그림이 향기를 만났을때 “향기의 미술관” - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54024</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54012"/>
         <updated>2022-02-19T02:28:35.487Z</updated>
         <content type="html"><![CDATA[2022.02.21(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 청주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54011</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54011"/>
-        <updated>2022-02-18T00:43:13.409Z</updated>
-        <content type="html"><![CDATA[2022.02.22(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 대전​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54010</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54010"/>
-        <updated>2022-02-18T00:43:13.410Z</updated>
-        <content type="html"><![CDATA[2022.02.22(화) 00:00]]></content>
     </entry>
 </feed>
