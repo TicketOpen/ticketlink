@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-24T04:14:01.112Z</updated>
+    <updated>2022-02-24T05:10:57.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Musical(비욘드 더 뮤지컬) - 군산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54035</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54035"/>
+        <updated>2022-02-24T05:10:45.389Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54034</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54034"/>
+        <updated>2022-02-24T05:10:45.399Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54033</id>
@@ -18,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54032"/>
         <updated>2022-02-24T04:13:50.421Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 2차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54031</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54031"/>
+        <updated>2022-02-24T05:10:45.412Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대전 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54021"/>
         <updated>2022-02-22T01:56:52.993Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 춘천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54020</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54020"/>
-        <updated>2022-02-22T00:44:46.615Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.24(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54019</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54019"/>
-        <updated>2022-02-21T06:14:14.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.24(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] KIMJUNSU 2022 CONCERT 'DIMENSION' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54018</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54018"/>
-        <updated>2022-02-21T05:10:39.365Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 05:00]]></content>
     </entry>
 </feed>
