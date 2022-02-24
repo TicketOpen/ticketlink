@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T05:10:57.212Z</updated>
+    <updated>2022-02-24T06:13:41.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 안산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54036</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54036"/>
+        <updated>2022-02-24T06:13:30.901Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond the Musical(비욘드 더 뮤지컬) - 군산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54035</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 세종 봄시즌 프로그램 개별​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54021</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54021"/>
-        <updated>2022-02-22T01:56:52.993Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54036</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54036"/>
+        <updated>2022-02-24T06:13:40.598Z</updated>
+        <content type="html"><![CDATA[2022.02.28(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Beyond the Musical(비욘드 더 뮤지컬) - 군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54022"/>
         <updated>2022-02-22T06:13:47.632Z</updated>
         <content type="html"><![CDATA[2022.02.23(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 세종 봄시즌 프로그램 개별​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54021</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54021"/>
-        <updated>2022-02-22T01:57:00.121Z</updated>
-        <content type="html"><![CDATA[2022.02.23(수) 05:00]]></content>
     </entry>
 </feed>
