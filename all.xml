@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T03:11:25.713Z</updated>
+    <updated>2022-02-24T04:14:01.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54033</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54033"/>
+        <updated>2022-02-24T04:13:50.420Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54032</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54032"/>
+        <updated>2022-02-24T04:13:50.421Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54030</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54030"/>
+        <updated>2022-02-24T04:13:50.427Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품악극 〈불효자는 웁니다〉 - 김해 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54029</id>
@@ -89,25 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 스윗소로우 소극장 콘서트 〈화음〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54017</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54017"/>
-        <updated>2022-02-21T05:10:39.367Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '알라딘과 자스민공주' - 이천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54016</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54016"/>
-        <updated>2022-02-21T05:10:39.369Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54015</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54015"/>
-        <updated>2022-02-21T02:27:20.671Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.22(화) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54033</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54033"/>
+        <updated>2022-02-24T04:14:00.427Z</updated>
+        <content type="html"><![CDATA[2022.02.25(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54018"/>
         <updated>2022-02-21T05:10:48.798Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 스윗소로우 소극장 콘서트 〈화음〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54017</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54017"/>
-        <updated>2022-02-21T05:10:48.803Z</updated>
-        <content type="html"><![CDATA[2022.02.23(수) 05:00]]></content>
     </entry>
 </feed>

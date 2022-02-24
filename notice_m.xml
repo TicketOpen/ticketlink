@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-24T03:11:25.716Z</updated>
+    <updated>2022-02-24T04:14:01.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54033</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54033"/>
+        <updated>2022-02-24T04:14:00.427Z</updated>
+        <content type="html"><![CDATA[2022.02.25(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54032</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54018"/>
         <updated>2022-02-21T05:10:48.798Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 스윗소로우 소극장 콘서트 〈화음〉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54017</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54017"/>
-        <updated>2022-02-21T05:10:48.803Z</updated>
-        <content type="html"><![CDATA[2022.02.23(수) 05:00]]></content>
     </entry>
 </feed>
