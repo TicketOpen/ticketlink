@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-02-25T04:14:55.585Z</updated>
+    <updated>2022-02-25T05:11:25.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 장수상회 - 안동 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54042</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54042"/>
+        <updated>2022-02-25T05:11:13.718Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54041</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54041"/>
+        <updated>2022-02-25T05:11:13.719Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 구미 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54040</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54040"/>
+        <updated>2022-02-25T05:11:13.720Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 어쩌다 페스티벌 in 대구 〈김주택 X 손태진 X 존노〉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54039</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54039"/>
+        <updated>2022-02-25T05:11:13.721Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 어쩌다 페스티벌 in 대구 〈장사익 X 고영열〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54038</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54028"/>
         <updated>2022-02-23T03:11:47.046Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.25(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈장수상회〉 - 당진 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54027</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54027"/>
-        <updated>2022-02-23T03:11:47.046Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.24(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 안성​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54026</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54026"/>
-        <updated>2022-02-23T02:04:21.213Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.24(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 하남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54025</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54025"/>
-        <updated>2022-02-23T02:04:21.214Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.24(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 그림이 향기를 만났을때 “향기의 미술관” - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54024</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54024"/>
-        <updated>2022-02-22T01:56:52.990Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.23(수) 01:00]]></content>
     </entry>
 </feed>
