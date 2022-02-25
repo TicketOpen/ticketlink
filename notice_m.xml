@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-25T02:03:39.084Z</updated>
+    <updated>2022-02-25T03:12:21.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 어쩌다 페스티벌 in 대구 〈장사익 X 고영열〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54038</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54038"/>
+        <updated>2022-02-25T03:12:20.703Z</updated>
+        <content type="html"><![CDATA[2022.02.28(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경주예술의전당 예술특강 〈​조희창의 클래식 라이브러리〉​ 시리즈​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54037</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54024"/>
         <updated>2022-02-22T01:57:00.113Z</updated>
         <content type="html"><![CDATA[2022.02.23(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오푸스라움 제2회 라이징스타즈 2022 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54023</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54023"/>
-        <updated>2022-02-22T01:57:00.116Z</updated>
-        <content type="html"><![CDATA[2022.02.22(화) 08:00]]></content>
     </entry>
 </feed>
