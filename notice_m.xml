@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-26T05:10:12.059Z</updated>
+    <updated>2022-02-26T06:14:07.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 남양주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54052</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54052"/>
+        <updated>2022-02-26T06:14:05.081Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 오산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54051</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54051"/>
+        <updated>2022-02-26T06:14:05.088Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 화성 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54050</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54050"/>
+        <updated>2022-02-26T06:14:05.090Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54049</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54049"/>
+        <updated>2022-02-26T06:14:05.093Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(평택)2022가족뮤지컬 어린이캣 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54048</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54048"/>
+        <updated>2022-02-26T06:14:05.094Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 ‘백설공주’ - 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54047</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54047"/>
+        <updated>2022-02-26T06:14:05.103Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 안양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54046</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54046"/>
+        <updated>2022-02-26T06:14:05.103Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54045</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54045"/>
+        <updated>2022-02-26T06:14:05.103Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 고양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54044</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54044"/>
+        <updated>2022-02-26T06:14:05.106Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(인천계양) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54043</id>
@@ -46,68 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54038"/>
         <updated>2022-02-25T03:12:20.703Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경주예술의전당 예술특강 〈​조희창의 클래식 라이브러리〉​ 시리즈​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54037</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54037"/>
-        <updated>2022-02-24T08:13:54.132Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54036</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54036"/>
-        <updated>2022-02-24T06:13:40.598Z</updated>
-        <content type="html"><![CDATA[2022.02.28(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Musical(비욘드 더 뮤지컬) - 군산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54035</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54035"/>
-        <updated>2022-02-24T05:10:54.508Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54034</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54034"/>
-        <updated>2022-02-24T05:10:54.509Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54033</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54033"/>
-        <updated>2022-02-24T04:14:00.427Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54032</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54032"/>
-        <updated>2022-02-24T03:11:25.077Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 2차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54031</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54031"/>
-        <updated>2022-02-24T05:10:54.516Z</updated>
-        <content type="html"><![CDATA[2022.03.03(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54030</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54030"/>
-        <updated>2022-02-24T03:11:25.095Z</updated>
-        <content type="html"><![CDATA[2022.02.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극 〈불효자는 웁니다〉 - 김해 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54029</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54029"/>
-        <updated>2022-02-23T08:13:06.183Z</updated>
-        <content type="html"><![CDATA[2022.02.28(월) 05:00]]></content>
     </entry>
 </feed>
