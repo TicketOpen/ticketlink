@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-26T06:14:07.739Z</updated>
+    <updated>2022-02-26T07:11:16.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 필그림 미션콰이어 제40회 정기연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54053</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54053"/>
+        <updated>2022-02-26T07:11:06.452Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.02(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 남양주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54052</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 어쩌다 페스티벌 in 대구 〈장사익 X 고영열〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54038</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54038"/>
-        <updated>2022-02-25T03:12:14.772Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 03:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 필그림 미션콰이어 제40회 정기연주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54053</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54053"/>
+        <updated>2022-02-26T07:11:16.079Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 남양주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54039"/>
         <updated>2022-02-25T04:14:53.073Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어쩌다 페스티벌 in 대구 〈장사익 X 고영열〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54038</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54038"/>
-        <updated>2022-02-25T03:12:20.703Z</updated>
-        <content type="html"><![CDATA[2022.02.28(월) 03:00]]></content>
     </entry>
 </feed>
