@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-27T02:02:39.098Z</updated>
+    <updated>2022-02-27T03:11:36.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 차지연 & 마이클 리 with 루체오케스트라 - 경주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54055</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54055"/>
+        <updated>2022-02-27T03:11:35.534Z</updated>
+        <content type="html"><![CDATA[2022.03.02(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박은미의 음악노트 시리즈1 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54054</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54041</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54041"/>
         <updated>2022-02-25T05:11:22.455Z</updated>
-        <content type="html"><![CDATA[2022.02.28(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 구미 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54040</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54040"/>
-        <updated>2022-02-25T04:14:53.070Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 00:00]]></content>
     </entry>
 </feed>
