@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-02-28T07:12:04.824Z</updated>
+    <updated>2022-02-28T08:14:16.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54062</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54062"/>
+        <updated>2022-02-28T08:14:15.371Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 '백설공주' - 화성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54061</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54048</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54048"/>
         <updated>2022-02-26T06:14:05.094Z</updated>
-        <content type="html"><![CDATA[2022.03.02(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 ‘백설공주’ - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54047</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54047"/>
-        <updated>2022-02-26T06:14:05.103Z</updated>
         <content type="html"><![CDATA[2022.03.02(수) 00:00]]></content>
     </entry>
 </feed>
