@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-28T00:45:30.561Z</updated>
+    <updated>2022-02-28T02:02:48.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[피아졸라, 바흐를 만나다 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54057</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54057"/>
+        <updated>2022-02-28T02:02:36.819Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.02(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 춘천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54056</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54056"/>
+        <updated>2022-02-28T02:02:36.821Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.04(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 차지연 & 마이클 리 with 루체오케스트라 - 경주​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54055</id>
@@ -96,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 장수상회 - 안동 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54042</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54042"/>
-        <updated>2022-02-25T05:11:13.718Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54041</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54041"/>
-        <updated>2022-02-25T05:11:13.719Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.02.28(월) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[피아졸라, 바흐를 만나다 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54057</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54057"/>
         <updated>2022-02-28T00:45:27.611Z</updated>
         <content type="html"><![CDATA[2022.03.02(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54056</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54056"/>
+        <updated>2022-02-28T02:02:45.468Z</updated>
+        <content type="html"><![CDATA[2022.03.04(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 차지연 & 마이클 리 with 루체오케스트라 - 경주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54043"/>
         <updated>2022-02-25T07:12:29.768Z</updated>
         <content type="html"><![CDATA[2022.02.28(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 장수상회 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54042</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54042"/>
-        <updated>2022-02-25T05:11:22.453Z</updated>
-        <content type="html"><![CDATA[2022.02.28(월) 05:00]]></content>
     </entry>
 </feed>
