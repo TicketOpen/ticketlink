@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-02T05:12:02.944Z</updated>
+    <updated>2022-03-02T06:15:53.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 129회 정기연주회 `민족의 숨결, 겨례의 노래3`​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54074</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54074"/>
+        <updated>2022-03-02T06:15:43.093Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 오르간 시리즈 I. 데이비드 티터링톤 오르간 리사이틀​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54073</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54073"/>
+        <updated>2022-03-02T06:15:43.108Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.04(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54072</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54072"/>
+        <updated>2022-03-02T06:15:43.108Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 저스트절크 Let's Get Together​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54071</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54071"/>
+        <updated>2022-03-02T06:15:43.109Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.04(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주문화예술회관 기획공연 포커스] 뮤지컬 앤ANNE​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54070</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54070"/>
+        <updated>2022-03-02T06:15:43.116Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 신한은행 시스템 점검(3/5)으로 인한 일부 서비스 제한 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54069</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54069"/>
+        <updated>2022-03-02T06:15:43.116Z</updated>
+        <content type="html"><![CDATA[2022.03.02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 시스템 임시점검(3/8 00:00 ~ 04:00)으로 인한 서비스 일시 중단 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54068</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54068"/>
+        <updated>2022-03-02T06:15:43.116Z</updated>
+        <content type="html"><![CDATA[2022.03.02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]아트라스 정기연주회 〈아트라스 & 하이최〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54067</id>
@@ -34,6 +83,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.07(월) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] LIVE STAGE vol.1 스탠딩에그 - 의성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54063</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54063"/>
+        <updated>2022-03-02T06:15:43.126Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54062</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54062"/>
@@ -53,61 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54060"/>
         <updated>2022-02-28T07:11:53.683Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립합창단 제189회 정기연주회 '봄이 오면' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54059</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54059"/>
-        <updated>2022-02-28T06:15:06.278Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈엄마 까투리 - 마트에 간 꽁지〉 - 서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54058</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54058"/>
-        <updated>2022-02-28T06:15:06.280Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아졸라, 바흐를 만나다 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54057</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54057"/>
-        <updated>2022-02-28T02:02:36.819Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니&럭키강이 시즌2 “비밀의 문” - 춘천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54056</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54056"/>
-        <updated>2022-02-28T02:02:36.821Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 차지연 & 마이클 리 with 루체오케스트라 - 경주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54055</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54055"/>
-        <updated>2022-02-27T03:11:25.177Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박은미의 음악노트 시리즈1 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54054</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54054"/>
-        <updated>2022-02-26T09:10:51.978Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 필그림 미션콰이어 제40회 정기연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54053</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54053"/>
-        <updated>2022-02-26T07:11:06.452Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 남양주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54052</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54052"/>
-        <updated>2022-02-26T06:13:54.231Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 02:00]]></content>
     </entry>
 </feed>
