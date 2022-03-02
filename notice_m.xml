@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-02T02:10:39.376Z</updated>
+    <updated>2022-03-02T03:12:20.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주문화예술회관 기획공연 포커스] 뮤지컬 앤ANNE​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54070</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54070"/>
+        <updated>2022-03-02T03:12:17.744Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 신한은행 시스템 점검(3/5)으로 인한 일부 서비스 제한 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54069</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54069"/>
+        <updated>2022-03-02T03:12:17.733Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/54069" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 신한은행 시스템 점검(3/5)으로 인한 일부 서비스 제한 안내</h3></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 시스템 임시점검(3/8 00:00 ~ 04:00)으로 인한 서비스 일시 중단 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54068</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54068"/>
+        <updated>2022-03-02T03:12:17.736Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/54068" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(3/8 00:00 ~ 04:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]아트라스 정기연주회 〈아트라스 & 하이최〉 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54067</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54056"/>
         <updated>2022-02-28T02:02:45.468Z</updated>
         <content type="html"><![CDATA[2022.03.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 차지연 & 마이클 리 with 루체오케스트라 - 경주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54055</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54055"/>
-        <updated>2022-02-27T03:11:35.534Z</updated>
-        <content type="html"><![CDATA[2022.03.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박은미의 음악노트 시리즈1 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54054</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54054"/>
-        <updated>2022-02-26T08:13:53.847Z</updated>
-        <content type="html"><![CDATA[2022.03.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 필그림 미션콰이어 제40회 정기연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54053</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54053"/>
-        <updated>2022-02-26T07:11:16.079Z</updated>
-        <content type="html"><![CDATA[2022.03.02(수) 01:00]]></content>
     </entry>
 </feed>
