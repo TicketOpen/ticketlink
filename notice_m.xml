@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-02T03:12:20.476Z</updated>
+    <updated>2022-03-02T04:15:46.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주문화예술회관 기획공연 포커스] 뮤지컬 앤ANNE​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54070</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54070"/>
-        <updated>2022-03-02T03:12:17.744Z</updated>
+        <updated>2022-03-02T04:15:45.687Z</updated>
         <content type="html"><![CDATA[2022.03.03(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 신한은행 시스템 점검(3/5)으로 인한 일부 서비스 제한 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54069</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54069"/>
-        <updated>2022-03-02T03:12:17.733Z</updated>
+        <updated>2022-03-02T04:15:45.677Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/54069" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 신한은행 시스템 점검(3/5)으로 인한 일부 서비스 제한 안내</h3></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 시스템 임시점검(3/8 00:00 ~ 04:00)으로 인한 서비스 일시 중단 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54068</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54068"/>
-        <updated>2022-03-02T03:12:17.736Z</updated>
+        <updated>2022-03-02T04:15:45.678Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/54068" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(3/8 00:00 ~ 04:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
     </entry>
     <entry>
