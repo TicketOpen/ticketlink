@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T23:12:12.216Z</updated>
+    <updated>2022-03-03T00:46:13.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김영미 & 김민희 듀오 리사이틀 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54078</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54078"/>
+        <updated>2022-03-03T00:46:00.664Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 대구 앵콜 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54076</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54076"/>
+        <updated>2022-03-03T00:46:00.666Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.07(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 수시공연 『발레 갈라콘서트_Voice Of Spring』 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54075</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54062</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54062"/>
-        <updated>2022-02-28T08:14:05.786Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 김영미 & 김민희 듀오 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54078</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54078"/>
+        <updated>2022-03-03T00:46:10.242Z</updated>
+        <content type="html"><![CDATA[2022.03.03(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 '백설공주' - 화성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54061</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54061"/>
-        <updated>2022-02-28T07:11:53.683Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 대구 앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54076</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54076"/>
+        <updated>2022-03-03T00:46:10.242Z</updated>
+        <content type="html"><![CDATA[2022.03.07(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 수시공연 『발레 갈라콘서트_Voice Of Spring』 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54063"/>
         <updated>2022-03-02T00:47:13.908Z</updated>
         <content type="html"><![CDATA[2022.03.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54062</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54062"/>
-        <updated>2022-02-28T08:14:15.371Z</updated>
-        <content type="html"><![CDATA[2022.03.03(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 '백설공주' - 화성 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54061</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54061"/>
-        <updated>2022-02-28T07:12:02.189Z</updated>
-        <content type="html"><![CDATA[2022.03.03(목) 00:00]]></content>
     </entry>
 </feed>
