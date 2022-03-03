@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-03T06:16:23.752Z</updated>
+    <updated>2022-03-03T07:11:55.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이날 콩순이 뮤지컬 시즌2 <우리들 음악회> - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54079</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54079"/>
+        <updated>2022-03-03T07:11:54.658Z</updated>
+        <content type="html"><![CDATA[2022.03.08(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김영미 & 김민희 듀오 리사이틀 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54078</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 부평 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54065</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54065"/>
-        <updated>2022-02-28T10:14:05.066Z</updated>
-        <content type="html"><![CDATA[2022.03.07(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54064</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54064"/>
         <updated>2022-02-28T10:14:05.066Z</updated>
         <content type="html"><![CDATA[2022.03.07(월) 05:00]]></content>
     </entry>
