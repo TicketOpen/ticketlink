@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-03T07:11:55.375Z</updated>
+    <updated>2022-03-03T08:15:10.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 거제​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54082</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54082"/>
+        <updated>2022-03-03T08:15:10.306Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 〈알라딘과 자스민공주〉- 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54081</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54081"/>
+        <updated>2022-03-03T08:15:10.307Z</updated>
+        <content type="html"><![CDATA[2022.03.09(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제363회 정기연주회 '1905年' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54080</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54080"/>
+        <updated>2022-03-03T08:15:10.308Z</updated>
+        <content type="html"><![CDATA[2022.03.04(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이날 콩순이 뮤지컬 시즌2 <우리들 음악회> - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54079</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54068"/>
         <updated>2022-03-02T04:15:45.678Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/54068" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(3/8 00:00 ~ 04:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]아트라스 정기연주회 〈아트라스 & 하이최〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54067</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54067"/>
-        <updated>2022-03-01T12:20:10.788Z</updated>
-        <content type="html"><![CDATA[2022.03.03(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 안성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54066</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54066"/>
-        <updated>2022-02-28T10:14:05.065Z</updated>
-        <content type="html"><![CDATA[2022.03.04(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 부평 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54065</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54065"/>
-        <updated>2022-02-28T10:14:05.066Z</updated>
-        <content type="html"><![CDATA[2022.03.07(월) 05:00]]></content>
     </entry>
 </feed>
