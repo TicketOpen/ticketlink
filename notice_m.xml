@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-04T07:13:23.416Z</updated>
+    <updated>2022-03-04T08:15:25.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SELECT SHOP〈십센치 X 죠지〉콘서트 - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54087</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54087"/>
+        <updated>2022-03-04T08:15:22.643Z</updated>
+        <content type="html"><![CDATA[2022.03.08(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사운드바이사운드(SOUND X SOUND) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54086</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54086"/>
+        <updated>2022-03-04T08:15:22.645Z</updated>
+        <content type="html"><![CDATA[2022.03.16(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어버이날 연극 〈친정엄마와 2박3일〉 - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54085</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54073"/>
         <updated>2022-03-02T06:15:53.049Z</updated>
         <content type="html"><![CDATA[2022.03.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54072</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54072"/>
-        <updated>2022-03-02T05:12:00.389Z</updated>
-        <content type="html"><![CDATA[2022.03.10(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 저스트절크 Let's Get Together​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54071</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54071"/>
-        <updated>2022-03-02T05:12:00.390Z</updated>
-        <content type="html"><![CDATA[2022.03.04(금) 01:00]]></content>
     </entry>
 </feed>
