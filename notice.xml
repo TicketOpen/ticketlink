@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-04T04:15:53.770Z</updated>
+    <updated>2022-03-04T05:11:24.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어버이날 연극 〈친정엄마와 2박3일〉 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54085</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54085"/>
+        <updated>2022-03-04T05:11:13.761Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.08(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54084</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54071"/>
         <updated>2022-03-02T06:15:43.109Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주문화예술회관 기획공연 포커스] 뮤지컬 앤ANNE​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54070</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54070"/>
-        <updated>2022-03-02T06:15:43.116Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 01:00]]></content>
     </entry>
 </feed>
