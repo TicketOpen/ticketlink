@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-05T08:14:25.563Z</updated>
+    <updated>2022-03-05T09:11:05.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부산앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54089</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54089"/>
+        <updated>2022-03-05T09:10:56.273Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.07(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <또!오해영> 2차 티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54088</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54075"/>
         <updated>2022-03-02T08:14:50.775Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 129회 정기연주회 `민족의 숨결, 겨례의 노래3`​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54074</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54074"/>
-        <updated>2022-03-02T06:15:43.093Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.03(목) 05:00]]></content>
     </entry>
 </feed>
