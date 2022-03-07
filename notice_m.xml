@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-07T02:08:54.027Z</updated>
+    <updated>2022-03-07T03:12:10.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국카스텐 딕펑스 〈2022 어쩌다 페스티벌 in 부산〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54092</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54092"/>
+        <updated>2022-03-07T03:12:07.367Z</updated>
+        <content type="html"><![CDATA[2022.03.10(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54091</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54078"/>
         <updated>2022-03-03T00:46:10.242Z</updated>
         <content type="html"><![CDATA[2022.03.03(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SELECT SHOP〈십센치 X 죠지〉콘서트 - 진주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54077</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54077"/>
-        <updated>2022-03-03T03:15:32.569Z</updated>
-        <content type="html"><![CDATA[2022.03.07(월) 03:00]]></content>
     </entry>
 </feed>
