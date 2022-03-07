@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-07T04:13:58.821Z</updated>
+    <updated>2022-03-07T05:11:55.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 밀양  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54094</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54094"/>
+        <updated>2022-03-07T05:11:44.048Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.08(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박정현 김주택 〈2022 어쩌다 페스티벌 in 부산〉티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54093</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54080"/>
         <updated>2022-03-03T10:13:01.000Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.04(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이날 콩순이 뮤지컬 시즌2 <우리들 음악회> - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54079</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54079"/>
-        <updated>2022-03-03T07:11:43.390Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.08(화) 05:00]]></content>
     </entry>
 </feed>
