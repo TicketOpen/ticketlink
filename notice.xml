@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-08T05:10:30.910Z</updated>
+    <updated>2022-03-08T06:15:09.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헬로우 미스미스터 - 광주공연 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54106</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54106"/>
+        <updated>2022-03-08T06:15:00.968Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족 뮤지컬 〈신데렐라〉 - 경기 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54105</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54105"/>
+        <updated>2022-03-08T06:15:00.974Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제39회 대구연극제 본선참가작 연극 〈시간을 묻다〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54104</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54090"/>
         <updated>2022-03-07T02:08:41.001Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.09(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부산앵콜 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54089</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54089"/>
-        <updated>2022-03-05T09:10:56.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.07(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <또!오해영> 2차 티켓 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54088</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54088"/>
-        <updated>2022-03-04T12:18:43.327Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.08(화) 02:00]]></content>
     </entry>
 </feed>
