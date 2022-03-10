@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-10T02:18:10.815Z</updated>
+    <updated>2022-03-10T03:17:19.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [Online] KIMJUNSU 2022 CONCERT 'DIMENSION' - 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54109</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54109"/>
+        <updated>2022-03-10T03:17:10.941Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈판다스틱〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54108</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54095"/>
         <updated>2022-03-07T11:10:08.401Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.08(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 밀양  티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54094</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54094"/>
-        <updated>2022-03-07T05:11:44.048Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.08(화) 05:00]]></content>
     </entry>
 </feed>
