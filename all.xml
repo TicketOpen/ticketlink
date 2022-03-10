@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T09:12:52.036Z</updated>
+    <updated>2022-03-10T10:12:44.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54116</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54116"/>
+        <updated>2022-03-10T10:12:32.011Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.15(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 발로란트 챌린저스 코리아​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54115</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54115"/>
+        <updated>2022-03-10T10:12:32.014Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 홍지민 귀국 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54114</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[님무용예술원 〈서영님의 춤, 그 향기 2022〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54099</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54099"/>
-        <updated>2022-03-08T02:06:52.948Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 05:00]]></content>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54116</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54116"/>
+        <updated>2022-03-10T10:12:41.588Z</updated>
+        <content type="html"><![CDATA[2022.03.15(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김향의 춤_동무鼕舞 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54098</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54098"/>
-        <updated>2022-03-08T02:06:52.949Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2022 발로란트 챌린저스 코리아​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54115</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54115"/>
+        <updated>2022-03-10T10:12:41.589Z</updated>
+        <content type="html"><![CDATA[2022.03.11(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 홍지민 귀국 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54100"/>
         <updated>2022-03-08T02:07:01.886Z</updated>
         <content type="html"><![CDATA[2022.03.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[님무용예술원 〈서영님의 춤, 그 향기 2022〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54099</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54099"/>
-        <updated>2022-03-08T02:07:01.887Z</updated>
-        <content type="html"><![CDATA[2022.03.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김향의 춤_동무鼕舞 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54098</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54098"/>
-        <updated>2022-03-08T02:07:01.888Z</updated>
-        <content type="html"><![CDATA[2022.03.10(목) 05:00]]></content>
     </entry>
 </feed>
