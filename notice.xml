@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-11T06:14:44.331Z</updated>
+    <updated>2022-03-11T07:12:03.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54123</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54123"/>
+        <updated>2022-03-11T07:11:50.805Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.14(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트 〈​콩순이와 친구들의 음악여행〉​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54122</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54108</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54108"/>
         <updated>2022-03-08T07:11:38.052Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈더 가구〉티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54107</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54107"/>
-        <updated>2022-03-08T07:11:38.057Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 01:00]]></content>
     </entry>
 </feed>
