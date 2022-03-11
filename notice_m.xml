@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-11T04:15:55.599Z</updated>
+    <updated>2022-03-11T05:12:23.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 성남(앵콜) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54121</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54121"/>
+        <updated>2022-03-11T05:12:21.055Z</updated>
+        <content type="html"><![CDATA[2022.03.15(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 이천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54120</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54106"/>
         <updated>2022-03-08T06:15:08.714Z</updated>
         <content type="html"><![CDATA[2022.03.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족 뮤지컬 〈신데렐라〉 - 경기 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54105</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54105"/>
-        <updated>2022-03-08T06:15:08.715Z</updated>
-        <content type="html"><![CDATA[2022.03.10(목) 01:00]]></content>
     </entry>
 </feed>
