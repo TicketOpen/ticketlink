@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-10T23:13:18.924Z</updated>
+    <updated>2022-03-11T00:50:01.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 누가 내머리에 똥쌌어​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54117</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54117"/>
+        <updated>2022-03-11T00:49:51.323Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54116</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54102</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54102"/>
         <updated>2022-03-08T02:06:52.938Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(의정부)2022가족뮤지컬＂신데렐라＂ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54100</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54100"/>
-        <updated>2022-03-08T02:06:52.948Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 00:00]]></content>
     </entry>
 </feed>
