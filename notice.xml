@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-11T00:50:01.397Z</updated>
+    <updated>2022-03-11T02:13:22.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 이천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54120</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54120"/>
+        <updated>2022-03-11T02:13:13.441Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.16(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 가족뮤지컬 인어공주 - 구미 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54119</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54119"/>
+        <updated>2022-03-11T02:13:13.443Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.15(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Online] SOLJI 1st SOLO CONCERT “First Letter” 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54118</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54118"/>
+        <updated>2022-03-11T02:13:13.444Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 누가 내머리에 똥쌌어​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54117</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54105"/>
         <updated>2022-03-08T06:15:00.974Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제39회 대구연극제 본선참가작 연극 〈시간을 묻다〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54104</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54104"/>
-        <updated>2022-03-08T05:10:22.299Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 2차 티켓 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54103</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54103"/>
-        <updated>2022-03-08T05:10:22.299Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022어린이날 특별 가족체험공연＂버블버블쇼＂ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54102</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54102"/>
-        <updated>2022-03-08T02:06:52.938Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 00:00]]></content>
     </entry>
 </feed>
