@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-14T04:17:58.046Z</updated>
+    <updated>2022-03-14T05:33:43.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 성남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54127</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54127"/>
+        <updated>2022-03-14T05:33:40.585Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54126</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54126"/>
+        <updated>2022-03-14T05:33:40.586Z</updated>
+        <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소 향 - 성남 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54125</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54113"/>
         <updated>2022-03-10T08:14:48.659Z</updated>
         <content type="html"><![CDATA[2022.03.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(제주)2022 가족뮤지컬 인어공주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54112</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54112"/>
-        <updated>2022-03-10T07:11:43.299Z</updated>
-        <content type="html"><![CDATA[2022.03.14(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54110</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54110"/>
-        <updated>2022-03-10T06:14:40.600Z</updated>
-        <content type="html"><![CDATA[2022.03.14(월) 05:00]]></content>
     </entry>
 </feed>

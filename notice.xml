@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-14T04:17:58.049Z</updated>
+    <updated>2022-03-14T05:33:43.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 성남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54127</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54127"/>
+        <updated>2022-03-14T05:33:32.131Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54126</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54126"/>
+        <updated>2022-03-14T05:33:32.133Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.22(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소 향 - 성남 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54125</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54113"/>
         <updated>2022-03-10T08:14:39.342Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(제주)2022 가족뮤지컬 인어공주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54112</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54112"/>
-        <updated>2022-03-10T07:11:34.290Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.14(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 2차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54110</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54110"/>
-        <updated>2022-03-10T06:14:31.271Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.14(월) 05:00]]></content>
     </entry>
 </feed>
