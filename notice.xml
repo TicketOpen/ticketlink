@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-14T02:11:51.753Z</updated>
+    <updated>2022-03-14T03:13:56.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소 향 - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54125</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54125"/>
+        <updated>2022-03-14T03:13:45.469Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.15(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 “캣” - 수원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54124</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54110"/>
         <updated>2022-03-10T06:14:31.271Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.14(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [Online] KIMJUNSU 2022 CONCERT 'DIMENSION' - 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54109</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54109"/>
-        <updated>2022-03-10T03:17:10.941Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.10(목) 09:00]]></content>
     </entry>
 </feed>
