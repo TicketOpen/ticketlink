@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-15T06:14:33.388Z</updated>
+    <updated>2022-03-15T07:12:16.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 서울 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54137</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54137"/>
+        <updated>2022-03-15T07:12:05.858Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페라마 토크 콘서트 바리톤 정경의 정신 나간 작곡가와 키스하다 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54136</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54136"/>
+        <updated>2022-03-15T07:12:05.865Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베이스바리톤 길병민 리사이틀 - 울산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54135</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.14(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 성남(앵콜) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54121</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54121"/>
-        <updated>2022-03-11T06:14:35.103Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.15(화) 05:00]]></content>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54137</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54137"/>
+        <updated>2022-03-15T07:12:13.703Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 이천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54120</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54120"/>
-        <updated>2022-03-11T02:13:13.441Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.16(수) 05:00]]></content>
+        <title type="html"><![CDATA[오페라마 토크 콘서트 바리톤 정경의 정신 나간 작곡가와 키스하다 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54136</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54136"/>
+        <updated>2022-03-15T07:12:13.708Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베이스바리톤 길병민 리사이틀 - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54123"/>
         <updated>2022-03-11T07:12:00.398Z</updated>
         <content type="html"><![CDATA[2022.03.14(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 성남(앵콜) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54121</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54121"/>
-        <updated>2022-03-11T05:12:21.055Z</updated>
-        <content type="html"><![CDATA[2022.03.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 이천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54120</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54120"/>
-        <updated>2022-03-11T02:13:21.579Z</updated>
-        <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
     </entry>
 </feed>
