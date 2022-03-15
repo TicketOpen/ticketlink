@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-15T02:14:04.642Z</updated>
+    <updated>2022-03-15T03:15:06.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 열두명의 성난사람들 - 경주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 서울 도봉구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54134</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54134"/>
+        <updated>2022-03-15T03:15:03.615Z</updated>
+        <content type="html"><![CDATA[2022.03.16(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 김해 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54133</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54133"/>
+        <updated>2022-03-15T03:15:03.618Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 03:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 열두명의 성난사람들 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54132</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54132"/>
@@ -117,14 +131,14 @@
         <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Rock” 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “The Rock” 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54131</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54131"/>
         <updated>2022-03-15T02:14:01.990Z</updated>
         <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Musical” 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “The Musical” 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54130</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54130"/>
         <updated>2022-03-15T02:14:01.992Z</updated>
@@ -138,7 +152,7 @@
         <content type="html"><![CDATA[2022.03.15(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Ballad” 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “The Ballad” 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54128</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54128"/>
         <updated>2022-03-14T07:11:50.071Z</updated>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54119"/>
         <updated>2022-03-11T02:13:21.583Z</updated>
         <content type="html"><![CDATA[2022.03.15(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [Online] SOLJI 1st SOLO CONCERT “First Letter” 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54118</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54118"/>
-        <updated>2022-03-11T02:13:21.584Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 누가 내머리에 똥쌌어​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54117</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54117"/>
-        <updated>2022-03-11T00:50:00.765Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 00:00]]></content>
     </entry>
 </feed>
