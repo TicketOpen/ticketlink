@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-15T03:15:06.194Z</updated>
+    <updated>2022-03-15T04:15:22.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베이스바리톤 길병민 리사이틀 - 울산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54135</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54135"/>
+        <updated>2022-03-15T04:15:19.299Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 서울 도봉구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54134</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54120"/>
         <updated>2022-03-11T02:13:21.579Z</updated>
         <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 가족뮤지컬 인어공주 - 구미 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54119</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54119"/>
-        <updated>2022-03-11T02:13:21.583Z</updated>
-        <content type="html"><![CDATA[2022.03.15(화) 02:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-15T03:15:06.110Z</updated>
+    <updated>2022-03-15T04:15:22.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베이스바리톤 길병민 리사이틀 - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54135</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54135"/>
+        <updated>2022-03-15T04:15:10.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 서울 도봉구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54134</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54134"/>
+        <updated>2022-03-15T04:15:10.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.16(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 김해 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54133</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54133"/>
+        <updated>2022-03-15T04:15:10.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 열두명의 성난사람들 - 경주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54132</id>
@@ -13,14 +34,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.16(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Rock” 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “The Rock” 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54131</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54131"/>
         <updated>2022-03-15T02:13:51.900Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.18(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Musical” 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “The Musical” 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54130</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54130"/>
         <updated>2022-03-15T02:13:51.901Z</updated>
@@ -34,7 +55,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.15(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Ballad” 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “The Ballad” 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54128</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54128"/>
         <updated>2022-03-14T07:11:42.225Z</updated>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54120"/>
         <updated>2022-03-11T02:13:13.441Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 가족뮤지컬 인어공주 - 구미 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54119</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54119"/>
-        <updated>2022-03-11T02:13:13.443Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.15(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [Online] SOLJI 1st SOLO CONCERT “First Letter” 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54118</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54118"/>
-        <updated>2022-03-11T02:13:13.444Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 누가 내머리에 똥쌌어​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54117</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54117"/>
-        <updated>2022-03-11T00:49:51.323Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.11(금) 00:00]]></content>
     </entry>
 </feed>
