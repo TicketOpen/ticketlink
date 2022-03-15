@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-15T00:49:08.006Z</updated>
+    <updated>2022-03-15T02:14:04.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 열두명의 성난사람들 - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54132</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54132"/>
+        <updated>2022-03-15T02:14:01.966Z</updated>
+        <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Rock” 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54131</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54131"/>
+        <updated>2022-03-15T02:14:01.990Z</updated>
+        <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “OFF THE RECORD : The Musical” 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54130</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54130"/>
+        <updated>2022-03-15T02:14:01.992Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립창극단 수시공연 '판소리감상회' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54129</id>
@@ -55,13 +76,6 @@
         <content type="html"><![CDATA[2022.03.14(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트 〈​콩순이와 친구들의 음악여행〉​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54122</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54122"/>
-        <updated>2022-03-11T06:14:43.593Z</updated>
-        <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 성남(앵콜) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54121</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54121"/>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54117"/>
         <updated>2022-03-11T00:50:00.765Z</updated>
         <content type="html"><![CDATA[2022.03.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이베스트셀러뮤지컬 책먹는여우 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54116</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54116"/>
-        <updated>2022-03-10T10:12:41.588Z</updated>
-        <content type="html"><![CDATA[2022.03.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 발로란트 챌린저스 코리아​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54115</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54115"/>
-        <updated>2022-03-10T10:12:41.589Z</updated>
-        <content type="html"><![CDATA[2022.03.11(금) 07:00]]></content>
     </entry>
 </feed>
