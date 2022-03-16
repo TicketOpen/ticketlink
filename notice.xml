@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-16T08:17:32.332Z</updated>
+    <updated>2022-03-16T09:11:57.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족 뮤지컬 〈인어공주〉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54151</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54151"/>
+        <updated>2022-03-16T09:11:45.415Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 II, Magic 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54150</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54150"/>
+        <updated>2022-03-16T09:11:45.417Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 고양 앵콜! 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54149</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54149"/>
+        <updated>2022-03-16T09:11:45.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54148</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54148"/>
+        <updated>2022-03-16T09:11:45.420Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 청주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54147</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54137"/>
         <updated>2022-03-15T07:12:05.858Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라마 토크 콘서트 바리톤 정경의 정신 나간 작곡가와 키스하다 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54136</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54136"/>
-        <updated>2022-03-15T07:12:05.865Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이스바리톤 길병민 리사이틀 - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54135</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54135"/>
-        <updated>2022-03-15T04:15:10.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘렛잇고2’ - 서울 도봉구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54134</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54134"/>
-        <updated>2022-03-15T04:15:10.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.16(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 김해 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54133</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54133"/>
-        <updated>2022-03-15T04:15:10.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 03:00]]></content>
     </entry>
 </feed>
