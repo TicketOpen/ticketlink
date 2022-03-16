@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-16T04:15:44.684Z</updated>
+    <updated>2022-03-16T05:12:46.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 빅3 “행복한 만남” 콘서트(진성, 김용임, 강진) - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54141</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54141"/>
+        <updated>2022-03-16T05:12:45.878Z</updated>
+        <content type="html"><![CDATA[2022.03.21(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 전주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54140</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54126"/>
         <updated>2022-03-14T05:33:40.586Z</updated>
         <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소 향 - 성남 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54125</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54125"/>
-        <updated>2022-03-16T02:20:03.133Z</updated>
-        <content type="html"><![CDATA[2022.03.15(화) 05:00]]></content>
     </entry>
 </feed>
