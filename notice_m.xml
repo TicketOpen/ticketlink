@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-16T07:13:21.406Z</updated>
+    <updated>2022-03-16T08:17:32.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 청주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54147</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54147"/>
+        <updated>2022-03-16T08:17:29.096Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 부평 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54146</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54146"/>
+        <updated>2022-03-16T08:17:29.096Z</updated>
+        <content type="html"><![CDATA[2022.03.18(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제13회 대구꽃박람회 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54145</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54133"/>
         <updated>2022-03-15T03:15:03.618Z</updated>
         <content type="html"><![CDATA[2022.03.17(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 열두명의 성난사람들 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54132</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54132"/>
-        <updated>2022-03-15T02:14:01.966Z</updated>
-        <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2022 정동하 소극장콘서트 “The Rock” 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54131</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54131"/>
-        <updated>2022-03-15T02:14:01.990Z</updated>
-        <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
     </entry>
 </feed>
