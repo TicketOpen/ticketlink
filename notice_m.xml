@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-16T00:48:14.462Z</updated>
+    <updated>2022-03-16T02:20:03.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 성남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54127</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54127"/>
-        <updated>2022-03-14T05:33:40.585Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54126</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54126"/>
         <updated>2022-03-14T05:33:40.586Z</updated>
         <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소 향 - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54125</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54125"/>
+        <updated>2022-03-16T02:20:03.133Z</updated>
+        <content type="html"><![CDATA[2022.03.15(화) 05:00]]></content>
     </entry>
 </feed>
