@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-16T05:12:46.729Z</updated>
+    <updated>2022-03-16T06:14:17.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 연극 〈친정엄마와 2박3일 - 대구〉티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54142</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54142"/>
+        <updated>2022-03-16T06:14:14.844Z</updated>
+        <content type="html"><![CDATA[2022.03.21(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 빅3 “행복한 만남” 콘서트(진성, 김용임, 강진) - 원주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54141</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54128"/>
         <updated>2022-03-14T07:11:50.071Z</updated>
         <content type="html"><![CDATA[2022.03.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54126</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54126"/>
-        <updated>2022-03-14T05:33:40.586Z</updated>
-        <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
     </entry>
 </feed>
