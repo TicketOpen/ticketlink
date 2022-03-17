@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-17T20:32:00.717Z</updated>
+    <updated>2022-03-17T22:55:01.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DAC 올해의 아티스트〈무용수 강주경〉- 대구티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54159</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54159"/>
+        <updated>2022-03-17T22:54:59.201Z</updated>
+        <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코믹연극 〈딜리버리〉티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54158</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54145"/>
         <updated>2022-03-16T07:13:18.738Z</updated>
         <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬  〈신데렐라〉 - 평택 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54144</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54144"/>
-        <updated>2022-03-16T07:13:18.738Z</updated>
-        <content type="html"><![CDATA[2022.03.18(금) 01:00]]></content>
     </entry>
 </feed>
