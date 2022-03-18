@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-17T23:16:29.671Z</updated>
+    <updated>2022-03-18T01:10:41.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] DAC 올해의 아티스트〈무용수 강주경〉- 대구티켓오픈 안내 (티켓링크)]]></title>
@@ -23,7 +23,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/54157</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54157"/>
         <updated>2022-03-17T10:12:37.673Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 11:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.21(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​킹아더〉​ 2차​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -128,7 +128,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/54157</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54157"/>
         <updated>2022-03-17T08:15:37.257Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 11:00]]></content>
+        <content type="html"><![CDATA[2022.03.21(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​킹아더〉​ 2차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
