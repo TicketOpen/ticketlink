@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T05:11:44.096Z</updated>
+    <updated>2022-03-18T06:18:32.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54163</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54163"/>
+        <updated>2022-03-18T06:18:21.240Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.23(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  광주 〈원픽스테이지〉 10CM 하현상 소수빈​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54162</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 전주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54148</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54148"/>
-        <updated>2022-03-16T09:11:45.420Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 01:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54163</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54163"/>
+        <updated>2022-03-18T06:18:30.028Z</updated>
+        <content type="html"><![CDATA[2022.03.23(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  광주 〈원픽스테이지〉 10CM 하현상 소수빈​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54149</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54149"/>
         <updated>2022-03-16T09:11:54.860Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54148</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54148"/>
-        <updated>2022-03-16T09:11:54.861Z</updated>
         <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
     </entry>
 </feed>
