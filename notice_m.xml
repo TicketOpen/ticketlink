@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-18T04:14:32.110Z</updated>
+    <updated>2022-03-18T05:11:44.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  광주 〈원픽스테이지〉 10CM 하현상 소수빈​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54162</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54162"/>
+        <updated>2022-03-18T05:11:43.368Z</updated>
+        <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이날특선 가족뮤지컬 ‘아기돼지 삼형제’ - 강릉  티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54161</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54148</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54148"/>
         <updated>2022-03-16T09:11:54.861Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 청주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54147</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54147"/>
-        <updated>2022-03-16T08:17:29.096Z</updated>
         <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
     </entry>
 </feed>
