@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T07:12:02.948Z</updated>
+    <updated>2022-03-18T08:14:16.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -61,13 +61,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.22(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] KBS 열린음악회​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54155</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54155"/>
-        <updated>2022-03-17T03:14:01.820Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.21(월) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 조희창의 음악 오디세이 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54154</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54154"/>
@@ -107,6 +100,13 @@
         <id>http://www.ticketlink.co.kr/help/notice/54149</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54149"/>
         <updated>2022-03-16T09:11:45.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 전주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54148</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54148"/>
+        <updated>2022-03-18T08:14:06.869Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 01:00]]></content>
     </entry>
     <entry>
@@ -166,13 +166,6 @@
         <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] KBS 열린음악회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54155</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54155"/>
-        <updated>2022-03-17T02:15:20.803Z</updated>
-        <content type="html"><![CDATA[2022.03.21(월) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 조희창의 음악 오디세이 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54154</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54154"/>
@@ -212,6 +205,13 @@
         <id>http://m.ticketlink.co.kr/help/notice/54149</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54149"/>
         <updated>2022-03-16T09:11:54.860Z</updated>
+        <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54148</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54148"/>
+        <updated>2022-03-18T08:14:15.374Z</updated>
         <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
     </entry>
 </feed>
