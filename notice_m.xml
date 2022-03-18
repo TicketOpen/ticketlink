@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-18T09:44:34.268Z</updated>
+    <updated>2022-03-18T10:50:01.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립발레단 〈해적〉 - 경주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54164</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54164"/>
+        <updated>2022-03-18T10:49:58.307Z</updated>
+        <content type="html"><![CDATA[2022.03.21(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 3차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54163</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54149</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54149"/>
         <updated>2022-03-16T09:11:54.860Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54148</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54148"/>
-        <updated>2022-03-18T08:14:15.374Z</updated>
         <content type="html"><![CDATA[2022.03.17(목) 01:00]]></content>
     </entry>
 </feed>
