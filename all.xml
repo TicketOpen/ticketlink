@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-21T02:28:29.786Z</updated>
+    <updated>2022-03-21T03:22:39.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022년 연극 〈친정엄마와 2박3일〉 - 춘천​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54169</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54169"/>
+        <updated>2022-03-21T03:22:32.001Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.24(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [SPECIAL PACKAGE] 2022 KIM SUNG KYU CONCERT​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54168</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54168"/>
+        <updated>2022-03-21T03:22:32.010Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.21(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 국립발레단 〈해적〉 - 경주​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54164</id>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 II, Magic 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54150</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54150"/>
-        <updated>2022-03-16T09:11:45.417Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 고양 앵콜! 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54149</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54149"/>
-        <updated>2022-03-16T09:11:45.418Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.17(목) 01:00]]></content>
+        <title type="html"><![CDATA[2022년 연극 〈친정엄마와 2박3일〉 - 춘천​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54169</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54169"/>
+        <updated>2022-03-21T03:22:39.224Z</updated>
+        <content type="html"><![CDATA[2022.03.24(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [SPECIAL PACKAGE] 2022 KIM SUNG KYU CONCERT​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54151"/>
         <updated>2022-03-16T09:11:54.856Z</updated>
         <content type="html"><![CDATA[2022.03.17(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 II, Magic 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54150</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54150"/>
-        <updated>2022-03-16T09:11:54.860Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 08:00]]></content>
     </entry>
 </feed>
