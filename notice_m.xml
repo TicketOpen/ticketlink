@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-21T08:17:45.259Z</updated>
+    <updated>2022-03-21T09:15:46.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] KBS 열린음악회 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54173</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54173"/>
+        <updated>2022-03-21T09:15:43.477Z</updated>
+        <content type="html"><![CDATA[2022.03.22(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54172</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54172"/>
+        <updated>2022-03-21T09:15:43.480Z</updated>
+        <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노을이 너무 예뻐서 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54170</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54158"/>
         <updated>2022-03-17T10:12:46.486Z</updated>
         <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 KIM SUNG KYU CONCERT 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54157</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54157"/>
-        <updated>2022-03-17T08:15:37.257Z</updated>
-        <content type="html"><![CDATA[2022.03.21(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​킹아더〉​ 2차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54156</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54156"/>
-        <updated>2022-03-17T06:14:54.575Z</updated>
-        <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
     </entry>
 </feed>
