@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-21T04:16:08.827Z</updated>
+    <updated>2022-03-21T05:11:21.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노을이 너무 예뻐서 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54170</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54170"/>
+        <updated>2022-03-21T05:11:18.708Z</updated>
+        <content type="html"><![CDATA[2022.03.23(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 연극 〈친정엄마와 2박3일〉 - 춘천​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54169</id>
@@ -18,6 +25,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54168"/>
         <updated>2022-03-21T02:28:29.171Z</updated>
         <content type="html"><![CDATA[2022.03.21(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 주현미 콘서트 - 고양​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54167</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54167"/>
+        <updated>2022-03-21T05:11:18.720Z</updated>
+        <content type="html"><![CDATA[2022.03.24(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛〉 - 군산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54165</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54165"/>
+        <updated>2022-03-21T05:11:18.720Z</updated>
+        <content type="html"><![CDATA[2022.03.23(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 국립발레단 〈해적〉 - 경주​​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54154"/>
         <updated>2022-03-17T02:15:20.811Z</updated>
         <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 대구앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54153</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54153"/>
-        <updated>2022-03-17T00:48:08.881Z</updated>
-        <content type="html"><![CDATA[2022.03.21(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 융·복합 미디어 쇼〔HARMONY OF LIGH〕/ 쇼디자인그룹 생동감-광주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54152</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54152"/>
-        <updated>2022-03-17T00:48:08.881Z</updated>
-        <content type="html"><![CDATA[2022.03.18(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족 뮤지컬 〈인어공주〉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54151</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54151"/>
-        <updated>2022-03-16T09:11:54.856Z</updated>
-        <content type="html"><![CDATA[2022.03.17(목) 02:00]]></content>
     </entry>
 </feed>
