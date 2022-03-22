@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-22T07:12:30.314Z</updated>
+    <updated>2022-03-22T08:14:48.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제130회 정기공연 [Voice of Spring] 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54177</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54177"/>
+        <updated>2022-03-22T08:14:37.101Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.24(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOLJI 1st SOLO CONCERT “First Letter” 공연 일정 연기 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54176</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54176"/>
+        <updated>2022-03-22T08:14:37.106Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.22(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 피아니스트 김기경의 스튜디오 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54175</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54175"/>
+        <updated>2022-03-22T08:14:37.107Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.24(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 모차르트·가족 오페라 〈마술피리〉-광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54174</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54163"/>
         <updated>2022-03-18T06:18:21.240Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  광주 〈원픽스테이지〉 10CM 하현상 소수빈​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54162</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54162"/>
-        <updated>2022-03-18T05:11:35.981Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이날특선 가족뮤지컬 ‘아기돼지 삼형제’ - 강릉  티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54161</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54161"/>
-        <updated>2022-03-18T02:26:01.658Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.21(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박시환 콘서트- 선물] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54160</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54160"/>
-        <updated>2022-03-18T02:26:01.663Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.18(금) 05:00]]></content>
     </entry>
 </feed>
