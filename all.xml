@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T05:11:11.836Z</updated>
+    <updated>2022-03-22T06:15:28.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 모차르트·가족 오페라 〈마술피리〉-광주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.18(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 피아니스트 김기경의 스튜디오 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54175</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54175"/>
+        <updated>2022-03-22T06:15:27.681Z</updated>
+        <content type="html"><![CDATA[2022.03.24(목) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 모차르트·가족 오페라 〈마술피리〉-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54174</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54174"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54161"/>
         <updated>2022-03-18T02:26:11.978Z</updated>
         <content type="html"><![CDATA[2022.03.21(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박시환 콘서트- 선물] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54160</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54160"/>
-        <updated>2022-03-18T02:26:11.979Z</updated>
-        <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
     </entry>
 </feed>
