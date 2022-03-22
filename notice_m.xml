@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-22T04:16:00.723Z</updated>
+    <updated>2022-03-22T05:11:11.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 모차르트·가족 오페라 〈마술피리〉-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54174</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54174"/>
+        <updated>2022-03-22T05:11:11.039Z</updated>
+        <content type="html"><![CDATA[2022.03.23(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] KBS 열린음악회 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54173</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54160</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54160"/>
         <updated>2022-03-18T02:26:11.979Z</updated>
-        <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] DAC 올해의 아티스트〈무용수 강주경〉- 대구티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54159</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54159"/>
-        <updated>2022-03-17T22:54:59.201Z</updated>
         <content type="html"><![CDATA[2022.03.18(금) 05:00]]></content>
     </entry>
 </feed>
