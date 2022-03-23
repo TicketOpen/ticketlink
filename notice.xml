@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-23T08:16:40.095Z</updated>
+    <updated>2022-03-23T09:12:01.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 `알라딘과 자스민공주` - 울산​ 티켓오픈 안]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54188</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54188"/>
+        <updated>2022-03-23T09:11:49.213Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.25(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립극단 제18회 정기공연 '모든 군인은 불쌍하다' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54187</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54187"/>
+        <updated>2022-03-23T09:11:49.213Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(도봉) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54186</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54186"/>
+        <updated>2022-03-23T09:11:49.213Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.24(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－군포 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54185</id>
@@ -25,6 +46,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54183"/>
         <updated>2022-03-23T03:25:51.665Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［수원］2022 김연자 라이브 콘서트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54182</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54182"/>
+        <updated>2022-03-23T09:11:49.225Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 연극 〈친정엄마와 2박3일〉 - 안산 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54174"/>
         <updated>2022-03-22T05:11:02.347Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.23(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] KBS 열린음악회 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54173</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54173"/>
-        <updated>2022-03-21T09:15:33.589Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.22(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54172</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54172"/>
-        <updated>2022-03-21T09:15:33.589Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심청전을 짓다 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54171</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54171"/>
-        <updated>2022-03-22T02:24:14.355Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노을이 너무 예뻐서 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54170</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54170"/>
-        <updated>2022-03-21T05:11:11.964Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.23(수) 01:00]]></content>
     </entry>
 </feed>
