@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-23T04:17:05.676Z</updated>
+    <updated>2022-03-23T05:13:26.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54183"/>
         <updated>2022-03-23T03:25:58.699Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［수원］2022 김연자 라이브 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54182</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54182"/>
+        <updated>2022-03-23T05:13:24.578Z</updated>
+        <content type="html"><![CDATA[2022.03.28(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 연극 〈친정엄마와 2박3일〉 - 안산 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54172</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54172"/>
         <updated>2022-03-21T09:15:43.480Z</updated>
-        <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심청전을 짓다 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54171</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54171"/>
-        <updated>2022-03-22T00:49:54.685Z</updated>
         <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
     </entry>
 </feed>
