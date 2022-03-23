@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-22T23:12:57.312Z</updated>
+    <updated>2022-03-23T00:54:58.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Innovative Classic] 피아졸라, 루이 암스트롱을 만나다 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54178</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54178"/>
+        <updated>2022-03-23T00:54:57.537Z</updated>
+        <content type="html"><![CDATA[2022.03.25(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 제130회 정기공연 [Voice of Spring] 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54177</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54164"/>
         <updated>2022-03-18T10:49:58.307Z</updated>
         <content type="html"><![CDATA[2022.03.21(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 3차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54163</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54163"/>
-        <updated>2022-03-18T06:18:30.028Z</updated>
-        <content type="html"><![CDATA[2022.03.23(수) 05:00]]></content>
     </entry>
 </feed>
