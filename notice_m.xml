@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-23T05:13:26.941Z</updated>
+    <updated>2022-03-23T06:16:08.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 `알라딘과 자스민공주` - 울산​ 티켓오픈 안]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54188</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54188"/>
+        <updated>2022-03-23T06:16:05.826Z</updated>
+        <content type="html"><![CDATA[2022.03.25(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립극단 제18회 정기공연 '모든 군인은 불쌍하다' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54187</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54187"/>
+        <updated>2022-03-23T06:16:05.827Z</updated>
+        <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(도봉) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54186</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54174"/>
         <updated>2022-03-22T05:11:11.039Z</updated>
         <content type="html"><![CDATA[2022.03.23(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] KBS 열린음악회 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54173</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54173"/>
-        <updated>2022-03-21T09:15:43.477Z</updated>
-        <content type="html"><![CDATA[2022.03.22(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54172</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54172"/>
-        <updated>2022-03-21T09:15:43.480Z</updated>
-        <content type="html"><![CDATA[2022.03.22(화) 05:00]]></content>
     </entry>
 </feed>
