@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-24T05:12:51.031Z</updated>
+    <updated>2022-03-24T06:16:42.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54197</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54197"/>
+        <updated>2022-03-24T06:16:39.471Z</updated>
+        <content type="html"><![CDATA[2022.03.31(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54196</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54196"/>
+        <updated>2022-03-24T06:16:39.503Z</updated>
+        <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈장수상회〉 - 안산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54195</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54195"/>
+        <updated>2022-03-24T06:16:39.503Z</updated>
+        <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 진주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54194</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54194"/>
+        <updated>2022-03-24T06:16:39.507Z</updated>
+        <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리 뮤지컬 헤이지니&럭키강이 시즌2 ＂비밀의 문＂ - 군포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54193</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54193"/>
+        <updated>2022-03-24T06:16:39.510Z</updated>
+        <content type="html"><![CDATA[2022.03.25(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 부산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54192</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54183"/>
         <updated>2022-03-23T03:25:58.699Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［수원］2022 김연자 라이브 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54182</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54182"/>
-        <updated>2022-03-23T05:13:24.578Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 연극 〈친정엄마와 2박3일〉 - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54181</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54181"/>
-        <updated>2022-03-23T02:28:53.357Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]體 : 자유로운 영혼 Alma Libre / 퓨전 플라멩코 옴팡 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54180</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54180"/>
-        <updated>2022-03-23T02:28:53.357Z</updated>
-        <content type="html"><![CDATA[2022.03.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 꺼지지 않는 예술 혼 대향 이중섭 레플리카展 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54179</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54179"/>
-        <updated>2022-03-23T02:28:53.357Z</updated>
-        <content type="html"><![CDATA[2022.03.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Innovative Classic] 피아졸라, 루이 암스트롱을 만나다 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54178</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54178"/>
-        <updated>2022-03-23T00:54:57.537Z</updated>
-        <content type="html"><![CDATA[2022.03.25(금) 05:00]]></content>
     </entry>
 </feed>
