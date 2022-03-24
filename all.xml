@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-24T11:12:59.214Z</updated>
+    <updated>2022-03-24T12:21:10.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [1차 예매권 단독판매] D'FESTA 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54199</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54199"/>
+        <updated>2022-03-24T12:21:02.530Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.25(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 부산 동구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54198</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－안산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54184</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54184"/>
-        <updated>2022-03-23T03:25:51.664Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [1차 예매권 단독판매] D'FESTA 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54199</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54199"/>
+        <updated>2022-03-24T12:21:10.367Z</updated>
+        <content type="html"><![CDATA[2022.03.25(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 '렛잇고2' - 부산 동구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54185</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54185"/>
         <updated>2022-03-23T03:25:58.687Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54184</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54184"/>
-        <updated>2022-03-23T03:25:58.689Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
     </entry>
 </feed>
