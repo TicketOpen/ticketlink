@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-25T08:15:59.460Z</updated>
+    <updated>2022-03-25T09:13:37.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(서산) 2022 가족뮤지컬 피터팬​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54205</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54205"/>
+        <updated>2022-03-25T09:13:35.075Z</updated>
+        <content type="html"><![CDATA[2022.03.28(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈또!오해영〉 3차 티켓 오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54204</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54191"/>
         <updated>2022-03-24T05:12:48.253Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 안양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54190</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54190"/>
-        <updated>2022-03-24T02:24:44.246Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 00:00]]></content>
     </entry>
 </feed>
