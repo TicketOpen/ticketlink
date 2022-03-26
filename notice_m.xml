@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-26T02:19:34.190Z</updated>
+    <updated>2022-03-26T03:20:18.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버블버블쇼 - 문산 (파주시) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54210</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54210"/>
+        <updated>2022-03-26T03:20:17.768Z</updated>
+        <content type="html"><![CDATA[2022.03.29(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 ＂어린이 캣츠＂ - 중랑 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54209</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54209"/>
+        <updated>2022-03-26T03:20:17.768Z</updated>
+        <content type="html"><![CDATA[2022.03.29(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54208</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54208"/>
+        <updated>2022-03-26T03:20:17.770Z</updated>
+        <content type="html"><![CDATA[2022.03.29(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<2022 SOMEDAY THEATRE CANTABILE>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54207</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54196"/>
         <updated>2022-03-24T06:16:39.503Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈장수상회〉 - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54195</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54195"/>
-        <updated>2022-03-24T06:16:39.503Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 진주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54194</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54194"/>
-        <updated>2022-03-24T06:16:39.507Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리 뮤지컬 헤이지니&럭키강이 시즌2 ＂비밀의 문＂ - 군포 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54193</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54193"/>
-        <updated>2022-03-24T06:16:39.510Z</updated>
-        <content type="html"><![CDATA[2022.03.25(금) 06:00]]></content>
     </entry>
 </feed>
