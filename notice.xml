@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-28T00:54:46.116Z</updated>
+    <updated>2022-03-28T02:33:51.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.29(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<2022 SOMEDAY THEATRE CANTABILE>​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[〈2022 SOMEDAY THEATRE CANTABILE〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54207</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54207"/>
         <updated>2022-03-25T13:44:53.257Z</updated>
@@ -101,7 +101,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/54200</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54200"/>
         <updated>2022-03-25T05:12:33.782Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.29(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [1차 예매권 단독판매] D'FESTA 티켓오픈 안내]]></title>
