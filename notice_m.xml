@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-28T06:15:27.582Z</updated>
+    <updated>2022-03-28T07:12:45.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 강릉​​  티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54216</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54216"/>
+        <updated>2022-03-28T07:12:44.240Z</updated>
+        <content type="html"><![CDATA[2022.03.30(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈레베카〉 - 대구​ 추가 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54215</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54202"/>
         <updated>2022-03-25T06:20:45.529Z</updated>
         <content type="html"><![CDATA[2022.04.01(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SELECT SHOP 〈십센치 X 소수빈〉콘서트 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54201</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54201"/>
-        <updated>2022-03-25T05:12:42.872Z</updated>
-        <content type="html"><![CDATA[2022.03.29(화) 05:00]]></content>
     </entry>
 </feed>
