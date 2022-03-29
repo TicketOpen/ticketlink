@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-29T05:14:10.588Z</updated>
+    <updated>2022-03-29T06:16:16.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 보헤미안들이 사랑한 도시, 파리 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54222</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54222"/>
+        <updated>2022-03-29T06:16:09.895Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조항조&진성 〈앙상블콘서트〉 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54221</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54221"/>
+        <updated>2022-03-29T06:16:09.897Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.01(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 주현미 콘서트 - 전주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54220</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.29(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[〈2022 SOMEDAY THEATRE CANTABILE〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54207</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54207"/>
-        <updated>2022-03-25T13:44:53.257Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 09:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 보헤미안들이 사랑한 도시, 파리 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54222</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54222"/>
+        <updated>2022-03-29T06:16:16.375Z</updated>
+        <content type="html"><![CDATA[2022.03.31(목) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 가족 뮤지컬 〈신데렐라〉 - 경기광주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54206</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54206"/>
-        <updated>2022-03-25T11:11:37.532Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 05:00]]></content>
+        <title type="html"><![CDATA[조항조&진성 〈앙상블콘서트〉 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54221</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54221"/>
+        <updated>2022-03-29T06:16:16.378Z</updated>
+        <content type="html"><![CDATA[2022.04.01(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 주현미 콘서트 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54208"/>
         <updated>2022-03-26T03:20:17.770Z</updated>
         <content type="html"><![CDATA[2022.03.29(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈2022 SOMEDAY THEATRE CANTABILE〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54207</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54207"/>
-        <updated>2022-03-25T13:45:02.344Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족 뮤지컬 〈신데렐라〉 - 경기광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54206</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54206"/>
-        <updated>2022-03-25T10:16:59.758Z</updated>
-        <content type="html"><![CDATA[2022.03.28(월) 05:00]]></content>
     </entry>
 </feed>
