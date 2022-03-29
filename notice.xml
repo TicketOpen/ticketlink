@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-03-29T03:30:43.328Z</updated>
+    <updated>2022-03-29T04:15:51.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 주현미 콘서트 - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54220</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54220"/>
+        <updated>2022-03-29T04:15:39.546Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.30(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 옥탑방 고양이 - 의성 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54219</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54206"/>
         <updated>2022-03-25T11:11:37.532Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(서산) 2022 가족뮤지컬 피터팬​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54205</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54205"/>
-        <updated>2022-03-25T11:11:37.535Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 00:00]]></content>
     </entry>
 </feed>
