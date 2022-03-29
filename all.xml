@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-29T00:55:09.858Z</updated>
+    <updated>2022-03-29T02:32:51.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 옥탑방 고양이 - 의성 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54219</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54219"/>
+        <updated>2022-03-29T02:32:42.599Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.11(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54218</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54218"/>
+        <updated>2022-03-29T02:32:42.611Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 고양앵콜 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54217</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54217"/>
+        <updated>2022-03-29T02:32:42.611Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 강릉​​  티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54216</id>
@@ -89,25 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈또!오해영〉 3차 티켓 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54204</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54204"/>
-        <updated>2022-03-25T08:15:51.940Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.29(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강릉] 싱어롱 콘서트 뮤지컬 'Live Show' 〈무지개 물고기〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54203</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54203"/>
-        <updated>2022-03-25T07:13:13.955Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보헤미안랩소디 with 오케스트라 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54202</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54202"/>
-        <updated>2022-03-25T07:13:13.956Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.01(금) 05:00]]></content>
+        <title type="html"><![CDATA[연극 옥탑방 고양이 - 의성 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54219</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54219"/>
+        <updated>2022-03-29T02:32:50.809Z</updated>
+        <content type="html"><![CDATA[2022.04.11(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54205"/>
         <updated>2022-03-25T09:13:35.075Z</updated>
         <content type="html"><![CDATA[2022.03.28(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈또!오해영〉 3차 티켓 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54204</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54204"/>
-        <updated>2022-03-25T08:15:58.828Z</updated>
-        <content type="html"><![CDATA[2022.03.29(화) 02:00]]></content>
     </entry>
 </feed>
