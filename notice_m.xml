@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-29T07:13:40.772Z</updated>
+    <updated>2022-03-29T08:17:15.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아디오스 서거 30주년] 아디오스 피아졸라, 라이브 탱고 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54223</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54223"/>
+        <updated>2022-03-29T08:17:13.310Z</updated>
+        <content type="html"><![CDATA[2022.03.31(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [11시 음악산책] 보헤미안들이 사랑한 도시, 파리 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54222</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54209"/>
         <updated>2022-03-26T03:20:17.768Z</updated>
         <content type="html"><![CDATA[2022.03.29(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 천안 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54208</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54208"/>
-        <updated>2022-03-26T03:20:17.770Z</updated>
-        <content type="html"><![CDATA[2022.03.29(화) 02:00]]></content>
     </entry>
 </feed>
