@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-29T09:14:40.620Z</updated>
+    <updated>2022-03-29T10:14:49.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 거제 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54228</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54228"/>
+        <updated>2022-03-29T10:14:48.822Z</updated>
+        <content type="html"><![CDATA[2022.03.30(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 가족뮤지컬 미녀와야수 - 거제 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54227</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54227"/>
         <updated>2022-03-29T09:14:38.015Z</updated>
-        <content type="html"><![CDATA[2022.03.30(수) 01:00]]></content>
+        <content type="html"><![CDATA[2022.03.30(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 높은 곳으로, 비상 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54214</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54214"/>
         <updated>2022-03-28T05:13:00.151Z</updated>
-        <content type="html"><![CDATA[2022.03.29(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 ‘알라딘과 자스민공주’ - 익산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54213</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54213"/>
-        <updated>2022-03-26T09:11:47.918Z</updated>
         <content type="html"><![CDATA[2022.03.29(화) 00:00]]></content>
     </entry>
 </feed>
