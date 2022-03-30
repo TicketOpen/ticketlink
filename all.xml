@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-30T08:17:16.972Z</updated>
+    <updated>2022-03-30T09:11:58.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 대구달성 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54244</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54244"/>
+        <updated>2022-03-30T09:11:45.380Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(서울 노원) 2022 가족뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54243</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54243"/>
+        <updated>2022-03-30T09:11:45.381Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.01(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(영주) 2022 가족뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54242</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54242"/>
+        <updated>2022-03-30T09:11:45.381Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.01(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김주택 손태진 존노 〈2022 어쩌다 FESTIVAL in 울산〉 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54241</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54241"/>
+        <updated>2022-03-30T09:11:45.383Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.01(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 3차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54240</id>
@@ -80,34 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54228"/>
         <updated>2022-03-29T10:14:38.826Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.30(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 가족뮤지컬 미녀와야수 - 거제 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54227</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54227"/>
-        <updated>2022-03-29T10:14:38.828Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.30(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 높은 곳으로, 비상 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54226</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54226"/>
-        <updated>2022-03-29T10:14:38.832Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] NHN티켓링크 이용약관 개정에 대한 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54225</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54225"/>
-        <updated>2022-03-29T10:14:38.833Z</updated>
-        <content type="html"><![CDATA[2022.03.29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림읽어주는베토벤 클래식콘서트 세계명작극장〈플란다스의 개〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54224</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54224"/>
-        <updated>2022-03-29T10:14:38.833Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 대구달성 티켓오픈 안내 (티켓링크 모바일)]]></title>
