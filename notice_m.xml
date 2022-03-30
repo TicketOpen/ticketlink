@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-30T03:28:06.534Z</updated>
+    <updated>2022-03-30T04:15:16.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 어린이날 특별공연 `라바와 함께하는 키즈 클래식`​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54235</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54235"/>
+        <updated>2022-03-30T04:15:16.006Z</updated>
+        <content type="html"><![CDATA[2022.03.31(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립발레단 제131회 정기공연 [오월바람]​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54234</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54219"/>
         <updated>2022-03-29T02:32:50.809Z</updated>
         <content type="html"><![CDATA[2022.04.11(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54218</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54218"/>
-        <updated>2022-03-29T00:55:09.288Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 00:00]]></content>
     </entry>
 </feed>
