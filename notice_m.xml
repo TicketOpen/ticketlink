@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-30T04:15:16.658Z</updated>
+    <updated>2022-03-30T05:11:32.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54240</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54240"/>
+        <updated>2022-03-30T05:11:29.929Z</updated>
+        <content type="html"><![CDATA[2022.04.04(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[링크 Special] 뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54239</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54239"/>
+        <updated>2022-03-30T05:11:29.933Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 마지막 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54238</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54238"/>
+        <updated>2022-03-30T05:11:29.933Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[십센치 치즈 안녕바다 〈2022 어쩌다 FESTIVAL in 울산〉​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54237</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54237"/>
+        <updated>2022-03-30T05:11:29.933Z</updated>
+        <content type="html"><![CDATA[2022.04.01(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명품악극 불효자는 웁니다​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54236</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54236"/>
+        <updated>2022-03-30T05:11:29.934Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 어린이날 특별공연 `라바와 함께하는 키즈 클래식`​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54235</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54224"/>
         <updated>2022-03-29T09:14:38.027Z</updated>
         <content type="html"><![CDATA[2022.03.31(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아디오스 서거 30주년] 아디오스 피아졸라, 라이브 탱고 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54223</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54223"/>
-        <updated>2022-03-29T08:17:13.310Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 보헤미안들이 사랑한 도시, 파리 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54222</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54222"/>
-        <updated>2022-03-29T06:16:16.375Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항조&진성 〈앙상블콘서트〉 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54221</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54221"/>
-        <updated>2022-03-29T06:16:16.378Z</updated>
-        <content type="html"><![CDATA[2022.04.01(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 주현미 콘서트 - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54220</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54220"/>
-        <updated>2022-03-29T04:15:48.718Z</updated>
-        <content type="html"><![CDATA[2022.03.30(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 옥탑방 고양이 - 의성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54219</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54219"/>
-        <updated>2022-03-29T02:32:50.809Z</updated>
-        <content type="html"><![CDATA[2022.04.11(월) 05:00]]></content>
     </entry>
 </feed>
