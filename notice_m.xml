@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-31T00:49:29.626Z</updated>
+    <updated>2022-03-31T02:26:32.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미샤 마이스키 첼로 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54245</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54245"/>
+        <updated>2022-03-31T02:26:29.766Z</updated>
+        <content type="html"><![CDATA[2022.03.31(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 대구달성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54244</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54229"/>
         <updated>2022-03-30T02:30:41.621Z</updated>
         <content type="html"><![CDATA[2022.04.01(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 거제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54228</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54228"/>
-        <updated>2022-03-29T10:14:48.822Z</updated>
-        <content type="html"><![CDATA[2022.03.30(수) 01:00]]></content>
     </entry>
 </feed>
