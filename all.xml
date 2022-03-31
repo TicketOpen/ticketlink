@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T06:15:27.398Z</updated>
+    <updated>2022-03-31T07:12:33.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈태양의노래〉 1차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54247</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54247"/>
+        <updated>2022-03-31T07:12:23.656Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 부산 티켓 오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54246</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대구] 2019년 한류문화대상 연극 ‘뷰티풀라이프’ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54232</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54232"/>
-        <updated>2022-03-30T05:11:20.498Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.02(토) 01:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈태양의노래〉 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54247</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54247"/>
+        <updated>2022-03-31T07:12:32.914Z</updated>
+        <content type="html"><![CDATA[2022.04.05(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 부산 티켓 오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54233"/>
         <updated>2022-03-30T02:30:41.621Z</updated>
         <content type="html"><![CDATA[2022.03.31(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2019년 한류문화대상 연극 ‘뷰티풀라이프’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54232</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54232"/>
-        <updated>2022-03-30T02:30:41.621Z</updated>
-        <content type="html"><![CDATA[2022.04.02(토) 01:00]]></content>
     </entry>
 </feed>

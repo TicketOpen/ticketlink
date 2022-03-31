@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-03-31T06:15:27.395Z</updated>
+    <updated>2022-03-31T07:12:33.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈태양의노래〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54247</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54247"/>
+        <updated>2022-03-31T07:12:32.914Z</updated>
+        <content type="html"><![CDATA[2022.04.05(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll&Hyde) - 부산 티켓 오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54246</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54233"/>
         <updated>2022-03-30T02:30:41.621Z</updated>
         <content type="html"><![CDATA[2022.03.31(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 2019년 한류문화대상 연극 ‘뷰티풀라이프’ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54232</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54232"/>
-        <updated>2022-03-30T02:30:41.621Z</updated>
-        <content type="html"><![CDATA[2022.04.02(토) 01:00]]></content>
     </entry>
 </feed>
