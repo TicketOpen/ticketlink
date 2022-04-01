@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-01T07:12:03.018Z</updated>
+    <updated>2022-04-01T08:17:42.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주문화예술회관 기획공연 포커스] 해피해프닝 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54256</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54256"/>
+        <updated>2022-04-01T08:17:39.314Z</updated>
+        <content type="html"><![CDATA[2022.04.04(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈넥스트 투 노멀〉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54255</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54242"/>
         <updated>2022-03-30T07:13:55.215Z</updated>
         <content type="html"><![CDATA[2022.04.01(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김주택 손태진 존노 〈2022 어쩌다 FESTIVAL in 울산〉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54241</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54241"/>
-        <updated>2022-03-30T07:13:55.218Z</updated>
-        <content type="html"><![CDATA[2022.04.01(금) 06:00]]></content>
     </entry>
 </feed>
