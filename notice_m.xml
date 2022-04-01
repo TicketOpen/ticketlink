@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-01T06:16:10.387Z</updated>
+    <updated>2022-04-01T07:12:03.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈넥스트 투 노멀〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54255</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54255"/>
+        <updated>2022-04-01T07:12:00.401Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54254</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54241"/>
         <updated>2022-03-30T07:13:55.218Z</updated>
         <content type="html"><![CDATA[2022.04.01(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54240</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54240"/>
-        <updated>2022-03-30T05:11:29.929Z</updated>
-        <content type="html"><![CDATA[2022.04.04(월) 05:00]]></content>
     </entry>
 </feed>
