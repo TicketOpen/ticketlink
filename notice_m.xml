@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-01T05:11:12.753Z</updated>
+    <updated>2022-04-01T06:16:10.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54254</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54254"/>
+        <updated>2022-04-01T06:16:08.229Z</updated>
+        <content type="html"><![CDATA[2022.04.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 소향X정동하 - 포항 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54253</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54253"/>
+        <updated>2022-04-01T06:16:08.232Z</updated>
+        <content type="html"><![CDATA[2022.04.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54252</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54252"/>
+        <updated>2022-04-01T06:16:08.233Z</updated>
+        <content type="html"><![CDATA[2022.04.04(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54251</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54240"/>
         <updated>2022-03-30T05:11:29.929Z</updated>
         <content type="html"><![CDATA[2022.04.04(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[링크 Special] 뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54239</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54239"/>
-        <updated>2022-03-30T05:11:29.933Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈라이온 킹〉 인터내셔널 투어 부산 마지막 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54238</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54238"/>
-        <updated>2022-03-30T05:11:29.933Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[십센치 치즈 안녕바다 〈2022 어쩌다 FESTIVAL in 울산〉​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54237</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54237"/>
-        <updated>2022-03-30T05:11:29.933Z</updated>
-        <content type="html"><![CDATA[2022.04.01(금) 05:00]]></content>
     </entry>
 </feed>
