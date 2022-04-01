@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-01T02:55:43.545Z</updated>
+    <updated>2022-04-01T03:41:55.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54251</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54251"/>
+        <updated>2022-04-01T03:41:43.077Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 울산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54250</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54250"/>
+        <updated>2022-04-01T03:41:43.083Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54249</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54249"/>
+        <updated>2022-04-01T03:41:43.083Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑해요 당신 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54248</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54248"/>
+        <updated>2022-04-01T03:41:43.084Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈태양의노래〉 1차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54247</id>
@@ -80,34 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54237"/>
         <updated>2022-03-30T05:11:20.492Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.01(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극 불효자는 웁니다​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54236</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54236"/>
-        <updated>2022-03-30T05:11:20.493Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 어린이날 특별공연 `라바와 함께하는 키즈 클래식`​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54235</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54235"/>
-        <updated>2022-03-30T05:11:20.498Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제131회 정기공연 [오월바람]​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54234</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54234"/>
-        <updated>2022-03-30T05:11:20.498Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[피아졸라 서거 30주년] 아디오스 피아졸라, 라이브 탱고​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54233</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54233"/>
-        <updated>2022-03-30T05:11:20.498Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
