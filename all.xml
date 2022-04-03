@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-03T05:11:57.898Z</updated>
+    <updated>2022-04-03T06:14:05.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54260</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54260"/>
+        <updated>2022-04-03T06:13:54.520Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울시향과 함께하는 〈​오케스트라 여행〉​​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54259</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54259"/>
+        <updated>2022-04-03T06:13:54.522Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유러피안 재즈 트리오 디즈니 VS 지브리​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54258</id>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.08(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미샤 마이스키 첼로 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54245</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54245"/>
-        <updated>2022-03-31T02:26:20.082Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.03.31(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 대구달성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54244</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54244"/>
-        <updated>2022-03-30T09:11:45.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 00:00]]></content>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54260</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54260"/>
+        <updated>2022-04-03T06:14:02.498Z</updated>
+        <content type="html"><![CDATA[2022.04.05(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울시향과 함께하는 〈​오케스트라 여행〉​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54246"/>
         <updated>2022-03-31T05:11:14.303Z</updated>
         <content type="html"><![CDATA[2022.04.08(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미샤 마이스키 첼로 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54245</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54245"/>
-        <updated>2022-03-31T02:26:29.766Z</updated>
-        <content type="html"><![CDATA[2022.03.31(목) 05:00]]></content>
     </entry>
 </feed>
