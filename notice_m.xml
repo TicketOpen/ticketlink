@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-04T08:16:03.781Z</updated>
+    <updated>2022-04-04T09:12:53.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 부평 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54267</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54267"/>
+        <updated>2022-04-04T09:12:50.730Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 경기 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54266</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54266"/>
+        <updated>2022-04-04T09:12:50.733Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54265</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54265"/>
+        <updated>2022-04-04T09:12:50.734Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 ［엄마까투리 - 마트에 간 꽁지］－고양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54264</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54264"/>
+        <updated>2022-04-04T09:12:50.736Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡 애니멀 쇼 - 도봉구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54263</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54253"/>
         <updated>2022-04-01T06:16:08.232Z</updated>
         <content type="html"><![CDATA[2022.04.06(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54252</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54252"/>
-        <updated>2022-04-01T06:16:08.233Z</updated>
-        <content type="html"><![CDATA[2022.04.04(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54251</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54251"/>
-        <updated>2022-04-01T02:55:42.822Z</updated>
-        <content type="html"><![CDATA[2022.04.05(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 울산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54250</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54250"/>
-        <updated>2022-04-01T02:55:42.822Z</updated>
-        <content type="html"><![CDATA[2022.04.05(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“트롯특전사” 박군의 첫번째 팬 콘서트 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54249</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54249"/>
-        <updated>2022-04-01T02:55:42.826Z</updated>
-        <content type="html"><![CDATA[2022.04.05(화) 04:00]]></content>
     </entry>
 </feed>
