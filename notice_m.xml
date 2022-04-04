@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-04T07:13:15.151Z</updated>
+    <updated>2022-04-04T08:16:03.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공룡 애니멀 쇼 - 도봉구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54263</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54263"/>
+        <updated>2022-04-04T08:16:01.500Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상한 나라의 모자장수 - 김해 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54262</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54249"/>
         <updated>2022-04-01T02:55:42.826Z</updated>
         <content type="html"><![CDATA[2022.04.05(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑해요 당신 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54248</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54248"/>
-        <updated>2022-04-01T02:55:42.826Z</updated>
-        <content type="html"><![CDATA[2022.04.05(화) 01:00]]></content>
     </entry>
 </feed>
