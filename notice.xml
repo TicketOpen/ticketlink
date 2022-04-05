@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-05T10:13:57.559Z</updated>
+    <updated>2022-04-05T11:10:51.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ASL 시즌13 결승전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54272</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54272"/>
+        <updated>2022-04-05T11:10:39.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 안산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54271</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54271"/>
+        <updated>2022-04-05T11:10:39.233Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 하남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54270</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54270"/>
+        <updated>2022-04-05T11:10:39.240Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부산앵콜 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54269</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54258"/>
         <updated>2022-04-02T08:14:09.786Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 앤서니 브라운 '겁쟁이 빌리' - 안동​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54257</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54257"/>
-        <updated>2022-04-02T05:10:51.355Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주문화예술회관 기획공연 포커스] 해피해프닝 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54256</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54256"/>
-        <updated>2022-04-01T09:12:05.021Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈넥스트 투 노멀〉 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54255</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54255"/>
-        <updated>2022-04-01T07:11:50.733Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 07:00]]></content>
     </entry>
 </feed>
