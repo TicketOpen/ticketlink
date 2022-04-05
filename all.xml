@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-05T07:13:28.257Z</updated>
+    <updated>2022-04-05T08:16:04.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부산앵콜 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 07:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] ASL 시즌13 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54272</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54272"/>
+        <updated>2022-04-05T08:16:03.827Z</updated>
+        <content type="html"><![CDATA[2022.04.06(수) 08:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54271</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54271"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54258"/>
         <updated>2022-04-02T08:14:17.844Z</updated>
         <content type="html"><![CDATA[2022.04.05(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 앤서니 브라운 '겁쟁이 빌리' - 안동​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54257</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54257"/>
-        <updated>2022-04-02T05:11:00.601Z</updated>
-        <content type="html"><![CDATA[2022.04.04(월) 01:00]]></content>
     </entry>
 </feed>
