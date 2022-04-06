@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-06T06:14:13.325Z</updated>
+    <updated>2022-04-06T07:12:30.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(순천) 2021 베스트셀러뮤지컬 “누가 내머리에 똥쌌어”​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54277</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54277"/>
+        <updated>2022-04-06T07:12:19.668Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.08(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 마지막​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54276</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54263"/>
         <updated>2022-04-04T09:12:42.403Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상한 나라의 모자장수 - 김해 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54262</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54262"/>
-        <updated>2022-04-04T06:14:47.448Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 01:00]]></content>
     </entry>
 </feed>
