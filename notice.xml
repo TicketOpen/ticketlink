@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-06T07:12:30.610Z</updated>
+    <updated>2022-04-06T08:15:09.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제43회 서울연극제 공식선정작 〈타자기 치는 남자〉티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54278</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54278"/>
+        <updated>2022-04-06T08:14:57.924Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.07(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(순천) 2021 베스트셀러뮤지컬 “누가 내머리에 똥쌌어”​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54277</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54264"/>
         <updated>2022-04-04T09:12:42.402Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡 애니멀 쇼 - 도봉구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54263</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54263"/>
-        <updated>2022-04-04T09:12:42.403Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 00:00]]></content>
     </entry>
 </feed>
