@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-06T02:27:45.812Z</updated>
+    <updated>2022-04-06T03:26:57.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈알사탕〉- 포항​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54275</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54275"/>
+        <updated>2022-04-06T03:26:56.417Z</updated>
+        <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 창작인형극 〈파란토끼 룰루〉 - 포항 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54274</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54274"/>
+        <updated>2022-04-06T03:26:56.417Z</updated>
+        <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 대전​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54273</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54273"/>
+        <updated>2022-04-06T03:26:56.419Z</updated>
+        <content type="html"><![CDATA[2022.04.08(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ASL 시즌13 결승전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54272</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54261"/>
         <updated>2022-04-03T07:11:29.008Z</updated>
         <content type="html"><![CDATA[2022.04.04(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54260</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54260"/>
-        <updated>2022-04-03T06:14:02.498Z</updated>
-        <content type="html"><![CDATA[2022.04.05(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시향과 함께하는 〈​오케스트라 여행〉​​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54259</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54259"/>
-        <updated>2022-04-03T05:11:55.268Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유러피안 재즈 트리오 디즈니 VS 지브리​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54258</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54258"/>
-        <updated>2022-04-02T08:14:17.844Z</updated>
-        <content type="html"><![CDATA[2022.04.05(화) 02:00]]></content>
     </entry>
 </feed>
