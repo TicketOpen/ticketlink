@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-06T04:15:26.354Z</updated>
+    <updated>2022-04-06T05:12:08.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] ASL 시즌13 결승전 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.05(화) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​블러디 사일런스 : 류진 더 뱀파이어 헌터〉​ 마지막​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54276</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54276"/>
+        <updated>2022-04-06T05:12:06.131Z</updated>
+        <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 〈알사탕〉- 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54275</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54275"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54262"/>
         <updated>2022-04-04T06:14:55.864Z</updated>
         <content type="html"><![CDATA[2022.04.05(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 구미 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54261</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54261"/>
-        <updated>2022-04-03T07:11:29.008Z</updated>
-        <content type="html"><![CDATA[2022.04.04(월) 02:00]]></content>
     </entry>
 </feed>
