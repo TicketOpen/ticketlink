@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-07T09:13:20.739Z</updated>
+    <updated>2022-04-07T10:12:28.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉- 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54289</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54289"/>
+        <updated>2022-04-07T10:12:28.205Z</updated>
+        <content type="html"><![CDATA[2022.04.11(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54288</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[단독판매] 뮤지컬 〈알사탕〉- 포항​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54275</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54275"/>
-        <updated>2022-04-06T03:26:56.417Z</updated>
-        <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 창작인형극 〈파란토끼 룰루〉 - 포항 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54274</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54274"/>
         <updated>2022-04-06T03:26:56.417Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
     </entry>
