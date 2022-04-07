@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-07T00:52:16.222Z</updated>
+    <updated>2022-04-07T02:24:56.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [포시즌] 미샤 마이스키 첼로 리사이틀-광주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54280</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54280"/>
+        <updated>2022-04-07T02:24:53.869Z</updated>
+        <content type="html"><![CDATA[2022.04.08(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 플루티스트 하지현 18번째 리사이틀 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54279</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54266"/>
         <updated>2022-04-04T09:12:50.733Z</updated>
         <content type="html"><![CDATA[2022.04.06(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54265</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54265"/>
-        <updated>2022-04-04T09:12:50.734Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 02:00]]></content>
     </entry>
 </feed>

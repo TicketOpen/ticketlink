@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-07T00:52:16.094Z</updated>
+    <updated>2022-04-07T02:24:56.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [포시즌] 미샤 마이스키 첼로 리사이틀-광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54280</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54280"/>
+        <updated>2022-04-07T02:24:46.009Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.08(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 플루티스트 하지현 18번째 리사이틀 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54279</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54279"/>
+        <updated>2022-04-07T02:24:46.009Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.08(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제43회 서울연극제 공식선정작 〈타자기 치는 남자〉티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54278</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54266</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54266"/>
         <updated>2022-04-04T09:12:42.400Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54265</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54265"/>
-        <updated>2022-04-04T09:12:42.401Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 ［엄마까투리 - 마트에 간 꽁지］－고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54264</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54264"/>
-        <updated>2022-04-04T09:12:42.402Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.06(수) 01:00]]></content>
     </entry>
 </feed>
