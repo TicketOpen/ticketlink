@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-07T07:13:06.079Z</updated>
+    <updated>2022-04-07T08:19:51.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54288</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54288"/>
+        <updated>2022-04-07T08:19:49.232Z</updated>
+        <content type="html"><![CDATA[2022.04.13(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 군포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54287</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54287"/>
+        <updated>2022-04-07T08:19:49.233Z</updated>
+        <content type="html"><![CDATA[2022.04.12(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]O.B.S ensemble 제 4회 정기연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54286</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54286"/>
+        <updated>2022-04-07T08:19:49.234Z</updated>
+        <content type="html"><![CDATA[2022.04.11(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책먹는여우 - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54285</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54274"/>
         <updated>2022-04-06T03:26:56.417Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 대전​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54273</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54273"/>
-        <updated>2022-04-06T03:26:56.419Z</updated>
-        <content type="html"><![CDATA[2022.04.08(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ASL 시즌13 결승전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54272</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54272"/>
-        <updated>2022-04-05T08:16:03.827Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54271</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54271"/>
-        <updated>2022-04-05T06:17:12.059Z</updated>
-        <content type="html"><![CDATA[2022.04.06(수) 02:00]]></content>
     </entry>
 </feed>
