@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-08T02:39:28.380Z</updated>
+    <updated>2022-04-08T03:31:43.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[드로잉 퍼포먼스 〈페인터즈〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54290</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54290"/>
+        <updated>2022-04-08T03:31:34.072Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈알사탕〉- 제주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54289</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.12(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈알사탕〉- 포항​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54275</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54275"/>
-        <updated>2022-04-06T06:14:00.618Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.12(화) 05:00]]></content>
+        <title type="html"><![CDATA[드로잉 퍼포먼스 〈페인터즈〉 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54290</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54290"/>
+        <updated>2022-04-08T03:31:42.837Z</updated>
+        <content type="html"><![CDATA[2022.04.13(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈알사탕〉- 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54276</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54276"/>
         <updated>2022-04-06T05:12:06.131Z</updated>
-        <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈알사탕〉- 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54275</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54275"/>
-        <updated>2022-04-06T03:26:56.417Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
     </entry>
 </feed>
