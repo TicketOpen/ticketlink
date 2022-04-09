@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-09T04:14:24.271Z</updated>
+    <updated>2022-04-09T05:10:48.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈쓰릴 미〉 녹화중계 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54297</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54297"/>
+        <updated>2022-04-09T05:10:45.350Z</updated>
+        <content type="html"><![CDATA[2022.04.12(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼굴 입장 서비스 기능 개선 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54296</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54283"/>
         <updated>2022-04-07T06:14:29.052Z</updated>
         <content type="html"><![CDATA[2022.04.12(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤하늘의별을 with my friends 첫 번째이야기 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54282</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54282"/>
-        <updated>2022-04-07T05:12:15.380Z</updated>
-        <content type="html"><![CDATA[2022.04.13(수) 05:00]]></content>
     </entry>
 </feed>
