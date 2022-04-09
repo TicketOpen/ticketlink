@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-09T08:14:51.318Z</updated>
+    <updated>2022-04-09T09:11:28.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 강동 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54300</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54300"/>
+        <updated>2022-04-09T09:11:15.827Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 LIVE CONCERT - 강릉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54299</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54299"/>
+        <updated>2022-04-09T09:11:15.828Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54298</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54298"/>
+        <updated>2022-04-09T09:11:15.831Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈쓰릴 미〉 녹화중계 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54297</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54286"/>
         <updated>2022-04-07T10:12:20.396Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.11(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54285</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54285"/>
-        <updated>2022-04-07T06:14:19.131Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.11(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54284</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54284"/>
-        <updated>2022-04-07T06:14:19.134Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.11(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​킹아더〉​ 3차, 5월 시즌​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54283</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54283"/>
-        <updated>2022-04-07T06:14:19.134Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.12(화) 06:00]]></content>
     </entry>
 </feed>
