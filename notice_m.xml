@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-11T23:13:10.597Z</updated>
+    <updated>2022-04-12T00:53:45.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디어 슈베르트 (Dear Schubert)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54303</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54303"/>
+        <updated>2022-04-12T00:53:42.589Z</updated>
+        <content type="html"><![CDATA[2022.04.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2022 수성아트피아 기획공연 〈시즌음악회-4월 ‘신춘가락(新春歌㦡)’〉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54302</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54289"/>
         <updated>2022-04-07T10:12:28.205Z</updated>
         <content type="html"><![CDATA[2022.04.11(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54288</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54288"/>
-        <updated>2022-04-07T08:19:49.232Z</updated>
-        <content type="html"><![CDATA[2022.04.13(수) 05:00]]></content>
     </entry>
 </feed>
