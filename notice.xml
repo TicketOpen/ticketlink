@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-12T08:16:16.561Z</updated>
+    <updated>2022-04-12T09:12:05.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [고고다이노 공룡탐험대] - 군산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54310</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54310"/>
+        <updated>2022-04-12T09:11:54.534Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WONDERLAND FESTIVAL 2022 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54309</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54309"/>
+        <updated>2022-04-12T09:11:54.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.14(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54308</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54308"/>
+        <updated>2022-04-12T09:11:54.543Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 4차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54307</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54296"/>
         <updated>2022-04-08T08:14:05.925Z</updated>
         <content type="html"><![CDATA[2022.04.08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 울산첫공연 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54295</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54295"/>
-        <updated>2022-04-08T06:15:29.278Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.12(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버블버블쇼 - 아산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54294</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54294"/>
-        <updated>2022-04-08T06:15:29.280Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.12(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 부활 서울 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54293</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54293"/>
-        <updated>2022-04-08T05:11:04.398Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.12(화) 05:00]]></content>
     </entry>
 </feed>
