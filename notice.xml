@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-12T00:53:45.174Z</updated>
+    <updated>2022-04-12T02:37:43.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제43회 서울연극제 공식선정작 〈7분(Sette Minuti)〉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54305</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54305"/>
+        <updated>2022-04-12T02:37:30.221Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대백미니랜드 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54304</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54304"/>
+        <updated>2022-04-12T02:37:30.223Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디어 슈베르트 (Dear Schubert)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54303</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54303"/>
+        <updated>2022-04-12T02:37:30.224Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2022 수성아트피아 기획공연 〈시즌음악회-4월 ‘신춘가락(新春歌㦡)’〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54302</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54291"/>
         <updated>2022-04-08T05:11:04.407Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.12(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드로잉 퍼포먼스 〈페인터즈〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54290</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54290"/>
-        <updated>2022-04-08T03:31:34.072Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉- 제주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54289</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54289"/>
-        <updated>2022-04-07T10:12:20.387Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.11(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54288</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54288"/>
-        <updated>2022-04-07T10:12:20.394Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 05:00]]></content>
     </entry>
 </feed>
