@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-13T04:15:57.943Z</updated>
+    <updated>2022-04-13T05:11:42.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54312"/>
         <updated>2022-04-13T02:41:42.059Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아프리카TV 2022 HOT6 LoL BJ멸망전 시즌1 결승전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54311</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54311"/>
+        <updated>2022-04-13T05:11:30.481Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.14(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 [고고다이노 공룡탐험대] - 군산 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54299"/>
         <updated>2022-04-09T09:11:15.828Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54298</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54298"/>
-        <updated>2022-04-09T09:11:15.831Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 05:00]]></content>
     </entry>
 </feed>
