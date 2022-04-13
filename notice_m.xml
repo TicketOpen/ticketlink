@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-13T05:11:42.423Z</updated>
+    <updated>2022-04-13T06:15:26.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -83,7 +83,7 @@
         <content type="html"><![CDATA[2022.04.13(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 시즌음악회 4월 - 〈 ‘신춘가락(新春歌㦡)’〉 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 4월 시즌음악회〈 신춘가락(新春歌㦡)〉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54302</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54302"/>
         <updated>2022-04-11T09:12:28.162Z</updated>
