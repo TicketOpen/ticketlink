@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-14T02:47:01.886Z</updated>
+    <updated>2022-04-14T03:35:40.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이날 100주년 기념공연 음악무용극 `불켜는 아이`​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54314</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54314"/>
+        <updated>2022-04-14T03:35:39.598Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 코믹마당극 〈열혈 심청〉 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54313</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54300"/>
         <updated>2022-04-09T08:14:48.713Z</updated>
         <content type="html"><![CDATA[2022.04.13(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 LIVE CONCERT - 강릉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54299</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54299"/>
-        <updated>2022-04-09T08:14:48.715Z</updated>
-        <content type="html"><![CDATA[2022.04.14(목) 05:00]]></content>
     </entry>
 </feed>
