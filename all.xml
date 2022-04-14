@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-14T06:17:40.305Z</updated>
+    <updated>2022-04-14T07:13:14.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54318</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54318"/>
+        <updated>2022-04-14T07:13:01.928Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.15(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제19회 대구펫쇼 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54316</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54316"/>
+        <updated>2022-04-14T07:13:01.929Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조항조＆진성 〈​앙상블콘서트〉​ - 수원​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54315</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 4월 시즌음악회〈 신춘가락(新春歌㦡)〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54302</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54302"/>
-        <updated>2022-04-11T09:12:19.454Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54318</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54318"/>
+        <updated>2022-04-14T07:13:11.762Z</updated>
+        <content type="html"><![CDATA[2022.04.15(금) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 용인 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54301</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54301"/>
-        <updated>2022-04-11T06:15:12.024Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.14(목) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 제19회 대구펫쇼 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54316</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54316"/>
+        <updated>2022-04-14T07:13:11.765Z</updated>
+        <content type="html"><![CDATA[2022.04.18(월) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조항조＆진성 〈​앙상블콘서트〉​ - 수원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54303"/>
         <updated>2022-04-12T00:53:42.589Z</updated>
         <content type="html"><![CDATA[2022.04.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 4월 시즌음악회〈 신춘가락(新春歌㦡)〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54302</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54302"/>
-        <updated>2022-04-11T09:12:28.162Z</updated>
-        <content type="html"><![CDATA[2022.04.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54301</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54301"/>
-        <updated>2022-04-11T06:15:19.541Z</updated>
-        <content type="html"><![CDATA[2022.04.14(목) 01:00]]></content>
     </entry>
 </feed>
