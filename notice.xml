@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-15T06:16:42.010Z</updated>
+    <updated>2022-04-15T07:12:46.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54326</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54326"/>
+        <updated>2022-04-15T07:12:34.756Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54325</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54325"/>
+        <updated>2022-04-15T07:12:34.768Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SELECT SHOP〈십센치 X 소수빈〉콘서트 - 부산 좌석 추가오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54324</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54324"/>
+        <updated>2022-04-15T07:12:34.769Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SELECT SHOP〈십센치 X 죠지〉콘서트 - 진주 좌석 추가 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54323</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54323"/>
+        <updated>2022-04-15T07:12:34.771Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈모래시계〉 1차 티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54322</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54312"/>
         <updated>2022-04-13T02:41:42.059Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아프리카TV 2022 HOT6 LoL BJ멸망전 시즌1 결승전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54311</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54311"/>
-        <updated>2022-04-13T05:11:30.481Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [고고다이노 공룡탐험대] - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54310</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54310"/>
-        <updated>2022-04-12T09:11:54.534Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONDERLAND FESTIVAL 2022 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54309</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54309"/>
-        <updated>2022-04-12T09:11:54.535Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.14(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 4차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54307</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54307"/>
-        <updated>2022-04-12T06:14:47.077Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 05:00]]></content>
     </entry>
 </feed>
