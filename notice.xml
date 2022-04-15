@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-15T03:00:21.016Z</updated>
+    <updated>2022-04-15T04:02:45.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54318"/>
         <updated>2022-04-14T07:13:01.928Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.15(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 2022수시연주회 - 경산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54317</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54317"/>
+        <updated>2022-04-15T04:01:38.695Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제19회 대구펫쇼 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54307"/>
         <updated>2022-04-12T06:14:47.077Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <하데스타운> 최초 한국 공연, 드디어 부산 티켓 오픈! (Musical Hadestown)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54306</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54306"/>
-        <updated>2022-04-12T06:14:47.079Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 05:00]]></content>
     </entry>
 </feed>
