@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-15T00:55:29.218Z</updated>
+    <updated>2022-04-15T03:00:21.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈모래시계〉 1차 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54322</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54322"/>
+        <updated>2022-04-15T02:59:13.812Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앙상블 콘서트 : Strings Ⅱ​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54321</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54306"/>
         <updated>2022-04-12T06:14:47.079Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제43회 서울연극제 공식선정작 〈7분(Sette Minuti)〉 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54305</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54305"/>
-        <updated>2022-04-12T02:37:30.221Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.13(수) 06:00]]></content>
     </entry>
 </feed>
