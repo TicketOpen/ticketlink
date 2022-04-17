@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-17T22:11:53.011Z</updated>
+    <updated>2022-04-17T23:13:36.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 부천 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 리사이틀 시리즈 - 추교준 피아노 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54329</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54329"/>
+        <updated>2022-04-17T23:13:34.279Z</updated>
+        <content type="html"><![CDATA[2022.04.19(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54328</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54328"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54315"/>
         <updated>2022-04-14T05:11:50.393Z</updated>
         <content type="html"><![CDATA[2022.04.18(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이날 100주년 기념공연 음악무용극 `불켜는 아이`​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54314</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54314"/>
-        <updated>2022-04-14T03:35:39.598Z</updated>
-        <content type="html"><![CDATA[2022.04.19(화) 01:00]]></content>
     </entry>
 </feed>
