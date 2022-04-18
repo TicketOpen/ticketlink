@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-18T04:19:41.741Z</updated>
+    <updated>2022-04-18T05:12:47.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SELECT SHOP〈십센치 X 죠지〉콘서트 - 창원 티켓 추가오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54337</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54337"/>
+        <updated>2022-04-18T05:12:46.538Z</updated>
+        <content type="html"><![CDATA[2022.04.20(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54336</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54336"/>
+        <updated>2022-04-18T05:12:46.538Z</updated>
+        <content type="html"><![CDATA[2022.04.20(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]매직드로잉 가족극 〈두들팝〉 - 의성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54335</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54335"/>
         <updated>2022-04-18T03:41:09.742Z</updated>
         <content type="html"><![CDATA[2022.04.25(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오은영, 1도의 변화, 우리들의 마법의 순간 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54333</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54333"/>
+        <updated>2022-04-18T05:12:46.540Z</updated>
+        <content type="html"><![CDATA[2022.04.21(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부천 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54322"/>
         <updated>2022-04-15T07:12:43.909Z</updated>
         <content type="html"><![CDATA[2022.04.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앙상블 콘서트 : Strings Ⅱ​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54321</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54321"/>
-        <updated>2022-04-14T11:11:35.790Z</updated>
-        <content type="html"><![CDATA[2022.04.15(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 군산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54320</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54320"/>
-        <updated>2022-04-14T11:11:35.794Z</updated>
-        <content type="html"><![CDATA[2022.04.18(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미〉 프리뷰​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54319</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54319"/>
-        <updated>2022-04-14T11:11:35.799Z</updated>
-        <content type="html"><![CDATA[2022.04.21(목) 06:00]]></content>
     </entry>
 </feed>
