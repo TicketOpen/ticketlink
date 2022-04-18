@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-18T07:12:14.919Z</updated>
+    <updated>2022-04-18T08:15:44.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니버설 발레단 돈키호테 - 군산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54345</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54345"/>
+        <updated>2022-04-18T08:14:35.486Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(양산) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54344</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54344"/>
+        <updated>2022-04-18T08:14:35.487Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <또!오해영> 마지막 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54343</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54343"/>
+        <updated>2022-04-18T08:14:35.488Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 추가 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54342</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54342"/>
+        <updated>2022-04-18T08:14:35.489Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 울산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54341</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54330"/>
         <updated>2022-04-18T00:59:30.238Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 리사이틀 시리즈 - 추교준 피아노 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54329</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54329"/>
-        <updated>2022-04-18T00:59:30.238Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54328</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54328"/>
-        <updated>2022-04-16T02:22:33.702Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54327</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54327"/>
-        <updated>2022-04-16T02:22:33.702Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼뮤지컬] 캐리와 친구들 2022 - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54326</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54326"/>
-        <updated>2022-04-15T07:12:34.756Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 01:00]]></content>
     </entry>
 </feed>
