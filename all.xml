@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-18T02:57:34.560Z</updated>
+    <updated>2022-04-18T03:41:12.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]매직드로잉 가족극 〈두들팝〉 - 의성 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54335</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54335"/>
+        <updated>2022-04-18T03:41:00.914Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54332</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54318</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54318"/>
-        <updated>2022-04-14T07:13:01.928Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.15(금) 04:00]]></content>
+        <title type="html"><![CDATA[[단독판매]매직드로잉 가족극 〈두들팝〉 - 의성 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54335</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54335"/>
+        <updated>2022-04-18T03:41:09.742Z</updated>
+        <content type="html"><![CDATA[2022.04.25(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54319"/>
         <updated>2022-04-14T11:11:35.799Z</updated>
         <content type="html"><![CDATA[2022.04.21(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54318</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54318"/>
-        <updated>2022-04-14T07:13:11.762Z</updated>
-        <content type="html"><![CDATA[2022.04.15(금) 04:00]]></content>
     </entry>
 </feed>
