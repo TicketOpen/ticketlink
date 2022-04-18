@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-17T23:13:36.883Z</updated>
+    <updated>2022-04-18T00:59:40.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54332</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54332"/>
+        <updated>2022-04-18T00:59:30.229Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 남양주​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54331</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54331"/>
+        <updated>2022-04-18T00:59:30.237Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 피아니스트 김기경의 스튜디오 콘서트 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54330</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54330"/>
+        <updated>2022-04-18T00:59:30.238Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 리사이틀 시리즈 - 추교준 피아노 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54329</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54329"/>
+        <updated>2022-04-18T00:59:30.238Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 부천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54328</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54318"/>
         <updated>2022-04-14T07:13:01.928Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.15(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 2022수시연주회 - 경산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54317</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54317"/>
-        <updated>2022-04-15T04:01:38.695Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제19회 대구펫쇼 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54316</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54316"/>
-        <updated>2022-04-14T07:13:01.929Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항조＆진성 〈​앙상블콘서트〉​ - 수원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54315</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54315"/>
-        <updated>2022-04-14T05:11:41.107Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.18(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이날 100주년 기념공연 음악무용극 `불켜는 아이`​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54314</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54314"/>
-        <updated>2022-04-14T02:45:53.652Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.19(화) 01:00]]></content>
     </entry>
 </feed>
