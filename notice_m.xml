@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-19T09:13:11.550Z</updated>
+    <updated>2022-04-19T10:14:06.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 Theatre 이문세 - 안동 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54360</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54360"/>
+        <updated>2022-04-19T10:14:06.222Z</updated>
+        <content type="html"><![CDATA[2022.04.21(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅰ. Cinema on Stage 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54359</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54345"/>
         <updated>2022-04-18T10:14:51.917Z</updated>
         <content type="html"><![CDATA[2022.04.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(양산) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54344</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54344"/>
-        <updated>2022-04-18T10:14:51.918Z</updated>
-        <content type="html"><![CDATA[2022.04.21(목) 00:00]]></content>
     </entry>
 </feed>
