@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-19T04:28:28.522Z</updated>
+    <updated>2022-04-19T05:22:00.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅰ. Cinema on Stage 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54359</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54359"/>
+        <updated>2022-04-19T05:20:50.742Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KIM SUNG KYU CONCERT - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54358</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54358"/>
+        <updated>2022-04-19T05:20:50.742Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 KIM SUNG KYU CONCERT - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54357</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54357"/>
+        <updated>2022-04-19T05:20:50.742Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] SOUND ATELIER 다시, 봄 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54356</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54356"/>
         <updated>2022-04-19T04:27:19.609Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버라이어티 펀펀 매직쇼 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54355</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54355"/>
+        <updated>2022-04-19T05:20:50.745Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포르테 디 콰트로 콘서트 〈메타포닉〉 - 부산 공연 가변석 추가 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54345"/>
         <updated>2022-04-18T08:14:35.486Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(양산) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54344</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54344"/>
-        <updated>2022-04-18T08:14:35.487Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <또!오해영> 마지막 티켓 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54343</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54343"/>
-        <updated>2022-04-18T08:14:35.488Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 추가 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54342</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54342"/>
-        <updated>2022-04-18T08:14:35.489Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54341</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54341"/>
-        <updated>2022-04-18T07:12:06.264Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 06:00]]></content>
     </entry>
 </feed>
