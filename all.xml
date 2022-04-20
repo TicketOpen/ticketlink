@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-20T01:04:12.703Z</updated>
+    <updated>2022-04-20T03:29:46.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54361</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54361"/>
+        <updated>2022-04-20T03:29:34.088Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.22(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Theatre 이문세 - 안동 추가 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54360</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54360"/>
         <updated>2022-04-19T08:15:26.501Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 07:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅰ. Cinema on Stage 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.22(금) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유니버설 발레단 돈키호테 - 군산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54345</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54345"/>
-        <updated>2022-04-18T08:14:35.486Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54361</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54361"/>
+        <updated>2022-04-20T03:29:43.831Z</updated>
+        <content type="html"><![CDATA[2022.04.22(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 Theatre 이문세 - 안동 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54360</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54360"/>
         <updated>2022-04-19T10:14:06.222Z</updated>
-        <content type="html"><![CDATA[2022.04.21(목) 07:00]]></content>
+        <content type="html"><![CDATA[2022.04.20(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅰ. Cinema on Stage 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54346"/>
         <updated>2022-04-18T10:14:51.915Z</updated>
         <content type="html"><![CDATA[2022.04.22(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설 발레단 돈키호테 - 군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54345</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54345"/>
-        <updated>2022-04-18T10:14:51.917Z</updated>
-        <content type="html"><![CDATA[2022.04.21(목) 05:00]]></content>
     </entry>
 </feed>
