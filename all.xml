@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-21T06:14:52.882Z</updated>
+    <updated>2022-04-21T07:11:45.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 4차 티켓오픈 안내 (티켓링크)]]></title>
@@ -24,6 +24,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54373"/>
         <updated>2022-04-21T03:01:09.656Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 HOT6 스타 BJ멸망전 - WSL S2 결승전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54372</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54372"/>
+        <updated>2022-04-21T07:11:32.772Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.22(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 용인 첫공연  티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.20(수) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅰ. Cinema on Stage 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54359</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54359"/>
-        <updated>2022-04-19T05:20:50.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 4차 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54375</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54375"/>
@@ -129,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54373"/>
         <updated>2022-04-21T03:01:20.328Z</updated>
         <content type="html"><![CDATA[2022.04.25(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 HOT6 스타 BJ멸망전 - WSL S2 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54372</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54372"/>
+        <updated>2022-04-21T07:11:42.730Z</updated>
+        <content type="html"><![CDATA[2022.04.22(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 용인 첫공연  티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54360"/>
         <updated>2022-04-19T10:14:06.222Z</updated>
         <content type="html"><![CDATA[2022.04.20(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅰ. Cinema on Stage 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54359</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54359"/>
-        <updated>2022-04-19T06:17:27.402Z</updated>
-        <content type="html"><![CDATA[2022.04.21(목) 05:00]]></content>
     </entry>
 </feed>
