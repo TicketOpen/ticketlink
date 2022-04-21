@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-21T15:13:40.424Z</updated>
+    <updated>2022-04-21T16:18:19.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 ［엄마까투리 - 마트에 간 꽁지］- 안양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54377</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54377"/>
+        <updated>2022-04-21T16:18:17.241Z</updated>
+        <content type="html"><![CDATA[2022.04.22(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트롯여제 김연자 팬미팅 Fan Meeting 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54376</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54362</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54362"/>
         <updated>2022-04-20T05:32:21.863Z</updated>
-        <content type="html"><![CDATA[2022.04.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54361</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54361"/>
-        <updated>2022-04-20T03:29:43.831Z</updated>
         <content type="html"><![CDATA[2022.04.22(금) 05:00]]></content>
     </entry>
 </feed>
