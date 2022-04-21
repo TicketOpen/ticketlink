@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-21T04:38:28.738Z</updated>
+    <updated>2022-04-21T05:34:16.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 4차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54375</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54375"/>
+        <updated>2022-04-21T05:33:07.314Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트롯뮤지컬 〈미스타 호야〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54374</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54374"/>
+        <updated>2022-04-21T05:33:07.315Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 〈미치게그리워서〉 유해준 전국투어 서울 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54373</id>
@@ -94,20 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54359"/>
         <updated>2022-04-19T05:20:50.742Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 KIM SUNG KYU CONCERT - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54358</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54358"/>
-        <updated>2022-04-19T05:20:50.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 KIM SUNG KYU CONCERT - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54357</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54357"/>
-        <updated>2022-04-19T05:20:50.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 〈미치게그리워서〉 유해준 전국투어 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
