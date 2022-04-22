@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-21T23:13:04.742Z</updated>
+    <updated>2022-04-22T00:58:54.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[2022.04.22(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트 III, Brahms’s 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 III, Brahms’s 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54370</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54370"/>
         <updated>2022-04-21T03:01:20.332Z</updated>
@@ -76,7 +76,7 @@
         <content type="html"><![CDATA[2022.04.22(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[봄 그리고 소망과 함께하는 희망나눔 콘서트 - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 봄 그리고 소망과 함께하는 희망나눔 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54367</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54367"/>
         <updated>2022-04-20T08:16:54.370Z</updated>
