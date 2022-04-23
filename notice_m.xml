@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-23T07:12:16.743Z</updated>
+    <updated>2022-04-23T08:15:08.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 ‘아기돼지 삼형제’ - 세종 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54381</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54381"/>
+        <updated>2022-04-23T08:15:06.068Z</updated>
+        <content type="html"><![CDATA[2022.04.26(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 가정의 달 스페셜 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54380</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54367"/>
         <updated>2022-04-20T08:16:54.370Z</updated>
         <content type="html"><![CDATA[2022.04.22(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈태양의노래〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54365</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54365"/>
-        <updated>2022-04-20T08:16:54.371Z</updated>
-        <content type="html"><![CDATA[2022.04.26(화) 07:00]]></content>
     </entry>
 </feed>
