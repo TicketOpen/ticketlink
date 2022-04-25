@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-25T05:14:37.386Z</updated>
+    <updated>2022-04-25T06:18:14.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조항조＆진성 〈​앙상블콘서트〉​ - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54387</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54387"/>
+        <updated>2022-04-25T06:18:11.653Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 유해준 첫번째 전국투어콘서트 〈미치게그리워서〉 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54386</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54373"/>
         <updated>2022-04-21T03:01:20.328Z</updated>
         <content type="html"><![CDATA[2022.04.25(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 HOT6 스타 BJ멸망전 - WSL S2 결승전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54372</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54372"/>
-        <updated>2022-04-21T07:11:42.730Z</updated>
-        <content type="html"><![CDATA[2022.04.22(금) 05:00]]></content>
     </entry>
 </feed>
