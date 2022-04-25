@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-24T23:12:52.657Z</updated>
+    <updated>2022-04-25T00:52:18.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈​우리들 음악회〉​ - 순천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54382</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54382"/>
+        <updated>2022-04-25T00:52:16.248Z</updated>
+        <content type="html"><![CDATA[2022.04.27(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 ‘아기돼지 삼형제’ - 세종 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54381</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54368"/>
         <updated>2022-04-20T08:16:54.370Z</updated>
         <content type="html"><![CDATA[2022.04.22(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 봄 그리고 소망과 함께하는 희망나눔 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54367</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54367"/>
-        <updated>2022-04-20T08:16:54.370Z</updated>
-        <content type="html"><![CDATA[2022.04.22(금) 00:00]]></content>
     </entry>
 </feed>
