@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-26T09:14:00.508Z</updated>
+    <updated>2022-04-26T10:14:51.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Assenble - 발레로 떠나는 세계여행 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54403</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54403"/>
+        <updated>2022-04-26T10:14:40.387Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 서울 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54402</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54402"/>
         <updated>2022-04-26T06:15:22.262Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 위로 - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54401</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54401"/>
+        <updated>2022-04-26T10:14:40.391Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 청주 티켓오픈 안내 (티켓링크)]]></title>
@@ -94,20 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54389"/>
         <updated>2022-04-25T08:15:33.767Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.26(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 군산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54388</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54388"/>
-        <updated>2022-04-25T08:15:33.768Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.26(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항조＆진성 〈​앙상블콘서트〉​ - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54387</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54387"/>
-        <updated>2022-04-25T08:15:33.769Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Assenble - 발레로 떠나는 세계여행 티켓오픈 안내 (티켓링크 모바일)]]></title>
