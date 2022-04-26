@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-26T00:58:32.552Z</updated>
+    <updated>2022-04-26T03:02:39.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈포텐독 : 똥 밟았네〉 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,55 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.25(월) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 GSL 시즌1 (결승전) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54396</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54396"/>
+        <updated>2022-04-26T03:02:37.440Z</updated>
+        <content type="html"><![CDATA[2022.04.29(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54395</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54395"/>
+        <updated>2022-04-26T03:02:37.440Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54394</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54394"/>
+        <updated>2022-04-26T03:02:37.440Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(도봉)2022가족뮤지컬 “프린세스 공주뮤지컬쇼” 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54393</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54393"/>
+        <updated>2022-04-26T03:02:37.443Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54392</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54392"/>
+        <updated>2022-04-26T03:02:37.443Z</updated>
+        <content type="html"><![CDATA[2022.04.27(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(사)홍정희 오페라단 창단 10주년 기념 오페라 카르멘 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54391</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54391"/>
+        <updated>2022-04-26T03:02:37.443Z</updated>
+        <content type="html"><![CDATA[2022.04.26(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈​오아시스〉​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54390</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54390"/>
+        <updated>2022-04-26T03:02:37.444Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈포텐독 : 똥 밟았네〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54389</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54389"/>
@@ -164,54 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54382"/>
         <updated>2022-04-25T00:52:16.248Z</updated>
         <content type="html"><![CDATA[2022.04.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 ‘아기돼지 삼형제’ - 세종 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54381</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54381"/>
-        <updated>2022-04-23T08:15:06.068Z</updated>
-        <content type="html"><![CDATA[2022.04.26(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 가정의 달 스페셜 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54380</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54380"/>
-        <updated>2022-04-22T08:15:42.329Z</updated>
-        <content type="html"><![CDATA[2022.04.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장민호&이찬원 콘서트 “민원만족”-대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54379</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54379"/>
-        <updated>2022-04-22T08:15:42.329Z</updated>
-        <content type="html"><![CDATA[2022.04.25(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54378</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54378"/>
-        <updated>2022-04-22T03:15:09.408Z</updated>
-        <content type="html"><![CDATA[2022.04.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 ［엄마까투리 - 마트에 간 꽁지］- 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54377</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54377"/>
-        <updated>2022-04-21T16:18:17.241Z</updated>
-        <content type="html"><![CDATA[2022.04.22(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트롯여제 김연자 팬미팅 Fan Meeting 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54376</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54376"/>
-        <updated>2022-04-21T09:14:07.158Z</updated>
-        <content type="html"><![CDATA[2022.04.25(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 4차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54375</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54375"/>
-        <updated>2022-04-21T06:14:50.185Z</updated>
-        <content type="html"><![CDATA[2022.04.25(월) 05:00]]></content>
     </entry>
 </feed>
