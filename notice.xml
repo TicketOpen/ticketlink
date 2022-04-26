@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-26T05:16:49.136Z</updated>
+    <updated>2022-04-26T06:15:34.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 서울 앵콜​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54402</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54402"/>
+        <updated>2022-04-26T06:15:22.262Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54400</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54400"/>
+        <updated>2022-04-26T06:15:22.262Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 창원​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54399</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54399"/>
+        <updated>2022-04-26T06:15:22.262Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 춘천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54398</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54398"/>
+        <updated>2022-04-26T06:15:22.263Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interfuse in jeonju : 선우정아 & 스텔라장 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54397</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54397"/>
+        <updated>2022-04-26T06:15:22.265Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 GSL 시즌1 (결승전) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54396</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54387"/>
         <updated>2022-04-25T08:15:33.769Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 유해준 첫번째 전국투어콘서트 〈미치게그리워서〉 - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54386</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54386"/>
-        <updated>2022-04-25T02:50:37.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54385</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54385"/>
-        <updated>2022-04-25T02:50:37.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 파주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54384</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54384"/>
-        <updated>2022-04-25T02:50:37.292Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 수성아트피아 5월 시즌음악회〈​상상랜드〉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54383</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54383"/>
-        <updated>2022-04-25T02:50:37.293Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈​우리들 음악회〉​ - 순천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54382</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54382"/>
-        <updated>2022-04-25T00:52:05.317Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 00:00]]></content>
     </entry>
 </feed>

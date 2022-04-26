@@ -2,18 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-26T05:16:49.248Z</updated>
+    <updated>2022-04-26T06:15:34.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 청주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 서울 앵콜​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54402</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54402"/>
+        <updated>2022-04-26T06:15:31.570Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 청주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54400</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54400"/>
         <updated>2022-04-26T05:16:46.511Z</updated>
         <content type="html"><![CDATA[2022.04.27(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 창원​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] - 창원​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54399</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54399"/>
         <updated>2022-04-26T05:16:46.513Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54387"/>
         <updated>2022-04-25T06:18:11.653Z</updated>
         <content type="html"><![CDATA[2022.04.28(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 유해준 첫번째 전국투어콘서트 〈미치게그리워서〉 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54386</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54386"/>
-        <updated>2022-04-25T02:50:43.205Z</updated>
-        <content type="html"><![CDATA[2022.04.28(목) 05:00]]></content>
     </entry>
 </feed>
