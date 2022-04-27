@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-27T10:15:14.652Z</updated>
+    <updated>2022-04-27T11:11:50.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[아기돼지 삼형제 - 구리 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,34 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 〈인어공주〉 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54412</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54412"/>
+        <updated>2022-04-27T11:11:49.964Z</updated>
+        <content type="html"><![CDATA[2022.04.28(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아기돼지 삼형제 - 구리 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54411</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54411"/>
+        <updated>2022-04-27T11:11:49.965Z</updated>
+        <content type="html"><![CDATA[2022.05.02(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(서산) 2022 가족뮤지컬 피노키오 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54410</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54410"/>
+        <updated>2022-04-27T11:11:49.975Z</updated>
+        <content type="html"><![CDATA[2022.05.02(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(청주) 2022 가족뮤지컬 피터팬 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54409</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54409"/>
+        <updated>2022-04-27T11:11:49.976Z</updated>
+        <content type="html"><![CDATA[2022.05.02(월) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공연 〈영재국악회〉티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54408</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54408"/>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54398"/>
         <updated>2022-04-26T05:16:46.515Z</updated>
         <content type="html"><![CDATA[2022.04.27(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interfuse in jeonju : 선우정아 & 스텔라장 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54397</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54397"/>
-        <updated>2022-04-26T05:16:46.524Z</updated>
-        <content type="html"><![CDATA[2022.04.28(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 GSL 시즌1 (결승전) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54396</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54396"/>
-        <updated>2022-04-26T03:02:37.440Z</updated>
-        <content type="html"><![CDATA[2022.04.29(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54395</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54395"/>
-        <updated>2022-04-26T03:02:37.440Z</updated>
-        <content type="html"><![CDATA[2022.04.28(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54394</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54394"/>
-        <updated>2022-04-26T03:02:37.440Z</updated>
-        <content type="html"><![CDATA[2022.04.28(목) 02:00]]></content>
     </entry>
 </feed>
