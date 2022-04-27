@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-04-27T01:05:05.437Z</updated>
+    <updated>2022-04-27T03:38:19.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 Sync Next 22​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54404</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54404"/>
+        <updated>2022-04-27T03:38:06.100Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.03(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assenble - 발레로 떠나는 세계여행 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54403</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54390"/>
         <updated>2022-04-26T04:23:56.304Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.28(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈포텐독 : 똥 밟았네〉 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54389</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54389"/>
-        <updated>2022-04-25T08:15:33.767Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.26(화) 01:00]]></content>
     </entry>
 </feed>
