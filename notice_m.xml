@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-27T08:16:12.123Z</updated>
+    <updated>2022-04-27T09:13:15.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -87,7 +87,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/54397</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54397"/>
         <updated>2022-04-26T05:16:46.524Z</updated>
-        <content type="html"><![CDATA[2022.04.28(목) 05:00]]></content>
+        <content type="html"><![CDATA[2022.04.28(목) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 GSL 시즌1 (결승전) 티켓오픈 안내]]></title>
