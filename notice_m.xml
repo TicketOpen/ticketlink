@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-04-27T05:25:35.330Z</updated>
+    <updated>2022-04-27T06:15:46.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 안산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54406</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54406"/>
+        <updated>2022-04-27T06:15:43.364Z</updated>
+        <content type="html"><![CDATA[2022.04.29(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54405</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54392"/>
         <updated>2022-04-26T03:02:37.443Z</updated>
         <content type="html"><![CDATA[2022.04.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(사)홍정희 오페라단 창단 10주년 기념 오페라 카르멘 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54391</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54391"/>
-        <updated>2022-04-26T03:02:37.443Z</updated>
-        <content type="html"><![CDATA[2022.04.26(화) 07:00]]></content>
     </entry>
 </feed>
