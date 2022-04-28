@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-27T23:13:31.166Z</updated>
+    <updated>2022-04-28T01:17:00.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54413</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54413"/>
+        <updated>2022-04-28T01:15:51.966Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.03(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 〈인어공주〉 - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54412</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54399"/>
         <updated>2022-04-26T06:15:22.262Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [춘천] 오은영 토크콘서트 [1도의 변화, 우리들의 마법의 순간] 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54398</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54398"/>
-        <updated>2022-04-26T06:15:22.263Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.04.27(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 〈인어공주〉 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
