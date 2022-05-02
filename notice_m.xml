@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-02T05:27:46.823Z</updated>
+    <updated>2022-05-02T06:15:45.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(서귀포) 2022 가족뮤지컬 백설공주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54436</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54436"/>
+        <updated>2022-05-02T06:15:42.801Z</updated>
+        <content type="html"><![CDATA[2022.05.04(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(제주) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54435</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54435"/>
+        <updated>2022-05-02T06:15:42.801Z</updated>
+        <content type="html"><![CDATA[2022.05.04(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈장수상회〉 - 천안 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54434</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[2022.05.03(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[〈2022 THE CRY ground〉 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2022 THE CRY ground 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54433</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54433"/>
         <updated>2022-05-02T03:26:09.746Z</updated>
@@ -62,6 +76,13 @@
         <content type="html"><![CDATA[2022.05.04(수) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛〉 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54425</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54425"/>
+        <updated>2022-05-02T06:15:42.816Z</updated>
+        <content type="html"><![CDATA[2022.05.04(수) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 내일은 국민가수 전국투어 - 강릉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54424</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54424"/>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54421"/>
         <updated>2022-04-28T05:37:17.549Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(부천) 2022 가족뮤지컬 인어공주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54420</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54420"/>
-        <updated>2022-04-28T04:07:10.145Z</updated>
-        <content type="html"><![CDATA[2022.05.03(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(충주) 2022 가족뮤지컬 인어공주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54419</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54419"/>
-        <updated>2022-04-28T04:07:10.147Z</updated>
-        <content type="html"><![CDATA[2022.05.03(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(거창) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54418</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54418"/>
-        <updated>2022-04-28T04:07:10.150Z</updated>
-        <content type="html"><![CDATA[2022.04.29(금) 00:00]]></content>
     </entry>
 </feed>
