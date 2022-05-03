@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-03T03:04:40.342Z</updated>
+    <updated>2022-05-03T04:27:16.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 아티스트시리즈: 이윤석 하모니카 리사이틀 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54443</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54443"/>
+        <updated>2022-05-03T04:27:15.500Z</updated>
+        <content type="html"><![CDATA[2022.05.04(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립국악단 퓨전국악콘서트 〈O.S.T by 대구시립국악단〉​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54442</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54442"/>
+        <updated>2022-05-03T04:27:15.500Z</updated>
+        <content type="html"><![CDATA[2022.05.13(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아프리카 리듬과 열정을「AnyaFo!」 / 아프리카타악그룹 AnyaFo! 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54441</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54441"/>
+        <updated>2022-05-03T04:27:15.502Z</updated>
+        <content type="html"><![CDATA[2022.05.03(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 티켓 배송료 인상 안내 (2022년 6월 2일부)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54440</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54440"/>
+        <updated>2022-05-03T04:27:15.498Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/54440" class="info_wrap"><strong class="label">기타</strong><h3 class="tit"><b>[공지]</b> 티켓 배송료 인상 안내 (2022년 6월 2일부)</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트 <콩순이와 친구들의 음악여행> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54439</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54428"/>
         <updated>2022-04-29T14:11:54.853Z</updated>
         <content type="html"><![CDATA[2022.05.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미〉 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54427</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54427"/>
-        <updated>2022-04-29T14:11:54.854Z</updated>
-        <content type="html"><![CDATA[2022.05.06(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈난세〉 프리뷰 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54426</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54426"/>
-        <updated>2022-04-29T14:11:54.855Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛〉 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54425</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54425"/>
-        <updated>2022-05-02T06:15:42.816Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 내일은 국민가수 전국투어 - 강릉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54424</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54424"/>
-        <updated>2022-04-29T04:26:42.266Z</updated>
-        <content type="html"><![CDATA[2022.05.03(화) 09:00]]></content>
     </entry>
 </feed>
