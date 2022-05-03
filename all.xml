@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-03T08:17:19.720Z</updated>
+    <updated>2022-05-03T09:13:22.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[신델라의 Thank to You 음악회 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54450</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54450"/>
+        <updated>2022-05-03T09:13:22.115Z</updated>
+        <content type="html"><![CDATA[2022.05.06(금) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 패밀리 콘서트 시리즈 Ⅰ 「가족이라는 이름 : 엄마와 딸」​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54449</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54449"/>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[(서귀포) 2022 가족뮤지컬 백설공주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54436</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54436"/>
-        <updated>2022-05-02T06:15:42.801Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(제주) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54435</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54435"/>
         <updated>2022-05-02T06:15:42.801Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 00:00]]></content>
     </entry>
