@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-02T23:13:26.004Z</updated>
+    <updated>2022-05-03T00:59:13.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트 <콩순이와 친구들의 음악여행> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54439</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54439"/>
+        <updated>2022-05-03T00:59:04.388Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 수원 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54438</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.03(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[슈퍼히어로의 탄생 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54423</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54423"/>
-        <updated>2022-04-29T03:01:26.719Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.02(월) 07:00]]></content>
+        <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트 <콩순이와 친구들의 음악여행> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54439</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54439"/>
+        <updated>2022-05-03T00:59:12.658Z</updated>
+        <content type="html"><![CDATA[2022.05.04(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54424"/>
         <updated>2022-04-29T04:26:42.266Z</updated>
         <content type="html"><![CDATA[2022.05.03(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼히어로의 탄생 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54423</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54423"/>
-        <updated>2022-04-29T04:26:42.266Z</updated>
-        <content type="html"><![CDATA[2022.05.02(월) 07:00]]></content>
     </entry>
 </feed>
