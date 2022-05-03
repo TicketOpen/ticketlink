@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-03T10:18:56.207Z</updated>
+    <updated>2022-05-03T11:12:35.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 서울(도봉) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54451</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54451"/>
+        <updated>2022-05-03T11:12:35.255Z</updated>
+        <content type="html"><![CDATA[2022.05.09(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 고양 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54450</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54437"/>
         <updated>2022-05-02T07:12:32.665Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(서귀포) 2022 가족뮤지컬 백설공주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54436</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54436"/>
-        <updated>2022-05-02T06:15:42.801Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 00:00]]></content>
     </entry>
 </feed>

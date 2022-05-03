@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-03T10:18:56.204Z</updated>
+    <updated>2022-05-03T11:12:35.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 서울(도봉) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54451</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54451"/>
+        <updated>2022-05-03T11:12:27.092Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54450</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54450"/>
+        <updated>2022-05-03T11:12:27.093Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.06(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 패밀리 콘서트 시리즈 Ⅰ 「가족이라는 이름 : 엄마와 딸」​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54449</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54449"/>
+        <updated>2022-05-03T11:12:27.096Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54448</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54448"/>
+        <updated>2022-05-03T11:12:27.097Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54447</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54447"/>
+        <updated>2022-05-03T11:12:27.098Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신델라의 Thank to You 음악회 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54446</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54437"/>
         <updated>2022-05-02T07:12:22.458Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(서귀포) 2022 가족뮤지컬 백설공주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54436</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54436"/>
-        <updated>2022-05-02T06:15:35.412Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(제주) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54435</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54435"/>
-        <updated>2022-05-02T06:15:35.413Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈장수상회〉 - 천안 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54434</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54434"/>
-        <updated>2022-05-02T03:25:59.761Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.03(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 THE CRY ground 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54433</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54433"/>
-        <updated>2022-05-02T03:25:59.766Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.02(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(대구) 싱어롱 콘서트 뮤지컬 `Live Show` 〈​무지개 물고기〉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54431</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54431"/>
-        <updated>2022-05-02T03:25:59.779Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 01:00]]></content>
     </entry>
 </feed>
