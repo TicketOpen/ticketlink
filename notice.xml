@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-04T09:14:57.560Z</updated>
+    <updated>2022-05-04T10:14:58.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RAPBEAT 2022 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54464</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54464"/>
+        <updated>2022-05-04T10:13:49.479Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 오푸스라움 토요살롱콘서트 공모연주회: 디뮤어 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54463</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54463"/>
         <updated>2022-05-04T08:16:18.282Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아론 생일파티 2022 AARON B-party 〈푸른달 스무하루〉티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54462</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54462"/>
+        <updated>2022-05-04T10:13:49.479Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ALL 시즌4 결승전 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54450"/>
         <updated>2022-05-03T11:12:27.093Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.06(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 패밀리 콘서트 시리즈 Ⅰ 「가족이라는 이름 : 엄마와 딸」​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54449</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54449"/>
-        <updated>2022-05-03T11:12:27.096Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54448</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54448"/>
-        <updated>2022-05-03T11:12:27.097Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 00:00]]></content>
     </entry>
 </feed>
