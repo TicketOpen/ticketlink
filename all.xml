@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-04T10:14:58.556Z</updated>
+    <updated>2022-05-04T11:10:39.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 원주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54465</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54465"/>
+        <updated>2022-05-04T11:10:27.894Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAPBEAT 2022 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54464</id>
@@ -103,11 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 고양 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54450</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54450"/>
-        <updated>2022-05-03T11:12:27.093Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.06(금) 02:00]]></content>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54465</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54465"/>
+        <updated>2022-05-04T11:10:37.366Z</updated>
+        <content type="html"><![CDATA[2022.05.09(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAPBEAT 2022 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54464</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54464"/>
+        <updated>2022-05-04T11:10:37.369Z</updated>
+        <content type="html"><![CDATA[2022.05.10(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 오푸스라움 토요살롱콘서트 공모연주회: 디뮤어 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54451"/>
         <updated>2022-05-03T11:12:35.255Z</updated>
         <content type="html"><![CDATA[2022.05.09(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54450</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54450"/>
-        <updated>2022-05-03T09:13:22.115Z</updated>
-        <content type="html"><![CDATA[2022.05.06(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 패밀리 콘서트 시리즈 Ⅰ 「가족이라는 이름 : 엄마와 딸」​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54449</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54449"/>
-        <updated>2022-05-03T08:17:16.968Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 05:00]]></content>
     </entry>
 </feed>
