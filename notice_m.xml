@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-04T08:17:26.346Z</updated>
+    <updated>2022-05-04T09:14:57.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 오푸스라움 토요살롱콘서트 공모연주회: 디뮤어 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54463</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54463"/>
+        <updated>2022-05-04T09:14:54.887Z</updated>
+        <content type="html"><![CDATA[2022.05.10(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아론 생일파티 2022 AARON B-party 〈푸른달 스무하루〉티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54462</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54462"/>
+        <updated>2022-05-04T09:14:54.894Z</updated>
+        <content type="html"><![CDATA[2022.05.10(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ALL 시즌4 결승전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54461</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54461"/>
+        <updated>2022-05-04T09:14:54.894Z</updated>
+        <content type="html"><![CDATA[2022.05.05(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] (서울) 2022 포레스텔라 전국투어 콘서트 in Seoul​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54460</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54449"/>
         <updated>2022-05-03T08:17:16.968Z</updated>
         <content type="html"><![CDATA[2022.05.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54448</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54448"/>
-        <updated>2022-05-03T08:17:16.970Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54447</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54447"/>
-        <updated>2022-05-03T08:17:16.970Z</updated>
-        <content type="html"><![CDATA[2022.05.04(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신델라의 Thank to You 음악회 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54446</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54446"/>
-        <updated>2022-05-03T08:17:16.972Z</updated>
-        <content type="html"><![CDATA[2022.05.06(금) 07:00]]></content>
     </entry>
 </feed>
