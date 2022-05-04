@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-03T23:12:42.794Z</updated>
+    <updated>2022-05-04T01:00:36.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 속초 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54455</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54455"/>
+        <updated>2022-05-04T00:59:27.022Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54454</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54454"/>
+        <updated>2022-05-04T00:59:27.025Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.06(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEAK FESTIVAL 2022 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54453</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54453"/>
+        <updated>2022-05-04T00:59:27.025Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주오페라단 창단 40주년 기념 제47회 정기공연 오페라 “춘향전”​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54452</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54452"/>
+        <updated>2022-05-04T00:59:27.026Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.06(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책먹는여우 - 서울(도봉) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54451</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54441"/>
         <updated>2022-05-03T03:03:31.264Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 티켓 배송료 인상 안내 (2022년 6월 2일부)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54440</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54440"/>
-        <updated>2022-05-03T03:03:31.267Z</updated>
-        <content type="html"><![CDATA[2022.05.03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 롯데콘서트홀 키즈콘서트 <콩순이와 친구들의 음악여행> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54439</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54439"/>
-        <updated>2022-05-03T00:59:04.388Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54438</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54438"/>
-        <updated>2022-05-02T08:16:06.080Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54437</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54437"/>
-        <updated>2022-05-02T07:12:22.458Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 02:00]]></content>
     </entry>
 </feed>
