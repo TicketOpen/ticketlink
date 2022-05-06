@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-06T05:12:26.939Z</updated>
+    <updated>2022-05-06T06:18:05.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘SHOWDOWN’ 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54470</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54470"/>
+        <updated>2022-05-06T06:16:58.854Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.12(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54469</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54456"/>
         <updated>2022-05-04T06:16:47.380Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.14(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 속초 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54455</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54455"/>
-        <updated>2022-05-04T00:59:27.022Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 00:00]]></content>
     </entry>
 </feed>
