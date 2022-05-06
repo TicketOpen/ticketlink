@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-06T06:18:05.936Z</updated>
+    <updated>2022-05-06T07:13:21.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​유진과 유진〉​ 1차 티켓오픈​ 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54471</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54471"/>
+        <updated>2022-05-06T07:12:12.961Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.13(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘SHOWDOWN’ 콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54470</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54457"/>
         <updated>2022-05-04T06:16:47.380Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] (대구) 2022 포레스텔라 전국투어 콘서트 in Daegu​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54456</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54456"/>
-        <updated>2022-05-04T06:16:47.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.14(목) 11:00]]></content>
     </entry>
 </feed>
