@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-06T04:16:55.905Z</updated>
+    <updated>2022-05-06T05:12:26.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54469</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54469"/>
+        <updated>2022-05-06T05:12:13.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54468</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54468"/>
+        <updated>2022-05-06T05:12:13.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54467</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54467"/>
+        <updated>2022-05-06T05:12:13.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬 하데스타운] 부산 공연 추가 티켓 오픈  안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54466</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54455"/>
         <updated>2022-05-04T00:59:27.022Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54454</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54454"/>
-        <updated>2022-05-04T00:59:27.025Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.06(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2022 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54453</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54453"/>
-        <updated>2022-05-04T00:59:27.025Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.04(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주오페라단 창단 40주년 기념 제47회 정기공연 오페라 “춘향전”​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54452</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54452"/>
-        <updated>2022-05-04T00:59:27.026Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.06(금) 05:00]]></content>
     </entry>
 </feed>
