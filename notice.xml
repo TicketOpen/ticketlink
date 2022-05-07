@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-07T07:11:48.864Z</updated>
+    <updated>2022-05-07T08:16:02.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅲ. Passion on Stage 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54474</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54474"/>
+        <updated>2022-05-07T08:15:50.257Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅱ. Poem on Stage​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54473</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54473"/>
+        <updated>2022-05-07T08:15:50.265Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​유진과 유진〉​ 1차 티켓오픈​ 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54471</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54459"/>
         <updated>2022-05-04T06:16:47.376Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.19(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] (고양) 2022 포레스텔라 전국투어 콘서트 in Goyang 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54458</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54458"/>
-        <updated>2022-05-04T06:16:47.379Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] (전주) 2022 포레스텔라 전국투어 콘서트 in Jeonju​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54457</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54457"/>
-        <updated>2022-05-04T06:16:47.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 11:00]]></content>
     </entry>
 </feed>
