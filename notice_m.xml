@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-08T23:12:48.419Z</updated>
+    <updated>2022-05-09T00:58:25.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 시스템 점검(5/9)으로 인한 서비스 제한 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54475</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54475"/>
+        <updated>2022-05-09T00:58:23.113Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/54475" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit">세종문화회관 시스템 점검(5/9)으로 인한 서비스 제한 안내</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅲ. Passion on Stage 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54474</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54460"/>
         <updated>2022-05-04T05:17:50.854Z</updated>
         <content type="html"><![CDATA[2022.05.12(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] (부산) 2022 포레스텔라 전국투어 콘서트 in Busan​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54459</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54459"/>
-        <updated>2022-05-04T05:17:50.861Z</updated>
-        <content type="html"><![CDATA[2022.05.19(목) 11:00]]></content>
     </entry>
 </feed>
