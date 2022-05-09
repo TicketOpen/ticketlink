@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-09T05:18:33.398Z</updated>
+    <updated>2022-05-09T06:16:06.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제25회 대구트롬본앙상블 정기연주회 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54479</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54479"/>
+        <updated>2022-05-09T06:15:53.198Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.11(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54478</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54464"/>
         <updated>2022-05-04T10:13:49.479Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 오푸스라움 토요살롱콘서트 공모연주회: 디뮤어 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54463</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54463"/>
-        <updated>2022-05-04T08:16:18.282Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 05:00]]></content>
     </entry>
 </feed>
