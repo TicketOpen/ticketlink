@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-10T05:13:30.345Z</updated>
+    <updated>2022-05-10T06:15:28.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리 오페라 발레 <2022 에투알 갈라> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54486</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54486"/>
+        <updated>2022-05-10T06:15:25.527Z</updated>
+        <content type="html"><![CDATA[2022.05.12(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공포 연극 〈흉터〉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54485</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54471"/>
         <updated>2022-05-06T08:15:49.114Z</updated>
         <content type="html"><![CDATA[2022.05.13(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘SHOWDOWN’ 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54470</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54470"/>
-        <updated>2022-05-06T08:15:49.115Z</updated>
-        <content type="html"><![CDATA[2022.05.12(목) 05:00]]></content>
     </entry>
 </feed>
