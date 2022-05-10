@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-10T02:20:24.316Z</updated>
+    <updated>2022-05-10T03:22:49.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[공포 연극 〈흉터〉 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54485</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54485"/>
+        <updated>2022-05-10T03:22:38.196Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.11(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54484</id>
@@ -103,11 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.12(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54469</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54469"/>
-        <updated>2022-05-06T05:12:13.926Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.09(월) 02:00]]></content>
+        <title type="html"><![CDATA[공포 연극 〈흉터〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54485</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54485"/>
+        <updated>2022-05-10T03:22:46.373Z</updated>
+        <content type="html"><![CDATA[2022.05.11(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54484</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54484"/>
+        <updated>2022-05-10T03:22:46.374Z</updated>
+        <content type="html"><![CDATA[2022.05.11(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈넥스트 투 노멀〉 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54470"/>
         <updated>2022-05-06T08:15:49.115Z</updated>
         <content type="html"><![CDATA[2022.05.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54469</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54469"/>
-        <updated>2022-05-06T05:12:24.368Z</updated>
-        <content type="html"><![CDATA[2022.05.09(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54468</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54468"/>
-        <updated>2022-05-06T05:12:24.369Z</updated>
-        <content type="html"><![CDATA[2022.05.09(월) 05:00]]></content>
     </entry>
 </feed>
