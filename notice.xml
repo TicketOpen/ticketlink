@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-11T05:25:00.772Z</updated>
+    <updated>2022-05-11T06:18:09.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제364회 정기연주회 '쾌, 快' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54492</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54492"/>
+        <updated>2022-05-11T06:17:58.011Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.12(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미오 프라텔로〉 마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54491</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54491"/>
+        <updated>2022-05-11T06:17:58.020Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.16(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <모래시계> 2차 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54490</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54490"/>
+        <updated>2022-05-11T06:17:58.023Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.16(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2  - 수원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54489</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54478"/>
         <updated>2022-05-09T04:25:14.822Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 대구 2022 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54477</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54477"/>
-        <updated>2022-05-09T04:25:14.823Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 수원 2022 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54476</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54476"/>
-        <updated>2022-05-09T04:25:14.829Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 시스템 점검(5/9)으로 인한 서비스 제한 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54475</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54475"/>
-        <updated>2022-05-09T00:58:14.366Z</updated>
-        <content type="html"><![CDATA[2022.05.09]]></content>
     </entry>
 </feed>
