@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-10T23:14:15.863Z</updated>
+    <updated>2022-05-11T01:02:59.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[파리 오페라 발레 <2022 에투알 갈라> 티켓오픈 안내 (티켓링크)]]></title>
@@ -19,7 +19,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.11(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 : 우주 최강 번개 삼총사 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54484</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54484"/>
         <updated>2022-05-10T02:19:16.167Z</updated>
@@ -124,7 +124,7 @@
         <content type="html"><![CDATA[2022.05.11(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 : 우주 최강 번개 삼총사 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54484</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54484"/>
         <updated>2022-05-10T03:22:46.374Z</updated>

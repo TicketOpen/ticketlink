@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-10T23:14:15.763Z</updated>
+    <updated>2022-05-11T01:02:59.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[2022.05.11(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[서울] 번개맨 뮤지컬 : 우주 최강 번개 삼총사 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54484</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54484"/>
         <updated>2022-05-10T03:22:46.374Z</updated>
