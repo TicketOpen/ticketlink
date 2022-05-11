@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-11T01:02:59.386Z</updated>
+    <updated>2022-05-11T03:19:15.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2  - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54489</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54489"/>
+        <updated>2022-05-11T03:18:09.083Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.12(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마리아킴 쿼텟 Live in Daegu 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54488</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54488"/>
+        <updated>2022-05-11T03:18:09.085Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.12(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[변경공지] (부산) 2022 포레스텔라 전국투어 콘서트 in Busan​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54487</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54487"/>
+        <updated>2022-05-11T03:18:09.091Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.19(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파리 오페라 발레 <2022 에투알 갈라> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54486</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54475"/>
         <updated>2022-05-09T00:58:14.366Z</updated>
         <content type="html"><![CDATA[2022.05.09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅲ. Passion on Stage 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54474</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54474"/>
-        <updated>2022-05-07T08:15:50.257Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 Ⅱ. Poem on Stage​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54473</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54473"/>
-        <updated>2022-05-07T08:15:50.265Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​유진과 유진〉​ 1차 티켓오픈​ 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54471</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54471"/>
-        <updated>2022-05-06T07:12:12.961Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.13(금) 02:00]]></content>
     </entry>
 </feed>
