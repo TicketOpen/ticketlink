@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-12T04:22:32.224Z</updated>
+    <updated>2022-05-12T05:25:03.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54495</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54495"/>
+        <updated>2022-05-12T05:23:54.529Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.18(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이마술콘서트 - 아산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54494</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54481"/>
         <updated>2022-05-09T08:18:31.608Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.11(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 그림이 오감을 만났을때 “감각주의” - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54480</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54480"/>
-        <updated>2022-05-09T08:18:31.610Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.10(화) 01:00]]></content>
     </entry>
 </feed>
