@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-23T02:55:27.729Z</updated>
+    <updated>2022-05-23T03:52:10.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주 금성관 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,11 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.23(월) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주 금성관 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54560</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54560"/>
+        <updated>2022-05-23T03:52:09.958Z</updated>
+        <content type="html"><![CDATA[2022.05.23(월) 04:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 백나현 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54559</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54559"/>
         <updated>2022-05-22T08:14:37.001Z</updated>
         <content type="html"><![CDATA[2022.05.24(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김은지 바이올린 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54558</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54558"/>
+        <updated>2022-05-23T03:52:09.958Z</updated>
+        <content type="html"><![CDATA[2022.05.24(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12 번째 밤 〈Twelfth Night〉티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54546"/>
         <updated>2022-05-22T02:45:22.675Z</updated>
         <content type="html"><![CDATA[2022.05.23(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54545</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54545"/>
-        <updated>2022-05-22T02:45:22.676Z</updated>
-        <content type="html"><![CDATA[2022.05.23(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54544</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54544"/>
-        <updated>2022-05-22T02:45:22.677Z</updated>
-        <content type="html"><![CDATA[2022.05.27(금) 06:00]]></content>
     </entry>
 </feed>
