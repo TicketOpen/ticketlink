@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-23T05:21:16.318Z</updated>
+    <updated>2022-05-23T06:17:55.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 서울(강북) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54563</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54563"/>
+        <updated>2022-05-23T06:17:52.620Z</updated>
+        <content type="html"><![CDATA[2022.05.24(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(서울 노원) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54562</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54562"/>
+        <updated>2022-05-23T06:17:52.624Z</updated>
+        <content type="html"><![CDATA[2022.05.25(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 보라미유 단독 콘서트 'Feeling' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54561</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54561"/>
+        <updated>2022-05-23T06:17:52.626Z</updated>
+        <content type="html"><![CDATA[2022.05.25(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주 금성관 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54560</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54549"/>
         <updated>2022-05-22T02:45:22.674Z</updated>
         <content type="html"><![CDATA[2022.05.23(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 안성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54548</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54548"/>
-        <updated>2022-05-22T02:45:22.674Z</updated>
-        <content type="html"><![CDATA[2022.05.23(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 수시공연 `풍류 in 광주_남구`​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54547</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54547"/>
-        <updated>2022-05-22T02:45:22.674Z</updated>
-        <content type="html"><![CDATA[2022.05.20(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 울산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54546</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54546"/>
-        <updated>2022-05-22T02:45:22.675Z</updated>
-        <content type="html"><![CDATA[2022.05.23(월) 05:00]]></content>
     </entry>
 </feed>
