@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-24T04:31:01.036Z</updated>
+    <updated>2022-05-24T05:19:20.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[책먹는여우 - 용인 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.23(월) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 6월 시즌음악회 〈인생은 재즈처럼〉티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54567</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54567"/>
+        <updated>2022-05-24T05:19:19.948Z</updated>
+        <content type="html"><![CDATA[2022.05.25(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54566</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54566"/>
+        <updated>2022-05-24T05:19:19.961Z</updated>
+        <content type="html"><![CDATA[2022.05.25(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 쉬어매드니스 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54565</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54565"/>
+        <updated>2022-05-24T05:19:19.961Z</updated>
+        <content type="html"><![CDATA[2022.05.27(금) 09:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 서울강북 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54564</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54564"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54553"/>
         <updated>2022-05-23T12:22:46.688Z</updated>
         <content type="html"><![CDATA[2022.05.26(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 락 뮤지컬 프리즌 - 목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54552</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54552"/>
-        <updated>2022-05-23T12:22:46.690Z</updated>
-        <content type="html"><![CDATA[2022.05.23(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54551</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54551"/>
-        <updated>2022-05-23T12:22:46.691Z</updated>
-        <content type="html"><![CDATA[2022.05.23(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54550</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54550"/>
-        <updated>2022-05-23T12:22:46.692Z</updated>
-        <content type="html"><![CDATA[2022.05.24(화) 05:00]]></content>
     </entry>
 </feed>
