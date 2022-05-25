@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-25T04:28:14.187Z</updated>
+    <updated>2022-05-25T05:17:38.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 아티스트시리즈: 바리톤 유영광 리사이틀 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54574</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54574"/>
+        <updated>2022-05-25T05:17:36.301Z</updated>
+        <content type="html"><![CDATA[2022.05.27(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54573</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54560"/>
         <updated>2022-05-23T12:22:46.680Z</updated>
         <content type="html"><![CDATA[2022.05.23(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 백나현 바이올린 독주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54559</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54559"/>
-        <updated>2022-05-23T12:22:46.681Z</updated>
-        <content type="html"><![CDATA[2022.05.24(화) 05:00]]></content>
     </entry>
 </feed>
