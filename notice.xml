@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-25T05:17:38.908Z</updated>
+    <updated>2022-05-25T06:17:47.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈2022 클래식 레볼루션〉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54576</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54576"/>
+        <updated>2022-05-25T06:16:38.402Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54575</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54575"/>
+        <updated>2022-05-25T06:16:38.402Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.30(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 아티스트시리즈: 바리톤 유영광 리사이틀 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54574</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54562"/>
         <updated>2022-05-23T06:17:44.483Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.25(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 보라미유 단독 콘서트 'Feeling' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54561</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54561"/>
-        <updated>2022-05-23T06:17:44.484Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.25(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화콘서트 난장 in 나주 금성관 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54560</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54560"/>
-        <updated>2022-05-23T02:54:18.232Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.23(월) 04:00]]></content>
     </entry>
 </feed>
