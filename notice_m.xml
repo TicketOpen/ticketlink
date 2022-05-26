@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-26T04:27:16.486Z</updated>
+    <updated>2022-05-26T05:17:47.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]경주시립합창단 호국보훈의 달 기념 제47회 정기연주회 〈REQUIEM by john rutter〉티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54582</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54582"/>
+        <updated>2022-05-26T05:17:44.705Z</updated>
+        <content type="html"><![CDATA[2022.05.27(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] KBS대구 클래식 FM 2022 포시즌 특집: 여름 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54581</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54568"/>
         <updated>2022-05-24T07:13:35.745Z</updated>
         <content type="html"><![CDATA[2022.05.27(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 6월 시즌음악회 〈인생은 재즈처럼〉티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54567</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54567"/>
-        <updated>2022-05-24T05:19:19.948Z</updated>
-        <content type="html"><![CDATA[2022.05.25(수) 05:00]]></content>
     </entry>
 </feed>
