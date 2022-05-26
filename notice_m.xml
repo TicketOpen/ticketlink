@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-26T01:01:36.588Z</updated>
+    <updated>2022-05-26T03:20:39.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] KBS대구 클래식 FM 2022 포시즌 특집: 여름 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54581</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54581"/>
+        <updated>2022-05-26T03:20:37.381Z</updated>
+        <content type="html"><![CDATA[2022.05.27(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 제36회 한국현대춤작가 12인전​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54580</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54567"/>
         <updated>2022-05-24T05:19:19.948Z</updated>
         <content type="html"><![CDATA[2022.05.25(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 용인 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54566</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54566"/>
-        <updated>2022-05-24T05:19:19.961Z</updated>
-        <content type="html"><![CDATA[2022.05.25(수) 00:00]]></content>
     </entry>
 </feed>
