@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-27T05:18:00.069Z</updated>
+    <updated>2022-05-27T06:16:47.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈유진과 유진〉 2차 티켓오픈 안내​]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54599</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54599"/>
+        <updated>2022-05-27T06:16:37.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.03(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강릉시립합창단 제 107회 정기연주회​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54598</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54598"/>
+        <updated>2022-05-27T06:16:37.168Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.30(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]   제1회 드림콘서트 트롯 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54597</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54585"/>
         <updated>2022-05-26T07:12:02.585Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.27(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 부산 추가티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54584</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54584"/>
-        <updated>2022-05-26T06:15:53.908Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은결 〈MAGIC & ILLUSION> - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54583</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54583"/>
-        <updated>2022-05-26T06:15:53.908Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.31(화) 05:00]]></content>
     </entry>
 </feed>
