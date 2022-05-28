@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-05-28T06:16:35.496Z</updated>
+    <updated>2022-05-28T07:11:57.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 129회 정기연주회 `청소년 협연의 밤'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54601</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54601"/>
+        <updated>2022-05-28T07:11:47.543Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.30(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 ​​​​​​​​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54600</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54587</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54587"/>
         <updated>2022-05-26T09:13:41.421Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.27(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 세종솔로이스츠의 힉엣눙크! 임주희 피아노 리사이틀 <밤과 꿈>​ ​​​​​​​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54586</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54586"/>
-        <updated>2022-05-26T09:13:41.426Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.27(금) 02:00]]></content>
     </entry>
 </feed>
