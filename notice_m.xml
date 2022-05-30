@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-30T05:22:29.549Z</updated>
+    <updated>2022-05-30T06:18:42.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54605</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54605"/>
+        <updated>2022-05-30T06:18:39.675Z</updated>
+        <content type="html"><![CDATA[2022.05.31(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 하동균&알리 콘서트 ‘LISTEN’ - 경주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54604</id>
@@ -97,17 +104,10 @@
         <content type="html"><![CDATA[2022.06.02(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <타루와리나> ​​​​​​​​티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 〈타루와 리나〉 ​​​​​​​​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54591</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54591"/>
         <updated>2022-05-27T05:17:57.415Z</updated>
         <content type="html"><![CDATA[2022.05.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 대구 동구 ​​​​​​​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54590</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54590"/>
-        <updated>2022-05-27T05:17:57.416Z</updated>
-        <content type="html"><![CDATA[2022.06.02(목) 00:00]]></content>
     </entry>
 </feed>
