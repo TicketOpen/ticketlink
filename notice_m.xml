@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-30T01:07:08.985Z</updated>
+    <updated>2022-05-30T03:27:35.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 하동균&알리 콘서트 ‘LISTEN’ - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54604</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54604"/>
+        <updated>2022-05-30T03:27:34.620Z</updated>
+        <content type="html"><![CDATA[2022.06.02(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 가요톱텐 - 의성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54603</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54603"/>
+        <updated>2022-05-30T03:27:34.620Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  김주원의 레베랑스 - 의성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54602</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54602"/>
+        <updated>2022-05-30T03:27:34.620Z</updated>
+        <content type="html"><![CDATA[2022.06.07(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 129회 정기연주회 `청소년 협연의 밤'​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54601</id>
@@ -48,7 +69,7 @@
         <content type="html"><![CDATA[2022.05.31(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬[반짝반짝 달님이의 버블버블 솜사탕] ​​​​​​​​티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[가족뮤지컬 〈반짝반짝 달님이의 버블버블 솜사탕〉 ​​​​​​​​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54595</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54595"/>
         <updated>2022-05-27T05:17:57.410Z</updated>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54590"/>
         <updated>2022-05-27T05:17:57.416Z</updated>
         <content type="html"><![CDATA[2022.06.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 부천 ​​​​​​​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54589</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54589"/>
-        <updated>2022-05-27T05:17:57.418Z</updated>
-        <content type="html"><![CDATA[2022.06.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 서울 ​​​​​​​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54588</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54588"/>
-        <updated>2022-05-27T03:04:09.875Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 세종솔로이스츠의 힉엣눙크! 갈라 콘서트 ​​​​​​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54587</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54587"/>
-        <updated>2022-05-27T03:04:09.876Z</updated>
-        <content type="html"><![CDATA[2022.05.27(금) 02:00]]></content>
     </entry>
 </feed>
