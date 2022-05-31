@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-31T04:28:58.089Z</updated>
+    <updated>2022-05-31T05:19:20.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 의열 - 영주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54608</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54608"/>
+        <updated>2022-05-31T05:19:08.622Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트Ⅳ ‘동화’ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54607</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54607"/>
+        <updated>2022-05-31T05:19:08.623Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 전주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54606</id>
@@ -16,7 +30,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/54605</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54605"/>
         <updated>2022-05-30T06:18:29.945Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.31(화) 08:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 하동균&알리 콘서트 ‘LISTEN’ - 경주 티켓오픈 안내 (티켓링크)]]></title>
@@ -94,20 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54594"/>
         <updated>2022-05-27T05:17:47.913Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.05.31(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 인천 ​​​​​​​​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54593</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54593"/>
-        <updated>2022-05-27T05:17:47.915Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 서산 ​​​​​​​​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54592</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54592"/>
-        <updated>2022-05-27T05:17:47.916Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 의열 - 영주 티켓오픈 안내 (티켓링크 모바일)]]></title>
