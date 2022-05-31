@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-05-31T11:13:40.033Z</updated>
+    <updated>2022-05-31T12:23:50.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미> 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54610</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54610"/>
+        <updated>2022-05-31T12:23:48.194Z</updated>
+        <content type="html"><![CDATA[2022.06.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022] 매니아 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54609</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54609"/>
+        <updated>2022-05-31T12:23:48.194Z</updated>
+        <content type="html"><![CDATA[2022.06.03(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 의열 - 영주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54608</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54596"/>
         <updated>2022-05-27T05:17:57.410Z</updated>
         <content type="html"><![CDATA[2022.05.31(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈반짝반짝 달님이의 버블버블 솜사탕〉 ​​​​​​​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54595</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54595"/>
-        <updated>2022-05-27T05:17:57.410Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 이천 ​​​​​​​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54594</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54594"/>
-        <updated>2022-05-27T05:17:57.411Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 00:00]]></content>
     </entry>
 </feed>
