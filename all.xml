@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-30T23:14:08.563Z</updated>
+    <updated>2022-05-31T01:01:02.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 전주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,11 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.02(목) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54606</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54606"/>
+        <updated>2022-05-31T01:01:02.044Z</updated>
+        <content type="html"><![CDATA[2022.06.02(목) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54605</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54605"/>
         <updated>2022-05-30T06:18:39.675Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 08:00]]></content>
+        <content type="html"><![CDATA[2022.06.02(목) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 하동균&알리 콘서트 ‘LISTEN’ - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54592"/>
         <updated>2022-05-27T05:17:57.414Z</updated>
         <content type="html"><![CDATA[2022.06.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈타루와 리나〉 ​​​​​​​​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54591</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54591"/>
-        <updated>2022-05-27T05:17:57.415Z</updated>
-        <content type="html"><![CDATA[2022.05.31(화) 05:00]]></content>
     </entry>
 </feed>
