@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-02T04:42:23.929Z</updated>
+    <updated>2022-06-02T05:27:34.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈태양의노래〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54616</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54616"/>
+        <updated>2022-06-02T05:27:31.712Z</updated>
+        <content type="html"><![CDATA[2022.06.08(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［단독판매］문화콘서트 난장 in 나주정미소 난장곡간​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54615</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54615"/>
+        <updated>2022-06-02T05:27:31.717Z</updated>
+        <content type="html"><![CDATA[2022.06.03(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈번지점프를 하다〉 2차 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54614</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54614"/>
+        <updated>2022-06-02T05:27:31.719Z</updated>
+        <content type="html"><![CDATA[2022.06.08(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획〈2022 스크린 바캉스I - 연극 ‘여자만세’〉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54613</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54613"/>
+        <updated>2022-06-02T05:27:31.723Z</updated>
+        <content type="html"><![CDATA[2022.06.07(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 예측불허 실전로맨스〈극적인 하룻밤〉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54612</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54602"/>
         <updated>2022-05-30T03:27:34.620Z</updated>
         <content type="html"><![CDATA[2022.06.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 129회 정기연주회 `청소년 협연의 밤'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54601</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54601"/>
-        <updated>2022-05-28T07:11:54.648Z</updated>
-        <content type="html"><![CDATA[2022.05.30(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 〈백조마을의 차이콥스키〉 ​​​​​​​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54600</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54600"/>
-        <updated>2022-05-27T09:14:35.743Z</updated>
-        <content type="html"><![CDATA[2022.06.03(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈유진과 유진〉 2차 티켓오픈 안내​]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54599</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54599"/>
-        <updated>2022-05-27T06:16:45.216Z</updated>
-        <content type="html"><![CDATA[2022.06.03(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강릉시립합창단 제 107회 정기연주회​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54598</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54598"/>
-        <updated>2022-05-27T06:16:45.223Z</updated>
-        <content type="html"><![CDATA[2022.05.30(월) 02:00]]></content>
     </entry>
 </feed>
