@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-02T03:44:36.917Z</updated>
+    <updated>2022-06-02T04:42:23.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획〈2022 스크린 바캉스I - 연극 ‘여자만세’〉 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54613</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54613"/>
+        <updated>2022-06-02T04:41:14.530Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.07(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 예측불허 실전로맨스〈극적인 하룻밤〉 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54612</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54599"/>
         <updated>2022-05-27T06:16:37.166Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.03(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강릉시립합창단 제 107회 정기연주회​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54598</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54598"/>
-        <updated>2022-05-27T06:16:37.168Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.05.30(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대구] 예측불허 실전로맨스〈극적인 하룻밤〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
