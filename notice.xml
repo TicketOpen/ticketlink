@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-04T05:11:55.600Z</updated>
+    <updated>2022-06-04T06:14:47.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(대전) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54625</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54625"/>
+        <updated>2022-06-04T06:13:38.908Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.07(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아킬레스 2022 LIVE CONCERT in Seoul 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54624</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54610"/>
         <updated>2022-05-31T10:14:52.992Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022] 매니아 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54609</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54609"/>
-        <updated>2022-05-31T10:14:52.994Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.03(금) 04:00]]></content>
     </entry>
 </feed>
