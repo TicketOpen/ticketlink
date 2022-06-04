@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-04T09:11:50.229Z</updated>
+    <updated>2022-06-04T10:12:06.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미디어아트 아이스 쇼 〈G – SHOW〉 : DRAGON FLOWER 프리뷰 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 미디어아트 아이스 쇼 〈G – SHOW〉 : DRAGON FLOWER 프리뷰 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54622</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54622"/>
         <updated>2022-06-03T07:11:49.700Z</updated>
