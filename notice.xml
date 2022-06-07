@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-07T06:14:43.755Z</updated>
+    <updated>2022-06-07T07:12:41.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 '신데렐라' - 시흥 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54634</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54634"/>
+        <updated>2022-06-07T07:12:31.415Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 [최후의 남자] - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54633</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54633"/>
+        <updated>2022-06-07T07:12:31.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈악어물떼새〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54632</id>
@@ -90,24 +104,10 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.07(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 창원]]></title>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54619</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54619"/>
         <updated>2022-06-03T05:12:06.622Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(강북) 2022 어린이 마술콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54618</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54618"/>
-        <updated>2022-06-03T05:12:06.625Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.07(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 엉덩이 탐정 플레이파크 티켓​​오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54617</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54617"/>
-        <updated>2022-06-02T13:40:51.069Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.07(화) 01:00]]></content>
     </entry>
 </feed>
