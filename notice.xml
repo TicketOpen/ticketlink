@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-08T07:12:25.346Z</updated>
+    <updated>2022-06-08T08:18:11.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앵콜  마술 콘서트 - 서울 (강동) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54644</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54644"/>
+        <updated>2022-06-08T08:17:02.355Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.09(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 인어공주 - 서울 (강동) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54643</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54630"/>
         <updated>2022-06-07T06:14:32.276Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ 2차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54629</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54629"/>
-        <updated>2022-06-07T06:14:32.278Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.09(목) 05:00]]></content>
     </entry>
 </feed>
