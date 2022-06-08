@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-08T05:12:04.859Z</updated>
+    <updated>2022-06-08T06:15:05.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모던짜스-김제 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54642</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54642"/>
+        <updated>2022-06-08T06:14:52.889Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 23:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 오페라의 제왕 Placido domingo Live in Busan 2022 티켓오픈안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54641</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54628"/>
         <updated>2022-06-05T23:11:03.074Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 TAIN CONCERT 〈SPORTS〉티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54627</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54627"/>
-        <updated>2022-06-06T02:57:14.405Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 05:00]]></content>
     </entry>
 </feed>
