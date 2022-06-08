@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-08T06:15:05.749Z</updated>
+    <updated>2022-06-08T07:12:25.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 인어공주 - 서울 (강동) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54643</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54643"/>
+        <updated>2022-06-08T07:12:22.582Z</updated>
+        <content type="html"><![CDATA[2022.06.09(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모던짜스-김제 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54642</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54629"/>
         <updated>2022-06-07T06:14:41.129Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서희태와 함께하는 내 생애 잊지 못할 클래식​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54628</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54628"/>
-        <updated>2022-06-05T23:11:13.664Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 07:00]]></content>
     </entry>
 </feed>

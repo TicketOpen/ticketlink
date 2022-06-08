@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-08T06:15:05.733Z</updated>
+    <updated>2022-06-08T07:12:25.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 인어공주 - 서울 (강동) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54643</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54643"/>
+        <updated>2022-06-08T07:12:14.599Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.09(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모던짜스-김제 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54642</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.09(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서희태와 함께하는 내 생애 잊지 못할 클래식​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54628</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54628"/>
-        <updated>2022-06-05T23:11:03.074Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 07:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 인어공주 - 서울 (강동) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54643</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54643"/>
+        <updated>2022-06-08T07:12:22.582Z</updated>
+        <content type="html"><![CDATA[2022.06.09(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모던짜스-김제 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54629"/>
         <updated>2022-06-07T06:14:41.129Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서희태와 함께하는 내 생애 잊지 못할 클래식​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54628</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54628"/>
-        <updated>2022-06-05T23:11:13.664Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 07:00]]></content>
     </entry>
 </feed>
