@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-08T02:57:24.149Z</updated>
+    <updated>2022-06-08T03:54:03.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오페라의 제왕 Placido domingo Live in Busan 2022 티켓오픈안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54641</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54641"/>
+        <updated>2022-06-08T03:54:00.462Z</updated>
+        <content type="html"><![CDATA[2022.06.13(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54639</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54639"/>
+        <updated>2022-06-08T03:54:00.463Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54638</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54638"/>
+        <updated>2022-06-08T03:54:00.463Z</updated>
+        <content type="html"><![CDATA[2022.06.09(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 樂 : 풍류지광 / 잠비나이-광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54637</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54626"/>
         <updated>2022-06-04T07:11:57.023Z</updated>
         <content type="html"><![CDATA[2022.06.07(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(대전) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54625</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54625"/>
-        <updated>2022-06-04T07:11:57.026Z</updated>
-        <content type="html"><![CDATA[2022.06.07(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아킬레스 2022 LIVE CONCERT in Seoul 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54624</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54624"/>
-        <updated>2022-06-03T08:14:09.645Z</updated>
-        <content type="html"><![CDATA[2022.06.07(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 힙합으로 대동단결 ‘ BEAT MANIA’​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54623</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54623"/>
-        <updated>2022-06-03T08:14:09.648Z</updated>
-        <content type="html"><![CDATA[2022.06.10(금) 11:00]]></content>
     </entry>
 </feed>
