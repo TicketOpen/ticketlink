@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-09T05:12:18.850Z</updated>
+    <updated>2022-06-09T07:13:14.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(목포) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54654</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54654"/>
+        <updated>2022-06-09T07:12:06.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈난세〉2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54653</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54653"/>
+        <updated>2022-06-09T07:12:06.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [전주] 2022 포레스텔라 전국투어 콘서트 – The Beginning : World Tree in Jeonju​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54652</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54652"/>
+        <updated>2022-06-09T07:12:06.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈당신과 나에게, From 나혜석〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54651</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54651"/>
+        <updated>2022-06-09T07:12:06.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 김민교 MKSI 결승전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54650</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54650"/>
+        <updated>2022-06-09T07:12:06.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 푸에르자부르타 웨이라 인 서울 프리뷰 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54649</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54640"/>
         <updated>2022-06-08T05:11:51.799Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54639</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54639"/>
-        <updated>2022-06-08T04:25:06.666Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 포세이돈(4SEIDON) 워터 뮤직 페스티벌​ 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54638</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54638"/>
-        <updated>2022-06-08T04:25:06.668Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.09(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 樂 : 풍류지광 / 잠비나이-광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54637</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54637"/>
-        <updated>2022-06-07T09:11:42.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 강릉 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54636</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54636"/>
-        <updated>2022-06-07T09:11:42.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 마스터 클래스: 바리톤 유영광 마스터클래스 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54635</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54635"/>
-        <updated>2022-06-07T09:11:42.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 05:00]]></content>
     </entry>
 </feed>
