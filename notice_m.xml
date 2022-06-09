@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-09T10:14:06.192Z</updated>
+    <updated>2022-06-09T11:10:19.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RAPBEAT 2022 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54657</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54657"/>
+        <updated>2022-06-09T11:10:16.690Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈쓰릴 미〉 1차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54656</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54643"/>
         <updated>2022-06-08T07:12:22.582Z</updated>
         <content type="html"><![CDATA[2022.06.09(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모던짜스-김제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54642</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54642"/>
-        <updated>2022-06-08T06:15:03.162Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 23:00]]></content>
     </entry>
 </feed>
