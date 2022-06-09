@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-09T08:17:56.074Z</updated>
+    <updated>2022-06-09T09:13:48.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈쓰릴 미〉 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54656</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54656"/>
+        <updated>2022-06-09T09:13:45.915Z</updated>
+        <content type="html"><![CDATA[2022.06.14(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]〈강원도립무용단 창작무용극 “강호”〉 - 춘천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54655</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54642"/>
         <updated>2022-06-08T06:15:03.162Z</updated>
         <content type="html"><![CDATA[2022.06.13(월) 23:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오페라의 제왕 Placido domingo Live in Busan 2022 티켓오픈안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54641</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54641"/>
-        <updated>2022-06-08T03:54:00.462Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 11:00]]></content>
     </entry>
 </feed>
