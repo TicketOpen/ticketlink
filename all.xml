@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-09T02:59:53.439Z</updated>
+    <updated>2022-06-09T03:53:10.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[(서울 노원) 2022 가족뮤지컬 백설공주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.08(수) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 CC블루스 페스티벌 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54647</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54647"/>
+        <updated>2022-06-09T03:53:08.088Z</updated>
+        <content type="html"><![CDATA[2022.06.13(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(서울 노원) 2022 가족뮤지컬 백설공주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54646</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54646"/>
+        <updated>2022-06-09T03:53:08.093Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(부산) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54645</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54645"/>
+        <updated>2022-06-09T03:53:08.104Z</updated>
+        <content type="html"><![CDATA[2022.06.10(금) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[앵콜  마술 콘서트 - 서울 (강동) 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54644</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54644"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54633"/>
         <updated>2022-06-07T07:12:38.751Z</updated>
         <content type="html"><![CDATA[2022.06.08(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈악어물떼새〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54632</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54632"/>
-        <updated>2022-06-07T06:14:41.129Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 영광이여 다시한번, 비엔나-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54631</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54631"/>
-        <updated>2022-06-07T06:14:41.129Z</updated>
-        <content type="html"><![CDATA[2022.06.08(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈킹키부츠〉 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54630</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54630"/>
-        <updated>2022-06-07T06:14:41.129Z</updated>
-        <content type="html"><![CDATA[2022.06.14(화) 05:00]]></content>
     </entry>
 </feed>
