@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-10T05:11:56.550Z</updated>
+    <updated>2022-06-10T06:14:51.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신데렐라 - 서울 (강동) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54665</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54665"/>
+        <updated>2022-06-10T06:14:41.263Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 코리아윈드필하모니 토크콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54664</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54651"/>
         <updated>2022-06-09T07:12:06.208Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 김민교 MKSI 결승전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54650</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54650"/>
-        <updated>2022-06-09T07:12:06.208Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 06:00]]></content>
     </entry>
 </feed>
