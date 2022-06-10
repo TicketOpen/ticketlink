@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-10T04:20:40.110Z</updated>
+    <updated>2022-06-10T05:11:56.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 코리아윈드필하모니 토크콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54664</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54664"/>
+        <updated>2022-06-10T05:10:47.576Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54663</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54663"/>
+        <updated>2022-06-10T05:10:47.577Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이마술콘서트 - 예산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54662</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54650"/>
         <updated>2022-06-09T07:12:06.208Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자부르타 웨이라 인 서울 프리뷰 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54649</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54649"/>
-        <updated>2022-06-09T05:12:06.230Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(영천) 2022 겨울왕국뮤지컬 겨울이야기 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54648</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54648"/>
-        <updated>2022-06-09T05:12:06.231Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 00:00]]></content>
     </entry>
 </feed>
