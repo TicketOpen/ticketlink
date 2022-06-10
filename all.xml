@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-10T08:15:50.739Z</updated>
+    <updated>2022-06-10T10:14:06.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 폴 포츠 데뷔 15주년 내한 콘서트 In Seoul 〈시간여행(time travel)〉 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54667</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54667"/>
+        <updated>2022-06-10T10:12:57.540Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 [엄마까투리 - 마트에 간 꽁지] - 창원 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54666</id>
@@ -58,7 +65,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/54659</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54659"/>
         <updated>2022-06-10T03:01:06.894Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 00:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 부천 티켓오픈 안내 (티켓링크)]]></title>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54653"/>
         <updated>2022-06-09T07:12:06.208Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [전주] 2022 포레스텔라 전국투어 콘서트 – The Beginning : World Tree in Jeonju​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54652</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54652"/>
-        <updated>2022-06-09T07:12:06.208Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 폴 포츠 데뷔 15주년 내한 콘서트 In Seoul 〈시간여행(time travel)〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
