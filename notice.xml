@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-10T03:02:16.595Z</updated>
+    <updated>2022-06-10T03:50:15.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이마술콘서트 - 예산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54662</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54662"/>
+        <updated>2022-06-10T03:49:05.333Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 – 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54661</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54648"/>
         <updated>2022-06-09T05:12:06.231Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 CC블루스 페스티벌 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54647</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54647"/>
-        <updated>2022-06-09T04:23:38.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 09:00]]></content>
     </entry>
 </feed>
