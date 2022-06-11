@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-11T00:56:12.953Z</updated>
+    <updated>2022-06-11T02:53:37.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 마술콘서트 - 서울 (도봉구) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54668</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54668"/>
+        <updated>2022-06-11T02:53:28.739Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 폴 포츠 데뷔 15주년 내한 콘서트 In Seoul 〈시간여행(time travel)〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54667</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54654"/>
         <updated>2022-06-09T07:12:06.208Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈난세〉2차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54653</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54653"/>
-        <updated>2022-06-09T07:12:06.208Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 06:00]]></content>
     </entry>
 </feed>
