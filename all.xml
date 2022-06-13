@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-13T09:14:21.410Z</updated>
+    <updated>2022-06-13T10:13:45.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 서울(강서) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54677</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54677"/>
+        <updated>2022-06-13T10:13:34.003Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6월 하우스 콘서트 〈우쿨렐레와 함께 듣는 민요 황애리〉 - 군산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54676</id>
@@ -58,7 +65,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/54669</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54669"/>
         <updated>2022-06-11T04:16:02.554Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 09:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 마술콘서트 - 서울 (도봉구) 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이마술콘서트 - 예산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54662</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54662"/>
-        <updated>2022-06-10T03:49:05.333Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 00:00]]></content>
+        <title type="html"><![CDATA[엘사의 생일파티 - 서울(강서) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54677</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54677"/>
+        <updated>2022-06-13T10:13:42.339Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6월 하우스 콘서트 〈우쿨렐레와 함께 듣는 민요 황애리〉 - 군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54663"/>
         <updated>2022-06-10T06:14:49.636Z</updated>
         <content type="html"><![CDATA[2022.06.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술콘서트 - 예산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54662</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54662"/>
-        <updated>2022-06-10T04:20:37.373Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 00:00]]></content>
     </entry>
 </feed>
