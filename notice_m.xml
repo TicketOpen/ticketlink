@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-13T08:16:03.973Z</updated>
+    <updated>2022-06-13T09:14:21.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 하우스 콘서트 〈우쿨렐레와 함께 듣는 민요 황애리〉 - 군산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54676</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54676"/>
+        <updated>2022-06-13T09:14:18.834Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽어야 사는 남자 - 광주공연 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54675</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54675"/>
+        <updated>2022-06-13T09:14:18.835Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 경산시립합단 제26회 정기연주회 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54674</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54674"/>
+        <updated>2022-06-13T09:14:18.837Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉 부산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54673</id>
@@ -38,7 +59,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/54669</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54669"/>
         <updated>2022-06-11T04:16:13.095Z</updated>
-        <content type="html"><![CDATA[2022.06.16(목) 09:00]]></content>
+        <content type="html"><![CDATA[2022.06.16(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 마술콘서트 - 서울 (도봉구) 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54662"/>
         <updated>2022-06-10T04:20:37.373Z</updated>
         <content type="html"><![CDATA[2022.06.13(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 – 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54661</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54661"/>
-        <updated>2022-06-10T04:20:37.376Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 케니 지(Kenny G) 월드투어 내한공연 – 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54660</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54660"/>
-        <updated>2022-06-10T04:20:37.376Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 강원도립무용단 창작무용극 “강호” - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54659</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54659"/>
-        <updated>2022-06-10T04:20:37.377Z</updated>
-        <content type="html"><![CDATA[2022.06.14(화) 01:00]]></content>
     </entry>
 </feed>
