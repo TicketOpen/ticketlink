@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-13T01:02:57.427Z</updated>
+    <updated>2022-06-13T03:09:25.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] “Killing Dance” Festival - 대구공연  (킬링 댄스 페스티벌 - 대구) 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가족뮤지컬 엄마 까투리-춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54671</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54671"/>
+        <updated>2022-06-13T03:09:24.510Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 부산 2022 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54670</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54670"/>
+        <updated>2022-06-13T03:09:24.516Z</updated>
+        <content type="html"><![CDATA[2022.06.14(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] “Killing Dance” Festival - 대구공연  (킬링 댄스 페스티벌 - 대구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54669</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54669"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54657"/>
         <updated>2022-06-09T11:10:16.690Z</updated>
         <content type="html"><![CDATA[2022.06.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈쓰릴 미〉 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54656</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54656"/>
-        <updated>2022-06-09T09:13:45.915Z</updated>
-        <content type="html"><![CDATA[2022.06.14(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]〈강원도립무용단 창작무용극 “강호”〉 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54655</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54655"/>
-        <updated>2022-06-09T08:17:55.442Z</updated>
-        <content type="html"><![CDATA[2022.06.10(금) 01:00]]></content>
     </entry>
 </feed>
