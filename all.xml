@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-13T04:33:28.390Z</updated>
+    <updated>2022-06-13T05:18:39.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54673</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54673"/>
+        <updated>2022-06-13T05:18:26.863Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈모래시계〉 마지막 티켓 오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54672</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54672"/>
+        <updated>2022-06-13T05:18:26.906Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 엄마 까투리-춘천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54671</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 부천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54658</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54658"/>
-        <updated>2022-06-10T01:00:30.573Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 00:00]]></content>
+        <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54673</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54673"/>
+        <updated>2022-06-13T05:18:36.356Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAPBEAT 2022 2차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54657</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54657"/>
-        <updated>2022-06-09T11:10:06.845Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.10(금) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈모래시계〉 마지막 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54672</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54672"/>
+        <updated>2022-06-13T05:18:36.358Z</updated>
+        <content type="html"><![CDATA[2022.06.17(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 엄마 까투리-춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54659"/>
         <updated>2022-06-10T04:20:37.377Z</updated>
         <content type="html"><![CDATA[2022.06.14(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54658</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54658"/>
-        <updated>2022-06-10T04:20:37.377Z</updated>
-        <content type="html"><![CDATA[2022.06.14(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAPBEAT 2022 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54657</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54657"/>
-        <updated>2022-06-09T11:10:16.690Z</updated>
-        <content type="html"><![CDATA[2022.06.10(금) 05:00]]></content>
     </entry>
 </feed>
