@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-14T09:14:29.477Z</updated>
+    <updated>2022-06-14T10:14:39.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Soundberry Festa' 22​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[제이림 슈퍼노바 페스티벌 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54688</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54688"/>
+        <updated>2022-06-14T10:14:27.876Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 22​​ 얼리버드 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54687</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54687"/>
         <updated>2022-06-14T09:13:20.566Z</updated>
@@ -103,11 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54673</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54673"/>
-        <updated>2022-06-13T05:18:26.863Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 09:00]]></content>
+        <title type="html"><![CDATA[제이림 슈퍼노바 페스티벌 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54688</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54688"/>
+        <updated>2022-06-14T10:14:37.290Z</updated>
+        <content type="html"><![CDATA[2022.06.16(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 22​​ 얼리버드 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54687</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54687"/>
+        <updated>2022-06-14T10:14:37.295Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54674"/>
         <updated>2022-06-13T09:14:18.837Z</updated>
         <content type="html"><![CDATA[2022.06.15(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54673</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54673"/>
-        <updated>2022-06-13T05:18:36.356Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈모래시계〉 마지막 티켓 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54672</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54672"/>
-        <updated>2022-06-13T05:18:36.358Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 02:00]]></content>
     </entry>
 </feed>

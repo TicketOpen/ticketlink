@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-14T09:14:29.480Z</updated>
+    <updated>2022-06-14T10:14:39.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Soundberry Festa' 22​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[제이림 슈퍼노바 페스티벌 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54688</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54688"/>
+        <updated>2022-06-14T10:14:27.876Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 22​​ 얼리버드 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54687</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54687"/>
         <updated>2022-06-14T09:13:20.566Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54674"/>
         <updated>2022-06-13T07:11:39.740Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 THE신승훈SHOW 〈미소속에 비친 그대〉 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54673</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54673"/>
-        <updated>2022-06-13T05:18:26.863Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 09:00]]></content>
     </entry>
 </feed>
