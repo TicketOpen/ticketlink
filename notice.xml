@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-14T08:18:23.225Z</updated>
+    <updated>2022-06-14T09:14:29.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 22​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54687</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54687"/>
+        <updated>2022-06-14T09:13:20.566Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 청주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54686</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54673"/>
         <updated>2022-06-13T05:18:26.863Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈모래시계〉 마지막 티켓 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54672</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54672"/>
-        <updated>2022-06-13T05:18:26.906Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 02:00]]></content>
     </entry>
 </feed>
