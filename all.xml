@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-14T01:08:37.856Z</updated>
+    <updated>2022-06-14T03:46:10.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​사의찬미〉​ 마지막 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54684</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54684"/>
+        <updated>2022-06-14T03:45:58.326Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play Blue Note Masterpiece VOL5 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54683</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54683"/>
+        <updated>2022-06-14T03:45:58.328Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 가족뮤지컬 〈엄마까투리-마트에 간 꽁지〉 - 천안 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54682</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54682"/>
+        <updated>2022-06-14T03:45:58.342Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JazzWorks N2 - 김민찬 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54681</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54681"/>
+        <updated>2022-06-14T03:45:58.343Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54680</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] “Killing Dance” Festival - 대구공연  (킬링 댄스 페스티벌 - 대구) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54669</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54669"/>
-        <updated>2022-06-11T04:16:02.554Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 10:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈​사의찬미〉​ 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54684</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54684"/>
+        <updated>2022-06-14T03:46:07.458Z</updated>
+        <content type="html"><![CDATA[2022.06.21(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 마술콘서트 - 서울 (도봉구) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54668</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54668"/>
-        <updated>2022-06-11T02:53:28.739Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 01:00]]></content>
+        <title type="html"><![CDATA[Play Blue Note Masterpiece VOL5 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54683</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54683"/>
+        <updated>2022-06-14T03:46:07.458Z</updated>
+        <content type="html"><![CDATA[2022.06.16(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 폴 포츠 데뷔 15주년 내한 콘서트 In Seoul 〈시간여행(time travel)〉 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54667</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54667"/>
-        <updated>2022-06-10T10:12:57.540Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 05:00]]></content>
+        <title type="html"><![CDATA[2022 가족뮤지컬 〈엄마까투리-마트에 간 꽁지〉 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54682</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54682"/>
+        <updated>2022-06-14T03:46:07.460Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [엄마까투리 - 마트에 간 꽁지] - 창원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54666</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54666"/>
-        <updated>2022-06-10T07:12:38.787Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 01:00]]></content>
+        <title type="html"><![CDATA[JazzWorks N2 - 김민찬 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54681</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54681"/>
+        <updated>2022-06-14T03:46:07.460Z</updated>
+        <content type="html"><![CDATA[2022.06.15(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54670"/>
         <updated>2022-06-13T03:09:24.516Z</updated>
         <content type="html"><![CDATA[2022.06.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] “Killing Dance” Festival - 대구공연  (킬링 댄스 페스티벌 - 대구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54669</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54669"/>
-        <updated>2022-06-11T04:16:13.095Z</updated>
-        <content type="html"><![CDATA[2022.06.16(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 마술콘서트 - 서울 (도봉구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54668</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54668"/>
-        <updated>2022-06-11T02:53:36.859Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 폴 포츠 데뷔 15주년 내한 콘서트 In Seoul 〈시간여행(time travel)〉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54667</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54667"/>
-        <updated>2022-06-10T08:15:48.170Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [엄마까투리 - 마트에 간 꽁지] - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54666</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54666"/>
-        <updated>2022-06-10T08:15:48.174Z</updated>
-        <content type="html"><![CDATA[2022.06.14(화) 01:00]]></content>
     </entry>
 </feed>
