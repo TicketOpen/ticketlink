@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-13T23:13:29.929Z</updated>
+    <updated>2022-06-14T01:08:37.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54680</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54680"/>
+        <updated>2022-06-14T01:08:24.821Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 신데렐라 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54679</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54679"/>
+        <updated>2022-06-14T01:08:24.829Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54678</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54678"/>
+        <updated>2022-06-14T01:08:24.831Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 서울(강서) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54677</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.14(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신데렐라 - 서울 (강동) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54665</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54665"/>
-        <updated>2022-06-10T06:14:41.263Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 01:00]]></content>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54680</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54680"/>
+        <updated>2022-06-14T01:08:35.291Z</updated>
+        <content type="html"><![CDATA[2022.06.16(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 코리아윈드필하모니 토크콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54664</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54664"/>
-        <updated>2022-06-10T05:10:47.576Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.13(월) 04:00]]></content>
+        <title type="html"><![CDATA[어린이 뮤지컬 신데렐라 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54679</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54679"/>
+        <updated>2022-06-14T01:08:35.292Z</updated>
+        <content type="html"><![CDATA[2022.06.16(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54663</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54663"/>
-        <updated>2022-06-10T05:10:47.577Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54678</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54678"/>
+        <updated>2022-06-14T01:08:35.293Z</updated>
+        <content type="html"><![CDATA[2022.06.16(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 서울(강서) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54666"/>
         <updated>2022-06-10T08:15:48.174Z</updated>
         <content type="html"><![CDATA[2022.06.14(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 서울 (강동) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54665</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54665"/>
-        <updated>2022-06-10T06:14:49.635Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 코리아윈드필하모니 토크콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54664</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54664"/>
-        <updated>2022-06-10T06:14:49.636Z</updated>
-        <content type="html"><![CDATA[2022.06.13(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54663</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54663"/>
-        <updated>2022-06-10T06:14:49.636Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 05:00]]></content>
     </entry>
 </feed>
