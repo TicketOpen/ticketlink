@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-15T07:13:09.184Z</updated>
+    <updated>2022-06-15T08:16:25.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈에버 애프터〉  프리뷰 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 〈V 에버 애프터〉 프리뷰 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54693</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54693"/>
         <updated>2022-06-15T07:12:00.141Z</updated>
