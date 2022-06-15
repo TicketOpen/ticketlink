@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-15T04:29:47.206Z</updated>
+    <updated>2022-06-15T05:16:25.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Interfuse in busan ; 선우정아 & 스텔라장​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54691</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54691"/>
+        <updated>2022-06-15T05:16:14.393Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Internet Explorer 서비스 종료에 따른 브라우저 사용 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54690</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54677"/>
         <updated>2022-06-13T10:13:34.003Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 하우스 콘서트 〈우쿨렐레와 함께 듣는 민요 황애리〉 - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54676</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54676"/>
-        <updated>2022-06-13T08:14:54.938Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 05:00]]></content>
     </entry>
 </feed>
