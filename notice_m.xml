@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-15T01:01:46.118Z</updated>
+    <updated>2022-06-15T03:30:59.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Internet Explorer 서비스 종료에 따른 브라우저 사용 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54690</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54690"/>
+        <updated>2022-06-15T03:30:56.573Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/54690" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">Internet Explorer 서비스 종료에 따른 브라우저 사용 안내</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[링크OFF 뮤지컬 <개와 고양이의 시간>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54689</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54676</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54676"/>
         <updated>2022-06-13T09:14:18.834Z</updated>
-        <content type="html"><![CDATA[2022.06.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽어야 사는 남자 - 광주공연 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54675</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54675"/>
-        <updated>2022-06-13T09:14:18.835Z</updated>
         <content type="html"><![CDATA[2022.06.15(수) 05:00]]></content>
     </entry>
 </feed>
