@@ -2,112 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-16T05:17:56.493Z</updated>
+    <updated>2022-06-16T06:15:34.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54710</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54710"/>
+        <updated>2022-06-16T06:15:21.893Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈넥스트 투 노멀〉 4차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54709</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54709"/>
+        <updated>2022-06-16T06:15:21.907Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 익산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54708</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54708"/>
+        <updated>2022-06-16T06:15:21.910Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 ‘캣’ - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54707</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54707"/>
+        <updated>2022-06-16T06:15:21.915Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 미디어아트 아이스 쇼 〈G – SHOW〉 : DRAGON FLOWER 일반 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54706</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54706"/>
+        <updated>2022-06-16T06:15:21.917Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54705</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54705"/>
+        <updated>2022-06-16T06:15:21.919Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 용인​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54704</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54704"/>
+        <updated>2022-06-16T06:15:21.921Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈엉덩이 탐정〉- 부천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54703</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54703"/>
+        <updated>2022-06-16T06:15:21.924Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP – 서울 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54701</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54701"/>
+        <updated>2022-06-16T06:15:21.925Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54700</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54700"/>
+        <updated>2022-06-16T06:15:21.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54699</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54699"/>
+        <updated>2022-06-16T06:15:21.928Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54698</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54698"/>
+        <updated>2022-06-16T06:15:21.929Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 부산앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54697</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54697"/>
+        <updated>2022-06-16T06:15:21.930Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 청주앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54696</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54696"/>
+        <updated>2022-06-16T06:15:21.932Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉- 순천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54695</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54695"/>
         <updated>2022-06-16T00:59:20.733Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54694</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54694"/>
-        <updated>2022-06-16T00:59:20.741Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈V 에버 애프터〉 프리뷰 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54693</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54693"/>
-        <updated>2022-06-15T07:12:00.141Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54692</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54692"/>
-        <updated>2022-06-15T07:12:00.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interfuse in busan ; 선우정아 & 스텔라장​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54691</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54691"/>
-        <updated>2022-06-15T05:16:14.393Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Explorer 서비스 종료에 따른 브라우저 사용 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54690</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54690"/>
-        <updated>2022-06-15T04:28:39.602Z</updated>
-        <content type="html"><![CDATA[2022.06.15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[링크OFF 뮤지컬 <개와 고양이의 시간>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54689</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54689"/>
-        <updated>2022-06-15T01:01:35.277Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이림 슈퍼노바 페스티벌 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54688</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54688"/>
-        <updated>2022-06-14T10:14:27.876Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundberry Festa' 22​​ 얼리버드 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54687</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54687"/>
-        <updated>2022-06-14T09:13:20.566Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54686</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54686"/>
-        <updated>2022-06-14T07:11:53.665Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54685</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54685"/>
-        <updated>2022-06-14T06:15:51.753Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​사의찬미〉​ 마지막 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54684</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54684"/>
-        <updated>2022-06-14T03:45:58.326Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Play Blue Note Masterpiece VOL5 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54683</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54683"/>
-        <updated>2022-06-14T03:45:58.328Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.16(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 가족뮤지컬 〈엄마까투리-마트에 간 꽁지〉 - 천안 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54682</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54682"/>
-        <updated>2022-06-14T03:45:58.342Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JazzWorks N2 - 김민찬 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54681</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54681"/>
-        <updated>2022-06-14T03:45:58.343Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.15(수) 01:00]]></content>
     </entry>
 </feed>
