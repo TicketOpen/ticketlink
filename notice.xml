@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-17T11:11:43.882Z</updated>
+    <updated>2022-06-17T12:24:13.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 22​ ​정식 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54722</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54722"/>
+        <updated>2022-06-17T12:24:00.634Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] “Killing Dance” Festival - 서울공연  (킬링 댄스 페스티벌 - 서울) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54721</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54708</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54708"/>
         <updated>2022-06-16T06:15:21.910Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 ‘캣’ - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54707</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54707"/>
-        <updated>2022-06-16T06:15:21.915Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.17(금) 00:00]]></content>
     </entry>
 </feed>
