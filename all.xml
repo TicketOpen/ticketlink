@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-17T12:24:13.303Z</updated>
+    <updated>2022-06-17T13:34:20.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Soundberry Festa' 22​ ​정식 티켓오픈 안내 (티켓링크)]]></title>
@@ -111,9 +111,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Soundberry Festa' 22​ ​정식 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54722</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54722"/>
-        <updated>2022-06-17T12:24:10.724Z</updated>
+        <id>http://m.ticketlink.co.kr/help/notice/54723</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54723"/>
+        <updated>2022-06-17T13:34:17.486Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 09:00]]></content>
     </entry>
     <entry>
