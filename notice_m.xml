@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-18T05:11:16.920Z</updated>
+    <updated>2022-06-18T06:14:51.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]연극〈여보 나도 할 말 있어〉- 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54724</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54724"/>
+        <updated>2022-06-18T06:14:50.562Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soundberry Festa' 22​ ​정식 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54723</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54709"/>
         <updated>2022-06-16T06:15:32.006Z</updated>
         <content type="html"><![CDATA[2022.06.21(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 “백설공주” - 익산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54708</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54708"/>
-        <updated>2022-06-16T03:56:12.973Z</updated>
-        <content type="html"><![CDATA[2022.06.17(금) 00:00]]></content>
     </entry>
 </feed>
