@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-20T01:02:00.422Z</updated>
+    <updated>2022-06-20T02:58:19.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 대구치맥페스티벌 프리미엄 사전예약존 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54731</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54731"/>
+        <updated>2022-06-20T02:58:16.714Z</updated>
+        <content type="html"><![CDATA[2022.06.21(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 천안​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54730</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54716</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54716"/>
         <updated>2022-06-17T03:02:03.276Z</updated>
-        <content type="html"><![CDATA[2022.06.22(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54715</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54715"/>
-        <updated>2022-06-17T03:02:03.277Z</updated>
         <content type="html"><![CDATA[2022.06.22(수) 00:00]]></content>
     </entry>
 </feed>
