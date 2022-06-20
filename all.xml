@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-20T10:14:34.381Z</updated>
+    <updated>2022-06-20T11:10:30.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 프란츠 아카데미: 캐나다 음악교육 세미나 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 09:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 프란츠 아카데미: 캐나다 음악교육 세미나 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54737</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54737"/>
+        <updated>2022-06-20T11:10:27.237Z</updated>
+        <content type="html"><![CDATA[2022.06.22(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 방방곡곡 문화공감사업 어린이 공연 〈하티와 광대들〉 in 대구​  티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54736</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54736"/>
+        <updated>2022-06-20T11:10:27.251Z</updated>
+        <content type="html"><![CDATA[2022.06.21(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈기억의 숲〉  티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54735</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54735"/>
+        <updated>2022-06-20T11:10:27.252Z</updated>
+        <content type="html"><![CDATA[2022.06.22(수) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2022 TFT BJ 멸망전 시즌2 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54734</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54734"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54723"/>
         <updated>2022-06-17T13:34:17.486Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] “Killing Dance” Festival - 서울공연  (킬링 댄스 페스티벌 - 서울) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54721</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54721"/>
-        <updated>2022-06-17T08:21:37.292Z</updated>
-        <content type="html"><![CDATA[2022.06.24(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54720</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54720"/>
-        <updated>2022-06-17T03:02:03.263Z</updated>
-        <content type="html"><![CDATA[2022.06.20(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54719</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54719"/>
-        <updated>2022-06-17T03:02:03.263Z</updated>
-        <content type="html"><![CDATA[2022.06.20(월) 01:00]]></content>
     </entry>
 </feed>
