@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-20T06:17:45.516Z</updated>
+    <updated>2022-06-20T07:11:51.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 TFT BJ 멸망전 시즌2 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54734</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54734"/>
+        <updated>2022-06-20T07:11:49.196Z</updated>
+        <content type="html"><![CDATA[2022.06.21(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ 3차​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54733</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54719</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54719"/>
         <updated>2022-06-17T03:02:03.263Z</updated>
-        <content type="html"><![CDATA[2022.06.20(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54718</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54718"/>
-        <updated>2022-06-17T03:02:03.264Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 01:00]]></content>
     </entry>
 </feed>

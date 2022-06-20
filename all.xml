@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-20T06:17:45.586Z</updated>
+    <updated>2022-06-20T07:11:51.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 TFT BJ 멸망전 시즌2 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54734</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54734"/>
+        <updated>2022-06-20T07:11:38.921Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ 3차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54733</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 수원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54718</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54718"/>
-        <updated>2022-06-17T03:55:17.231Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.20(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2022 TFT BJ 멸망전 시즌2 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54734</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54734"/>
+        <updated>2022-06-20T07:11:49.196Z</updated>
+        <content type="html"><![CDATA[2022.06.21(화) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/54719</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54719"/>
         <updated>2022-06-17T03:02:03.263Z</updated>
-        <content type="html"><![CDATA[2022.06.20(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54718</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54718"/>
-        <updated>2022-06-17T03:02:03.264Z</updated>
         <content type="html"><![CDATA[2022.06.20(월) 01:00]]></content>
     </entry>
 </feed>
