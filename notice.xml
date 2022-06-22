@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-21T23:13:15.340Z</updated>
+    <updated>2022-06-22T01:06:02.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54742</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54742"/>
+        <updated>2022-06-22T01:05:51.676Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.24(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 포항​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54741</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 창원앵콜​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54728</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54728"/>
-        <updated>2022-06-20T03:44:25.064Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉- 포항 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54727</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54727"/>
         <updated>2022-06-20T03:44:25.064Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content>
     </entry>
