@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-22T04:30:50.949Z</updated>
+    <updated>2022-06-22T05:17:36.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 궁 : 장녹수 전-목포 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54748</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54748"/>
+        <updated>2022-06-22T05:16:29.263Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유채훈 첫 단독 콘서트 〈Podium〉 – 부산 ​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54747</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54747"/>
+        <updated>2022-06-22T05:16:29.263Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54746</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54746"/>
+        <updated>2022-06-22T05:16:29.265Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JazzWorks N3 - Getz/Gilberto​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54745</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54745"/>
+        <updated>2022-06-22T05:16:29.265Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54744</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54744"/>
+        <updated>2022-06-22T05:16:29.266Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.27(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 창원앵콜 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54743</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54734"/>
         <updated>2022-06-20T07:11:38.921Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54733</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54733"/>
-        <updated>2022-06-20T06:16:36.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬쇼 <핑크퐁과 아기상어의 월드투어쇼> - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54732</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54732"/>
-        <updated>2022-06-20T06:16:36.895Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.22(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 대구치맥페스티벌 프리미엄 사전예약존 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54731</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54731"/>
-        <updated>2022-06-20T03:44:25.051Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.21(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 천안​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54730</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54730"/>
-        <updated>2022-06-20T03:44:25.055Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54729</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54729"/>
-        <updated>2022-06-20T03:44:25.060Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 00:00]]></content>
     </entry>
 </feed>
