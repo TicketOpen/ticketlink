@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-22T07:13:39.634Z</updated>
+    <updated>2022-06-22T08:19:20.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022］ 일반 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54754</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54754"/>
+        <updated>2022-06-22T08:19:17.545Z</updated>
+        <content type="html"><![CDATA[2022.06.24(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54753</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54753"/>
+        <updated>2022-06-22T08:19:17.554Z</updated>
+        <content type="html"><![CDATA[2022.06.24(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［부산］2022 김연자 라이브 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54752</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54752"/>
+        <updated>2022-06-22T08:19:17.555Z</updated>
+        <content type="html"><![CDATA[2022.06.29(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 〈신데렐라〉 - 서대문​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54751</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54751"/>
+        <updated>2022-06-22T08:19:17.555Z</updated>
+        <content type="html"><![CDATA[2022.06.23(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 MEGA SUMMER ESG FESTIVAL 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54750</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54750"/>
+        <updated>2022-06-22T08:19:17.556Z</updated>
+        <content type="html"><![CDATA[2022.07.01(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈유진과 유진〉 3차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54749</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54740"/>
         <updated>2022-06-21T10:18:59.645Z</updated>
         <content type="html"><![CDATA[2022.06.24(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 안산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54739</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54739"/>
-        <updated>2022-06-21T07:12:45.866Z</updated>
-        <content type="html"><![CDATA[2022.06.22(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 매직 챔피언 SHOW -목포 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54738</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54738"/>
-        <updated>2022-06-20T16:18:35.899Z</updated>
-        <content type="html"><![CDATA[2022.06.21(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 프란츠 아카데미: 캐나다 음악교육 세미나 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54737</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54737"/>
-        <updated>2022-06-20T11:10:27.237Z</updated>
-        <content type="html"><![CDATA[2022.06.22(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 방방곡곡 문화공감사업 어린이 공연 〈하티와 광대들〉 in 대구​  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54736</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54736"/>
-        <updated>2022-06-20T11:10:27.251Z</updated>
-        <content type="html"><![CDATA[2022.06.21(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈기억의 숲〉  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54735</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54735"/>
-        <updated>2022-06-20T11:10:27.252Z</updated>
-        <content type="html"><![CDATA[2022.06.22(수) 01:00]]></content>
     </entry>
 </feed>
