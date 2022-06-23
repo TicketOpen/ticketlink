@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-23T07:12:26.111Z</updated>
+    <updated>2022-06-23T08:18:30.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기타리스트 장하은 콘서트 - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54765</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54765"/>
+        <updated>2022-06-23T08:17:23.260Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54764</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54764"/>
+        <updated>2022-06-23T08:17:23.260Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.24(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송남현 탱고 재즈 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54763</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54751"/>
         <updated>2022-06-22T09:11:18.868Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 MEGA SUMMER ESG FESTIVAL 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54750</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54750"/>
-        <updated>2022-06-22T09:11:18.868Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.01(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈유진과 유진〉 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54749</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54749"/>
-        <updated>2022-06-22T09:11:18.869Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.27(월) 05:00]]></content>
     </entry>
 </feed>
