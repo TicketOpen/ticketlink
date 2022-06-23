@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-23T10:14:32.002Z</updated>
+    <updated>2022-06-23T11:11:30.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부천] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54768</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54768"/>
+        <updated>2022-06-23T11:11:27.652Z</updated>
+        <content type="html"><![CDATA[2022.06.23(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[수원] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54767</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54767"/>
+        <updated>2022-06-23T11:11:27.652Z</updated>
+        <content type="html"><![CDATA[2022.06.23(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기타리스트 장하은 콘서트 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54765</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54753"/>
         <updated>2022-06-22T08:19:17.554Z</updated>
         <content type="html"><![CDATA[2022.06.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［부산］2022 김연자 라이브 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54752</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54752"/>
-        <updated>2022-06-22T08:19:17.555Z</updated>
-        <content type="html"><![CDATA[2022.06.29(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 〈신데렐라〉 - 서대문​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54751</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54751"/>
-        <updated>2022-06-22T08:19:17.555Z</updated>
-        <content type="html"><![CDATA[2022.06.23(목) 02:00]]></content>
     </entry>
 </feed>
