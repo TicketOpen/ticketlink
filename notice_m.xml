@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-23T00:57:01.988Z</updated>
+    <updated>2022-06-23T03:06:00.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(양주) 2022 가족뮤지컬 누가 내머리에 똥쌌어 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54756</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54756"/>
+        <updated>2022-06-23T03:05:58.077Z</updated>
+        <content type="html"><![CDATA[2022.06.24(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어?〉 - 서울(중랑) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54755</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54755"/>
+        <updated>2022-06-23T03:05:58.078Z</updated>
+        <content type="html"><![CDATA[2022.06.24(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022］ 일반 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54754</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54742"/>
         <updated>2022-06-22T01:05:59.566Z</updated>
         <content type="html"><![CDATA[2022.06.24(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 포항​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54741</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54741"/>
-        <updated>2022-06-21T10:18:59.640Z</updated>
-        <content type="html"><![CDATA[2022.06.24(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 진주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54740</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54740"/>
-        <updated>2022-06-21T10:18:59.645Z</updated>
-        <content type="html"><![CDATA[2022.06.24(금) 07:00]]></content>
     </entry>
 </feed>
