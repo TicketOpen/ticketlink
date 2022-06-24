@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-24T08:17:20.374Z</updated>
+    <updated>2022-06-24T09:12:59.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈​난세〉​ 3차 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] Back To The Old School (빽투더 올드스쿨)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54776</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54776"/>
+        <updated>2022-06-24T09:12:56.900Z</updated>
+        <content type="html"><![CDATA[2022.06.30(목) 09:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 〈​난세〉​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54775</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54775"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54761"/>
         <updated>2022-06-23T09:12:40.941Z</updated>
         <content type="html"><![CDATA[2022.06.24(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀〉 - 청주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54760</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54760"/>
-        <updated>2022-06-23T06:16:11.135Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 00:00]]></content>
     </entry>
 </feed>
