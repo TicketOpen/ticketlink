@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-24T05:18:16.547Z</updated>
+    <updated>2022-06-24T06:16:12.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54771"/>
         <updated>2022-06-24T01:00:13.189Z</updated>
         <content type="html"><![CDATA[2022.06.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김동현, 이솔로몬 조인콘서트 – 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54770</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54770"/>
-        <updated>2022-06-24T01:00:13.192Z</updated>
-        <content type="html"><![CDATA[2022.06.29(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬〈바다탐험대 옥토넛 시즌2〉- 제주 티켓오픈 안내]]></title>
@@ -108,6 +101,13 @@
         <id>http://m.ticketlink.co.kr/help/notice/54760</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54760"/>
         <updated>2022-06-23T06:16:11.135Z</updated>
+        <content type="html"><![CDATA[2022.06.28(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 대전​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54759</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54759"/>
+        <updated>2022-06-24T06:16:09.726Z</updated>
         <content type="html"><![CDATA[2022.06.28(화) 00:00]]></content>
     </entry>
 </feed>
