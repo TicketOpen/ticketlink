@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-24T01:00:15.977Z</updated>
+    <updated>2022-06-24T03:13:53.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[어린이 가족뮤지컬 ‘아기돼지 삼형제’ - 부천 티켓오픈 안내 (티켓링크)]]></title>
@@ -124,6 +124,13 @@
         <content type="html"><![CDATA[2022.06.27(월) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 거제​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54772</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54772"/>
+        <updated>2022-06-24T03:13:52.482Z</updated>
+        <content type="html"><![CDATA[2022.06.28(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2022 정동하 팬미팅 “우리 잠시 쉬었다 갈까요?”​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54771</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54771"/>
@@ -136,6 +143,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54770"/>
         <updated>2022-06-24T01:00:13.192Z</updated>
         <content type="html"><![CDATA[2022.06.29(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬〈바다탐험대 옥토넛 시즌2〉- 제주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54769</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54769"/>
+        <updated>2022-06-24T03:13:52.488Z</updated>
+        <content type="html"><![CDATA[2022.06.28(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부천] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54760"/>
         <updated>2022-06-23T06:16:11.135Z</updated>
         <content type="html"><![CDATA[2022.06.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 〈​사랑해요 엄마!〉​ - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54759</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54759"/>
-        <updated>2022-06-23T06:16:11.135Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어?〉 - 통영 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54758</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54758"/>
-        <updated>2022-06-23T06:16:11.135Z</updated>
-        <content type="html"><![CDATA[2022.06.24(금) 02:00]]></content>
     </entry>
 </feed>
