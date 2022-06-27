@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-27T07:11:18.192Z</updated>
+    <updated>2022-06-27T08:16:52.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 경기광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54782</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54782"/>
-        <updated>2022-06-27T07:11:06.211Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.30(목) 00:00]]></content>
+        <title type="html"><![CDATA[연희집단 The 광대 -도는 놈 뛰는 놈 나는 놈-​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54783</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54783"/>
+        <updated>2022-06-27T08:16:40.279Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.29(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[11시 음악산책] 문명의 교차로, 안달루시아 - 광주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 경기광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54782</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54782"/>
-        <updated>2022-06-27T07:11:15.662Z</updated>
-        <content type="html"><![CDATA[2022.06.30(목) 00:00]]></content>
+        <title type="html"><![CDATA[연희집단 The 광대 -도는 놈 뛰는 놈 나는 놈-​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54783</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54783"/>
+        <updated>2022-06-27T08:16:49.952Z</updated>
+        <content type="html"><![CDATA[2022.06.29(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[11시 음악산책] 문명의 교차로, 안달루시아 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
