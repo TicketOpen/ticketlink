@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-27T01:06:14.324Z</updated>
+    <updated>2022-06-27T03:45:35.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈V 에버 애프터〉1차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54777</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54777"/>
+        <updated>2022-06-27T03:45:33.114Z</updated>
+        <content type="html"><![CDATA[2022.06.29(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Back To The Old School (빽투더 올드스쿨)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54776</id>
@@ -94,7 +101,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/54763</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54763"/>
         <updated>2022-06-23T09:12:40.939Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 01:00]]></content>
+        <content type="html"><![CDATA[2022.06.27(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 광주 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54762"/>
         <updated>2022-06-23T09:12:40.940Z</updated>
         <content type="html"><![CDATA[2022.06.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 안산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54761</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54761"/>
-        <updated>2022-06-23T09:12:40.941Z</updated>
-        <content type="html"><![CDATA[2022.06.24(금) 02:00]]></content>
     </entry>
 </feed>
