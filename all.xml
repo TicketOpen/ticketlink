@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-27T09:14:08.118Z</updated>
+    <updated>2022-06-27T10:14:39.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김창완 밴드 콘서트 - 원주 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54784</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54784"/>
+        <updated>2022-06-27T10:13:30.674Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.30(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연희집단 The 광대 -도는 놈 뛰는 놈 나는 놈-​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54783</id>
@@ -100,13 +107,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54768</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54768"/>
         <updated>2022-06-23T11:11:18.588Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54767</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54767"/>
-        <updated>2022-06-23T11:11:18.596Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 02:00]]></content>
     </entry>
     <entry>
