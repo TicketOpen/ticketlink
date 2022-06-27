@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-27T06:18:11.953Z</updated>
+    <updated>2022-06-27T07:11:18.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 경기광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54782</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54782"/>
+        <updated>2022-06-27T07:11:15.662Z</updated>
+        <content type="html"><![CDATA[2022.06.30(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[11시 음악산책] 문명의 교차로, 안달루시아 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54781</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54767"/>
         <updated>2022-06-23T11:11:27.652Z</updated>
         <content type="html"><![CDATA[2022.06.23(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 봉산문화회관 특별기획 〈소소스테이지III-지구를 지켜라! of 삑삑이〉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54766</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54766"/>
-        <updated>2022-06-24T01:00:13.200Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 01:00]]></content>
     </entry>
 </feed>
