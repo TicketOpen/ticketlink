@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-28T08:19:11.309Z</updated>
+    <updated>2022-06-28T09:13:33.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 글림의 첫 번째 콘서트 〈gleaming〉티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54788</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54788"/>
+        <updated>2022-06-28T09:13:30.845Z</updated>
+        <content type="html"><![CDATA[2022.07.04(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 평화를 기원하는 World Peace Concert​ ​​​​​​​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54787</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54787"/>
+        <updated>2022-06-28T09:13:30.846Z</updated>
+        <content type="html"><![CDATA[2022.06.29(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Killing Dance” Festival - 부산공연  (킬링 댄스 페스티벌 - 부산) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54786</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[2022.06.29(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] Back To The Old School (빽투더 올드스쿨)​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] MC스나이퍼 - Back To The Old School (빽투더 올드스쿨)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54776</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54776"/>
         <updated>2022-06-24T09:12:56.900Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54773"/>
         <updated>2022-06-24T01:00:13.188Z</updated>
         <content type="html"><![CDATA[2022.06.27(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 - 거제​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54772</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54772"/>
-        <updated>2022-06-24T03:13:52.482Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 정동하 팬미팅 “우리 잠시 쉬었다 갈까요?”​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54771</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54771"/>
-        <updated>2022-06-24T01:00:13.189Z</updated>
-        <content type="html"><![CDATA[2022.06.28(화) 05:00]]></content>
     </entry>
 </feed>
