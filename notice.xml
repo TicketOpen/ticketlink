@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-06-28T01:06:01.076Z</updated>
+    <updated>2022-06-28T03:38:58.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“Killing Dance” Festival - 부산공연  (킬링 댄스 페스티벌 - 부산) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54786</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54786"/>
+        <updated>2022-06-28T03:38:46.239Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.01(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 해설과 함께하는 오페라 콘서트「마술피리」“The Magic Flute” / 광주시립오페라단 티켓오픈안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54785</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54785"/>
+        <updated>2022-06-28T03:38:46.240Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김창완 밴드 콘서트 - 원주]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54784</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54771"/>
         <updated>2022-06-24T01:00:03.404Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬〈바다탐험대 옥토넛 시즌2〉- 제주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54769</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54769"/>
-        <updated>2022-06-24T05:18:04.489Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.28(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54768"/>
-        <updated>2022-06-23T11:11:18.588Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.06.23(목) 02:00]]></content>
     </entry>
 </feed>
