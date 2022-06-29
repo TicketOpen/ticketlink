@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-29T03:23:46.923Z</updated>
+    <updated>2022-06-29T04:39:46.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민희 플루트 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54793</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54793"/>
+        <updated>2022-06-29T04:39:44.178Z</updated>
+        <content type="html"><![CDATA[2022.07.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타악판타지 통 (부제 : 공 · 기 · 결) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54792</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54792"/>
+        <updated>2022-06-29T04:39:44.179Z</updated>
+        <content type="html"><![CDATA[2022.07.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 춘천 오페라 페스티벌 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54790</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54790"/>
+        <updated>2022-06-29T04:39:44.180Z</updated>
+        <content type="html"><![CDATA[2022.06.29(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 평택 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54789</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54789"/>
+        <updated>2022-06-29T04:39:44.182Z</updated>
+        <content type="html"><![CDATA[2022.06.29(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 글림의 첫 번째 콘서트 〈gleaming〉티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54788</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54777"/>
         <updated>2022-06-27T03:45:33.114Z</updated>
         <content type="html"><![CDATA[2022.06.29(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] MC스나이퍼 - Back To The Old School (빽투더 올드스쿨)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54776</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54776"/>
-        <updated>2022-06-24T09:12:56.900Z</updated>
-        <content type="html"><![CDATA[2022.06.30(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈​난세〉​ 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54775</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54775"/>
-        <updated>2022-06-24T07:13:35.385Z</updated>
-        <content type="html"><![CDATA[2022.06.30(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 ‘아기돼지 삼형제’ - 부천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54774</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54774"/>
-        <updated>2022-06-24T01:00:13.183Z</updated>
-        <content type="html"><![CDATA[2022.06.27(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54773</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54773"/>
-        <updated>2022-06-24T01:00:13.188Z</updated>
-        <content type="html"><![CDATA[2022.06.27(월) 02:00]]></content>
     </entry>
 </feed>
