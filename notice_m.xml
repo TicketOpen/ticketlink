@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-06-30T04:35:07.176Z</updated>
+    <updated>2022-06-30T05:21:50.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈번지점프를 하다〉 3차 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54808</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54808"/>
+        <updated>2022-06-30T05:21:47.730Z</updated>
+        <content type="html"><![CDATA[2022.07.04(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈알사탕〉- 울산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54807</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54794"/>
         <updated>2022-06-29T07:13:22.148Z</updated>
         <content type="html"><![CDATA[2022.07.01(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민희 플루트 독주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54793</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54793"/>
-        <updated>2022-06-29T04:39:44.178Z</updated>
-        <content type="html"><![CDATA[2022.07.05(화) 05:00]]></content>
     </entry>
 </feed>
