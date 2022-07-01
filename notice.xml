@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-01T10:14:35.564Z</updated>
+    <updated>2022-07-01T11:11:41.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Someday Festival 2022​ 오픈안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54815</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54815"/>
+        <updated>2022-07-01T11:10:33.346Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.04(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 여수 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54814</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[엘사의 생일파티 - 포항 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54801</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54801"/>
-        <updated>2022-06-30T06:15:16.203Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.04(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 익산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54800</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54800"/>
         <updated>2022-06-30T06:15:16.203Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.04(월) 00:00]]></content>
     </entry>
