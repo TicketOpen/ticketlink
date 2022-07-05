@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-05T10:14:57.195Z</updated>
+    <updated>2022-07-05T11:12:22.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
@@ -117,18 +117,11 @@
         <content type="html"><![CDATA[2022.07.07(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 <미드나잇 : 액터뮤지션> 하반기 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 하반기 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54832</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54832"/>
         <updated>2022-07-05T05:17:58.991Z</updated>
         <content type="html"><![CDATA[2022.07.11(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈뉴페스타〉 2022 블라인드 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54831</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54831"/>
-        <updated>2022-07-05T05:17:58.993Z</updated>
-        <content type="html"><![CDATA[2022.07.06(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 서울시뮤지컬단 뮤지컬 〈원더보이〉​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -145,14 +138,14 @@
         <content type="html"><![CDATA[2022.07.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING LIVE ‘&CON2’ - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING(엔플라잉) LIVE ‘&CON2’ - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54828</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54828"/>
         <updated>2022-07-04T18:15:19.079Z</updated>
         <content type="html"><![CDATA[2022.07.08(금) 12:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING LIVE ‘&CON2’ - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2022 N.FLYING(엔플라잉) LIVE ‘&CON2’ - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54827</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54827"/>
         <updated>2022-07-04T18:15:19.080Z</updated>
@@ -213,5 +206,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54819"/>
         <updated>2022-07-04T18:15:19.108Z</updated>
         <content type="html"><![CDATA[2022.07.08(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​이퀄〉​ 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54818</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54818"/>
+        <updated>2022-07-05T11:12:20.373Z</updated>
+        <content type="html"><![CDATA[2022.07.07(목) 05:00]]></content>
     </entry>
 </feed>
