@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-06T06:17:23.743Z</updated>
+    <updated>2022-07-06T07:12:13.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 리사이틀 시리즈 : 이상준 타악기 리사이틀 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54839</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54839"/>
+        <updated>2022-07-06T07:11:05.721Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이은결 〈MAGIC & ILLUSION> - 춘천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54838</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54824</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54824"/>
         <updated>2022-07-04T08:25:34.584Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 서울 노원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54823</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54823"/>
-        <updated>2022-07-04T08:25:34.585Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.06(수) 00:00]]></content>
     </entry>
 </feed>
