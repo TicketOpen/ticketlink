@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-07T03:45:08.908Z</updated>
+    <updated>2022-07-07T04:42:22.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 – 충주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54848</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54848"/>
+        <updated>2022-07-07T04:41:14.021Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김창옥토크콘서트 시즌 2 〈광주〉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54847</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54834"/>
         <updated>2022-07-06T05:23:24.694Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54833</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54833"/>
-        <updated>2022-07-05T08:15:12.223Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content>
     </entry>
 </feed>
