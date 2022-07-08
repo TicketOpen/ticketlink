@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-08T04:36:26.535Z</updated>
+    <updated>2022-07-08T05:20:36.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈킹키부츠〉 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54857</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54857"/>
+        <updated>2022-07-08T05:19:28.016Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54856</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54856"/>
+        <updated>2022-07-08T05:19:28.024Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54855</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54855"/>
+        <updated>2022-07-08T05:19:28.024Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈Someday Festival 2022〉 일반 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54854</id>
@@ -31,13 +52,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54850"/>
         <updated>2022-07-07T07:12:10.357Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬쇼 <핑크퐁과 아기상어의 월드투어쇼> - 안산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54849</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54849"/>
-        <updated>2022-07-07T07:12:10.359Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.11(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 – 충주​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -93,20 +107,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/54841</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54841"/>
         <updated>2022-07-06T08:25:28.634Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 기획공연 <봉포유 라온스테이지I - 초이스시어터>  티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54840</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54840"/>
-        <updated>2022-07-06T08:25:28.635Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 리사이틀 시리즈 : 이상준 타악기 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54839</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54839"/>
-        <updated>2022-07-06T07:11:05.721Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content>
     </entry>
     <entry>
