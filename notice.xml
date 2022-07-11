@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-11T08:17:31.906Z</updated>
+    <updated>2022-07-11T09:23:31.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54868</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54868"/>
+        <updated>2022-07-11T09:22:24.672Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.15(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤직앤센트콘서트​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54867</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54854"/>
         <updated>2022-07-07T09:12:05.739Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.08(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 -고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54852</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54852"/>
-        <updated>2022-07-07T07:12:10.357Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.11(월) 01:00]]></content>
     </entry>
 </feed>
