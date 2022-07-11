@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-11T12:25:43.951Z</updated>
+    <updated>2022-07-11T13:37:29.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54868</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54868"/>
+        <updated>2022-07-11T13:37:26.638Z</updated>
+        <content type="html"><![CDATA[2022.07.15(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤직앤센트콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54867</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54867"/>
+        <updated>2022-07-11T13:37:26.638Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 대한민국 소극장 열전 in 대구 -  타이피스트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54866</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54866"/>
+        <updated>2022-07-11T13:37:26.651Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 대한민국 소극장 열전 in 대구 - 노인과바다 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54865</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54865"/>
+        <updated>2022-07-11T13:37:26.657Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 대한민국 소극장 열전 in 대구 -  못생긴남자 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54864</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54864"/>
+        <updated>2022-07-11T13:37:26.657Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 대한민국 소극장 열전 in 대구 -  가정식 백반 맛있게 먹는법 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54863</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54863"/>
+        <updated>2022-07-11T13:37:26.657Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴페스타 2022​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54862</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54862"/>
+        <updated>2022-07-11T13:37:26.659Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출동! 마법경찰 매직캅 - 파주운정 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54861</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54861"/>
+        <updated>2022-07-11T13:37:26.662Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출동! 마법경찰 매직캅 - 중랑 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54860</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54860"/>
+        <updated>2022-07-11T13:37:26.662Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 프란츠클래식 리사이틀 시리즈 : 김종현 피아노 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54859</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54859"/>
+        <updated>2022-07-11T13:37:26.663Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 1차​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54858</id>
@@ -39,75 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54854"/>
         <updated>2022-07-07T11:11:18.075Z</updated>
         <content type="html"><![CDATA[2022.07.08(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈반짝반짝 달님이 - 버블버블 마법의 솜사탕〉 -고양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54852</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54852"/>
-        <updated>2022-07-07T08:18:49.649Z</updated>
-        <content type="html"><![CDATA[2022.07.11(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈알사탕〉- 목포 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54851</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54851"/>
-        <updated>2022-07-07T08:18:49.649Z</updated>
-        <content type="html"><![CDATA[2022.07.18(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈알사탕〉- 과천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54850</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54850"/>
-        <updated>2022-07-07T08:18:49.649Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥 토크콘서트 시즌2 – 충주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54848</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54848"/>
-        <updated>2022-07-07T08:18:49.653Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥토크콘서트 시즌 2 〈광주〉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54847</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54847"/>
-        <updated>2022-07-07T08:18:49.653Z</updated>
-        <content type="html"><![CDATA[2022.07.08(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 한탄강 지오페스티벌 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54846</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54846"/>
-        <updated>2022-07-06T23:12:29.504Z</updated>
-        <content type="html"><![CDATA[2022.07.08(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 원주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54845</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54845"/>
-        <updated>2022-07-06T11:12:17.725Z</updated>
-        <content type="html"><![CDATA[2022.07.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 청주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54844</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54844"/>
-        <updated>2022-07-06T11:12:17.726Z</updated>
-        <content type="html"><![CDATA[2022.07.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 순천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54843</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54843"/>
-        <updated>2022-07-06T11:12:17.726Z</updated>
-        <content type="html"><![CDATA[2022.07.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54842</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54842"/>
-        <updated>2022-07-06T11:12:17.726Z</updated>
-        <content type="html"><![CDATA[2022.07.07(목) 01:00]]></content>
     </entry>
 </feed>
