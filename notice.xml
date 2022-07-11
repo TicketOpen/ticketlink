@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-11T05:21:30.982Z</updated>
+    <updated>2022-07-11T06:16:55.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54862"/>
         <updated>2022-07-11T05:20:21.859Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출동! 마법경찰 매직캅 - 파주운정 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54861</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54861"/>
+        <updated>2022-07-11T06:15:45.880Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.12(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출동! 마법경찰 매직캅 - 중랑 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54846"/>
         <updated>2022-07-07T03:44:00.942Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.08(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 원주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54845</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54845"/>
-        <updated>2022-07-06T09:12:49.542Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.07(목) 01:00]]></content>
     </entry>
 </feed>
