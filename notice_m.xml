@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-12T01:08:12.734Z</updated>
+    <updated>2022-07-12T03:54:16.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 무용여행舞游韩国​ - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[W필하모닉오케스트라 '시네마 런치 세트' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54874</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54874"/>
+        <updated>2022-07-12T03:54:15.906Z</updated>
+        <content type="html"><![CDATA[2022.07.12(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022무용여행舞游韩国​ - 대구(8.6)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54873</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54873"/>
+        <updated>2022-07-12T03:54:15.908Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 서울 구로 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54872</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54872"/>
+        <updated>2022-07-12T03:54:15.908Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 구리 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54871</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54871"/>
+        <updated>2022-07-12T03:54:15.909Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 무용여행舞游韩国​ - 대구(8.5) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54870</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54870"/>
         <updated>2022-07-12T01:08:12.127Z</updated>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54859"/>
         <updated>2022-07-11T13:37:26.663Z</updated>
         <content type="html"><![CDATA[2022.07.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54858</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54858"/>
-        <updated>2022-07-08T08:20:00.633Z</updated>
-        <content type="html"><![CDATA[2022.07.11(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈킹키부츠〉 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54857</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54857"/>
-        <updated>2022-07-08T06:17:38.431Z</updated>
-        <content type="html"><![CDATA[2022.07.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54856</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54856"/>
-        <updated>2022-07-08T06:17:38.442Z</updated>
-        <content type="html"><![CDATA[2022.07.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54855</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54855"/>
-        <updated>2022-07-08T06:17:38.442Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 05:00]]></content>
     </entry>
 </feed>
