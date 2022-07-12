@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-12T08:20:23.110Z</updated>
+    <updated>2022-07-12T09:18:33.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 강릉 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54877</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54877"/>
+        <updated>2022-07-12T09:18:30.797Z</updated>
+        <content type="html"><![CDATA[2022.07.15(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 8월이 쏟아지는 밤 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54876</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54876"/>
+        <updated>2022-07-12T09:18:30.798Z</updated>
+        <content type="html"><![CDATA[2022.07.15(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 실내악 시리즈 II 'Quartett in G minor' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54875</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54875"/>
+        <updated>2022-07-12T09:18:30.800Z</updated>
+        <content type="html"><![CDATA[2022.07.14(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W필하모닉오케스트라 '시네마 런치 세트' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54874</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54863"/>
         <updated>2022-07-11T13:37:26.657Z</updated>
         <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴페스타 2022​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54862</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54862"/>
-        <updated>2022-07-11T13:37:26.659Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출동! 마법경찰 매직캅 - 파주운정 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54861</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54861"/>
-        <updated>2022-07-11T13:37:26.662Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출동! 마법경찰 매직캅 - 중랑 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54860</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54860"/>
-        <updated>2022-07-11T13:37:26.662Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 03:00]]></content>
     </entry>
 </feed>
