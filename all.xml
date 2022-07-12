@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-12T04:58:40.300Z</updated>
+    <updated>2022-07-12T05:34:58.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[W필하모닉오케스트라 '시네마 런치 세트' 티켓오픈 안내 (티켓링크)]]></title>
@@ -38,6 +38,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54870"/>
         <updated>2022-07-12T03:54:07.372Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2022 남진 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54869</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54869"/>
+        <updated>2022-07-12T05:34:45.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.12(화) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 프란츠클래식 리사이틀 시리즈 : 김종현 피아노 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54859</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54859"/>
-        <updated>2022-07-11T04:32:27.177Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.12(화) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[W필하모닉오케스트라 '시네마 런치 세트' 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54874</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54874"/>
@@ -143,6 +143,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54870"/>
         <updated>2022-07-12T01:08:12.127Z</updated>
         <content type="html"><![CDATA[2022.07.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[용인] 2022 남진 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54869</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54869"/>
+        <updated>2022-07-12T05:34:55.785Z</updated>
+        <content type="html"><![CDATA[2022.07.13(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54860"/>
         <updated>2022-07-11T13:37:26.662Z</updated>
         <content type="html"><![CDATA[2022.07.12(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 프란츠클래식 리사이틀 시리즈 : 김종현 피아노 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54859</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54859"/>
-        <updated>2022-07-11T13:37:26.663Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 05:00]]></content>
     </entry>
 </feed>
