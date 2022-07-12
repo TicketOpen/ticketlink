@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-12T13:46:41.374Z</updated>
+    <updated>2022-07-12T14:21:36.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54877"/>
         <updated>2022-07-12T09:18:19.913Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.15(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 8월이 쏟아지는 밤 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54876</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54876"/>
-        <updated>2022-07-12T09:18:19.913Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.15(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 실내악 시리즈 II 'Quartett in G minor' 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54863"/>
         <updated>2022-07-11T08:16:22.120Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.12(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴페스타 2022​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54862</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54862"/>
+        <updated>2022-07-12T14:21:24.445Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 09:00]]></content>
     </entry>
 </feed>
