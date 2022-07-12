@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-11T23:12:59.396Z</updated>
+    <updated>2022-07-12T01:08:12.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 무용여행舞游韩国​ - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54870</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54870"/>
+        <updated>2022-07-12T01:08:12.127Z</updated>
+        <content type="html"><![CDATA[2022.07.15(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54868</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54855"/>
         <updated>2022-07-08T06:17:38.442Z</updated>
         <content type="html"><![CDATA[2022.07.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈Someday Festival 2022〉 일반 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54854</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54854"/>
-        <updated>2022-07-07T11:11:18.075Z</updated>
-        <content type="html"><![CDATA[2022.07.08(금) 09:00]]></content>
     </entry>
 </feed>
