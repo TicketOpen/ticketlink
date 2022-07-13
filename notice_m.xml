@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-13T07:13:28.380Z</updated>
+    <updated>2022-07-13T08:17:26.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 사람은 무엇으로 사는가  티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54882</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54882"/>
+        <updated>2022-07-13T08:17:26.015Z</updated>
+        <content type="html"><![CDATA[2022.07.15(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈난세〉 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54881</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54881"/>
+        <updated>2022-07-13T08:17:26.020Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메가필드뮤직페스티벌2022 얼리버드 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54880</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54880"/>
+        <updated>2022-07-13T08:17:26.029Z</updated>
+        <content type="html"><![CDATA[2022.07.21(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 순천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54879</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54867"/>
         <updated>2022-07-11T13:37:26.638Z</updated>
         <content type="html"><![CDATA[2022.07.13(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 대한민국 소극장 열전 in 대구 -  타이피스트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54866</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54866"/>
-        <updated>2022-07-11T13:37:26.651Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 대한민국 소극장 열전 in 대구 - 노인과바다 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54865</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54865"/>
-        <updated>2022-07-11T13:37:26.657Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 대한민국 소극장 열전 in 대구 -  못생긴남자 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54864</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54864"/>
-        <updated>2022-07-11T13:37:26.657Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 01:00]]></content>
     </entry>
 </feed>
