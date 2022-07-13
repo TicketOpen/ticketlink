@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-13T09:13:45.717Z</updated>
+    <updated>2022-07-13T10:15:39.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 사람은 무엇으로 사는가  티켓오픈 안내 (티켓링크)]]></title>
@@ -108,110 +108,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54867"/>
         <updated>2022-07-11T08:16:22.118Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 사람은 무엇으로 사는가  티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54882</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54882"/>
-        <updated>2022-07-13T08:17:26.015Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈난세〉 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54881</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54881"/>
-        <updated>2022-07-13T08:17:26.020Z</updated>
-        <content type="html"><![CDATA[2022.07.18(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가필드뮤직페스티벌2022 얼리버드 티켓 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54880</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54880"/>
-        <updated>2022-07-13T08:17:26.029Z</updated>
-        <content type="html"><![CDATA[2022.07.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54879</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54879"/>
-        <updated>2022-07-13T01:03:18.772Z</updated>
-        <content type="html"><![CDATA[2022.07.19(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54878</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54878"/>
-        <updated>2022-07-13T01:03:18.772Z</updated>
-        <content type="html"><![CDATA[2022.07.19(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 강릉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54877</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54877"/>
-        <updated>2022-07-12T09:18:30.797Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 실내악 시리즈 II 'Quartett in G minor' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54875</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54875"/>
-        <updated>2022-07-12T09:18:30.800Z</updated>
-        <content type="html"><![CDATA[2022.07.14(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W필하모닉오케스트라 '시네마 런치 세트' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54874</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54874"/>
-        <updated>2022-07-12T03:54:15.906Z</updated>
-        <content type="html"><![CDATA[2022.07.12(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022무용여행舞游韩国​ - 대구(8.6)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54873</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54873"/>
-        <updated>2022-07-12T03:54:15.908Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 서울 구로 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54872</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54872"/>
-        <updated>2022-07-12T03:54:15.908Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 구리 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54871</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54871"/>
-        <updated>2022-07-12T03:54:15.909Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 무용여행舞游韩国​ - 대구(8.5) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54870</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54870"/>
-        <updated>2022-07-12T01:08:12.127Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2022 남진 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54869</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54869"/>
-        <updated>2022-07-12T05:34:55.785Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54868</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54868"/>
-        <updated>2022-07-11T13:37:26.638Z</updated>
-        <content type="html"><![CDATA[2022.07.15(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤직앤센트콘서트​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54867</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54867"/>
-        <updated>2022-07-11T13:37:26.638Z</updated>
-        <content type="html"><![CDATA[2022.07.13(수) 11:00]]></content>
     </entry>
 </feed>
