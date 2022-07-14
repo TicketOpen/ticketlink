@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-14T07:13:08.434Z</updated>
+    <updated>2022-07-14T08:17:04.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54890</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54890"/>
+        <updated>2022-07-14T08:15:54.923Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.18(월) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54889</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54889"/>
+        <updated>2022-07-14T08:15:54.925Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54888</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54888"/>
+        <updated>2022-07-14T08:15:54.925Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2022 대덕문화전당 문화예술아카데미 - 북앤클래식 with 긴긴밤 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54887</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54875"/>
         <updated>2022-07-12T07:11:44.750Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.14(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W필하모닉오케스트라 '시네마 런치 세트' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54874</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54874"/>
-        <updated>2022-07-12T03:54:07.362Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.12(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022무용여행舞游韩国​ - 대구(8.6)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54873</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54873"/>
-        <updated>2022-07-12T03:54:07.363Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 서울 구로 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54872</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54872"/>
-        <updated>2022-07-12T03:54:07.370Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 00:00]]></content>
     </entry>
 </feed>
