@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-14T03:49:47.912Z</updated>
+    <updated>2022-07-14T04:44:12.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2022 대덕문화전당 문화예술아카데미 - 북앤클래식 with 긴긴밤 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54887</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54887"/>
+        <updated>2022-07-14T04:43:03.288Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.18(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개그쇼 쇼그맨2 - 의성 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54886</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54886"/>
+        <updated>2022-07-14T04:43:03.289Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.18(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASL 와일드카드전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54885</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54885"/>
+        <updated>2022-07-14T04:43:03.289Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.14(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리슨어게인 페스티벌 2022 〈Listen Again Festival 2022〉 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54884</id>
@@ -87,27 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54872"/>
         <updated>2022-07-12T03:54:07.370Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 구리 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54871</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54871"/>
-        <updated>2022-07-12T03:54:07.371Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 무용여행舞游韩国​ - 대구(8.5) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54870</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54870"/>
-        <updated>2022-07-12T03:54:07.372Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 2022 남진 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54869</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54869"/>
-        <updated>2022-07-12T05:34:45.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.13(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아프리카TV 2022 스타크래프트 BJ멸망전 - WSL S3 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
