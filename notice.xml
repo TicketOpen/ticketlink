@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-18T03:43:02.128Z</updated>
+    <updated>2022-07-18T04:43:39.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정식/조윤성/전송이 - 〈한글, 즉흥연주〉 발매 공연 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54902</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54902"/>
+        <updated>2022-07-18T04:42:30.293Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.20(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 김정식/조윤성/전송이 - 〈한글, 즉흥연주〉 발매 공연 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54901</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54901"/>
+        <updated>2022-07-18T04:42:30.299Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.20(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서관에 간 사자 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54900</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54900"/>
+        <updated>2022-07-18T04:42:30.299Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.20(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KB Pay X 인천펜타포트 락페스티벌 2022] 캠핑권 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54899</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54888"/>
         <updated>2022-07-14T08:15:54.925Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2022 대덕문화전당 문화예술아카데미 - 북앤클래식 with 긴긴밤 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54887</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54887"/>
-        <updated>2022-07-14T04:43:03.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.18(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개그쇼 쇼그맨2 - 의성 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54886</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54886"/>
-        <updated>2022-07-14T04:43:03.289Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ASL 와일드카드전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54885</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54885"/>
-        <updated>2022-07-14T04:43:03.289Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.14(목) 08:00]]></content>
     </entry>
 </feed>
