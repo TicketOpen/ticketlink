@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-18T08:18:30.202Z</updated>
+    <updated>2022-07-18T09:12:41.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 구례 자연드림 락페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54905</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54905"/>
+        <updated>2022-07-18T09:12:38.442Z</updated>
+        <content type="html"><![CDATA[2022.07.20(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 리스트 국제 피아노 콩쿠르 위너 인 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54904</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54904"/>
+        <updated>2022-07-18T09:12:38.443Z</updated>
+        <content type="html"><![CDATA[2022.07.21(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 수원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54903</id>
@@ -90,24 +104,10 @@
         <content type="html"><![CDATA[2022.07.20(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정동하 소극장콘서트 전국투어 "OFF THE RECORD" - 파주​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[정동하 소극장콘서트 전국투어]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54891</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54891"/>
         <updated>2022-07-15T05:41:22.545Z</updated>
         <content type="html"><![CDATA[2022.07.20(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  문화콘서트 난장 in 나주정미소 난장곡간 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54890</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54890"/>
-        <updated>2022-07-14T09:13:49.848Z</updated>
-        <content type="html"><![CDATA[2022.07.18(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54889</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54889"/>
-        <updated>2022-07-14T09:13:49.848Z</updated>
-        <content type="html"><![CDATA[2022.07.22(금) 08:00]]></content>
     </entry>
 </feed>
