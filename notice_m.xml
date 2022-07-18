@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-18T06:18:44.987Z</updated>
+    <updated>2022-07-18T07:12:37.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54903</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54903"/>
+        <updated>2022-07-18T07:12:35.549Z</updated>
+        <content type="html"><![CDATA[2022.07.21(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정식/조윤성/전송이 - 〈한글, 즉흥연주〉 발매 공연 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54902</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54889"/>
         <updated>2022-07-14T09:13:49.848Z</updated>
         <content type="html"><![CDATA[2022.07.22(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54888</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54888"/>
-        <updated>2022-07-14T09:13:49.849Z</updated>
-        <content type="html"><![CDATA[2022.07.22(금) 09:00]]></content>
     </entry>
 </feed>
