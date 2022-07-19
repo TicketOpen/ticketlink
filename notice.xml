@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-19T03:55:47.783Z</updated>
+    <updated>2022-07-19T05:04:57.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우스 메켈레 & 파리 오케스트라​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54906</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54906"/>
+        <updated>2022-07-19T05:03:48.866Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 구례 자연드림 락페스티벌​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54905</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54892"/>
         <updated>2022-07-15T03:52:33.250Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.20(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동하 소극장콘서트 전국투어 "OFF THE RECORD" - 파주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54891</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54891"/>
-        <updated>2022-07-15T01:11:46.940Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.20(수) 05:00]]></content>
     </entry>
 </feed>
