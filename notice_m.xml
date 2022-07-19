@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-19T10:14:40.246Z</updated>
+    <updated>2022-07-19T11:11:35.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54908"/>
         <updated>2022-07-19T09:18:17.949Z</updated>
         <content type="html"><![CDATA[2022.07.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 콘서트 오페라 〈카르멘〉- 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54907</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54907"/>
-        <updated>2022-07-19T06:17:06.290Z</updated>
-        <content type="html"><![CDATA[2022.07.21(목) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[클라우스 메켈레 & 파리 오케스트라​ 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54895"/>
         <updated>2022-07-15T05:41:22.541Z</updated>
         <content type="html"><![CDATA[2022.07.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이마술콘서트 - 부산 (기장) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54894</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54894"/>
+        <updated>2022-07-19T11:11:32.499Z</updated>
+        <content type="html"><![CDATA[2022.07.18(월) 01:00]]></content>
     </entry>
 </feed>
