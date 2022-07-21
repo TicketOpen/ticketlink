@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-21T10:14:35.767Z</updated>
+    <updated>2022-07-21T11:10:52.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립합창단 수시연주회 `요들송과 함께하는 합창의 밤`​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54922</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54922"/>
+        <updated>2022-07-21T11:10:38.116Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈V 에버 애프터〉2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54921</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54906"/>
         <updated>2022-07-19T05:03:48.866Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 구례 자연드림 락페스티벌​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54905</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54905"/>
-        <updated>2022-07-18T09:12:27.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.20(수) 05:00]]></content>
     </entry>
 </feed>
