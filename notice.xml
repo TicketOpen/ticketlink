@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-21T23:16:07.436Z</updated>
+    <updated>2022-07-22T01:07:20.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 김경호 전국투어콘서트 IN 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54926</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54926"/>
+        <updated>2022-07-22T01:07:03.845Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.26(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2022 변진섭 전국투어 콘서트 : 변천사 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54925</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54925"/>
+        <updated>2022-07-22T01:07:03.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [연극] 골 든 타 임 - 목포 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54924</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54924"/>
+        <updated>2022-07-22T01:07:03.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제 83기 KBS 부산노래 교실 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54923</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54923"/>
+        <updated>2022-07-22T01:07:03.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.28(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립합창단 수시연주회 `요들송과 함께하는 합창의 밤`​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54922</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54911"/>
         <updated>2022-07-20T05:20:31.817Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.25(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54910</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54910"/>
-        <updated>2022-07-20T05:20:31.820Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.25(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 GSL 시즌2 결승전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54909</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54909"/>
-        <updated>2022-07-19T09:18:06.922Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 최현우 〈THE BRAIN〉 - 세종 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54908</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54908"/>
-        <updated>2022-07-19T09:18:06.923Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우스 메켈레 & 파리 오케스트라​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54906</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54906"/>
-        <updated>2022-07-19T05:03:48.866Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.22(금) 05:00]]></content>
     </entry>
 </feed>
