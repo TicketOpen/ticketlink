@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-07-22T10:15:20.160Z</updated>
+    <updated>2022-07-22T11:11:13.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54934</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54934"/>
+        <updated>2022-07-22T11:11:10.820Z</updated>
+        <content type="html"><![CDATA[2022.07.28(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54933</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54933"/>
+        <updated>2022-07-22T11:11:10.820Z</updated>
+        <content type="html"><![CDATA[2022.07.28(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 안양 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54932</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54920"/>
         <updated>2022-07-21T08:16:53.093Z</updated>
         <content type="html"><![CDATA[2022.07.22(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈사이먼 래틀 & 런던 심포니 오케스트라〉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54919</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54919"/>
-        <updated>2022-07-21T08:16:53.093Z</updated>
-        <content type="html"><![CDATA[2022.07.28(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54918</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54918"/>
-        <updated>2022-07-21T08:16:53.093Z</updated>
-        <content type="html"><![CDATA[2022.07.28(목) 01:00]]></content>
     </entry>
 </feed>
