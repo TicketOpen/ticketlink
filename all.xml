@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-25T10:15:22.605Z</updated>
+    <updated>2022-07-25T11:12:11.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[메가필드뮤직페스티벌2022] 일반티켓 오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,34 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.28(목) 09:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[메가필드뮤직페스티벌2022] 일반티켓 오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54948</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54948"/>
+        <updated>2022-07-25T11:12:08.601Z</updated>
+        <content type="html"><![CDATA[2022.07.27(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLY TO THE DANCE - 저마다 세상을 나는 방식 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54947</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54947"/>
+        <updated>2022-07-25T11:12:08.602Z</updated>
+        <content type="html"><![CDATA[2022.07.26(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주문화예술회관 기획공연 포커스] 이야기가 있는 키즈클래식 '빨간모자와 늑대' 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54946</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54946"/>
+        <updated>2022-07-25T11:12:08.603Z</updated>
+        <content type="html"><![CDATA[2022.07.27(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54945</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54945"/>
+        <updated>2022-07-25T11:12:08.608Z</updated>
+        <content type="html"><![CDATA[2022.08.04(목) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54944</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54944"/>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54934"/>
         <updated>2022-07-22T11:11:10.820Z</updated>
         <content type="html"><![CDATA[2022.07.28(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54933</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54933"/>
-        <updated>2022-07-22T11:11:10.820Z</updated>
-        <content type="html"><![CDATA[2022.07.28(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54932</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54932"/>
-        <updated>2022-07-22T07:13:55.488Z</updated>
-        <content type="html"><![CDATA[2022.07.26(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극〈오만과 편견〉 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54931</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54931"/>
-        <updated>2022-07-22T06:17:32.350Z</updated>
-        <content type="html"><![CDATA[2022.07.27(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DBA051] FESTIVAL - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54930</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54930"/>
-        <updated>2022-07-22T05:23:25.044Z</updated>
-        <content type="html"><![CDATA[2022.07.27(수) 08:00]]></content>
     </entry>
 </feed>
