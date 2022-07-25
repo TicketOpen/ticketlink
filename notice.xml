@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-25T22:12:46.775Z</updated>
+    <updated>2022-07-25T23:12:53.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 부산비엔날레 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54949</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54949"/>
+        <updated>2022-07-25T23:11:45.751Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.04(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[메가필드뮤직페스티벌2022] 일반티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54948</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54935"/>
         <updated>2022-07-23T05:14:36.072Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.26(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54934</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54934"/>
-        <updated>2022-07-22T10:14:11.987Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.28(목) 09:00]]></content>
     </entry>
 </feed>
