@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-26T14:12:21.282Z</updated>
+    <updated>2022-07-26T15:14:19.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김범룡 콘서트 - 양주 티켓오픈 안내 (티켓링크)]]></title>
@@ -152,7 +152,7 @@
         <content type="html"><![CDATA[2022.08.05(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 부산비엔날레 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2022 부산비엔날레 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54949</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54949"/>
         <updated>2022-07-26T01:06:35.006Z</updated>
