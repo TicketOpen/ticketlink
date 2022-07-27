@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-27T10:17:11.369Z</updated>
+    <updated>2022-07-27T11:12:00.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 보일러룸 서울 2022 (Boiler Room Seoul 2022) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54963</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54963"/>
+        <updated>2022-07-27T11:10:52.204Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.04(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안산] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54962</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54949"/>
         <updated>2022-07-25T23:11:45.751Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.04(목) 15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메가필드뮤직페스티벌2022] 일반티켓 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54948</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54948"/>
-        <updated>2022-07-25T09:12:30.814Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.27(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[안산] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크 모바일)]]></title>
