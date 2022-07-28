@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-28T04:39:54.029Z</updated>
+    <updated>2022-07-28T05:23:26.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 파주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54968</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54968"/>
+        <updated>2022-07-28T05:22:18.443Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.01(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 포천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54966</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54953"/>
         <updated>2022-07-26T08:15:22.920Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.08(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 2​차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54952</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54952"/>
-        <updated>2022-07-26T06:16:23.105Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.01(월) 05:00]]></content>
     </entry>
 </feed>
