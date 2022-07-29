@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-07-29T05:26:27.845Z</updated>
+    <updated>2022-07-29T06:16:45.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <배니싱> 프리뷰 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54974</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54974"/>
+        <updated>2022-07-29T06:16:34.181Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.02(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[듀에토 'Green Forest Concert' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54973</id>
@@ -46,6 +53,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54968"/>
         <updated>2022-07-28T05:22:18.443Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.01(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] (서울 앵콜) 2022 포레스텔라 전국투어 콘서트 – The Beginning : World Tree in Seoul ENCORE​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54967</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54967"/>
+        <updated>2022-07-29T06:16:34.193Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.02(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 포천 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54960"/>
         <updated>2022-07-27T08:15:23.792Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.28(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉산문화회관 특별기획 〈소소스테이지IV-연극 '천국의 나무'〉티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54959</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54959"/>
-        <updated>2022-07-27T08:15:23.793Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.03(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유러피안 재즈 트리오 디즈니VS지브리​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54958</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54958"/>
-        <updated>2022-07-27T06:15:30.356Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.29(금) 05:00]]></content>
     </entry>
 </feed>
