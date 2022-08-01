@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-01T06:31:05.822Z</updated>
+    <updated>2022-08-01T07:17:36.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <배니싱> 프리뷰 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[GAME ON! 게임음악콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54976</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54976"/>
+        <updated>2022-08-01T07:17:24.879Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈​미세스 다웃파이어〉​ 2차​ ​​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54975</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54975"/>
+        <updated>2022-08-01T07:17:24.879Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.05(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈배니싱〉 프리뷰 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54974</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54974"/>
         <updated>2022-07-29T06:16:34.181Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54962"/>
         <updated>2022-07-27T08:15:23.789Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.07.29(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 썸머 브리즈 : 홍진호 모던첼로​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54961</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54961"/>
-        <updated>2022-07-27T08:15:23.791Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.28(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 썸머 브리즈 : 권태은 런치송 프로젝트 with Friends 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54960</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54960"/>
-        <updated>2022-07-27T08:15:23.792Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.28(목) 02:00]]></content>
     </entry>
 </feed>
