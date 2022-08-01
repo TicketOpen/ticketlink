@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-01T08:18:24.534Z</updated>
+    <updated>2022-08-01T09:13:31.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[JazzWorks N4 - Twee Promind 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54977</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54977"/>
+        <updated>2022-08-01T09:13:19.091Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.03(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GAME ON! 게임음악콘서트​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54976</id>
@@ -40,7 +47,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.02(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 아티스트 시리즈: 신박듀오, 베이스 바리톤 안민수 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 프란츠클래식 2022 아티스트 시리즈: 피아노 듀오 신박, 베이스바리톤 안민수 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/54971</id>
         <link href="http://www.ticketlink.co.kr/help/notice/54971"/>
         <updated>2022-07-29T01:05:32.565Z</updated>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.04(목) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[안산] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54962</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54962"/>
-        <updated>2022-07-27T08:15:23.789Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.07.29(금) 02:00]]></content>
+        <title type="html"><![CDATA[JazzWorks N4 - Twee Promind 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54977</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54977"/>
+        <updated>2022-08-01T09:13:28.211Z</updated>
+        <content type="html"><![CDATA[2022.08.03(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GAME ON! 게임음악콘서트​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -145,7 +152,7 @@
         <content type="html"><![CDATA[2022.08.02(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 프란츠클래식 아티스트 시리즈: 신박듀오, 베이스 바리톤 안민수 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 프란츠클래식 2022 아티스트 시리즈: 피아노 듀오 신박, 베이스바리톤 안민수 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54971</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54971"/>
         <updated>2022-07-29T06:16:43.194Z</updated>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54963"/>
         <updated>2022-07-27T14:13:26.917Z</updated>
         <content type="html"><![CDATA[2022.08.04(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54962</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54962"/>
-        <updated>2022-07-27T08:15:30.594Z</updated>
-        <content type="html"><![CDATA[2022.07.29(금) 02:00]]></content>
     </entry>
 </feed>
