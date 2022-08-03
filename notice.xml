@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-03T01:09:17.524Z</updated>
+    <updated>2022-08-03T03:50:48.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54987"/>
         <updated>2022-08-03T01:09:06.265Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.05(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/54986</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/54986"/>
+        <updated>2022-08-03T03:49:39.823Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.05(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－인천 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54972"/>
         <updated>2022-07-29T03:48:00.466Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.02(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 프란츠클래식 2022 아티스트 시리즈: 피아노 듀오 신박, 베이스바리톤 안민수 리사이틀 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54971</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54971"/>
-        <updated>2022-07-29T01:05:32.565Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.02(화) 05:00]]></content>
     </entry>
 </feed>
