@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-04T05:27:31.478Z</updated>
+    <updated>2022-08-04T06:17:49.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 서울마포 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.05(금) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 서울마포 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54997</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54997"/>
+        <updated>2022-08-04T06:17:49.283Z</updated>
+        <content type="html"><![CDATA[2022.08.08(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54996</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54996"/>
+        <updated>2022-08-04T06:17:49.287Z</updated>
+        <content type="html"><![CDATA[2022.08.10(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈킹키부츠〉 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/54995</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/54995"/>
+        <updated>2022-08-04T06:17:49.289Z</updated>
+        <content type="html"><![CDATA[2022.08.09(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54994</id>
         <link href="http://m.ticketlink.co.kr/help/notice/54994"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54983"/>
         <updated>2022-08-02T07:14:18.828Z</updated>
         <content type="html"><![CDATA[2022.08.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 세종 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54981</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54981"/>
-        <updated>2022-08-02T05:14:09.065Z</updated>
-        <content type="html"><![CDATA[2022.08.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어롱 콘서트 뮤지컬 ‘Live Show’〈무지개 물고기〉 - 서울도봉 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54980</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54980"/>
-        <updated>2022-08-02T05:14:09.066Z</updated>
-        <content type="html"><![CDATA[2022.08.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 여수​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54978</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54978"/>
-        <updated>2022-08-02T05:14:09.066Z</updated>
-        <content type="html"><![CDATA[2022.08.09(화) 00:00]]></content>
     </entry>
 </feed>
