@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-04T11:12:39.895Z</updated>
+    <updated>2022-08-04T12:25:08.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 울산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55000</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55000"/>
+        <updated>2022-08-04T12:25:05.822Z</updated>
+        <content type="html"><![CDATA[2022.08.10(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ASL 시즌14 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/54999</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54986"/>
         <updated>2022-08-03T04:59:16.979Z</updated>
         <content type="html"><![CDATA[2022.08.05(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54985</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54985"/>
-        <updated>2022-08-03T01:09:14.940Z</updated>
-        <content type="html"><![CDATA[2022.08.08(월) 01:00]]></content>
     </entry>
 </feed>
