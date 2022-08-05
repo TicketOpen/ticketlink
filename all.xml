@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-05T04:41:27.416Z</updated>
+    <updated>2022-08-05T05:28:43.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 롯데워터파크 풀파티​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55004</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55004"/>
+        <updated>2022-08-05T05:28:31.300Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.09(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 포항 음악제 메인공연 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55003</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.08(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 잔다리페스타 2022​ 얼리버드 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54989</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54989"/>
-        <updated>2022-08-03T07:11:37.210Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.05(금) 05:00]]></content>
+        <title type="html"><![CDATA[2022 롯데워터파크 풀파티​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55004</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55004"/>
+        <updated>2022-08-05T05:28:40.574Z</updated>
+        <content type="html"><![CDATA[2022.08.09(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 포항 음악제 메인공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54990"/>
         <updated>2022-08-03T13:35:46.069Z</updated>
         <content type="html"><![CDATA[2022.08.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 잔다리페스타 2022​ 얼리버드 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54989</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54989"/>
-        <updated>2022-08-03T13:35:46.075Z</updated>
-        <content type="html"><![CDATA[2022.08.05(금) 05:00]]></content>
     </entry>
 </feed>
