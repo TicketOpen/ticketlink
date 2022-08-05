@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-05T01:13:33.728Z</updated>
+    <updated>2022-08-05T03:40:06.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 포항 음악제 메인공연 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55003</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55003"/>
+        <updated>2022-08-05T03:39:54.004Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.11(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독오픈] MBC 강변가요제 뉴챌린지 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55002</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55002"/>
+        <updated>2022-08-05T03:39:54.006Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.09(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명앙상블 제4회 정기연주회 ​티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55001</id>
@@ -96,18 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.05(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 – 일산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54988</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54988"/>
-        <updated>2022-08-03T06:15:19.877Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.08(월) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2022 포항 음악제 메인공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55003</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55003"/>
+        <updated>2022-08-05T03:40:03.398Z</updated>
+        <content type="html"><![CDATA[2022.08.11(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 ‘제돌이의 꿈’ - 원주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54987</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54987"/>
-        <updated>2022-08-03T01:09:06.265Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.05(금) 08:00]]></content>
+        <title type="html"><![CDATA[[단독오픈] MBC 강변가요제 뉴챌린지 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55002</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55002"/>
+        <updated>2022-08-05T03:40:03.401Z</updated>
+        <content type="html"><![CDATA[2022.08.09(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명앙상블 제4회 정기연주회 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55001</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55001"/>
+        <updated>2022-08-05T03:40:03.401Z</updated>
+        <content type="html"><![CDATA[2022.08.05(금) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/54989"/>
         <updated>2022-08-03T13:35:46.075Z</updated>
         <content type="html"><![CDATA[2022.08.05(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 – 일산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54988</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54988"/>
-        <updated>2022-08-03T04:59:16.977Z</updated>
-        <content type="html"><![CDATA[2022.08.08(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 ‘제돌이의 꿈’ - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54987</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54987"/>
-        <updated>2022-08-03T01:09:14.935Z</updated>
-        <content type="html"><![CDATA[2022.08.05(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/54986</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/54986"/>
-        <updated>2022-08-03T04:59:16.979Z</updated>
-        <content type="html"><![CDATA[2022.08.05(금) 02:00]]></content>
     </entry>
 </feed>
