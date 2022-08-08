@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-08T05:19:52.684Z</updated>
+    <updated>2022-08-08T06:17:37.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 마에스트로 정명훈 실내악 콘서트 - 경주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55012</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55012"/>
+        <updated>2022-08-08T06:16:30.945Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.12(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 이승환 콘서트 〈우리 그때〉 - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55011</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55011"/>
+        <updated>2022-08-08T06:16:30.949Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.10(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 대전 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55010</id>
@@ -94,20 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/54998"/>
         <updated>2022-08-04T07:11:34.149Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.09(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 서울마포 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54997</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54997"/>
-        <updated>2022-08-04T05:26:23.477Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/54996</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/54996"/>
-        <updated>2022-08-04T05:26:23.478Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.10(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lilly feat Gilad Hekselman (대구) (티켓링크 모바일)]]></title>
