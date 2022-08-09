@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-09T08:16:58.399Z</updated>
+    <updated>2022-08-09T09:15:35.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[영앤리치 썸머 파티(Young&Rich Summer Party)​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55022</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55022"/>
+        <updated>2022-08-09T09:14:27.347Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.10(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 아기돼지삼형제(늑대숲또옹돼지원정대) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55021</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55008"/>
         <updated>2022-08-08T00:59:08.326Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.10(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오픈연기] 뮤지컬 〈킹키부츠〉 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55007</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55007"/>
-        <updated>2022-08-08T00:59:08.339Z</updated>
-        <content type="html"><![CDATA[2022.08.08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 아기돼지삼형제(늑대숲또옹돼지원정대) 티켓오픈 안내 (티켓링크 모바일)]]></title>
