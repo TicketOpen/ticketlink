@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-10T13:30:39.086Z</updated>
+    <updated>2022-08-10T14:12:40.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－화성 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55033</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55033"/>
+        <updated>2022-08-10T14:12:37.858Z</updated>
+        <content type="html"><![CDATA[2022.08.11(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 안성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55032</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55019"/>
         <updated>2022-08-09T04:36:28.755Z</updated>
         <content type="html"><![CDATA[2022.08.11(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 제366회 정기연주회 'Prelude' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55018</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55018"/>
-        <updated>2022-08-09T04:36:28.759Z</updated>
-        <content type="html"><![CDATA[2022.08.11(목) 08:00]]></content>
     </entry>
 </feed>
