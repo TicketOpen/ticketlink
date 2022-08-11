@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-11T05:12:36.398Z</updated>
+    <updated>2022-08-11T06:19:24.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​책먹는여우 - 서울 노원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55036</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55036"/>
+        <updated>2022-08-11T06:18:16.637Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.16(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55035</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55022"/>
         <updated>2022-08-09T09:14:27.347Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.10(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 아기돼지삼형제(늑대숲또옹돼지원정대) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55021</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55021"/>
-        <updated>2022-08-09T03:39:27.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.11(목) 05:00]]></content>
     </entry>
 </feed>
