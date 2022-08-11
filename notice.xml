@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-11T04:21:09.232Z</updated>
+    <updated>2022-08-11T05:12:36.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55035</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55035"/>
+        <updated>2022-08-11T05:12:25.821Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.16(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘최강야구’ 직관 데이 2차 티켓오픈!]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55034</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55021"/>
         <updated>2022-08-09T03:39:27.186Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  어린이환경뮤지컬 「삼총사의 대모험」  /  놀이패 신명-광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55020</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55020"/>
-        <updated>2022-08-09T03:39:27.188Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.10(수) 05:00]]></content>
     </entry>
 </feed>
