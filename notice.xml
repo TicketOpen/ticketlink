@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-12T04:26:45.336Z</updated>
+    <updated>2022-08-12T05:15:27.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 연극 아트(ART) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55040</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55040"/>
+        <updated>2022-08-12T05:14:22.201Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 티켓링크 플랫폼 UIUX 개편 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55039</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/55026</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55026"/>
         <updated>2022-08-10T06:17:06.279Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된도시의 비밀 - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55025</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55025"/>
-        <updated>2022-08-10T06:17:06.281Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.12(금) 00:00]]></content>
     </entry>
 </feed>
