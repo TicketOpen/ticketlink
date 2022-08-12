@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-12T01:01:55.248Z</updated>
+    <updated>2022-08-12T03:08:06.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[공지] 티켓링크 플랫폼 UIUX 개편 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55039</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55039"/>
+        <updated>2022-08-12T03:07:53.557Z</updated>
+        <content type="html"><![CDATA[2022.08.12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정한빈 피아노 리사이틀 - 친애하는 프란츠에게 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55038</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.12(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 여수 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55024</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55024"/>
-        <updated>2022-08-10T06:17:06.282Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.16(화) 00:00]]></content>
+        <title type="html"><![CDATA[[공지] 티켓링크 플랫폼 UIUX 개편 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55039</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55039"/>
+        <updated>2022-08-12T03:08:03.889Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/55039" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 티켓링크 플랫폼 UIUX 개편 안내</h3></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정한빈 피아노 리사이틀 - 친애하는 프란츠에게 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55024"/>
         <updated>2022-08-10T07:12:58.786Z</updated>
         <content type="html"><![CDATA[2022.08.16(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55023</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55023"/>
-        <updated>2022-08-10T07:12:58.787Z</updated>
-        <content type="html"><![CDATA[2022.08.12(금) 00:00]]></content>
     </entry>
 </feed>
