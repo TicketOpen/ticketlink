@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-12T05:15:27.093Z</updated>
+    <updated>2022-08-12T06:16:37.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022 연극 아트(ART) 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.12(금) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립국악단 206회 정기연주회 〈노스탤지어〉티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55042</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55042"/>
+        <updated>2022-08-12T06:16:35.296Z</updated>
+        <content type="html"><![CDATA[2022.08.16(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  버블쇼 - 시간여행자-목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55041</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55041"/>
+        <updated>2022-08-12T06:16:35.296Z</updated>
+        <content type="html"><![CDATA[2022.08.17(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 연극 아트(ART) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55040</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55040"/>
+        <updated>2022-08-12T06:16:35.299Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 06:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[공지] 티켓링크 플랫폼 UIUX 개편 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55039</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55039"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55027"/>
         <updated>2022-08-10T07:12:58.782Z</updated>
         <content type="html"><![CDATA[2022.08.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55026</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55026"/>
-        <updated>2022-08-10T07:12:58.783Z</updated>
-        <content type="html"><![CDATA[2022.08.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된도시의 비밀 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55025</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55025"/>
-        <updated>2022-08-10T07:12:58.785Z</updated>
-        <content type="html"><![CDATA[2022.08.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55024</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55024"/>
-        <updated>2022-08-10T07:12:58.786Z</updated>
-        <content type="html"><![CDATA[2022.08.16(화) 00:00]]></content>
     </entry>
 </feed>
