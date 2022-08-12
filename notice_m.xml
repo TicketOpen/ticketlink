@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-12T08:15:55.944Z</updated>
+    <updated>2022-08-12T09:12:21.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 창원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55045</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55045"/>
+        <updated>2022-08-12T09:12:18.849Z</updated>
+        <content type="html"><![CDATA[2022.08.17(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 잔다리페스타 2022 : 잔다리홈커밍 일반티켓 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55044</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55030"/>
         <updated>2022-08-10T07:12:58.780Z</updated>
         <content type="html"><![CDATA[2022.08.16(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55029</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55029"/>
-        <updated>2022-08-10T07:12:58.780Z</updated>
-        <content type="html"><![CDATA[2022.08.12(금) 00:00]]></content>
     </entry>
 </feed>
