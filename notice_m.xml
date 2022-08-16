@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-16T05:17:19.436Z</updated>
+    <updated>2022-08-16T06:16:30.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/web/AOS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55050</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55050"/>
+        <updated>2022-08-16T06:16:27.684Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 제 13회 부산마루국제음악제 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55049</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55049"/>
+        <updated>2022-08-16T06:16:27.685Z</updated>
+        <content type="html"><![CDATA[2022.08.17(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​김주원의 탱고발레 〈3 Minutes : Su tiempo 그녀의 시간〉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55048</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55048"/>
+        <updated>2022-08-16T06:16:27.686Z</updated>
+        <content type="html"><![CDATA[2022.08.17(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2022 폴포츠 데뷔 15주년 내한 콘서트 “​시간여행”​ [인천]​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55047</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55036"/>
         <updated>2022-08-11T10:14:41.604Z</updated>
         <content type="html"><![CDATA[2022.08.16(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55035</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55035"/>
-        <updated>2022-08-11T05:12:33.726Z</updated>
-        <content type="html"><![CDATA[2022.08.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－화성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55033</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55033"/>
-        <updated>2022-08-10T14:12:37.858Z</updated>
-        <content type="html"><![CDATA[2022.08.11(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 안성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55032</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55032"/>
-        <updated>2022-08-10T09:14:12.293Z</updated>
-        <content type="html"><![CDATA[2022.08.12(금) 02:00]]></content>
     </entry>
 </feed>
