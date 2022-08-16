@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-16T01:13:32.308Z</updated>
+    <updated>2022-08-16T03:42:19.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2022 폴포츠 데뷔 15주년 내한 콘서트 “​시간여행”​ [인천]​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55047</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55047"/>
+        <updated>2022-08-16T03:41:12.416Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.16(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 천안 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55046</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55046"/>
+        <updated>2022-08-16T03:41:12.420Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55045</id>
@@ -94,20 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55033"/>
         <updated>2022-08-10T11:10:49.984Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.11(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 안성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55032</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55032"/>
-        <updated>2022-08-10T11:10:49.992Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.12(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 수성아트피아 마티네 콘서트 9월 - 슈베르트의 악흥의 순간 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55031</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55031"/>
-        <updated>2022-08-10T06:17:06.274Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.11(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
