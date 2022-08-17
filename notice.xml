@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-17T06:17:33.872Z</updated>
+    <updated>2022-08-17T07:12:45.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘우리엄마 최고!’ - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55060</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55060"/>
+        <updated>2022-08-17T07:11:33.054Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제367회 정기연주회 '베토벤 : 윤이상'​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55059</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55046"/>
         <updated>2022-08-16T03:41:12.420Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극〈불효자는 웁니다〉 - 창원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55045</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55045"/>
-        <updated>2022-08-12T09:12:09.515Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 05:00]]></content>
     </entry>
 </feed>
