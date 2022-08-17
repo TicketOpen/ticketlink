@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-17T05:05:46.841Z</updated>
+    <updated>2022-08-17T06:17:33.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제367회 정기연주회 '베토벤 : 윤이상'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55059</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55059"/>
+        <updated>2022-08-17T06:16:26.132Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 포항 음악제 포커스 스테이지 & 강연 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55058</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55058"/>
+        <updated>2022-08-17T06:16:26.139Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.24(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 부천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55057</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55057"/>
+        <updated>2022-08-17T06:16:26.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 춘천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55056</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55056"/>
+        <updated>2022-08-17T06:16:26.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55055</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55055"/>
+        <updated>2022-08-17T06:16:26.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.24(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Art Of Jazz Vocal - 쉴라 조단, 전송이 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55054</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55054"/>
+        <updated>2022-08-17T06:16:26.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.22(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55053</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55053"/>
+        <updated>2022-08-17T06:16:26.144Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​원더티켓 - 수호나무의 부활 (인제) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55052</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55052"/>
+        <updated>2022-08-17T06:16:26.145Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 '백설공주' - 일산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55051</id>
@@ -53,61 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55045"/>
         <updated>2022-08-12T09:12:09.515Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 잔다리페스타 2022 : 잔다리홈커밍 일반티켓 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55044</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55044"/>
-        <updated>2022-08-12T07:11:18.925Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 파우스트 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55043</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55043"/>
-        <updated>2022-08-12T07:11:18.931Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구시립국악단 206회 정기연주회 〈노스탤지어〉티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55042</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55042"/>
-        <updated>2022-08-12T07:11:18.939Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.16(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  버블쇼 - 시간여행자-목포 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55041</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55041"/>
-        <updated>2022-08-12T07:11:18.940Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 연극 아트(ART) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55040</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55040"/>
-        <updated>2022-08-12T05:14:22.201Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 티켓링크 플랫폼 UIUX 개편 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55039</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55039"/>
-        <updated>2022-08-12T03:07:53.557Z</updated>
-        <content type="html"><![CDATA[2022.08.12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정한빈 피아노 리사이틀 - 친애하는 프란츠에게 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55038</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55038"/>
-        <updated>2022-08-11T12:25:03.436Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  연극 꽃(에 빌린)말 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55037</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55037"/>
-        <updated>2022-08-11T12:25:03.437Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 05:00]]></content>
     </entry>
 </feed>
