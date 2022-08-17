@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-17T07:12:45.167Z</updated>
+    <updated>2022-08-17T08:16:59.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 변진섭 전국투어 콘서트 : 변천사 - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55063</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55063"/>
+        <updated>2022-08-17T08:15:51.849Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈배니싱〉 1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55062</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55062"/>
+        <updated>2022-08-17T08:15:51.855Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 3차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55061</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55061"/>
+        <updated>2022-08-17T08:15:51.857Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘우리엄마 최고!’ - 인천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55060</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55049"/>
         <updated>2022-08-16T08:12:50.347Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​김주원의 탱고발레 〈3 Minutes : Su tiempo 그녀의 시간〉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55048</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55048"/>
-        <updated>2022-08-16T05:16:12.615Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2022 폴포츠 데뷔 15주년 내한 콘서트 “​시간여행”​ [인천]​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55047</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55047"/>
-        <updated>2022-08-16T03:41:12.416Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 천안 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55046</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55046"/>
-        <updated>2022-08-16T03:41:12.420Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 01:00]]></content>
     </entry>
 </feed>
