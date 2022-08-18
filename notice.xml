@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-18T14:15:51.532Z</updated>
+    <updated>2022-08-18T15:22:08.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 은빛나 반주 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55080</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55080"/>
+        <updated>2022-08-18T15:21:58.699Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 ‘신데렐라’ - 안양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55079</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55066"/>
         <updated>2022-08-18T09:13:26.514Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 특집 가족뮤지컬 〈어린이 캣 - 대구〉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55065</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55065"/>
-        <updated>2022-08-18T09:13:26.514Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 08:00]]></content>
     </entry>
 </feed>
