@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-18T01:13:37.554Z</updated>
+    <updated>2022-08-18T03:57:30.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022드라마틱 클래식 K-DRAMA 클래식과 만나다!]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55069</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55069"/>
+        <updated>2022-08-18T03:57:29.272Z</updated>
+        <content type="html"><![CDATA[2022.08.18(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​킬링 댄스 페스티벌 (Killing Dance Festival) - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55068</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55068"/>
+        <updated>2022-08-18T03:57:29.277Z</updated>
+        <content type="html"><![CDATA[2022.08.23(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​킬링 댄스 페스티벌 (Killing Dance Festival) - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55067</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55067"/>
+        <updated>2022-08-18T03:57:29.299Z</updated>
+        <content type="html"><![CDATA[2022.08.23(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘도 딴딴 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55066</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55066"/>
+        <updated>2022-08-18T03:57:29.301Z</updated>
+        <content type="html"><![CDATA[2022.08.23(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 특집 가족뮤지컬 〈어린이 캣 - 대구〉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55065</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55065"/>
+        <updated>2022-08-18T03:57:29.303Z</updated>
+        <content type="html"><![CDATA[2022.08.19(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 조이올팍페스티벌 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55064</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55054"/>
         <updated>2022-08-17T13:43:53.629Z</updated>
         <content type="html"><![CDATA[2022.08.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55053</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55053"/>
-        <updated>2022-08-17T13:43:53.629Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​원더티켓 - 수호나무의 부활 (인제) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55052</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55052"/>
-        <updated>2022-08-17T13:43:53.629Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 '백설공주' - 일산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55051</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55051"/>
-        <updated>2022-08-17T13:43:53.633Z</updated>
-        <content type="html"><![CDATA[2022.08.19(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 수원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55050</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55050"/>
-        <updated>2022-08-17T13:43:53.633Z</updated>
-        <content type="html"><![CDATA[2022.08.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 제 13회 부산마루국제음악제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55049</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55049"/>
-        <updated>2022-08-17T13:43:53.635Z</updated>
-        <content type="html"><![CDATA[2022.08.17(수) 08:00]]></content>
     </entry>
 </feed>
