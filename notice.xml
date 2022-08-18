@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-18T05:00:40.829Z</updated>
+    <updated>2022-08-18T05:37:48.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈V 에버 애프터〉마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55073</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55073"/>
+        <updated>2022-08-18T05:36:41.175Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈킹키부츠〉 3차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55072</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55072"/>
+        <updated>2022-08-18T05:36:41.177Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [브라비시모 인 이탈리아 : 김호중 화보집 & 특별 전시회] 한정판 패키지 판매​ 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55071</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55071"/>
+        <updated>2022-08-18T05:36:41.188Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Warner Classic&Crossover 〈FRIENDS〉 - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55070</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55058"/>
         <updated>2022-08-17T06:16:26.139Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.24(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55057</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55057"/>
-        <updated>2022-08-17T06:16:26.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 춘천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55056</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55056"/>
-        <updated>2022-08-17T06:16:26.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55055</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55055"/>
-        <updated>2022-08-17T06:16:26.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.24(수) 02:00]]></content>
     </entry>
 </feed>
