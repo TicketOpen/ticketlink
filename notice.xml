@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-19T10:17:13.533Z</updated>
+    <updated>2022-08-19T11:12:16.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주시립국악관현악단 제 131회 정기연주회 ‘환경음악회-초록빛 생기’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55084</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55084"/>
+        <updated>2022-08-19T11:11:07.494Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.22(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 유해준 첫번째 전국투어 콘서트 〈미치게 그리워서〉 - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55083</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55083"/>
+        <updated>2022-08-19T11:11:07.494Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(서대문) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55082</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55070"/>
         <updated>2022-08-18T09:13:26.511Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022드라마틱 클래식 K-DRAMA 클래식과 만나다!]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55069</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55069"/>
-        <updated>2022-08-18T09:13:26.511Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​킬링 댄스 페스티벌 (Killing Dance Festival) - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55068</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55068"/>
-        <updated>2022-08-18T09:13:26.511Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 09:00]]></content>
     </entry>
 </feed>
