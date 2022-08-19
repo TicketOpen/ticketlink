@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-19T16:20:15.573Z</updated>
+    <updated>2022-08-19T17:22:23.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[광주시립국악관현악단 제 131회 정기연주회 ‘환경음악회-초록빛 생기’ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 11:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[광주시립국악관현악단 제 131회 정기연주회 ‘환경음악회-초록빛 생기’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55084</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55084"/>
+        <updated>2022-08-19T17:22:22.811Z</updated>
+        <content type="html"><![CDATA[2022.08.22(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 유해준 첫번째 전국투어 콘서트 〈미치게 그리워서〉 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55083</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55083"/>
+        <updated>2022-08-19T17:22:22.812Z</updated>
+        <content type="html"><![CDATA[2022.08.23(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(서대문) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55082</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55082"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55070"/>
         <updated>2022-08-18T15:22:07.832Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022드라마틱 클래식 K-DRAMA 클래식과 만나다! (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55069</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55069"/>
-        <updated>2022-08-18T03:57:29.272Z</updated>
-        <content type="html"><![CDATA[2022.08.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​킬링 댄스 페스티벌 (Killing Dance Festival) - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55068</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55068"/>
-        <updated>2022-08-18T03:57:29.277Z</updated>
-        <content type="html"><![CDATA[2022.08.23(화) 09:00]]></content>
     </entry>
 </feed>
