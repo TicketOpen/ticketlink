@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-19T05:25:26.369Z</updated>
+    <updated>2022-08-19T06:18:09.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(서대문) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55082</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55082"/>
+        <updated>2022-08-19T06:18:09.176Z</updated>
+        <content type="html"><![CDATA[2022.08.22(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극단 한울림 25주년 기념공연 〈사랑을 주세요〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55081</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55081"/>
+        <updated>2022-08-19T06:18:09.176Z</updated>
+        <content type="html"><![CDATA[2022.08.22(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 은빛나 반주 리사이틀​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55080</id>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/55068</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55068"/>
         <updated>2022-08-18T03:57:29.277Z</updated>
-        <content type="html"><![CDATA[2022.08.23(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​킬링 댄스 페스티벌 (Killing Dance Festival) - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55067</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55067"/>
-        <updated>2022-08-18T03:57:29.299Z</updated>
-        <content type="html"><![CDATA[2022.08.23(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘도 딴딴 - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55066</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55066"/>
-        <updated>2022-08-18T03:57:29.301Z</updated>
         <content type="html"><![CDATA[2022.08.23(화) 09:00]]></content>
     </entry>
 </feed>

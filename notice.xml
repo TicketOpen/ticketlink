@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-19T05:25:26.366Z</updated>
+    <updated>2022-08-19T06:18:09.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(서대문) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55082</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55082"/>
+        <updated>2022-08-19T06:17:58.932Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.22(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[극단 한울림 25주년 기념공연 〈사랑을 주세요〉 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55081</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[단독판매]  ​킬링 댄스 페스티벌 (Killing Dance Festival) - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55068</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55068"/>
-        <updated>2022-08-18T09:13:26.511Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​킬링 댄스 페스티벌 (Killing Dance Festival) - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55067</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55067"/>
         <updated>2022-08-18T09:13:26.511Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 09:00]]></content>
     </entry>
