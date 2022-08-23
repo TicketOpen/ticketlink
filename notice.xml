@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-23T08:16:44.291Z</updated>
+    <updated>2022-08-23T09:14:12.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​(평택) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55101</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55101"/>
+        <updated>2022-08-23T09:13:05.433Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요와 하하호호 노래자랑〉티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55100</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55087"/>
         <updated>2022-08-22T07:10:59.439Z</updated>
         <content type="html"><![CDATA[2022.08.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이희문 쏭폼스토리즈 〈강남오아시스〉​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55086</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55086"/>
-        <updated>2022-08-22T07:10:59.440Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 05:00]]></content>
     </entry>
 </feed>
