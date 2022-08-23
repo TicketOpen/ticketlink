@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-23T01:14:44.619Z</updated>
+    <updated>2022-08-23T04:10:33.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 심봉사와 그의 여인 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55099</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55099"/>
+        <updated>2022-08-23T04:10:24.012Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.24(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 여수​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55098</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55098"/>
+        <updated>2022-08-23T04:10:24.013Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 강릉​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55097</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55097"/>
+        <updated>2022-08-23T04:10:24.016Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코믹추리스릴러 : 행오버  대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55096</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55096"/>
+        <updated>2022-08-23T04:10:24.019Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(광양) 2021 가족뮤지컬 누가 내 머리에 똥쌌어 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55095</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55095"/>
+        <updated>2022-08-23T04:10:24.029Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극〈오만과 편견〉 2차​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55094</id>
@@ -75,39 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.22(월) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광주시립국악관현악단 제 131회 정기연주회 ‘환경음악회-초록빛 생기’ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55084</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55084"/>
-        <updated>2022-08-19T11:11:07.494Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.22(월) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 심봉사와 그의 여인 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55099</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55099"/>
+        <updated>2022-08-23T04:10:33.386Z</updated>
+        <content type="html"><![CDATA[2022.08.24(수) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 유해준 첫번째 전국투어 콘서트 〈미치게 그리워서〉 - 성남 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55083</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55083"/>
-        <updated>2022-08-19T11:11:07.494Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.23(화) 05:00]]></content>
+        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 여수​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55098</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55098"/>
+        <updated>2022-08-23T04:10:33.386Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(서대문) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55082</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55082"/>
-        <updated>2022-08-19T06:17:58.932Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.22(월) 00:00]]></content>
+        <title type="html"><![CDATA[​시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 강릉​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55097</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55097"/>
+        <updated>2022-08-23T04:10:33.386Z</updated>
+        <content type="html"><![CDATA[2022.08.25(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[극단 한울림 25주년 기념공연 〈사랑을 주세요〉 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55081</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55081"/>
-        <updated>2022-08-19T03:46:11.467Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 은빛나 반주 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55080</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55080"/>
-        <updated>2022-08-18T15:21:58.699Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.19(금) 05:00]]></content>
+        <title type="html"><![CDATA[코믹추리스릴러 : 행오버  대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55096</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55096"/>
+        <updated>2022-08-23T04:10:33.387Z</updated>
+        <content type="html"><![CDATA[2022.08.25(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(광양) 2021 가족뮤지컬 누가 내 머리에 똥쌌어 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55085"/>
         <updated>2022-08-20T08:16:56.388Z</updated>
         <content type="html"><![CDATA[2022.08.22(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시립국악관현악단 제 131회 정기연주회 ‘환경음악회-초록빛 생기’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55084</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55084"/>
-        <updated>2022-08-19T17:22:22.811Z</updated>
-        <content type="html"><![CDATA[2022.08.22(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 유해준 첫번째 전국투어 콘서트 〈미치게 그리워서〉 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55083</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55083"/>
-        <updated>2022-08-19T17:22:22.812Z</updated>
-        <content type="html"><![CDATA[2022.08.23(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(서대문) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55082</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55082"/>
-        <updated>2022-08-19T06:18:09.176Z</updated>
-        <content type="html"><![CDATA[2022.08.22(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극단 한울림 25주년 기념공연 〈사랑을 주세요〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55081</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55081"/>
-        <updated>2022-08-19T06:18:09.176Z</updated>
-        <content type="html"><![CDATA[2022.08.22(월) 01:00]]></content>
     </entry>
 </feed>
