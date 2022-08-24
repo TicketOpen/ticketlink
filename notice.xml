@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-24T01:09:08.722Z</updated>
+    <updated>2022-08-24T04:04:44.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 에일리&적재 「고막주의보」- 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55105</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55105"/>
+        <updated>2022-08-24T04:03:35.088Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.01(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  호러 국악콘서트 - 귀곡산장]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55103</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55103"/>
+        <updated>2022-08-24T04:03:35.097Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웰메이드 감성극 〈연극 내 모든 걸〉 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55102</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55102"/>
+        <updated>2022-08-24T04:03:35.098Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​(평택) 2022 가족뮤지컬 프린세스 공주뮤지컬쇼]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55101</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55090"/>
         <updated>2022-08-22T07:10:59.436Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [실내악 ②] 2인 가극 '아파트'-광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55089</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55089"/>
-        <updated>2022-08-22T07:10:59.437Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 주현미 콘서트 - 서울​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55088</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55088"/>
-        <updated>2022-08-22T07:10:59.438Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.01(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최강야구’ 직관 데이 3차 티켓오픈!]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55087</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55087"/>
-        <updated>2022-08-22T07:10:59.439Z</updated>
-        <content type="html"><![CDATA[2022.08.22]]></content>
     </entry>
 </feed>
