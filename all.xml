@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-25T04:08:26.104Z</updated>
+    <updated>2022-08-25T05:51:50.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[오늘도 딴딴 - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈은밀하게 위대하게〉- 칠곡군​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55114</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55114"/>
+        <updated>2022-08-25T05:51:49.522Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이은결의 더 일루션 - 마스터피스 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55113</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55113"/>
+        <updated>2022-08-25T05:51:49.525Z</updated>
+        <content type="html"><![CDATA[2022.08.26(금) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오늘도 딴딴 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55112</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55112"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55100"/>
         <updated>2022-08-23T08:16:43.616Z</updated>
         <content type="html"><![CDATA[2022.08.25(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 심봉사와 그의 여인 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55099</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55099"/>
-        <updated>2022-08-23T04:10:33.386Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 여수​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55098</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55098"/>
-        <updated>2022-08-23T04:10:33.386Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 02:00]]></content>
     </entry>
 </feed>
