@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-25T08:19:11.972Z</updated>
+    <updated>2022-08-25T09:13:28.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립창극단 수시공연 ‘판소리감상회’ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55117</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55117"/>
+        <updated>2022-08-25T09:13:28.118Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 10월의 어느 멋진 날에 in BUSAN 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55116</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55103"/>
         <updated>2022-08-24T05:41:11.408Z</updated>
         <content type="html"><![CDATA[2022.08.26(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웰메이드 감성극 〈연극 내 모든 걸〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55102</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55102"/>
-        <updated>2022-08-24T05:41:11.409Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 05:00]]></content>
     </entry>
 </feed>
