@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-26T06:34:13.274Z</updated>
+    <updated>2022-08-26T07:18:38.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 하효경 피아노 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55125</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55125"/>
+        <updated>2022-08-26T07:18:29.853Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.30(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55124</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55124"/>
+        <updated>2022-08-26T07:18:29.854Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.29(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55123</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55123"/>
+        <updated>2022-08-26T07:18:29.863Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.30(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 3차 ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55122</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55111"/>
         <updated>2022-08-24T09:12:13.005Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55110</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55110"/>
-        <updated>2022-08-24T09:12:13.005Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55109</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55109"/>
-        <updated>2022-08-24T09:12:13.013Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1st 발라드 페스티벌, 발라당 2022​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55108</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55108"/>
-        <updated>2022-08-24T09:12:13.014Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 03:00]]></content>
     </entry>
 </feed>

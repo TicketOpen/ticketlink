@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-26T06:34:13.305Z</updated>
+    <updated>2022-08-26T07:18:38.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 하효경 피아노 독주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55125</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55125"/>
+        <updated>2022-08-26T07:18:29.853Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.30(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55124</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55124"/>
+        <updated>2022-08-26T07:18:29.854Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.29(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 성남 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55123</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55123"/>
+        <updated>2022-08-26T07:18:29.863Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.30(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 3차 ​티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55122</id>
@@ -89,25 +110,60 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.29(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55110</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55110"/>
-        <updated>2022-08-24T09:12:13.005Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 하효경 피아노 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55125</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55125"/>
+        <updated>2022-08-26T07:18:37.710Z</updated>
+        <content type="html"><![CDATA[2022.08.30(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55109</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55109"/>
-        <updated>2022-08-24T09:12:13.013Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.25(목) 05:00]]></content>
+        <title type="html"><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55124</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55124"/>
+        <updated>2022-08-26T07:18:37.717Z</updated>
+        <content type="html"><![CDATA[2022.08.29(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1st 발라드 페스티벌, 발라당 2022​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55108</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55108"/>
-        <updated>2022-08-24T09:12:13.014Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 03:00]]></content>
+        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55123</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55123"/>
+        <updated>2022-08-26T07:18:37.717Z</updated>
+        <content type="html"><![CDATA[2022.08.30(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 3차 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55122</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55122"/>
+        <updated>2022-08-26T07:18:37.719Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈테레즈 라캥〉 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55121</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55121"/>
+        <updated>2022-08-26T07:18:37.720Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이은결 [더 일루션 - 마스터피스] – 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55120</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55120"/>
+        <updated>2022-08-26T07:18:37.721Z</updated>
+        <content type="html"><![CDATA[2022.08.31(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 〈후설〉 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55119</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55119"/>
+        <updated>2022-08-26T07:18:37.721Z</updated>
+        <content type="html"><![CDATA[2022.09.01(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈가면산장 살인사건〉 한국 초연 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55118</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55118"/>
+        <updated>2022-08-26T07:18:37.722Z</updated>
+        <content type="html"><![CDATA[2022.09.06(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립창극단 수시공연 ‘판소리감상회’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -157,61 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55111"/>
         <updated>2022-08-24T10:15:07.991Z</updated>
         <content type="html"><![CDATA[2022.08.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55110</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55110"/>
-        <updated>2022-08-24T10:15:07.992Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55109</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55109"/>
-        <updated>2022-08-24T10:15:07.992Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1st 발라드 페스티벌, 발라당 2022​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55108</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55108"/>
-        <updated>2022-08-24T10:15:07.992Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경기인디뮤직페스티벌 2022 얼리버드​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55107</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55107"/>
-        <updated>2022-08-24T10:15:07.992Z</updated>
-        <content type="html"><![CDATA[2022.08.29(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55106</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55106"/>
-        <updated>2022-08-24T10:15:07.992Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 에일리&적재 「고막주의보」- 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55105</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55105"/>
-        <updated>2022-08-24T05:41:11.407Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LASL 시즌14 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55104</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55104"/>
-        <updated>2022-08-24T10:15:08.008Z</updated>
-        <content type="html"><![CDATA[2022.08.25(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  호러 국악콘서트 - 귀곡산장 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55103</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55103"/>
-        <updated>2022-08-24T05:41:11.408Z</updated>
-        <content type="html"><![CDATA[2022.08.26(금) 00:00]]></content>
     </entry>
 </feed>
