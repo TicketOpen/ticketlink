@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-26T16:17:59.931Z</updated>
+    <updated>2022-08-26T17:18:46.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 에델 라인클랑 두번째 팬미팅 #ㅋㅇㅇ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.29(월) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 에델 라인클랑 두번째 팬미팅 #ㅋㅇㅇ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55126</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55126"/>
+        <updated>2022-08-26T17:18:46.313Z</updated>
+        <content type="html"><![CDATA[2022.08.29(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 하효경 피아노 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55125</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55125"/>
@@ -157,13 +164,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55119"/>
         <updated>2022-08-26T07:18:37.721Z</updated>
         <content type="html"><![CDATA[2022.09.01(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈가면산장 살인사건〉 한국 초연 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55118</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55118"/>
-        <updated>2022-08-26T07:18:37.722Z</updated>
-        <content type="html"><![CDATA[2022.09.06(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립창극단 수시공연 ‘판소리감상회’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
