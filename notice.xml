@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-29T04:06:25.532Z</updated>
+    <updated>2022-08-29T06:04:43.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​엘사의 생일파티 - 대구 북구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55133</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55133"/>
+        <updated>2022-08-29T06:03:36.470Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.31(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2022 타임캡슐 슈퍼콘서트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55131</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55131"/>
+        <updated>2022-08-29T06:03:36.472Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.30(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－대구앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55130</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55130"/>
+        <updated>2022-08-29T06:03:36.481Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.02(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－창원앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55129</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55129"/>
+        <updated>2022-08-29T06:03:36.485Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.02(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－진주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55128</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55128"/>
+        <updated>2022-08-29T06:03:36.485Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.31(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​(서산) 2022 가족뮤지컬 인어공주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55127</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55117"/>
         <updated>2022-08-25T10:14:31.278Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 10월의 어느 멋진 날에 in BUSAN 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55116</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55116"/>
-        <updated>2022-08-25T07:17:45.429Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제 8회 세계안무축제 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55115</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55115"/>
-        <updated>2022-08-25T07:17:45.434Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 〈은밀하게 위대하게〉- 칠곡군​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55114</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55114"/>
-        <updated>2022-08-25T07:17:45.434Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은결의 더 일루션 - 마스터피스 - 천안 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55113</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55113"/>
-        <updated>2022-08-25T07:17:45.434Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘도 딴딴 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55112</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55112"/>
-        <updated>2022-08-24T09:12:13.000Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.26(금) 09:00]]></content>
     </entry>
 </feed>
