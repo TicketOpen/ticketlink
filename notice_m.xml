@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-29T01:15:53.002Z</updated>
+    <updated>2022-08-29T04:06:25.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​(서산) 2022 가족뮤지컬 인어공주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55127</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55127"/>
+        <updated>2022-08-29T04:06:24.884Z</updated>
+        <content type="html"><![CDATA[2022.08.30(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 에델 라인클랑 두번째 팬미팅 #ㅋㅇㅇ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55126</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55112"/>
         <updated>2022-08-24T10:15:07.991Z</updated>
         <content type="html"><![CDATA[2022.08.26(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 경기 부천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55111</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55111"/>
-        <updated>2022-08-24T10:15:07.991Z</updated>
-        <content type="html"><![CDATA[2022.08.29(월) 01:00]]></content>
     </entry>
 </feed>
