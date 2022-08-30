@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-08-30T08:17:48.109Z</updated>
+    <updated>2022-08-30T09:12:26.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  김단희 서도소리 독창회 - 단희歌 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55143</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55143"/>
+        <updated>2022-08-30T09:12:25.563Z</updated>
+        <content type="html"><![CDATA[2022.09.13(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​연극 〈가면산장 살인사건〉 한국 초연 1차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55142</id>
@@ -46,13 +53,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55136"/>
         <updated>2022-08-29T07:18:56.267Z</updated>
         <content type="html"><![CDATA[2022.08.30(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품악극 〈불효자는 웁니다〉 - 세종​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55135</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55135"/>
-        <updated>2022-08-29T07:18:56.267Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 안양]]></title>
