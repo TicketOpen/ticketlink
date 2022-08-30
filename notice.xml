@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-08-30T01:17:59.323Z</updated>
+    <updated>2022-08-30T04:15:20.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소향 - 고양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55138</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55138"/>
+        <updated>2022-08-30T04:14:13.015Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.02(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 전주비바체 실내악 축제 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55137</id>
@@ -69,7 +76,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.02(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－진주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－진주앵콜 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55128</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55128"/>
         <updated>2022-08-29T06:03:36.485Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55124"/>
         <updated>2022-08-26T07:18:29.854Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 성남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55123</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55123"/>
-        <updated>2022-08-26T07:18:29.863Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.30(화) 05:00]]></content>
     </entry>
 </feed>
