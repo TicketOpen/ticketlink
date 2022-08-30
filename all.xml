@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-30T04:15:20.541Z</updated>
+    <updated>2022-08-30T06:09:09.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소향 - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,34 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.08.29(월) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​연극 〈가면산장 살인사건〉 한국 초연 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55142</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55142"/>
+        <updated>2022-08-30T06:09:09.385Z</updated>
+        <content type="html"><![CDATA[2022.09.06(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55141</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55141"/>
+        <updated>2022-08-30T06:09:09.386Z</updated>
+        <content type="html"><![CDATA[2022.09.05(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 주현미콘서트 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55140</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55140"/>
+        <updated>2022-08-30T06:09:09.394Z</updated>
+        <content type="html"><![CDATA[2022.09.01(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소향 - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55138</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55138"/>
+        <updated>2022-08-30T06:09:09.400Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2022 전주비바체 실내악 축제 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55137</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55137"/>
@@ -173,7 +201,7 @@
         <content type="html"><![CDATA[2022.09.02(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－진주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－진주앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55128</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55128"/>
         <updated>2022-08-29T07:18:56.276Z</updated>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55127"/>
         <updated>2022-08-29T04:06:24.884Z</updated>
         <content type="html"><![CDATA[2022.08.30(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 에델 라인클랑 두번째 팬미팅 #ㅋㅇㅇ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55126</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55126"/>
-        <updated>2022-08-26T17:18:46.313Z</updated>
-        <content type="html"><![CDATA[2022.08.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 하효경 피아노 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55125</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55125"/>
-        <updated>2022-08-26T07:18:37.710Z</updated>
-        <content type="html"><![CDATA[2022.08.30(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55124</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55124"/>
-        <updated>2022-08-26T07:18:37.717Z</updated>
-        <content type="html"><![CDATA[2022.08.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 케이윌 전국투어 [HERE AND NOW] - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55123</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55123"/>
-        <updated>2022-08-26T07:18:37.717Z</updated>
-        <content type="html"><![CDATA[2022.08.30(화) 05:00]]></content>
     </entry>
 </feed>
