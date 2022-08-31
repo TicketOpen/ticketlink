@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-30T23:14:48.425Z</updated>
+    <updated>2022-08-31T01:18:15.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2022 수성아트피아 9월 시즌음악회 - 콘서트 오페라 〈사랑의 묘약 하이라이트〉티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55145</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55145"/>
+        <updated>2022-08-31T01:18:05.626Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.01(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIF 케이팝 아이돌 페스티벌 송도 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55144</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55144"/>
+        <updated>2022-08-31T01:18:05.632Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.02(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  김단희 서도소리 독창회 - 단희歌 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55143</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.02(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－진주앵콜 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55128</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55128"/>
-        <updated>2022-08-29T06:03:36.485Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.31(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  2022 수성아트피아 9월 시즌음악회 - 콘서트 오페라 〈사랑의 묘약 하이라이트〉티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55145</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55145"/>
+        <updated>2022-08-31T01:18:14.762Z</updated>
+        <content type="html"><![CDATA[2022.09.01(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​(서산) 2022 가족뮤지컬 인어공주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55127</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55127"/>
-        <updated>2022-08-29T04:06:16.461Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.08.30(화) 00:00]]></content>
+        <title type="html"><![CDATA[KIF 케이팝 아이돌 페스티벌 송도 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55144</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55144"/>
+        <updated>2022-08-31T01:18:14.770Z</updated>
+        <content type="html"><![CDATA[2022.09.02(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  김단희 서도소리 독창회 - 단희歌 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55129"/>
         <updated>2022-08-29T07:18:56.275Z</updated>
         <content type="html"><![CDATA[2022.09.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2]－진주앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55128</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55128"/>
-        <updated>2022-08-29T07:18:56.276Z</updated>
-        <content type="html"><![CDATA[2022.08.31(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​(서산) 2022 가족뮤지컬 인어공주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55127</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55127"/>
-        <updated>2022-08-29T04:06:24.884Z</updated>
-        <content type="html"><![CDATA[2022.08.30(화) 00:00]]></content>
     </entry>
 </feed>
