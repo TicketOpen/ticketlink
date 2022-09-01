@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-01T05:48:55.250Z</updated>
+    <updated>2022-09-01T06:25:48.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 2차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55170</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55170"/>
+        <updated>2022-09-01T06:24:39.840Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 연극 아트(ART)​ 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55169</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55169"/>
+        <updated>2022-09-01T06:24:39.840Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.07(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2022 어쿠스틱카페 콘서트 내한공연-대구 with스튜디오 지브리OST​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55168</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55168"/>
+        <updated>2022-09-01T06:24:39.842Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 가족뮤지컬 백설공주 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55167</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55156"/>
         <updated>2022-08-31T08:15:14.489Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.06(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 인천공항 스카이페스티벌 - HIPHOP 콘테스트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55155</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55155"/>
-        <updated>2022-08-31T08:15:14.490Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 인천공항 스카이페스티벌 - K-POP 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55154</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55154"/>
-        <updated>2022-08-31T08:15:14.491Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 인천공항 스카이페스티벌 - Crossover 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55153</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55153"/>
-        <updated>2022-08-31T08:15:14.492Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 08:00]]></content>
     </entry>
 </feed>
