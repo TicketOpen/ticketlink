@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-02T12:26:16.105Z</updated>
+    <updated>2022-09-02T13:35:57.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​모차르트의 〈마술피리〉 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -131,6 +131,13 @@
         <content type="html"><![CDATA[2022.09.08(목) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애니밴드 슈퍼콘서트 슈퍼스타 Is Back 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55174</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55174"/>
+        <updated>2022-09-02T13:35:56.927Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 07:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2022 뮤지컬 〈엔딩노트〉 공연실황 녹화 중계​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55173</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55173"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55163"/>
         <updated>2022-08-31T10:14:52.232Z</updated>
         <content type="html"><![CDATA[2022.09.01(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 변진섭 전국투어 콘서트 : 변천사 - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55162</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55162"/>
-        <updated>2022-08-31T10:14:52.238Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 07:00]]></content>
     </entry>
 </feed>
