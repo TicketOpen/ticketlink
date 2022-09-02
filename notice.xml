@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-02T08:17:00.958Z</updated>
+    <updated>2022-09-02T09:12:48.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​모차르트의 〈마술피리〉 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55177</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55177"/>
+        <updated>2022-09-02T09:12:39.466Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.06(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 김해​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55176</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55176"/>
+        <updated>2022-09-02T09:12:39.468Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.07(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈쓰릴 미〉 4차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55175</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55175"/>
+        <updated>2022-09-02T09:12:39.469Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.08(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 뮤지컬 〈엔딩노트〉 공연실황 녹화 중계​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55173</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55162"/>
         <updated>2022-08-31T08:15:14.473Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.01(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은결 [더 일루션 - 마스터피스] – 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55161</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55161"/>
-        <updated>2022-08-31T08:15:14.474Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.01(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55160</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55160"/>
-        <updated>2022-08-31T08:15:14.478Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.01(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55159</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55159"/>
-        <updated>2022-08-31T08:15:14.480Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.01(목) 01:00]]></content>
     </entry>
 </feed>
