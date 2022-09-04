@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-04T14:13:04.797Z</updated>
+    <updated>2022-09-04T15:12:18.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]“Per Lei” 페르레이: 당신에게 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55180</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55180"/>
+        <updated>2022-09-04T15:12:17.902Z</updated>
+        <content type="html"><![CDATA[2022.09.06(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 프란츠클래식 2022 아티스트 시리즈 : 벨루지아 듀오 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55179</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55179"/>
+        <updated>2022-09-04T15:12:17.906Z</updated>
+        <content type="html"><![CDATA[2022.09.06(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 영천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55178</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55178"/>
+        <updated>2022-09-04T15:12:17.908Z</updated>
+        <content type="html"><![CDATA[2022.09.06(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​모차르트의 〈마술피리〉 - 부산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55177</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55166"/>
         <updated>2022-08-31T10:14:52.216Z</updated>
         <content type="html"><![CDATA[2022.09.06(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어린이뮤지컬 〈미녀와 야수〉 - 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55165</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55165"/>
-        <updated>2022-08-31T10:14:52.231Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[파가니니 탄생 240주년] 리스트와 쇼팽이 추억하는 파가니니​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55164</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55164"/>
-        <updated>2022-08-31T10:14:52.232Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 가족뮤지컬 〈루돌프와 산타할아버지〉 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55163</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55163"/>
-        <updated>2022-08-31T10:14:52.232Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 00:00]]></content>
     </entry>
 </feed>
