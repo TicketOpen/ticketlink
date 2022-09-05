@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-05T06:01:15.403Z</updated>
+    <updated>2022-09-05T06:49:39.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2022 뮤지컬 〈빨래〉 - 대전​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55183</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55183"/>
+        <updated>2022-09-05T06:48:31.339Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.08(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책먹는여우 - 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55182</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55169"/>
         <updated>2022-09-01T06:24:39.840Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.07(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 어쿠스틱카페 콘서트 내한공연-대구 with스튜디오 지브리OST​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55168</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55168"/>
-        <updated>2022-09-01T06:24:39.842Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 05:00]]></content>
     </entry>
 </feed>
