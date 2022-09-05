@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-05T06:49:39.539Z</updated>
+    <updated>2022-09-05T07:27:07.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2022 뮤지컬 〈빨래〉 - 대전​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55183</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55183"/>
+        <updated>2022-09-05T07:27:06.592Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55182</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55182"/>
+        <updated>2022-09-05T07:27:06.592Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2022 INK콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55181</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55181"/>
+        <updated>2022-09-05T07:27:06.592Z</updated>
+        <content type="html"><![CDATA[2022.09.07(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]“Per Lei” 페르레이: 당신에게 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55180</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55169"/>
         <updated>2022-09-01T08:19:16.443Z</updated>
         <content type="html"><![CDATA[2022.09.07(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 어쿠스틱카페 콘서트 내한공연-대구 with스튜디오 지브리OST​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55168</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55168"/>
-        <updated>2022-09-01T08:19:16.445Z</updated>
-        <content type="html"><![CDATA[2022.09.05(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 가족뮤지컬 백설공주 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55167</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55167"/>
-        <updated>2022-09-01T01:05:28.718Z</updated>
-        <content type="html"><![CDATA[2022.09.01(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극〈빈센트 리버〉 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55166</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55166"/>
-        <updated>2022-08-31T10:14:52.216Z</updated>
-        <content type="html"><![CDATA[2022.09.06(화) 06:00]]></content>
     </entry>
 </feed>
