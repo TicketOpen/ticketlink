@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-05T18:17:49.888Z</updated>
+    <updated>2022-09-05T19:11:25.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 10월 - 쇼팽 피아노〉티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55184</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55184"/>
+        <updated>2022-09-05T19:10:18.050Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.07(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2022 뮤지컬 〈빨래〉 - 대전​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55183</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55170"/>
         <updated>2022-09-01T06:24:39.840Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.05(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 연극 아트(ART)​ 2차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55169</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55169"/>
-        <updated>2022-09-01T06:24:39.840Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.07(수) 05:00]]></content>
     </entry>
 </feed>
