@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-06T06:13:41.478Z</updated>
+    <updated>2022-09-06T07:35:04.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DEEPLY 딥플리 콘서트 (하림,정인,곽진언) - 울산 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55192</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55192"/>
+        <updated>2022-09-06T07:35:03.233Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​쉴라 조단 첫 내한공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55191</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55191"/>
+        <updated>2022-09-06T07:35:03.233Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어큐나이티드 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55190</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55190"/>
+        <updated>2022-09-06T07:35:03.233Z</updated>
+        <content type="html"><![CDATA[2022.09.19(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오늘하루 2집 발매 기념 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55189</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55189"/>
+        <updated>2022-09-06T07:35:03.233Z</updated>
+        <content type="html"><![CDATA[2022.09.19(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 최현우 〈THE BRAIN〉 - 익산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55188</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55188"/>
+        <updated>2022-09-06T07:35:03.233Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  노이슈타트 제4회 정기연주회 ENSEMBLE NEUSTADT​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55187</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55187"/>
+        <updated>2022-09-06T07:35:03.233Z</updated>
+        <content type="html"><![CDATA[2022.09.08(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다-​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55186</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55186"/>
+        <updated>2022-09-06T07:35:03.236Z</updated>
+        <content type="html"><![CDATA[2022.09.13(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 대구 국제 미래모빌리티엑스포 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55185</id>
@@ -48,13 +97,6 @@
         <content type="html"><![CDATA[2022.09.06(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 프란츠클래식 2022 아티스트 시리즈 : 벨루지아 듀오 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55179</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55179"/>
-        <updated>2022-09-04T15:12:17.906Z</updated>
-        <content type="html"><![CDATA[2022.09.06(화) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[책먹는여우 - 영천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55178</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55178"/>
@@ -67,47 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55177"/>
         <updated>2022-09-02T09:12:47.893Z</updated>
         <content type="html"><![CDATA[2022.09.06(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 김해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55176</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55176"/>
-        <updated>2022-09-02T08:17:00.368Z</updated>
-        <content type="html"><![CDATA[2022.09.07(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈쓰릴 미〉 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55175</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55175"/>
-        <updated>2022-09-02T08:17:00.373Z</updated>
-        <content type="html"><![CDATA[2022.09.08(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애니밴드 슈퍼콘서트 슈퍼스타 Is Back 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55174</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55174"/>
-        <updated>2022-09-02T13:35:56.927Z</updated>
-        <content type="html"><![CDATA[2022.09.08(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 뮤지컬 〈엔딩노트〉 공연실황 녹화 중계​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55173</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55173"/>
-        <updated>2022-09-02T07:20:14.789Z</updated>
-        <content type="html"><![CDATA[2022.09.05(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 BEST LINE-UP CONCERT 1010​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55172</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55172"/>
-        <updated>2022-09-02T07:20:14.789Z</updated>
-        <content type="html"><![CDATA[2022.09.07(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 안예은 단독콘서트 '창고대방출' - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55171</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55171"/>
-        <updated>2022-09-01T08:19:16.435Z</updated>
-        <content type="html"><![CDATA[2022.09.05(월) 09:00]]></content>
     </entry>
 </feed>
