@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-06T23:15:13.112Z</updated>
+    <updated>2022-09-07T01:16:42.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해리 포터와 아즈카반의 죄수™ 인 콘서트 - 발코니석 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55195</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55195"/>
+        <updated>2022-09-07T01:15:35.055Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.08(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(부천) 2022 가족뮤지컬 누가 내 머리에 똥쌌어​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55194</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55194"/>
+        <updated>2022-09-07T01:15:35.055Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세종] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55193</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55181"/>
         <updated>2022-09-05T01:18:43.811Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.07(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]“Per Lei” 페르레이: 당신에게 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55180</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55180"/>
-        <updated>2022-09-04T13:26:52.782Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 영천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55178</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55178"/>
-        <updated>2022-09-04T13:26:52.787Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.06(화) 00:00]]></content>
     </entry>
 </feed>
