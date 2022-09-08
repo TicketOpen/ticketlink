@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-08T05:59:51.218Z</updated>
+    <updated>2022-09-08T06:42:59.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(용인) 2022겨울왕국스토리뮤지컬 겨울이야기 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55223</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55223"/>
+        <updated>2022-09-08T06:42:49.193Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 노부스 앙상블 제15회 정기연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55222</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55222"/>
+        <updated>2022-09-08T06:42:49.194Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.10(토) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 에일리 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55221</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55221"/>
+        <updated>2022-09-08T06:42:49.204Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.15(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이은결 [더 일루션-마스터피스] - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55220</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55220"/>
+        <updated>2022-09-08T06:42:49.205Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.15(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 에일리 전국투어 콘서트 〈한 걸음 더〉 - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55219</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55219"/>
+        <updated>2022-09-08T06:42:49.205Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.15(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​엘사의 생일파티 - 원주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55218</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55208"/>
         <updated>2022-09-08T01:10:24.047Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 〈사랑해요 엄마!〉- 고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55207</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55207"/>
-        <updated>2022-09-08T01:10:24.050Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 〈사랑해요 엄마!〉 - 부산앵콜 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55206</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55206"/>
-        <updated>2022-09-08T01:10:24.051Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55205</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55205"/>
-        <updated>2022-09-08T01:10:24.052Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55204</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55204"/>
-        <updated>2022-09-08T01:10:24.055Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASMR MUSIC CONCERT "여행어때요?" - 원주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55203</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55203"/>
-        <updated>2022-09-08T04:04:27.759Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.15(목) 08:00]]></content>
     </entry>
 </feed>
