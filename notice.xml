@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-13T08:19:49.494Z</updated>
+    <updated>2022-09-13T09:15:43.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청춘아레나 인천 ㅣ 이제 다시 시작이다 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55232</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55232"/>
+        <updated>2022-09-13T09:15:34.116Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.15(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이트 리우 피아노 리사이틀 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55231</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55218"/>
         <updated>2022-09-08T01:10:24.032Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.13(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​엘사의 생일파티 - 광명​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55217</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55217"/>
-        <updated>2022-09-08T01:10:24.033Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
     </entry>
 </feed>
