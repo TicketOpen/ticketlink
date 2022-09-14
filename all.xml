@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-14T07:32:32.007Z</updated>
+    <updated>2022-09-14T08:17:53.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 〈눈을 뜻하는 수백 가지 단어들〉 앵콜 ​​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55236</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55236"/>
+        <updated>2022-09-14T08:16:45.122Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.21(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 가족뮤지컬 백설공주 - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55235</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55222"/>
         <updated>2022-09-08T06:42:49.194Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.10(토) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 에일리 전국투어 콘서트 〈한 걸음 더〉 - 대전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55221</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55221"/>
-        <updated>2022-09-08T06:42:49.204Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.15(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김호정 첼로 독주회 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
