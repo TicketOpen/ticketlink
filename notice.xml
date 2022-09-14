@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-14T08:17:53.236Z</updated>
+    <updated>2022-09-14T09:17:09.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PAN 세 번째 정기연주회 MISERERE : 위로​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55237</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55237"/>
+        <updated>2022-09-14T09:16:04.164Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.19(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈눈을 뜻하는 수백 가지 단어들〉 앵콜 ​​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55236</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55223"/>
         <updated>2022-09-08T06:42:49.193Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 노부스 앙상블 제15회 정기연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55222</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55222"/>
-        <updated>2022-09-08T06:42:49.194Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.10(토) 01:00]]></content>
     </entry>
 </feed>
