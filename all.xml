@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-16T01:20:19.110Z</updated>
+    <updated>2022-09-16T04:20:36.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[연극<오만과 편견> 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,34 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.15(목) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55248</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55248"/>
+        <updated>2022-09-16T04:20:36.430Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55247</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55247"/>
+        <updated>2022-09-16T04:20:36.441Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 서울 앵콜!​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55246</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55246"/>
+        <updated>2022-09-16T04:20:36.449Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55243</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55243"/>
+        <updated>2022-09-16T04:20:36.449Z</updated>
+        <content type="html"><![CDATA[2022.09.21(수) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[연극<오만과 편견> 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55240</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55240"/>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55229"/>
         <updated>2022-09-13T09:15:43.042Z</updated>
         <content type="html"><![CDATA[2022.09.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022-23 YB TOUR LIGHTS – 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55228</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55228"/>
-        <updated>2022-09-13T09:15:43.078Z</updated>
-        <content type="html"><![CDATA[2022.09.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 공룡탐험대> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55227</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55227"/>
-        <updated>2022-09-13T09:15:43.079Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제132회 정기공연 [돈키호테] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55226</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55226"/>
-        <updated>2022-09-13T04:15:28.695Z</updated>
-        <content type="html"><![CDATA[2022.09.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트Ⅴ Schumann’s 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55225</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55225"/>
-        <updated>2022-09-13T04:15:28.700Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 01:00]]></content>
     </entry>
 </feed>
