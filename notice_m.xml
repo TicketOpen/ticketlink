@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-16T04:20:37.001Z</updated>
+    <updated>2022-09-16T06:03:01.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[2022.09.23(금) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <브로드웨이 42번가> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55244</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55244"/>
+        <updated>2022-09-16T06:03:01.265Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 고양​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55243</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55243"/>
@@ -34,11 +41,32 @@
         <content type="html"><![CDATA[2022.09.21(수) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <빨래> - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55242</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55242"/>
+        <updated>2022-09-16T06:03:01.273Z</updated>
+        <content type="html"><![CDATA[2022.09.20(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <랭보>​ 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55241</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55241"/>
+        <updated>2022-09-16T06:03:01.273Z</updated>
+        <content type="html"><![CDATA[2022.09.22(목) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[연극<오만과 편견> 3차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55240</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55240"/>
         <updated>2022-09-15T07:27:02.648Z</updated>
         <content type="html"><![CDATA[2022.09.20(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스탠딩에그 단독 콘서트 - 창원​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55239</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55239"/>
+        <updated>2022-09-16T06:03:01.280Z</updated>
+        <content type="html"><![CDATA[2022.09.19(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  무용 “춤 時 - 오딧세이” 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55233"/>
         <updated>2022-09-14T01:09:54.076Z</updated>
         <content type="html"><![CDATA[2022.09.16(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청춘아레나 인천 ㅣ 이제 다시 시작이다 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55232</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55232"/>
-        <updated>2022-09-13T09:15:43.035Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이트 리우 피아노 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55231</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55231"/>
-        <updated>2022-09-13T09:15:43.036Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 여수 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55230</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55230"/>
-        <updated>2022-09-13T09:15:43.038Z</updated>
-        <content type="html"><![CDATA[2022.09.15(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시립합창단 제190회 정기연주회 ‘가을 저편’ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55229</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55229"/>
-        <updated>2022-09-13T09:15:43.042Z</updated>
-        <content type="html"><![CDATA[2022.09.14(수) 01:00]]></content>
     </entry>
 </feed>
