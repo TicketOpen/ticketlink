@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-17T05:40:03.404Z</updated>
+    <updated>2022-09-17T06:18:12.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 사랑 - 인도 문화 축제 2022​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.19(월) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 서울 중랑 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55251</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55251"/>
+        <updated>2022-09-17T06:18:12.099Z</updated>
+        <content type="html"><![CDATA[2022.09.19(월) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 사랑 - 인도 문화 축제 2022​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55250</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55250"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55236"/>
         <updated>2022-09-14T15:15:31.913Z</updated>
         <content type="html"><![CDATA[2022.09.21(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 가족뮤지컬 백설공주 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55235</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55235"/>
-        <updated>2022-09-14T15:15:31.931Z</updated>
-        <content type="html"><![CDATA[2022.09.19(월) 01:00]]></content>
     </entry>
 </feed>
