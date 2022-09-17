@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-17T12:25:05.239Z</updated>
+    <updated>2022-09-17T13:31:05.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주문화예술회관 공연예술축제 그라제  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55252</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55252"/>
+        <updated>2022-09-17T13:29:58.019Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.20(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 서울 중랑 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55251</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55237"/>
         <updated>2022-09-14T09:16:04.164Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.19(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈눈을 뜻하는 수백 가지 단어들〉 앵콜 ​​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55236</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55236"/>
-        <updated>2022-09-14T08:16:45.122Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.21(수) 07:00]]></content>
     </entry>
 </feed>
