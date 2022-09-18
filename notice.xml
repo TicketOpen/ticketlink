@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-18T12:24:35.750Z</updated>
+    <updated>2022-09-18T13:32:45.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <사이>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55253</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55253"/>
+        <updated>2022-09-18T13:31:36.943Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.19(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주문화예술회관 공연예술축제 그라제  티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55252</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55238"/>
         <updated>2022-09-15T04:18:35.111Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  PAN 세 번째 정기연주회 MISERERE : 위로​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55237</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55237"/>
-        <updated>2022-09-14T09:16:04.164Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.19(월) 01:00]]></content>
     </entry>
 </feed>
