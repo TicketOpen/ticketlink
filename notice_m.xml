@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-20T08:19:57.491Z</updated>
+    <updated>2022-09-20T09:19:08.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 파워풀 대구 K-POP 콘서트 Re;START 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55265</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55265"/>
+        <updated>2022-09-20T09:19:07.912Z</updated>
+        <content type="html"><![CDATA[2022.10.01(토) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제7회 남자은 반주 리사이틀 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55264</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/55251</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55251"/>
         <updated>2022-09-17T06:18:12.099Z</updated>
-        <content type="html"><![CDATA[2022.09.19(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 사랑 - 인도 문화 축제 2022​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55250</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55250"/>
-        <updated>2022-09-16T10:16:25.287Z</updated>
         <content type="html"><![CDATA[2022.09.19(월) 00:00]]></content>
     </entry>
 </feed>
