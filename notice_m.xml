@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-20T23:17:37.911Z</updated>
+    <updated>2022-09-21T01:17:31.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 민쩌미 <사랑해요 엄마!> - 순천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55267</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55267"/>
+        <updated>2022-09-21T01:17:31.021Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 파워풀 대구 K-POP 콘서트 Re;START 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55265</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55252"/>
         <updated>2022-09-17T14:13:11.191Z</updated>
         <content type="html"><![CDATA[2022.09.20(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 서울 중랑 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55251</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55251"/>
-        <updated>2022-09-17T06:18:12.099Z</updated>
-        <content type="html"><![CDATA[2022.09.19(월) 00:00]]></content>
     </entry>
 </feed>
