@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-21T04:19:53.473Z</updated>
+    <updated>2022-09-21T06:05:23.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다- 전국투어 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55273</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55273"/>
+        <updated>2022-09-21T06:04:17.412Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.19(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​조항조&진성 <앙상블콘서트> - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55272</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55272"/>
+        <updated>2022-09-21T06:04:17.413Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.23(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고다 호기심딱지 - 용인 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55271</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55271"/>
+        <updated>2022-09-21T06:04:17.415Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.22(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 서울​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55270</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55270"/>
+        <updated>2022-09-21T06:04:17.416Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.26(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 천안​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55269</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55258"/>
         <updated>2022-09-19T04:23:01.667Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.21(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 뮤지컬 <미드나잇 : 액터뮤지션> 4차 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55257</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55257"/>
-        <updated>2022-09-19T04:23:01.678Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.26(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <배니싱>​ 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55256</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55256"/>
-        <updated>2022-09-19T04:23:01.678Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.23(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 <누가 내머리에 똥 쌌어?> - 고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55255</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55255"/>
-        <updated>2022-09-19T04:23:01.678Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.21(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌3 - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55254</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55254"/>
-        <updated>2022-09-19T04:23:01.680Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.22(목) 05:00]]></content>
     </entry>
 </feed>
