@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-22T23:17:06.912Z</updated>
+    <updated>2022-09-23T01:17:32.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬［바다탐험대 옥토넛 시즌2］－경기광주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55283</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55283"/>
+        <updated>2022-09-23T01:17:31.407Z</updated>
+        <content type="html"><![CDATA[2022.09.26(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－이천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55282</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55282"/>
+        <updated>2022-09-23T01:17:31.412Z</updated>
+        <content type="html"><![CDATA[2022.09.26(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전시 DINO BAY(다이노베이) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55281</id>
@@ -93,20 +107,6 @@
         <title type="html"><![CDATA[​시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 천안​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55269</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55269"/>
-        <updated>2022-09-21T15:14:39.035Z</updated>
-        <content type="html"><![CDATA[2022.09.23(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<알로하, 나의 엄마들>​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55268</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55268"/>
-        <updated>2022-09-21T15:14:39.035Z</updated>
-        <content type="html"><![CDATA[2022.09.28(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 민쩌미 <사랑해요 엄마!> - 순천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55267</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55267"/>
         <updated>2022-09-21T15:14:39.035Z</updated>
         <content type="html"><![CDATA[2022.09.23(금) 00:00]]></content>
     </entry>
