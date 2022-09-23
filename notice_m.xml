@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-23T04:16:21.036Z</updated>
+    <updated>2022-09-23T05:58:31.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2022 인생백년 아카데미 <청년톡톡 토크콘서트>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55287</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55287"/>
+        <updated>2022-09-23T05:58:30.922Z</updated>
+        <content type="html"><![CDATA[2022.09.23(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  정혜진 클라리넷 렉쳐 리사이틀 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55286</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55286"/>
+        <updated>2022-09-23T05:58:30.923Z</updated>
+        <content type="html"><![CDATA[2022.09.27(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55284</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55284"/>
+        <updated>2022-09-23T05:58:30.923Z</updated>
+        <content type="html"><![CDATA[2022.09.27(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬［바다탐험대 옥토넛 시즌2］－경기광주​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55283</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55272"/>
         <updated>2022-09-21T15:14:39.027Z</updated>
         <content type="html"><![CDATA[2022.09.23(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고다 호기심딱지 - 용인 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55271</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55271"/>
-        <updated>2022-09-21T15:14:39.028Z</updated>
-        <content type="html"><![CDATA[2022.09.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 서울​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55270</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55270"/>
-        <updated>2022-09-21T15:14:39.030Z</updated>
-        <content type="html"><![CDATA[2022.09.26(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 천안​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55269</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55269"/>
-        <updated>2022-09-21T15:14:39.035Z</updated>
-        <content type="html"><![CDATA[2022.09.23(금) 00:00]]></content>
     </entry>
 </feed>
