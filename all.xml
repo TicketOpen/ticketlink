@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-27T08:27:26.821Z</updated>
+    <updated>2022-09-27T09:24:17.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[원더우먼 페스티벌 ㅣ Be Brave, Be YOU​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55302</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55302"/>
+        <updated>2022-09-27T09:23:08.566Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.28(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <농장동물>​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55301</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55288"/>
         <updated>2022-09-23T10:14:53.838Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.27(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 인생백년 아카데미 <청년톡톡 토크콘서트>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55287</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55287"/>
-        <updated>2022-09-23T06:45:32.301Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.23(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <농장동물>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
