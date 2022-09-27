@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-27T05:58:21.807Z</updated>
+    <updated>2022-09-27T06:49:54.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <농장동물>​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.09.23(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <농장동물>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55301</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55301"/>
+        <updated>2022-09-27T06:49:53.552Z</updated>
+        <content type="html"><![CDATA[2022.09.30(금) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인순이 전국투어 콘서트 - 전주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55300</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55300"/>
@@ -131,7 +138,7 @@
         <content type="html"><![CDATA[2022.10.07(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[11시 음악산책] 리듬은 파도를 넘어, 라틴아메리카-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 리듬은 파도를 넘어, 라틴아메리카-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55297</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55297"/>
         <updated>2022-09-26T12:28:22.602Z</updated>
@@ -170,7 +177,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/55292</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55292"/>
         <updated>2022-09-26T12:28:22.613Z</updated>
-        <content type="html"><![CDATA[2022.10.04(화) 05:00]]></content>
+        <content type="html"><![CDATA[2022.10.05(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 기획공연 <봉포유 라온스테이지IV - EG뮤지컬컴퍼니> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55287"/>
         <updated>2022-09-23T05:58:30.922Z</updated>
         <content type="html"><![CDATA[2022.09.23(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  정혜진 클라리넷 렉쳐 리사이틀 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55286</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55286"/>
-        <updated>2022-09-23T05:58:30.923Z</updated>
-        <content type="html"><![CDATA[2022.09.29(목) 05:00]]></content>
     </entry>
 </feed>
