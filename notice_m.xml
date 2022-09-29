@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-29T08:21:05.011Z</updated>
+    <updated>2022-09-29T09:22:04.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55318"/>
         <updated>2022-09-29T07:33:09.273Z</updated>
         <content type="html"><![CDATA[2022.10.06(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOONCHILD Live In Seoul w/ Special Guest : KIEFER [문차일드 서울라이브공연 / 특별초청재즈음악인 : 키퍼] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55317</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55317"/>
+        <updated>2022-09-29T09:22:04.070Z</updated>
+        <content type="html"><![CDATA[2022.10.05(수) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​서울재즈쿼텟 콘서트2​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55307"/>
         <updated>2022-09-28T11:13:37.665Z</updated>
         <content type="html"><![CDATA[2022.09.30(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <장수상회> - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55306</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55306"/>
-        <updated>2022-09-28T11:13:37.666Z</updated>
-        <content type="html"><![CDATA[2022.09.29(목) 01:00]]></content>
     </entry>
 </feed>
