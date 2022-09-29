@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-09-29T06:07:57.532Z</updated>
+    <updated>2022-09-29T07:33:09.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루치아노 파바로티 더 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55322</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55322"/>
+        <updated>2022-09-29T07:33:09.247Z</updated>
+        <content type="html"><![CDATA[2022.09.30(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <수박수영장> 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55321</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55321"/>
+        <updated>2022-09-29T07:33:09.265Z</updated>
+        <content type="html"><![CDATA[2022.09.30(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[충주] 2022 김연자 라이브 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55320</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55320"/>
+        <updated>2022-09-29T07:33:09.266Z</updated>
+        <content type="html"><![CDATA[2022.10.04(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬, 바람으로의 여행] 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55319</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55319"/>
+        <updated>2022-09-29T07:33:09.271Z</updated>
+        <content type="html"><![CDATA[2022.10.05(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <스위니토드>​​ 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55318</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55318"/>
+        <updated>2022-09-29T07:33:09.273Z</updated>
+        <content type="html"><![CDATA[2022.10.06(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​서울재즈쿼텟 콘서트2​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55316</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55306"/>
         <updated>2022-09-28T11:13:37.666Z</updated>
         <content type="html"><![CDATA[2022.09.29(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 서울 앵콜​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55305</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55305"/>
-        <updated>2022-09-28T11:13:37.667Z</updated>
-        <content type="html"><![CDATA[2022.10.04(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55304</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55304"/>
-        <updated>2022-09-28T11:13:37.668Z</updated>
-        <content type="html"><![CDATA[2022.10.04(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55303</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55303"/>
-        <updated>2022-09-28T11:13:37.671Z</updated>
-        <content type="html"><![CDATA[2022.10.04(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원더우먼 페스티벌 ㅣ Be Brave, Be YOU​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55302</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55302"/>
-        <updated>2022-09-27T16:23:06.795Z</updated>
-        <content type="html"><![CDATA[2022.09.28(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 <농장동물>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55301</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55301"/>
-        <updated>2022-09-27T06:49:53.552Z</updated>
-        <content type="html"><![CDATA[2022.09.30(금) 05:00]]></content>
     </entry>
 </feed>
