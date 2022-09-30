@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-09-30T01:48:17.174Z</updated>
+    <updated>2022-09-30T04:29:14.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55326</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55326"/>
+        <updated>2022-09-30T04:29:02.604Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 대구앵콜​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55325</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55325"/>
+        <updated>2022-09-30T04:29:02.615Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​<신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀> - 대구앵콜​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55324</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55324"/>
+        <updated>2022-09-30T04:29:02.620Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 김창옥 토크콘서트 시즌3 – 용인​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55323</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55323"/>
+        <updated>2022-09-30T04:29:02.627Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.06(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루치아노 파바로티 더 콘서트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55322</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55312"/>
         <updated>2022-09-28T06:04:09.140Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.04(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 에일리 전국투어 콘서트 <한 걸음 더> - 창원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55311</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55311"/>
-        <updated>2022-09-28T06:04:09.140Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​뮤지컬 <라 레볼뤼시옹> 온라인 중계​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55310</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55310"/>
-        <updated>2022-09-28T06:04:09.141Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.28(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 별이 빛나는 포항 시리즈 Ⅲ <이필기 국악공연 - 포항>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55308</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55308"/>
-        <updated>2022-09-28T06:04:09.149Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 여수​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55307</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55307"/>
-        <updated>2022-09-28T06:04:09.151Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.30(금) 05:00]]></content>
     </entry>
 </feed>
