@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-04T03:41:23.964Z</updated>
+    <updated>2022-10-04T04:54:34.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​빵 굽는 포포 아저씨​ - 목포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55331</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55331"/>
+        <updated>2022-10-04T04:54:33.936Z</updated>
+        <content type="html"><![CDATA[2022.10.06(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구시립국악단 207회 정기연주회 <확장된 국악> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55329</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55316"/>
         <updated>2022-09-28T11:13:37.652Z</updated>
         <content type="html"><![CDATA[2022.09.30(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEEPLY 딥플리 콘서트 <넬,지소울,정준일> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55315</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55315"/>
-        <updated>2022-09-28T11:13:37.652Z</updated>
-        <content type="html"><![CDATA[2022.10.04(화) 07:00]]></content>
     </entry>
 </feed>
