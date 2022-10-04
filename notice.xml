@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-04T08:21:48.880Z</updated>
+    <updated>2022-10-04T09:20:37.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 광주사운드파크페스티벌 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55338</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55338"/>
+        <updated>2022-10-04T09:19:29.936Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​(순천) 2022 버블매직쇼​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55337</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55337"/>
+        <updated>2022-10-04T09:19:29.936Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.06(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​바르나 국립 발레 <백조의 호수>​ - 마포 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55336</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55324"/>
         <updated>2022-09-30T04:29:02.620Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 김창옥 토크콘서트 시즌3 – 용인​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55323</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55323"/>
-        <updated>2022-09-30T04:29:02.627Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.06(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루치아노 파바로티 더 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55322</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55322"/>
-        <updated>2022-09-29T08:20:55.110Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.09.30(금) 01:00]]></content>
     </entry>
 </feed>
