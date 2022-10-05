@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-04T23:17:32.367Z</updated>
+    <updated>2022-10-05T01:19:18.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 실내악 ④ - 몰토 콰르텟 (광주) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55339</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55339"/>
+        <updated>2022-10-05T01:18:10.369Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 광주사운드파크페스티벌 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55338</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​트롯페스티벌 - 창원​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] ​트롯페스티벌 - 창원​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55333</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55333"/>
         <updated>2022-10-04T07:24:30.747Z</updated>
@@ -88,13 +95,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55327"/>
         <updated>2022-09-30T07:37:03.955Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.04(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55326</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55326"/>
-        <updated>2022-09-30T04:29:02.604Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 대구앵콜​ 티켓오픈 안내]]></title>
