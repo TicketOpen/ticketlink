@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-05T08:18:57.410Z</updated>
+    <updated>2022-10-05T09:17:42.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 GSL 시즌3 결승전 티켓오픈 안내 (티켓링크)]]></title>
@@ -16,7 +16,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/55348</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55348"/>
         <updated>2022-10-05T08:18:50.428Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앙상블 유포리아 정기연주회 Series I  Modern Nature : 21세기 작곡가가 그리는 자연의 풍경 ​​티켓오픈 안내 (티켓링크)]]></title>
@@ -51,7 +51,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/55343</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55343"/>
         <updated>2022-10-05T04:42:51.833Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 01:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.08(토) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 KIM SUNG KYU Fan Meeting​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -121,7 +121,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/55348</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55348"/>
         <updated>2022-10-05T08:18:56.757Z</updated>
-        <content type="html"><![CDATA[2022.10.07(금) 05:00]]></content>
+        <content type="html"><![CDATA[2022.10.07(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앙상블 유포리아 정기연주회 Series I  Modern Nature : 21세기 작곡가가 그리는 자연의 풍경 ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -156,7 +156,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/55343</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55343"/>
         <updated>2022-10-05T04:43:00.294Z</updated>
-        <content type="html"><![CDATA[2022.10.07(금) 01:00]]></content>
+        <content type="html"><![CDATA[2022.10.08(토) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 KIM SUNG KYU Fan Meeting​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
