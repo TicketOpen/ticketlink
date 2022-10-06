@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-06T04:39:42.050Z</updated>
+    <updated>2022-10-06T05:33:02.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뮤지컬, 우리들의 사랑] 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55358</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55358"/>
+        <updated>2022-10-06T05:31:55.641Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 춘천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55357</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55357"/>
+        <updated>2022-10-06T05:31:55.645Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55356</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55356"/>
+        <updated>2022-10-06T05:31:55.645Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55355</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55355"/>
+        <updated>2022-10-06T05:31:55.649Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 변진섭 전국투어 콘서트 : 변천사 – 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55354</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55354"/>
+        <updated>2022-10-06T05:31:55.650Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.13(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제25회 광주소극장축제-광주·대구 달빛교류전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55353</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55353"/>
+        <updated>2022-10-06T05:31:55.651Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55352</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55352"/>
+        <updated>2022-10-06T05:31:55.654Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.08(토) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제9회 이데일리 문화대상 시상식 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55351</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55351"/>
+        <updated>2022-10-06T05:31:55.655Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 GSL 시즌3 결승전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55349</id>
@@ -53,61 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55343"/>
         <updated>2022-10-05T04:42:51.833Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.08(토) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 KIM SUNG KYU Fan Meeting​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55342</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55342"/>
-        <updated>2022-10-05T04:42:51.837Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.11(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAKBOX 22-03​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55341</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55341"/>
-        <updated>2022-10-05T04:42:51.839Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <수박수영장> 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55340</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55340"/>
-        <updated>2022-10-05T04:42:51.839Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.06(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 실내악 ④ - 몰토 콰르텟 (광주) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55339</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55339"/>
-        <updated>2022-10-05T01:18:10.369Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 광주사운드파크페스티벌 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55338</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55338"/>
-        <updated>2022-10-04T09:19:29.936Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​(순천) 2022 버블매직쇼​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55337</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55337"/>
-        <updated>2022-10-04T09:19:29.936Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.06(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​바르나 국립 발레 <백조의 호수>​ - 마포 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55336</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55336"/>
-        <updated>2022-10-04T07:24:30.744Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​바르나 국립 발레 <호두까기 인형>​ - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55335</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55335"/>
-        <updated>2022-10-04T07:24:30.744Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
     </entry>
 </feed>
