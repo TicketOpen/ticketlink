@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-06T01:15:05.961Z</updated>
+    <updated>2022-10-06T03:31:18.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 GSL 시즌3 결승전 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,34 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​2022 변진섭 전국투어 콘서트 : 변천사 – 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55354</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55354"/>
+        <updated>2022-10-06T03:31:18.256Z</updated>
+        <content type="html"><![CDATA[2022.10.13(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제25회 광주소극장축제-광주·대구 달빛교류전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55353</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55353"/>
+        <updated>2022-10-06T03:31:18.257Z</updated>
+        <content type="html"><![CDATA[2022.10.07(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55352</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55352"/>
+        <updated>2022-10-06T03:31:18.267Z</updated>
+        <content type="html"><![CDATA[2022.10.08(토) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제9회 이데일리 문화대상 시상식 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55351</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55351"/>
+        <updated>2022-10-06T03:31:18.267Z</updated>
+        <content type="html"><![CDATA[2022.10.12(수) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2022 GSL 시즌3 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55349</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55349"/>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55339"/>
         <updated>2022-10-05T04:43:00.302Z</updated>
         <content type="html"><![CDATA[2022.10.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 광주사운드파크페스티벌 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55338</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55338"/>
-        <updated>2022-10-04T08:21:48.276Z</updated>
-        <content type="html"><![CDATA[2022.10.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​(순천) 2022 버블매직쇼​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55337</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55337"/>
-        <updated>2022-10-04T08:21:48.276Z</updated>
-        <content type="html"><![CDATA[2022.10.06(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​바르나 국립 발레 <백조의 호수>​ - 마포 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55336</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55336"/>
-        <updated>2022-10-04T08:21:48.280Z</updated>
-        <content type="html"><![CDATA[2022.10.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​바르나 국립 발레 <호두까기 인형>​ - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55335</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55335"/>
-        <updated>2022-10-04T08:21:48.280Z</updated>
-        <content type="html"><![CDATA[2022.10.07(금) 05:00]]></content>
     </entry>
 </feed>
