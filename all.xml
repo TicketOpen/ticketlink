@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-06T07:22:48.439Z</updated>
+    <updated>2022-10-06T08:19:58.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 [깨비키즈의 빽투더 공룡배틀]​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55360</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55360"/>
+        <updated>2022-10-06T08:18:49.807Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바르나 국립 발레 <호두까기 인형> 전국투어 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55359</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55359"/>
+        <updated>2022-10-06T08:18:49.807Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뮤지컬, 우리들의 사랑] 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55358</id>
@@ -61,6 +75,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[연극 <우리 집 뜨락에는> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55350</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55350"/>
+        <updated>2022-10-06T08:18:49.829Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2022 GSL 시즌3 결승전 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55349</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55349"/>
@@ -87,27 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55346"/>
         <updated>2022-10-05T08:18:50.432Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 조명섭 참좋은 ‘​달밤음악회’​ - 춘천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55345</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55345"/>
-        <updated>2022-10-05T08:18:50.432Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제 84기 kBS 부산 노래교실 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55344</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55344"/>
-        <updated>2022-10-05T04:42:51.833Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] SOUL 소리 Ⅱ - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55343</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55343"/>
-        <updated>2022-10-05T04:42:51.833Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.08(토) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2022 변진섭 전국투어 콘서트 : 변천사 – 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
