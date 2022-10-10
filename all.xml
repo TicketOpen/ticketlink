@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-10T09:23:12.292Z</updated>
+    <updated>2022-10-10T10:16:36.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 11월 - 드보르작의 보헤미안 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.12(수) 11:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 소프라노 이화영, 김상은 듀오콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55373</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55373"/>
+        <updated>2022-10-10T10:16:35.677Z</updated>
+        <content type="html"><![CDATA[2022.10.12(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022년 광주시립창극단 제57회 정기공연 창작창극 '망월, 달빛의 노래' 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55372</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55372"/>
+        <updated>2022-10-10T10:16:35.684Z</updated>
+        <content type="html"><![CDATA[2022.10.12(수) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 마티네 콘서트 11월 - 드보르작의 보헤미안 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55371</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55371"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55358"/>
         <updated>2022-10-06T14:30:03.440Z</updated>
         <content type="html"><![CDATA[2022.10.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 춘천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55357</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55357"/>
-        <updated>2022-10-06T14:30:03.441Z</updated>
-        <content type="html"><![CDATA[2022.10.12(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55356</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55356"/>
-        <updated>2022-10-06T14:30:03.442Z</updated>
-        <content type="html"><![CDATA[2022.10.12(수) 11:00]]></content>
     </entry>
 </feed>
