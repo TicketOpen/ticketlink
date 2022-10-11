@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-11T09:23:05.755Z</updated>
+    <updated>2022-10-11T10:16:44.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55380</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55380"/>
+        <updated>2022-10-11T10:16:32.310Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <드라큘라> 1차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55378</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55365"/>
         <updated>2022-10-07T09:18:25.371Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.13(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <아트> 4차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55364</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55364"/>
-        <updated>2022-10-07T09:18:25.371Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.13(목) 06:00]]></content>
     </entry>
 </feed>
