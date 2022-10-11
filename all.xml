@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-11T01:12:51.813Z</updated>
+    <updated>2022-10-11T04:07:31.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022-23 YB TOUR LIGHTS - 경주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.07(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2022-23 YB TOUR LIGHTS - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55374</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55374"/>
+        <updated>2022-10-11T04:07:30.442Z</updated>
+        <content type="html"><![CDATA[2022.10.24(월) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 소프라노 이화영, 김상은 듀오콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55373</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55373"/>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[바르나 국립 발레 <호두까기 인형> 전국투어 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55359</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55359"/>
-        <updated>2022-10-06T14:30:03.440Z</updated>
-        <content type="html"><![CDATA[2022.10.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬, 우리들의 사랑] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55358</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55358"/>
         <updated>2022-10-06T14:30:03.440Z</updated>
         <content type="html"><![CDATA[2022.10.07(금) 05:00]]></content>
     </entry>
