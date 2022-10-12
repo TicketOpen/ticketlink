@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-12T04:04:20.846Z</updated>
+    <updated>2022-10-12T05:42:03.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 송가인 전국투어 콘서트-서울앵콜​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55390</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55390"/>
+        <updated>2022-10-12T05:40:54.728Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 K-Ballet World 「월드발레스타갈라」​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55389</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55389"/>
+        <updated>2022-10-12T05:40:54.730Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극<오만과 편견> 마지막​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55388</id>
@@ -87,7 +101,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/55377</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55377"/>
         <updated>2022-10-11T05:56:43.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 09:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <엘리자벳> 10주년 기념공연 - 대구 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55376"/>
         <updated>2022-10-11T05:56:43.198Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<미세스 다웃파이어> 추가 회차​ ​​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55375</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55375"/>
-        <updated>2022-10-11T05:56:43.199Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.13(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022-23 YB TOUR LIGHTS - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55374</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55374"/>
-        <updated>2022-10-11T01:11:44.593Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 01:00]]></content>
     </entry>
 </feed>
