@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-12T12:30:37.205Z</updated>
+    <updated>2022-10-12T13:52:43.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아프리카TV 2022 스타크래프트 BJ멸망전 - WSL S4 결승전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55396</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55396"/>
+        <updated>2022-10-12T13:52:42.896Z</updated>
+        <content type="html"><![CDATA[2022.10.13(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제25회 창작신인안무가전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55395</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55380"/>
         <updated>2022-10-11T10:16:43.752Z</updated>
         <content type="html"><![CDATA[2022.10.18(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 뮤지컬 <미드나잇 : 액터뮤지션> 마지막 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55379</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55379"/>
-        <updated>2022-10-12T08:18:39.623Z</updated>
-        <content type="html"><![CDATA[2022.10.17(월) 02:00]]></content>
     </entry>
 </feed>
