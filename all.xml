@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-13T08:20:59.906Z</updated>
+    <updated>2022-10-13T09:20:33.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 삼총사 - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​뮤지컬 삼총사 - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55400</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55400"/>
+        <updated>2022-10-13T09:20:33.163Z</updated>
+        <content type="html"><![CDATA[2022.10.18(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 V.O.S 크리스마스 콘서트 <소울메이트> - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55399</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55399"/>
+        <updated>2022-10-13T09:20:33.179Z</updated>
+        <content type="html"><![CDATA[2022.10.17(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 김해​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55398</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55398"/>
+        <updated>2022-10-13T09:20:33.179Z</updated>
+        <content type="html"><![CDATA[2022.10.18(화) 07:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년 연극 <친정엄마와 2박3일> - 안성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55397</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55397"/>
@@ -129,6 +150,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55395"/>
         <updated>2022-10-12T10:17:47.193Z</updated>
         <content type="html"><![CDATA[2022.10.14(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사운드바이사운드_#2 사거리그오빠​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55394</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55394"/>
+        <updated>2022-10-13T09:20:33.182Z</updated>
+        <content type="html"><![CDATA[2022.10.19(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사운드바이사운드_#1 아일X하현상​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55393</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55393"/>
+        <updated>2022-10-13T09:20:33.182Z</updated>
+        <content type="html"><![CDATA[2022.10.19(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]「월드발레스타갈라」티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55386"/>
         <updated>2022-10-12T08:18:39.611Z</updated>
         <content type="html"><![CDATA[2022.10.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​콩순이 뮤지컬 시즌2 <우리들 음악회> - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55385</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55385"/>
-        <updated>2022-10-12T08:18:39.613Z</updated>
-        <content type="html"><![CDATA[2022.10.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 캐치! 티니핑 <프린세스 다이어리> - 부산앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55384</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55384"/>
-        <updated>2022-10-12T08:18:39.614Z</updated>
-        <content type="html"><![CDATA[2022.10.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 창원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55383</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55383"/>
-        <updated>2022-10-12T08:18:39.616Z</updated>
-        <content type="html"><![CDATA[2022.10.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55382</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55382"/>
-        <updated>2022-10-12T08:18:39.618Z</updated>
-        <content type="html"><![CDATA[2022.10.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55381</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55381"/>
-        <updated>2022-10-12T08:18:39.619Z</updated>
-        <content type="html"><![CDATA[2022.10.14(금) 00:00]]></content>
     </entry>
 </feed>
