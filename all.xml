@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-13T04:11:51.960Z</updated>
+    <updated>2022-10-13T05:57:21.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022년 연극 <친정엄마와 2박3일> - 안성​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55397</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55397"/>
+        <updated>2022-10-13T05:57:11.514Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아프리카TV 2022 스타크래프트 BJ멸망전 - WSL S4 결승전 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55396</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY]​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55380</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55380"/>
-        <updated>2022-10-11T10:16:32.310Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 11:00]]></content>
+        <title type="html"><![CDATA[2022년 연극 <친정엄마와 2박3일> - 안성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55397</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55397"/>
+        <updated>2022-10-13T05:57:20.697Z</updated>
+        <content type="html"><![CDATA[2022.10.18(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아프리카TV 2022 스타크래프트 BJ멸망전 - WSL S4 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55381"/>
         <updated>2022-10-12T08:18:39.619Z</updated>
         <content type="html"><![CDATA[2022.10.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55380</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55380"/>
-        <updated>2022-10-11T10:16:43.752Z</updated>
-        <content type="html"><![CDATA[2022.10.18(화) 11:00]]></content>
     </entry>
 </feed>
