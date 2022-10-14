@@ -2,14 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-14T10:18:41.293Z</updated>
+    <updated>2022-10-14T11:14:44.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 김범수 콘서트 명품이즈백 – 부산 티켓오픈안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55418</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55418"/>
+        <updated>2022-10-14T11:13:36.153Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] FIFA ONLINE 4 & FIFA MOBILE 킥오프 페스티벌 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55417</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55417"/>
+        <updated>2022-10-14T11:13:36.153Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <스위니토드>​​ 1차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55416</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55416"/>
+        <updated>2022-10-14T11:13:36.153Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스탠딩에그＆소란 콘서트 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55415</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55415"/>
+        <updated>2022-10-14T11:13:36.153Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <엉덩이 탐정> - 의정부​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55414</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55414"/>
+        <updated>2022-10-14T11:13:36.153Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <엉덩이 탐정> - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55413</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55413"/>
+        <updated>2022-10-14T11:13:36.158Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 – 평택​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55412</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55412"/>
+        <updated>2022-10-14T11:13:36.159Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2022 어린이 베스트셀러 뮤지컬 <누가 내머리에 똥 쌌어？> - 시흥​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55411</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55411"/>
         <updated>2022-10-14T01:26:48.983Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 부활 크리스마스 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55410</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55410"/>
+        <updated>2022-10-14T11:13:36.161Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <브로드웨이 42번가> 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55409</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55409"/>
+        <updated>2022-10-14T11:13:36.164Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.21(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최현우 아판타시아(Aphantasia)-앵콜​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55408</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55408"/>
+        <updated>2022-10-14T11:13:36.165Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 방방곡곡 문화공감사업 연극 <후설> in 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55407</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55407"/>
+        <updated>2022-10-14T11:13:36.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[콩순이 뮤지컬 시즌2 <우리들 음악회> - 청주앵콜 티켓오픈 안내 (티켓링크)]]></title>
@@ -31,83 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55404"/>
         <updated>2022-10-14T01:26:48.997Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55403</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55403"/>
-        <updated>2022-10-14T01:26:48.997Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 군산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55402</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55402"/>
-        <updated>2022-10-14T01:26:49.001Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 대구앵콜 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55401</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55401"/>
-        <updated>2022-10-14T01:26:49.001Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 삼총사 - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55400</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55400"/>
-        <updated>2022-10-13T08:19:50.721Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 V.O.S 크리스마스 콘서트 <소울메이트> - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55399</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55399"/>
-        <updated>2022-10-13T08:19:50.738Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.17(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장윤정 라이브 콘서트 - 김해​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55398</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55398"/>
-        <updated>2022-10-13T08:19:50.739Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 연극 <친정엄마와 2박3일> - 안성​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55397</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55397"/>
-        <updated>2022-10-13T05:57:11.514Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아프리카TV 2022 스타크래프트 BJ멸망전 - WSL S4 결승전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55396</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55396"/>
-        <updated>2022-10-12T17:36:48.484Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.13(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제25회 창작신인안무가전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55395</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55395"/>
-        <updated>2022-10-12T09:20:11.867Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.14(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사운드바이사운드_#2 사거리그오빠​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55394</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55394"/>
-        <updated>2022-10-13T06:41:58.552Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사운드바이사운드_#1 아일X하현상​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55393</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55393"/>
-        <updated>2022-10-13T06:41:58.554Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <스위니토드>​​ 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
