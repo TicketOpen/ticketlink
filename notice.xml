@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-18T23:18:33.646Z</updated>
+    <updated>2022-10-19T01:21:31.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55433</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55433"/>
+        <updated>2022-10-19T01:20:24.022Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 김경호 전국투어콘서트 IN 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55431</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55431"/>
+        <updated>2022-10-19T01:20:24.023Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​루돌프와 산타할아버지 - 서울강동​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55430</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55430"/>
+        <updated>2022-10-19T01:20:24.024Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  윤승업 오케스트라와 함께하는 양수경의  '사랑 하세요'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55429</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55429"/>
+        <updated>2022-10-19T01:20:24.031Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.21(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2022 V.O.S 콘서트 <소울메이트> - 청주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55428</id>
@@ -62,7 +90,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 메모리즈-황치열x알리 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2022 메모리즈-황치열x알리 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55419</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55419"/>
         <updated>2022-10-15T07:19:04.387Z</updated>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55417"/>
         <updated>2022-10-14T11:13:36.153Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <스위니토드>​​ 1차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55416</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55416"/>
-        <updated>2022-10-14T11:13:36.153Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠딩에그＆소란 콘서트 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55415</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55415"/>
-        <updated>2022-10-14T11:13:36.153Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <엉덩이 탐정> - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55414</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55414"/>
-        <updated>2022-10-14T11:13:36.153Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <엉덩이 탐정> - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55413</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55413"/>
-        <updated>2022-10-14T11:13:36.158Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 00:00]]></content>
     </entry>
 </feed>
