@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-20T01:17:36.615Z</updated>
+    <updated>2022-10-20T04:01:21.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[MJ LIVE - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55439</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55439"/>
+        <updated>2022-10-20T04:00:14.830Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 LIGHT UP FESTIVAL 티켓오픈​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55437</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55437"/>
+        <updated>2022-10-20T04:00:14.831Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​장진의 연극 <서툰 사람들>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55436</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55436"/>
+        <updated>2022-10-20T04:00:14.831Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.28(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY] - 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55435</id>
@@ -87,27 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55423"/>
         <updated>2022-10-17T09:27:13.441Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55422</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55422"/>
-        <updated>2022-10-17T07:41:28.384Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 스타1 대학대전(무친대 VS 철와대) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55421</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55421"/>
-        <updated>2022-10-17T07:41:28.385Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.18(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소〈대결! 최고의 이발사〉- 대전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55420</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55420"/>
-        <updated>2022-10-17T07:41:28.387Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.20(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY] - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
