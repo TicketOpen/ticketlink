@@ -2,15 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-20T07:34:52.071Z</updated>
+    <updated>2022-10-20T08:20:51.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <별이네 헤어살롱>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55447</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55447"/>
+        <updated>2022-10-20T08:19:43.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[보령] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55446</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55446"/>
+        <updated>2022-10-20T08:19:43.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[군산] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55445</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55445"/>
+        <updated>2022-10-20T08:19:43.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 뮤직페스티벌 “​RIDE THE BEAT”​ 얼리버드 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55444</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55444"/>
+        <updated>2022-10-20T08:19:43.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.27(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(평택) 2022 가족뮤지컬 호두까기인형 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55441</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55441"/>
+        <updated>2022-10-20T08:19:43.233Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MJ LIVE - 천안​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55439</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55439"/>
         <updated>2022-10-20T04:00:14.830Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 창원​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55438</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55438"/>
+        <updated>2022-10-20T08:19:43.233Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2022 LIGHT UP FESTIVAL 티켓오픈​ 티켓오픈 안내]]></title>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55430"/>
         <updated>2022-10-19T01:20:24.024Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  윤승업 오케스트라와 함께하는 양수경의  '사랑 하세요'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55429</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55429"/>
-        <updated>2022-10-19T01:20:24.031Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 V.O.S 콘서트 <소울메이트> - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55428</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55428"/>
-        <updated>2022-10-18T10:18:07.715Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매] 뮤지컬<랭보> 링크 Special Day​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55427</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55427"/>
-        <updated>2022-10-18T10:18:07.715Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​한국수자원 공사와 KBS대구방송총국이 함께하는 행복톡톡 시민공감 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55425</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55425"/>
-        <updated>2022-10-18T10:18:07.724Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55424</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55424"/>
-        <updated>2022-10-18T10:18:07.731Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.21(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 KIM SUNG KYU Fan Meeting - 추가 회차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55423</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55423"/>
-        <updated>2022-10-17T09:27:13.441Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.19(수) 11:00]]></content>
     </entry>
 </feed>
