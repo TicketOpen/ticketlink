@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-21T06:31:18.583Z</updated>
+    <updated>2022-10-21T07:26:38.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​JazzWorks N7 - Play Ballads​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55455</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55455"/>
+        <updated>2022-10-21T07:25:29.393Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.25(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한중일 춤으로 통하다​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55454</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55454"/>
+        <updated>2022-10-21T07:25:29.394Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <용의자 X의 헌신> 2차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55452</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/55439</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55439"/>
         <updated>2022-10-20T04:00:14.830Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌 3 - 창원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55438</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55438"/>
-        <updated>2022-10-20T08:19:43.233Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 LIGHT UP FESTIVAL 티켓오픈​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55437</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55437"/>
-        <updated>2022-10-20T04:00:14.831Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
     </entry>
 </feed>
