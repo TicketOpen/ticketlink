@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-21T07:26:38.266Z</updated>
+    <updated>2022-10-21T08:20:49.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김미리네 피아노 독주회 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55456</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55456"/>
+        <updated>2022-10-21T08:19:41.188Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​JazzWorks N7 - Play Ballads​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55455</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55441"/>
         <updated>2022-10-20T08:19:43.233Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MJ LIVE - 천안​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55439</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55439"/>
-        <updated>2022-10-20T04:00:14.830Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.24(월) 05:00]]></content>
     </entry>
 </feed>
