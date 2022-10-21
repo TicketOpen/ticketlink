@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-21T03:45:02.470Z</updated>
+    <updated>2022-10-21T05:01:53.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <용의자 X의 헌신> 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55452</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55452"/>
+        <updated>2022-10-21T05:01:52.593Z</updated>
+        <content type="html"><![CDATA[2022.10.28(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55451</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55451"/>
+        <updated>2022-10-21T05:01:52.593Z</updated>
+        <content type="html"><![CDATA[2022.10.26(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <꼬마버스 타요와 하하호호 노래자랑> - 강릉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55449</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55449"/>
+        <updated>2022-10-21T05:01:52.594Z</updated>
+        <content type="html"><![CDATA[2022.10.26(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  해나 첫 번째 팬서트 “FINDING HAENA LEE” 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55448</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55448"/>
+        <updated>2022-10-21T05:01:52.594Z</updated>
+        <content type="html"><![CDATA[2022.10.24(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <별이네 헤어살롱>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55447</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55436"/>
         <updated>2022-10-20T10:18:07.056Z</updated>
         <content type="html"><![CDATA[2022.10.28(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 단독 콘서트 [LA POEM SYMPHONY] - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55435</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55435"/>
-        <updated>2022-10-19T14:32:55.093Z</updated>
-        <content type="html"><![CDATA[2022.10.25(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캠핑 대축제! 캠핑박람회! 2023 캠핑페스타! 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55434</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55434"/>
-        <updated>2022-10-19T14:32:55.103Z</updated>
-        <content type="html"><![CDATA[2022.10.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55433</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55433"/>
-        <updated>2022-10-19T14:32:55.105Z</updated>
-        <content type="html"><![CDATA[2022.10.24(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[고양] 번개맨 뮤지컬 : 우주최강 번개삼총사 - 티켓오픈 안내​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55432</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55432"/>
-        <updated>2022-10-19T14:32:55.106Z</updated>
-        <content type="html"><![CDATA[2022.10.21(금) 02:00]]></content>
     </entry>
 </feed>
