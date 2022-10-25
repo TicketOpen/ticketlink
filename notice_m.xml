@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-25T01:25:43.055Z</updated>
+    <updated>2022-10-25T04:23:11.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 부산학생예술문화회관 교직원 초청 공연 - 체코 세베라첵 합창단 내한 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55471</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55471"/>
+        <updated>2022-10-25T04:23:10.063Z</updated>
+        <content type="html"><![CDATA[2022.10.26(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오버워치 리그 플레이오프​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55469</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55469"/>
+        <updated>2022-10-25T04:23:10.064Z</updated>
+        <content type="html"><![CDATA[2022.10.25(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 변진섭 전국투어 콘서트 : 변천사 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55468</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55468"/>
+        <updated>2022-10-25T04:23:10.065Z</updated>
+        <content type="html"><![CDATA[2022.10.26(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] SWC2022 World Finals 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55467</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55456"/>
         <updated>2022-10-21T18:22:44.980Z</updated>
         <content type="html"><![CDATA[2022.10.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​JazzWorks N7 - Play Ballads​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55455</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55455"/>
-        <updated>2022-10-21T18:22:44.981Z</updated>
-        <content type="html"><![CDATA[2022.10.25(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한중일 춤으로 통하다​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55454</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55454"/>
-        <updated>2022-10-21T18:22:44.987Z</updated>
-        <content type="html"><![CDATA[2022.10.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 브레드이발소 〈대결! 최고의 이발사〉 - 부산앵콜​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55453</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55453"/>
-        <updated>2022-10-24T11:19:21.492Z</updated>
-        <content type="html"><![CDATA[2022.10.25(화) 00:00]]></content>
     </entry>
 </feed>
