@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-26T07:17:05.210Z</updated>
+    <updated>2022-10-26T08:18:26.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정나영 피아노 리사이틀 Romanticism, 가장 낭만적인 저녁에 - 대구 티켓오픈]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55479</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55479"/>
+        <updated>2022-10-26T08:17:17.141Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무도회의 권유-르 송 앙상블 제2회 정기연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55478</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55478"/>
+        <updated>2022-10-26T08:17:17.143Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55477</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55477"/>
+        <updated>2022-10-26T08:17:17.145Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.01(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 변진섭 전국투어 콘서트 : 변천사 - 서울​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55476</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55476"/>
+        <updated>2022-10-26T08:17:17.147Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.31(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​엘사의 생일파티 - 성남 아트센터​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55475</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55475"/>
+        <updated>2022-10-26T08:17:17.169Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.27(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Fly Higher with KNB 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55474</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55465"/>
         <updated>2022-10-24T08:28:11.186Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지와 살면 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55464</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55464"/>
-        <updated>2022-10-24T08:28:11.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데서 오는 여자 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55463</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55463"/>
-        <updated>2022-10-24T08:28:11.187Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아빠들의 소꿉놀이 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55462</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55462"/>
-        <updated>2022-10-24T08:28:11.187Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산]  MJ LIVE 마이클잭슨 Tribute Concert KOREA TOUR​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55461</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55461"/>
-        <updated>2022-10-24T08:28:11.188Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] MJ LIVE 마이클잭슨 Tribute Concert KOREA TOUR​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55460</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55460"/>
-        <updated>2022-10-24T08:28:11.189Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 06:00]]></content>
     </entry>
 </feed>
