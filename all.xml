@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-26T10:16:20.839Z</updated>
+    <updated>2022-10-26T11:12:12.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​코믹로맨틱판타지연극 ♥ 헬로우 미스미스터 '대구'​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55483</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55483"/>
+        <updated>2022-10-26T11:12:01.989Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.28(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​로맨틱 코미디연극 : 옥탑방고양이 「대구」​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55482</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55482"/>
+        <updated>2022-10-26T11:12:01.991Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.28(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​피아니스트 백혜선 시와 그림이 있는 음악회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55481</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55481"/>
+        <updated>2022-10-26T11:12:01.993Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.28(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023년 특선가족뮤지컬 [바다탐험대 옥토넛 시즌2]​ 서울 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55480</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55480"/>
+        <updated>2022-10-26T11:12:01.999Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.28(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정나영 피아노 리사이틀 Romanticism, 가장 낭만적인 저녁에 - 대구 티켓오픈 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55479</id>
@@ -80,34 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55469"/>
         <updated>2022-10-25T08:25:47.380Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.25(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 변진섭 전국투어 콘서트 : 변천사 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55468</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55468"/>
-        <updated>2022-10-25T01:24:36.120Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] SWC2022 World Finals 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55467</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55467"/>
-        <updated>2022-10-24T08:28:11.171Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사평역 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55466</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55466"/>
-        <updated>2022-10-24T08:28:11.184Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고슴도치를 입양하세요 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55465</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55465"/>
-        <updated>2022-10-24T08:28:11.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​코믹로맨틱판타지연극 ♥ 헬로우 미스미스터 '대구'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
