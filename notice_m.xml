@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-26T04:49:21.312Z</updated>
+    <updated>2022-10-26T05:28:16.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Fly Higher with KNB 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55474</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55474"/>
+        <updated>2022-10-26T05:28:15.958Z</updated>
+        <content type="html"><![CDATA[2022.10.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 변진섭 전국투어 콘서트 : 변천사 - 강릉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55473</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55473"/>
+        <updated>2022-10-26T05:28:15.958Z</updated>
+        <content type="html"><![CDATA[2022.10.27(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  경산시립극단 제10회 정기공연 <내 사랑 춘향>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55472</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55460"/>
         <updated>2022-10-24T11:19:21.473Z</updated>
         <content type="html"><![CDATA[2022.10.26(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] MJ LIVE 마이클잭슨 Tribute Concert KOREA TOUR​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55459</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55459"/>
-        <updated>2022-10-24T11:19:21.475Z</updated>
-        <content type="html"><![CDATA[2022.10.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <테레즈 라캥> 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55458</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55458"/>
-        <updated>2022-10-24T11:19:21.478Z</updated>
-        <content type="html"><![CDATA[2022.10.27(목) 02:00]]></content>
     </entry>
 </feed>
