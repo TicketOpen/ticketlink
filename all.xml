@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-26T05:28:16.672Z</updated>
+    <updated>2022-10-26T06:19:49.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] Fly Higher with KNB 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 06:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55477</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55477"/>
+        <updated>2022-10-26T06:19:48.631Z</updated>
+        <content type="html"><![CDATA[2022.11.01(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 변진섭 전국투어 콘서트 : 변천사 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55476</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55476"/>
+        <updated>2022-10-26T06:19:48.645Z</updated>
+        <content type="html"><![CDATA[2022.10.31(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​엘사의 생일파티 - 성남 아트센터​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55475</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55475"/>
+        <updated>2022-10-26T06:19:48.663Z</updated>
+        <content type="html"><![CDATA[2022.10.27(목) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] Fly Higher with KNB 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55474</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55474"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55463"/>
         <updated>2022-10-24T11:19:21.466Z</updated>
         <content type="html"><![CDATA[2022.10.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아빠들의 소꿉놀이 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55462</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55462"/>
-        <updated>2022-10-24T11:19:21.469Z</updated>
-        <content type="html"><![CDATA[2022.10.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산]  MJ LIVE 마이클잭슨 Tribute Concert KOREA TOUR​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55461</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55461"/>
-        <updated>2022-10-24T11:19:21.471Z</updated>
-        <content type="html"><![CDATA[2022.10.26(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] MJ LIVE 마이클잭슨 Tribute Concert KOREA TOUR​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55460</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55460"/>
-        <updated>2022-10-24T11:19:21.473Z</updated>
-        <content type="html"><![CDATA[2022.10.26(수) 06:00]]></content>
     </entry>
 </feed>
