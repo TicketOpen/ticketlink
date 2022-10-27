@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-27T01:11:34.996Z</updated>
+    <updated>2022-10-27T03:41:57.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[코미디 뮤지컬 <옹알스> 부천 1차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55488</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55488"/>
+        <updated>2022-10-27T03:40:49.689Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.01(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[링크 Special]​ 뮤지컬 <캣츠> 오리지널 내한-김해 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55487</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55487"/>
+        <updated>2022-10-27T03:40:49.689Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.03(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <캣츠> 오리지널 내한-김해​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55485</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55485"/>
+        <updated>2022-10-27T03:40:49.690Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.03(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​코믹로맨틱판타지연극 ♥ 헬로우 미스미스터 '대구'​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55483</id>
@@ -40,7 +61,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.27(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무도회의 권유-르 송 앙상블 제2회 정기연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 무도회의 권유-르 송 앙상블 제2회 정기연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55478</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55478"/>
         <updated>2022-10-26T08:17:17.143Z</updated>
@@ -87,27 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55472"/>
         <updated>2022-10-25T08:25:47.345Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.21(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 부산학생예술문화회관 교직원 초청 공연 - 체코 세베라첵 합창단 내한 공연 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55471</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55471"/>
-        <updated>2022-10-25T08:25:47.362Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.26(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 연극 아트(ART) 마지막 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55470</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55470"/>
-        <updated>2022-10-25T08:25:47.379Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.02(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오버워치 리그 플레이오프​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55469</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55469"/>
-        <updated>2022-10-25T08:25:47.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.25(화) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​코믹로맨틱판타지연극 ♥ 헬로우 미스미스터 '대구'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
