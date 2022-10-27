@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-10-27T04:43:50.776Z</updated>
+    <updated>2022-10-27T05:24:31.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​앙상블 아스트로스 Happy Thanksgiving  Concert - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55489</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55489"/>
+        <updated>2022-10-27T05:23:23.771Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.10.28(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코미디 뮤지컬 <옹알스> 부천 1차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55488</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55473"/>
         <updated>2022-10-26T04:48:13.217Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.10.27(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  경산시립극단 제10회 정기공연 <내 사랑 춘향>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55472</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55472"/>
-        <updated>2022-10-25T08:25:47.345Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.21(월) 03:00]]></content>
     </entry>
 </feed>
