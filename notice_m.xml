@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-10-28T06:19:23.152Z</updated>
+    <updated>2022-10-28T07:13:38.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 슬라브민족의 위대한 꿈, 상트페테르부르크-광주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55498</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55498"/>
+        <updated>2022-10-28T07:13:37.578Z</updated>
+        <content type="html"><![CDATA[2022.11.02(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [TO THE NCT UNIVERSE] NCT 127 : WELCOME TO MY CITY 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55497</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55497"/>
+        <updated>2022-10-28T07:13:37.580Z</updated>
+        <content type="html"><![CDATA[2022.11.02(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​장사익소리판 '사람이 사람을 만나' 대전공연​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55496</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55484"/>
         <updated>2022-10-27T10:15:43.287Z</updated>
         <content type="html"><![CDATA[2022.10.31(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​코믹로맨틱판타지연극 ♥ 헬로우 미스미스터 '대구'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55483</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55483"/>
-        <updated>2022-10-26T09:14:29.636Z</updated>
-        <content type="html"><![CDATA[2022.10.28(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​로맨틱 코미디연극 : 옥탑방고양이 「대구」​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55482</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55482"/>
-        <updated>2022-10-26T09:14:29.638Z</updated>
-        <content type="html"><![CDATA[2022.10.28(금) 00:00]]></content>
     </entry>
 </feed>
