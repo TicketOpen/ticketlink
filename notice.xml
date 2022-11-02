@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-02T04:58:48.868Z</updated>
+    <updated>2022-11-02T05:43:27.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(2022) 루돌프와 산타클로스 - 창원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55523</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55523"/>
+        <updated>2022-11-02T05:42:19.219Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2022) 루돌프와 산타클로스 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55522</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55522"/>
+        <updated>2022-11-02T05:42:19.222Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <스위니토드>​​ 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55521</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55521"/>
+        <updated>2022-11-02T05:42:19.222Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.08(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2022) 루돌프와 산타클로스 - 천안 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55520</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55520"/>
+        <updated>2022-11-02T05:42:19.223Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​블랜딩 콘서트 <김소현,손준호,웅산,서도밴드> - 진주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55519</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55519"/>
+        <updated>2022-11-02T05:42:19.223Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블 베스트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55518</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55509"/>
         <updated>2022-10-31T10:15:57.843Z</updated>
         <content type="html"><![CDATA[2022.10.31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이뮤지컬 <호두까기 인형> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55508</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55508"/>
-        <updated>2022-10-31T10:15:57.863Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.03(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 수성아트피아 11월 시즌음악회 - <한국가곡을 노래하다> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55507</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55507"/>
-        <updated>2022-10-31T07:13:21.949Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.03(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  김종현 피아노 독주회: 피아노, 문학을 노래하다​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55506</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55506"/>
-        <updated>2022-10-31T07:13:21.950Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<랭보> 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55505</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55505"/>
-        <updated>2022-10-31T07:13:21.957Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <가면산장 살인사건 >  한국 초연  3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55504</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55504"/>
-        <updated>2022-10-31T05:29:44.275Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.02(수) 05:00]]></content>
     </entry>
 </feed>
