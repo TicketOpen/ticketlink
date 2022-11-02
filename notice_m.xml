@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-02T01:16:00.662Z</updated>
+    <updated>2022-11-02T03:53:42.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블 베스트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55518</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55518"/>
+        <updated>2022-11-02T03:53:41.806Z</updated>
+        <content type="html"><![CDATA[2022.11.09(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 용인 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55517</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55517"/>
+        <updated>2022-11-02T03:53:41.809Z</updated>
+        <content type="html"><![CDATA[2022.11.04(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 청주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55516</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55516"/>
+        <updated>2022-11-02T03:53:41.813Z</updated>
+        <content type="html"><![CDATA[2022.11.03(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 에일리 단독 콘서트 - 한 걸음 더 (군산)​ ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55515</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55504"/>
         <updated>2022-10-31T08:21:26.606Z</updated>
         <content type="html"><![CDATA[2022.11.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 피아니스트 김기경의 Frederia and Franz_I 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55503</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55503"/>
-        <updated>2022-10-31T08:21:26.606Z</updated>
-        <content type="html"><![CDATA[2022.11.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 피아니스트 김기경의 아침을 여는 클래식: Fraderic and Franz_II 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55502"/>
-        <updated>2022-10-31T08:21:26.608Z</updated>
-        <content type="html"><![CDATA[2022.11.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 에일리 전국투어 콘서트 <한 걸음 더> - 용인 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55501</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55501"/>
-        <updated>2022-10-31T08:21:26.609Z</updated>
-        <content type="html"><![CDATA[2022.11.07(월) 05:00]]></content>
     </entry>
 </feed>
