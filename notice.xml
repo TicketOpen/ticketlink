@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-02T09:15:35.768Z</updated>
+    <updated>2022-11-02T10:17:19.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오페라 토스카 - 포항 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55526</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55526"/>
+        <updated>2022-11-02T10:16:10.935Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.09(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 부산학생예술문화회관 교직원 초청 공연 - 12인의 성난 사람들​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55525</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55525"/>
+        <updated>2022-11-02T10:16:10.935Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.03(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 조수미 콘서트 < In Love > - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55524</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55524"/>
+        <updated>2022-11-02T10:16:10.938Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2022) 루돌프와 산타클로스 - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55523</id>
@@ -34,7 +55,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​블랜딩 콘서트 <김소현,손준호,웅산,서도밴드> - 진주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[크리스마스 콘서트  <김소현, 손준호,웅산,서도밴드> - 진주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55519</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55519"/>
         <updated>2022-11-02T05:42:19.223Z</updated>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55512"/>
         <updated>2022-11-01T08:18:09.101Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항조＆진성 〈앙상블콘서트〉 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55511</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55511"/>
-        <updated>2022-11-01T08:18:09.102Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​김봉곤훈장과 함께하는 NEW조선통신사 - 의성​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55510</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55510"/>
-        <updated>2022-11-01T08:18:09.102Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLB 월드투어 - 코리아 시리즈(서울/부산) 경기 취소 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55509</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55509"/>
-        <updated>2022-10-31T10:15:57.843Z</updated>
-        <content type="html"><![CDATA[2022.10.31]]></content>
     </entry>
 </feed>
