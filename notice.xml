@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-03T08:20:02.046Z</updated>
+    <updated>2022-11-03T09:14:39.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  청(淸):The Blue '바다를 열다’ - 원주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55535</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55535"/>
+        <updated>2022-11-03T09:13:29.961Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.08(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2022 원주문화재단 '릴레이 연극 프로젝트' 1탄 연극<레오타드 안나수이 손거울> - 원주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55534</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55534"/>
+        <updated>2022-11-03T09:13:29.972Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.08(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 듀에토 콘서트 ‘Black Out’​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55533</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55533"/>
+        <updated>2022-11-03T09:13:29.972Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.08(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청춘 코미디〈벚꽃졸업식〉- 대구티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55532</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55521"/>
         <updated>2022-11-02T05:42:19.222Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2022) 루돌프와 산타클로스 - 천안 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55520</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55520"/>
-        <updated>2022-11-02T05:42:19.223Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 콘서트  <김소현, 손준호,웅산,서도밴드> - 진주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55519</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55519"/>
-        <updated>2022-11-02T05:42:19.223Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블 베스트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55518</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55518"/>
-        <updated>2022-11-02T03:53:33.255Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.09(수) 05:00]]></content>
     </entry>
 </feed>
