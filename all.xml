@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-04T12:28:25.033Z</updated>
+    <updated>2022-11-04T13:37:47.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 오버워치 컨텐더스 코리아 차기시즌​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.04(금) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[여수]싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55539</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55539"/>
+        <updated>2022-11-04T13:37:47.463Z</updated>
+        <content type="html"><![CDATA[2022.11.08(화) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​연극 <인간증후군> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55538</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55538"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55525"/>
         <updated>2022-11-02T16:19:39.538Z</updated>
         <content type="html"><![CDATA[2022.11.03(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조수미 콘서트 < In Love > - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55524</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55524"/>
-        <updated>2022-11-02T16:19:39.538Z</updated>
-        <content type="html"><![CDATA[2022.11.04(금) 04:00]]></content>
     </entry>
 </feed>

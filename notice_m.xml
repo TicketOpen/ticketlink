@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-04T12:28:24.945Z</updated>
+    <updated>2022-11-04T13:37:47.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여수]싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55539</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55539"/>
+        <updated>2022-11-04T13:37:47.463Z</updated>
+        <content type="html"><![CDATA[2022.11.08(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​연극 <인간증후군> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55538</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55525"/>
         <updated>2022-11-03T21:11:22.991Z</updated>
         <content type="html"><![CDATA[2022.11.03(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 조수미 콘서트 < In Love > - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55524</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55524"/>
-        <updated>2022-11-03T21:11:22.993Z</updated>
-        <content type="html"><![CDATA[2022.11.04(금) 04:00]]></content>
     </entry>
 </feed>
