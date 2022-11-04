@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-04T03:40:32.150Z</updated>
+    <updated>2022-11-04T04:39:12.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[2022.11.08(화) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2022 원주문화재단 '릴레이 연극 프로젝트' 1탄 연극<레오타드 안나수이 손거울> - 원주​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  [원주문화재단] 릴레이 연극 프로젝트 1탄 연극  티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55534</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55534"/>
         <updated>2022-11-03T21:11:22.977Z</updated>
