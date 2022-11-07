@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-07T05:24:30.762Z</updated>
+    <updated>2022-11-07T06:17:23.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55545</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55545"/>
+        <updated>2022-11-07T06:17:22.437Z</updated>
+        <content type="html"><![CDATA[2022.11.09(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2022 김연자 디너쇼 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55544</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55544"/>
+        <updated>2022-11-07T06:17:22.437Z</updated>
+        <content type="html"><![CDATA[2022.11.14(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2022 XIA Ballad & Musical Concert with Orchestra Vol.8 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55543</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55543"/>
+        <updated>2022-11-07T06:17:22.438Z</updated>
+        <content type="html"><![CDATA[2022.11.18(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 [고고다이노 우리동네공룡]​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55542</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55542"/>
+        <updated>2022-11-07T06:17:22.440Z</updated>
+        <content type="html"><![CDATA[2022.11.09(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코미디 뮤지컬 <옹알스> 부천 1차​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55541</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55541"/>
         <updated>2022-11-07T01:03:42.194Z</updated>
         <content type="html"><![CDATA[2022.11.08(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 4차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55540</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55540"/>
+        <updated>2022-11-07T06:17:22.442Z</updated>
+        <content type="html"><![CDATA[2022.11.10(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[여수]싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기>​ 티켓오픈 안내]]></title>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55531"/>
         <updated>2022-11-03T21:11:22.979Z</updated>
         <content type="html"><![CDATA[2022.11.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <종의 기원> 프리뷰​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55530</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55530"/>
-        <updated>2022-11-03T21:11:22.979Z</updated>
-        <content type="html"><![CDATA[2022.11.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[링크 Special]​ 뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 첫​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55529</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55529"/>
-        <updated>2022-11-03T21:11:22.980Z</updated>
-        <content type="html"><![CDATA[2022.11.10(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 첫​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55528</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55528"/>
-        <updated>2022-11-03T21:11:22.986Z</updated>
-        <content type="html"><![CDATA[2022.11.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55527</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55527"/>
-        <updated>2022-11-03T21:11:22.986Z</updated>
-        <content type="html"><![CDATA[2022.11.07(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오페라 토스카 - 포항 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55526</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55526"/>
-        <updated>2022-11-03T21:11:22.989Z</updated>
-        <content type="html"><![CDATA[2022.11.09(수) 02:00]]></content>
     </entry>
 </feed>
