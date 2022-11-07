@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-06T23:14:07.169Z</updated>
+    <updated>2022-11-07T01:03:42.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코미디 뮤지컬 <옹알스> 부천 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55541</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55541"/>
+        <updated>2022-11-07T01:03:42.194Z</updated>
+        <content type="html"><![CDATA[2022.11.08(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여수]싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55539</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55526"/>
         <updated>2022-11-03T21:11:22.989Z</updated>
         <content type="html"><![CDATA[2022.11.09(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 부산학생예술문화회관 교직원 초청 공연 - 12인의 성난 사람들​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55525</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55525"/>
-        <updated>2022-11-03T21:11:22.991Z</updated>
-        <content type="html"><![CDATA[2022.11.03(목) 07:00]]></content>
     </entry>
 </feed>
