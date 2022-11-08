@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-08T03:22:17.403Z</updated>
+    <updated>2022-11-08T04:38:47.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 앰비규어스댄스컴퍼니<얼이섞다> 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.08(화) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​2023년 특선가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 익산​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55557</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55557"/>
+        <updated>2022-11-08T04:38:46.943Z</updated>
+        <content type="html"><![CDATA[2022.11.08(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 앰비규어스댄스컴퍼니<얼이섞다> 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55552</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55552"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55538"/>
         <updated>2022-11-04T09:13:36.931Z</updated>
         <content type="html"><![CDATA[2022.11.08(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​전시 <상상을 찍는 사진작가 에릭 요한슨展> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55537</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55537"/>
-        <updated>2022-11-04T09:13:36.932Z</updated>
-        <content type="html"><![CDATA[2022.11.08(화) 02:00]]></content>
     </entry>
 </feed>
