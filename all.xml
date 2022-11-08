@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-08T08:20:14.669Z</updated>
+    <updated>2022-11-08T09:14:28.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤직페스티벌 “RIDE THE BEAT” 공식 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55560</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55560"/>
+        <updated>2022-11-08T09:13:19.504Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.11(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 <호두까기인형> - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55559</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55546"/>
         <updated>2022-11-07T09:13:46.619Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.10(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55545</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55545"/>
-        <updated>2022-11-07T06:17:12.657Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.09(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 뮤직페스티벌 “RIDE THE BEAT” 공식 티켓오픈 안내 (티켓링크 모바일)]]></title>
