@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-08T01:06:00.231Z</updated>
+    <updated>2022-11-08T03:22:17.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 앰비규어스댄스컴퍼니<얼이섞다> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55552</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55552"/>
+        <updated>2022-11-08T03:22:16.794Z</updated>
+        <content type="html"><![CDATA[2022.11.11(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강원도립극단 2022 신진연출가 발굴전 연극 <카페인>  - 춘천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55551</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55551"/>
+        <updated>2022-11-08T03:22:16.794Z</updated>
+        <content type="html"><![CDATA[2022.11.11(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콩순이 뮤지컬 시즌2〈우리들 음악회〉 - 동해 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55550</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55550"/>
+        <updated>2022-11-08T03:22:16.795Z</updated>
+        <content type="html"><![CDATA[2022.11.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 어린이 베스트셀러 뮤지컬 〈누가 내머리에 똥 쌌어？〉 - 김천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55549</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55549"/>
+        <updated>2022-11-08T03:22:16.796Z</updated>
+        <content type="html"><![CDATA[2022.11.10(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유러피안 재즈 페스티벌 2022 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55548</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55548"/>
+        <updated>2022-11-08T03:22:16.797Z</updated>
+        <content type="html"><![CDATA[2022.11.11(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 최유리 EP 발매 기념 단독 콘서트 '여운' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55546</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55537"/>
         <updated>2022-11-04T09:13:36.932Z</updated>
         <content type="html"><![CDATA[2022.11.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 오버워치 컨텐더스 코리아 차기시즌​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55536</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55536"/>
-        <updated>2022-11-04T09:13:36.933Z</updated>
-        <content type="html"><![CDATA[2022.11.05(토) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  청(淸):The Blue '바다를 열다’ - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55535</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55535"/>
-        <updated>2022-11-03T21:11:22.974Z</updated>
-        <content type="html"><![CDATA[2022.11.08(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [원주문화재단] 릴레이 연극 프로젝트 1탄 연극  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55534</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55534"/>
-        <updated>2022-11-03T21:11:22.977Z</updated>
-        <content type="html"><![CDATA[2022.11.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2022 듀에토 콘서트 ‘Black Out’​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55533</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55533"/>
-        <updated>2022-11-03T21:11:22.978Z</updated>
-        <content type="html"><![CDATA[2022.11.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청춘 코미디〈벚꽃졸업식〉- 대구티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55532</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55532"/>
-        <updated>2022-11-03T21:11:22.978Z</updated>
-        <content type="html"><![CDATA[2022.11.07(월) 01:00]]></content>
     </entry>
 </feed>
