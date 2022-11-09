@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-09T04:40:44.747Z</updated>
+    <updated>2022-11-09T05:26:13.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55566"/>
         <updated>2022-11-09T03:28:48.459Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 주현미 송년콘서트 - 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55565</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55565"/>
+        <updated>2022-11-09T05:25:04.593Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.11(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[성남] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/55553</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55553"/>
         <updated>2022-11-08T05:21:39.644Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 앰비규어스댄스컴퍼니<얼이섞다> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55552</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55552"/>
-        <updated>2022-11-08T03:22:08.249Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.11(금) 05:00]]></content>
     </entry>
 </feed>
