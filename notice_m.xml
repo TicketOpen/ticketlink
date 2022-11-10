@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-10T09:15:01.643Z</updated>
+    <updated>2022-11-10T10:15:09.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 더 뜨겁게 FIFA 온라인 4 뷰잉파티 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55582</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55582"/>
+        <updated>2022-11-10T10:15:08.232Z</updated>
+        <content type="html"><![CDATA[2022.11.11(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  제 3회 나누다앙상블 정기연주회​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55581</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55568"/>
         <updated>2022-11-10T03:22:50.141Z</updated>
         <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​소프라노 구수민 독창회​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55567</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55567"/>
-        <updated>2022-11-09T08:18:28.231Z</updated>
-        <content type="html"><![CDATA[2022.11.10(목) 00:00]]></content>
     </entry>
 </feed>
