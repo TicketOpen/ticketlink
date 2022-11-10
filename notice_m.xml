@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-10T05:22:47.401Z</updated>
+    <updated>2022-11-10T06:17:45.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  파리나무십자가 소년합창단 'The Little Singers of Paris' - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55579</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55579"/>
+        <updated>2022-11-10T06:17:44.509Z</updated>
+        <content type="html"><![CDATA[2022.11.14(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 임재범 전국투어 콘서트 - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55578</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55578"/>
+        <updated>2022-11-10T06:17:44.516Z</updated>
+        <content type="html"><![CDATA[2022.11.14(월) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌3 – 평택 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55577</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55577"/>
+        <updated>2022-11-10T06:17:44.522Z</updated>
+        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스에 뭐하니? 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55576</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55576"/>
+        <updated>2022-11-10T06:17:44.523Z</updated>
+        <content type="html"><![CDATA[2022.11.11(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[링크 Special]   뮤지컬 캣츠 오리지널 내한-부산(Musical CATS) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55575</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55565"/>
         <updated>2022-11-09T08:18:28.235Z</updated>
         <content type="html"><![CDATA[2022.11.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[성남] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55564</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55564"/>
-        <updated>2022-11-09T08:18:28.235Z</updated>
-        <content type="html"><![CDATA[2022.11.11(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테 디 콰트로 크리스마스 콘서트  - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55563</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55563"/>
-        <updated>2022-11-09T08:18:28.235Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뮤지컬, 바람으로의 여행] 2차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55562</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55562"/>
-        <updated>2022-11-09T08:18:28.238Z</updated>
-        <content type="html"><![CDATA[2022.11.14(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 베이스바리톤 김동현 클래식 미니 콘서트​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55561</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55561"/>
-        <updated>2022-11-09T08:18:28.239Z</updated>
-        <content type="html"><![CDATA[2022.11.11(금) 03:00]]></content>
     </entry>
 </feed>
