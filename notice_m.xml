@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-11T06:20:10.459Z</updated>
+    <updated>2022-11-11T07:13:51.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​어린이뮤지컬 <다이노파워즈-그린에너지를 지켜라!> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55588</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55588"/>
+        <updated>2022-11-11T07:13:50.273Z</updated>
+        <content type="html"><![CDATA[2022.11.15(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 소연(라붐 . wsg 워너비) 1st 팬미팅​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55587</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55587"/>
+        <updated>2022-11-11T07:13:50.273Z</updated>
+        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 번개맨 뮤지컬 : 우주최강 번개삼총사​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55586</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55573"/>
         <updated>2022-11-10T03:22:50.130Z</updated>
         <content type="html"><![CDATA[2022.11.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트 창 <인간 부등식> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55572</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55572"/>
-        <updated>2022-11-10T03:22:50.133Z</updated>
-        <content type="html"><![CDATA[2022.11.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고다 호기심딱지 - 청주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55571</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55571"/>
-        <updated>2022-11-10T03:22:50.134Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
     </entry>
 </feed>
