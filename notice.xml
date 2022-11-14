@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-14T06:19:01.628Z</updated>
+    <updated>2022-11-14T07:12:21.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55592</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55592"/>
+        <updated>2022-11-14T07:12:09.847Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <브로드웨이 42번가> - 부산​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55591</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55591"/>
+        <updated>2022-11-14T07:12:09.855Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.21(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕가위 영화음악 오케스트라 콘서트​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55590</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55590"/>
+        <updated>2022-11-14T07:12:09.862Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 삼척시민과 함께하는 2022 송년 음악회​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55589</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55589"/>
+        <updated>2022-11-14T07:12:09.862Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​어린이뮤지컬 <다이노파워즈-그린에너지를 지켜라!> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55588</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55578"/>
         <updated>2022-11-10T09:13:53.235Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.14(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김창옥 토크콘서트 시즌3 – 평택 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55577</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55577"/>
-        <updated>2022-11-10T05:21:42.147Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[링크 Special]   뮤지컬 캣츠 오리지널 내한-부산(Musical CATS) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55575</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55575"/>
-        <updated>2022-11-10T03:22:40.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.18(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-부산(Musical CATS)  티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55574</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55574"/>
-        <updated>2022-11-10T03:22:40.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  뉴욕 재즈 바이올리스트 임서연 재즈 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55573</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55573"/>
-        <updated>2022-11-10T03:22:40.893Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.11(금) 05:00]]></content>
     </entry>
 </feed>
