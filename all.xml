@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-17T12:26:47.913Z</updated>
+    <updated>2022-11-17T13:31:16.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 대한민국 동화축제 - 포항​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.17(목) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2022 대한민국 동화축제 - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55612</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55612"/>
+        <updated>2022-11-17T13:31:15.825Z</updated>
+        <content type="html"><![CDATA[2022.11.18(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제133회 정기공연 [호두까기 인형]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55611</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55611"/>
+        <updated>2022-11-17T13:31:15.858Z</updated>
+        <content type="html"><![CDATA[2022.11.22(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클래식의 향기​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55610</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55610"/>
+        <updated>2022-11-17T13:31:15.869Z</updated>
+        <content type="html"><![CDATA[2022.11.21(월) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[터미널 : The Terminal 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55607</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55607"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55595"/>
         <updated>2022-11-15T06:16:13.195Z</updated>
         <content type="html"><![CDATA[2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55594</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55594"/>
-        <updated>2022-11-15T06:16:13.195Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립소년소녀합창단] 제137회 정기공연_영어 오페라 시리즈 I 「피노키오」티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55593</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55593"/>
-        <updated>2022-11-15T06:16:13.199Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아프리카TV 철감봉남 스타 대학대전 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55592</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55592"/>
-        <updated>2022-11-14T07:12:20.680Z</updated>
-        <content type="html"><![CDATA[2022.11.15(화) 05:00]]></content>
     </entry>
 </feed>
