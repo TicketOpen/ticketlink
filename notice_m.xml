@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-18T05:14:06.721Z</updated>
+    <updated>2022-11-18T06:15:27.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2022 경산공감락페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55618</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55618"/>
+        <updated>2022-11-18T06:15:26.946Z</updated>
+        <content type="html"><![CDATA[2022.11.23(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2022 구미시낭송대축전 - 구미​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55617</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55617"/>
+        <updated>2022-11-18T06:15:26.946Z</updated>
+        <content type="html"><![CDATA[2022.11.22(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​연극 <광부화가들> 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55616</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55616"/>
+        <updated>2022-11-18T06:15:26.946Z</updated>
+        <content type="html"><![CDATA[2022.11.22(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <랭보>​ 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55615</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55615"/>
+        <updated>2022-11-18T06:15:26.947Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유러피안 재즈 페스티벌 2022 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55614</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55601"/>
         <updated>2022-11-16T05:12:02.034Z</updated>
         <content type="html"><![CDATA[2022.11.22(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022-23 YB TOUR LIGHTS - 의성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55600</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55600"/>
-        <updated>2022-11-16T05:12:02.035Z</updated>
-        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 앤디킴트리오​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55599</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55599"/>
-        <updated>2022-11-15T06:16:13.193Z</updated>
-        <content type="html"><![CDATA[2022.11.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Jazz Swing Days 「이것이 재즈다!」 / 김국주밴드​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55598</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55598"/>
-        <updated>2022-11-15T06:16:13.193Z</updated>
-        <content type="html"><![CDATA[2022.11.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 132회 정기연주회 '송년음악회-개세지재' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55597</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55597"/>
-        <updated>2022-11-16T09:16:03.099Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 05:00]]></content>
     </entry>
 </feed>
