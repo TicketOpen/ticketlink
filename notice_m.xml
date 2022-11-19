@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-19T06:15:37.274Z</updated>
+    <updated>2022-11-19T07:12:27.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[롤링쿼츠 두번째 단독 콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55620</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55620"/>
+        <updated>2022-11-19T07:12:26.726Z</updated>
+        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 정동하 크리스마스 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55619</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55619"/>
+        <updated>2022-11-19T07:12:26.748Z</updated>
+        <content type="html"><![CDATA[2022.11.24(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2022 경산공감락페스티벌​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55618</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55604"/>
         <updated>2022-11-16T11:12:16.656Z</updated>
         <content type="html"><![CDATA[2022.11.17(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <종의 기원> 1차​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55602</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55602"/>
-        <updated>2022-11-16T05:12:02.021Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2022 펭수 연말 펭미팅 ​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55601</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55601"/>
-        <updated>2022-11-16T05:12:02.034Z</updated>
-        <content type="html"><![CDATA[2022.11.22(화) 09:00]]></content>
     </entry>
 </feed>
