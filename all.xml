@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-19T11:11:51.126Z</updated>
+    <updated>2022-11-19T12:21:29.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구시립소년소녀합창단 제126회 정기연주회 -동무생각, 그리고 100년-​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.25(금) 09:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립소년소녀합창단 제126회 정기연주회 -동무생각, 그리고 100년-​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55621</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55621"/>
+        <updated>2022-11-19T12:21:29.064Z</updated>
+        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[롤링쿼츠 두번째 단독 콘서트​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55620</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55620"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55605"/>
         <updated>2022-11-17T01:02:36.961Z</updated>
         <content type="html"><![CDATA[2022.11.25(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <엄마까투리 - 마트에 간 꽁지> - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55604</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55604"/>
-        <updated>2022-11-16T11:12:16.656Z</updated>
-        <content type="html"><![CDATA[2022.11.17(목) 00:00]]></content>
     </entry>
 </feed>
