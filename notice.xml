@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-11-21T01:04:43.956Z</updated>
+    <updated>2022-11-21T03:13:24.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 뮤지컬 <미드나잇 : 액터뮤지션> - THE DAY​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55625</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55625"/>
+        <updated>2022-11-21T03:12:19.615Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제1회 인어스 브라스 소사이어티 콘서트 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55622</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55622"/>
+        <updated>2022-11-21T03:12:19.616Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.23(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구시립소년소녀합창단 제126회 정기연주회 -동무생각, 그리고 100년-​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55621</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55607"/>
         <updated>2022-11-17T07:11:36.086Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.21(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​<꼭두야, 저승가자!> / 놀이패 신명-광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55606</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55606"/>
-        <updated>2022-11-17T07:11:36.097Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  마그멜리아에서 열리는 엘소드 15주년 페스티벌​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55605</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55605"/>
-        <updated>2022-11-17T07:11:36.098Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.25(금) 09:00]]></content>
     </entry>
 </feed>
