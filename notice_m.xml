@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-22T04:17:25.240Z</updated>
+    <updated>2022-11-22T05:13:06.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​Canticum Novum Mission Choir 송년음악회​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55636</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55636"/>
+        <updated>2022-11-22T05:13:06.361Z</updated>
+        <content type="html"><![CDATA[2022.11.23(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오카리나의 장인 소지로 내한 신년음악회​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55635</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55635"/>
+        <updated>2022-11-22T05:13:06.361Z</updated>
+        <content type="html"><![CDATA[2022.11.23(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 전통연희로 부활한 셰익스피어의 명작 ‘한 여름밤의 꿈’ - 원주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55634</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55622"/>
         <updated>2022-11-21T06:17:16.069Z</updated>
         <content type="html"><![CDATA[2022.11.23(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구시립소년소녀합창단 제126회 정기연주회 -동무생각, 그리고 100년-​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55621</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55621"/>
-        <updated>2022-11-19T12:21:29.064Z</updated>
-        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롤링쿼츠 두번째 단독 콘서트​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55620</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55620"/>
-        <updated>2022-11-19T07:12:26.726Z</updated>
-        <content type="html"><![CDATA[2022.11.21(월) 05:00]]></content>
     </entry>
 </feed>
