@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-25T05:13:03.611Z</updated>
+    <updated>2022-11-25T06:16:02.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JazzWorks N8 - The Art of Jazz Guitar​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55671</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55671"/>
+        <updated>2022-11-25T06:16:01.767Z</updated>
+        <content type="html"><![CDATA[2022.11.29(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈서편제〉 - 천안​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55668</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55668"/>
+        <updated>2022-11-25T06:16:01.776Z</updated>
+        <content type="html"><![CDATA[2022.11.30(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인순이 전국투어 콘서트 - 성남​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55667</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55655"/>
         <updated>2022-11-23T10:13:37.171Z</updated>
         <content type="html"><![CDATA[2022.11.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신연아 & 니콜라 세르지오 (서울)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55654</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55654"/>
-        <updated>2022-11-23T10:13:37.173Z</updated>
-        <content type="html"><![CDATA[2022.11.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신연아 & 니콜라 세르지오 (대구)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55653</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55653"/>
-        <updated>2022-11-23T10:13:37.174Z</updated>
-        <content type="html"><![CDATA[2022.11.28(월) 01:00]]></content>
     </entry>
 </feed>
