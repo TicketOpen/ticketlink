@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-11-25T10:14:28.811Z</updated>
+    <updated>2022-11-25T11:11:12.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지브리 페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55674</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55674"/>
+        <updated>2022-11-25T11:11:11.837Z</updated>
+        <content type="html"><![CDATA[2022.11.29(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 거제 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55673</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55673"/>
+        <updated>2022-11-25T11:11:11.847Z</updated>
+        <content type="html"><![CDATA[2022.12.01(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 발레컬 - 나의 어린왕자 이야기 (목포) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55672</id>
@@ -73,7 +87,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/55663</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55663"/>
         <updated>2022-11-24T03:23:30.911Z</updated>
-        <content type="html"><![CDATA[2022.11.30(수) 05:00]]></content>
+        <content type="html"><![CDATA[2022.12.02(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​연극 <러브레터> - 전주​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55660"/>
         <updated>2022-11-23T10:13:37.160Z</updated>
         <content type="html"><![CDATA[2022.11.24(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[클래식 큐레이터] 클래식 디깅 클럽 - 베토벤​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55659</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55659"/>
-        <updated>2022-11-23T10:13:37.160Z</updated>
-        <content type="html"><![CDATA[2022.11.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST: 전율 정동하 X 소향 - 용인​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55658</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55658"/>
-        <updated>2022-11-23T10:13:37.168Z</updated>
-        <content type="html"><![CDATA[2022.11.29(화) 05:00]]></content>
     </entry>
 </feed>
