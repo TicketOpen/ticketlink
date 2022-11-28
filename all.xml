@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-28T03:27:21.461Z</updated>
+    <updated>2022-11-28T04:15:12.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 음악극<브릴리언트>​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.02(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제3회 더 소프라노즈 정기연주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55680</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55680"/>
+        <updated>2022-11-28T04:15:11.868Z</updated>
+        <content type="html"><![CDATA[2022.11.29(화) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 음악극<브릴리언트>​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55677</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55677"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55664"/>
         <updated>2022-11-24T08:16:58.763Z</updated>
         <content type="html"><![CDATA[2022.11.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식 디깅 클럽 - 쇼팽​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55663</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55663"/>
-        <updated>2022-11-24T03:23:30.911Z</updated>
-        <content type="html"><![CDATA[2022.12.02(금) 05:00]]></content>
     </entry>
 </feed>
