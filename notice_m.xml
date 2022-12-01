@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-01T03:07:06.615Z</updated>
+    <updated>2022-12-01T04:15:18.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독판매] <피터와 늑대> - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 크리스마스 페스티벌 <피터와 늑대> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55697</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55697"/>
         <updated>2022-11-30T14:12:06.786Z</updated>
         <content type="html"><![CDATA[2022.12.01(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] <원터콘서트> - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 크리스마스 페스티벌 <원터콘서트> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55696</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55696"/>
         <updated>2022-11-30T14:12:06.786Z</updated>
