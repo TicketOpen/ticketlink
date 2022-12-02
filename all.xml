@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-02T03:18:17.399Z</updated>
+    <updated>2022-12-02T04:14:34.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 고양 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55704</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55704"/>
+        <updated>2022-12-02T04:13:28.822Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 장재인 BOOK CONCERT < Jane Air >​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55703</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55703"/>
+        <updated>2022-12-02T04:13:28.822Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 오산​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55702</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55702"/>
+        <updated>2022-12-02T04:13:28.823Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신데렐라 - 인천​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55701</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55701"/>
+        <updated>2022-12-02T04:13:28.829Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.05(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제이국악오케스트라 제3회 정기연주회 <감각> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55700</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55700"/>
+        <updated>2022-12-02T04:13:28.830Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.05(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​어린이베스트셀러뮤지컬 <사과가 쿵!> - 양산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55699</id>
@@ -73,41 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55690"/>
         <updated>2022-11-29T08:15:38.885Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.11.30(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <드라큘라> 마지막 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55689</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55689"/>
-        <updated>2022-11-29T08:15:38.887Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장진의 연극 <서툰 사람들>​ 2차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55688</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55688"/>
-        <updated>2022-11-29T05:11:29.597Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.02(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <서편제> - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55687</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55687"/>
-        <updated>2022-11-29T05:11:29.605Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.01(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <산타와 빈양말> 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55686</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55686"/>
-        <updated>2022-11-29T02:25:43.265Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.11.30(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <드라큘라> – 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55685</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55685"/>
-        <updated>2022-11-29T02:25:43.272Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.05(월) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​어린이베스트셀러뮤지컬 <사과가 쿵!> - 양산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
