@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-02T09:12:54.407Z</updated>
+    <updated>2022-12-02T10:13:22.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2022 장재인 BOOK CONCERT < Jane Air >​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55710</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55710"/>
+        <updated>2022-12-02T10:12:17.095Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 원주문화재단 '릴레이 연극 프로젝트' 1탄 연극<보통의 날들> - 원주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55709</id>
@@ -45,13 +52,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55704"/>
         <updated>2022-12-02T04:13:28.822Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 장재인 BOOK CONCERT < Jane Air >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55703</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55703"/>
-        <updated>2022-12-02T04:13:28.822Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 오산​​​ 티켓오픈 안내 (티켓링크)]]></title>
