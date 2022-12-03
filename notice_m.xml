@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-03T11:10:07.034Z</updated>
+    <updated>2022-12-03T12:19:28.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 특선가족뮤지컬 <피터팬> - 포항​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55713</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55713"/>
+        <updated>2022-12-03T12:19:27.852Z</updated>
+        <content type="html"><![CDATA[2022.12.05(월) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제4회 대구 커피&베이커리축제-이야기가 있는 커피&베이커리 콘서트​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55712</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[단독판매] 크리스마스 페스티벌 <피터와 늑대> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55697</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55697"/>
-        <updated>2022-11-30T14:12:06.786Z</updated>
-        <content type="html"><![CDATA[2022.12.01(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 크리스마스 페스티벌 <원터콘서트> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55696</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55696"/>
         <updated>2022-11-30T14:12:06.786Z</updated>
         <content type="html"><![CDATA[2022.12.01(목) 05:00]]></content>
     </entry>
