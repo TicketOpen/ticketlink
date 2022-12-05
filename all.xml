@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-05T03:14:07.160Z</updated>
+    <updated>2022-12-05T04:14:08.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제 83기 kBS 부산 노래교실 티켓오픈 안내 (티켓링크)]]></title>
@@ -26,11 +26,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.05(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 장재인 BOOK CONCERT < Jane Air >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55710</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55710"/>
-        <updated>2022-12-02T10:12:17.095Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 11:00]]></content>
+        <title type="html"><![CDATA[2022 SOMEDAY THEATRE LAST CANTABILE​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55711</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55711"/>
+        <updated>2022-12-05T04:14:01.733Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.07(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 원주문화재단 '릴레이 연극 프로젝트' 1탄 연극<보통의 날들> - 원주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.02(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 제 83기 kBS 부산 노래교실 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55714</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55714"/>
+        <updated>2022-12-05T04:14:07.452Z</updated>
+        <content type="html"><![CDATA[2022.12.09(금) 11:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년 특선가족뮤지컬 <피터팬> - 포항​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55713</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55713"/>
@@ -124,11 +131,11 @@
         <content type="html"><![CDATA[2022.12.05(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 장재인 BOOK CONCERT < Jane Air >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55710</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55710"/>
-        <updated>2022-12-02T09:12:53.668Z</updated>
-        <content type="html"><![CDATA[2022.12.06(화) 11:00]]></content>
+        <title type="html"><![CDATA[2022 SOMEDAY THEATRE LAST CANTABILE​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55711</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55711"/>
+        <updated>2022-12-05T04:14:07.456Z</updated>
+        <content type="html"><![CDATA[2022.12.07(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2022 원주문화재단 '릴레이 연극 프로젝트' 1탄 연극<보통의 날들> - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55698"/>
         <updated>2022-12-01T12:26:46.646Z</updated>
         <content type="html"><![CDATA[2022.12.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 크리스마스 페스티벌 <피터와 늑대> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55697</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55697"/>
-        <updated>2022-11-30T14:12:06.786Z</updated>
-        <content type="html"><![CDATA[2022.12.01(목) 05:00]]></content>
     </entry>
 </feed>
