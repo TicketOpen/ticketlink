@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-06T00:54:16.576Z</updated>
+    <updated>2022-12-06T02:16:24.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2022 김복유 연말콘서트 IN 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55723</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55723"/>
+        <updated>2022-12-06T02:15:19.143Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 김복유 연말콘서트 IN 서울​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55722</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55722"/>
+        <updated>2022-12-06T02:15:19.146Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] HEALING VOICE 하림 X 정인 콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55721</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55721"/>
+        <updated>2022-12-06T02:15:19.148Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <완득이> - 원주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55720</id>
@@ -48,7 +69,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 제 83기 kBS 부산 노래교실 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 제 85기 KBS 부산 노래교실 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55714</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55714"/>
         <updated>2022-12-05T02:14:36.859Z</updated>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55708"/>
         <updated>2022-12-02T05:10:21.864Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.05(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 2022년 송년음악회 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55707</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55707"/>
-        <updated>2022-12-02T05:10:21.873Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] TERRA IN GWANGJU HAPPY CHRISTMAS DJ PARTY​ ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55706</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55706"/>
-        <updated>2022-12-02T05:10:21.875Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 윤지성 Fan Concert <12월 24일: Lucid Dream> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55705</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55705"/>
-        <updated>2022-12-02T05:10:21.875Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 11:00]]></content>
     </entry>
 </feed>
