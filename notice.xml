@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-06T09:13:00.458Z</updated>
+    <updated>2022-12-06T10:13:46.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <고고다이노 우리동네공룡> - 용인 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55730</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55730"/>
+        <updated>2022-12-06T10:12:40.978Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] LINK FESTA : 2022 리처드 용재 오닐 송년 콘서트 <선물 : 탱고피버>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55729</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55716"/>
         <updated>2022-12-05T06:14:03.443Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.07(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2022 HOT6 발로란트 BJ멸망전 인비테이셔널​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55715</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55715"/>
-        <updated>2022-12-05T10:12:47.201Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.06(화) 05:00]]></content>
     </entry>
 </feed>
