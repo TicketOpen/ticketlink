@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-07T06:17:33.035Z</updated>
+    <updated>2022-12-07T07:11:25.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55741</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55741"/>
+        <updated>2022-12-07T07:10:19.975Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.09(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 김창완밴드 전국투어 콘서트 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55740</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55740"/>
+        <updated>2022-12-07T07:10:19.995Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 광명​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55739</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55739"/>
+        <updated>2022-12-07T07:10:19.995Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 민쩌미 <사랑해요 엄마!> - 부산앵콜​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55738</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55727"/>
         <updated>2022-12-06T07:10:24.840Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​LINK FESTA : always summer​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55726</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55726"/>
-        <updated>2022-12-06T07:10:24.843Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단]제370회 정기연주회 ‘2023 신년음악회’​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55725</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55725"/>
-        <updated>2022-12-06T07:10:24.845Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.07(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOUR 2023 아시니코 내한공연 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55724</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55724"/>
-        <updated>2022-12-06T07:10:24.846Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.10(토) 01:00]]></content>
     </entry>
 </feed>
