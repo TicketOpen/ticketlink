@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-08T15:13:26.317Z</updated>
+    <updated>2022-12-08T16:16:11.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얼굴 입장 서비스 추가 기능 개선 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55748</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55748"/>
+        <updated>2022-12-08T16:16:11.239Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/55748" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">얼굴 입장 서비스 추가 기능 개선 안내</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <알사탕> - 구미​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55747</id>
@@ -25,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55745"/>
         <updated>2022-12-08T03:14:23.665Z</updated>
         <content type="html"><![CDATA[2022.12.15(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 사운드바이사운드[SOUND X SOUND] - 김기태x김소연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55744</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55744"/>
+        <updated>2022-12-08T16:16:11.250Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  트롬본 앙상블 세븐포지션 마스터피스 시리즈 I <전람회의 그림> - 대구​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55734"/>
         <updated>2022-12-06T13:22:49.697Z</updated>
         <content type="html"><![CDATA[2022.12.09(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박장현 1st Fanmeeting '현주소'​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55733</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55733"/>
-        <updated>2022-12-06T13:22:49.697Z</updated>
-        <content type="html"><![CDATA[2022.12.09(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 부산예술​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55732</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55732"/>
-        <updated>2022-12-06T13:22:49.698Z</updated>
-        <content type="html"><![CDATA[2022.12.13(화) 02:00]]></content>
     </entry>
 </feed>
