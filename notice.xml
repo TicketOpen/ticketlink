@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-08T02:19:31.377Z</updated>
+    <updated>2022-12-08T03:14:24.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <알사탕> - 구미​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55747</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55747"/>
+        <updated>2022-12-08T03:14:12.879Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.12(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55746</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55746"/>
+        <updated>2022-12-08T03:14:12.879Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[링크 Special]​ 뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55745</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55745"/>
+        <updated>2022-12-08T03:14:12.880Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  트롬본 앙상블 세븐포지션 마스터피스 시리즈 I <전람회의 그림> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55743</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55732"/>
         <updated>2022-12-06T11:09:44.208Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공포 연극 <어게인>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55731</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55731"/>
-        <updated>2022-12-06T11:09:44.209Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.09(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <고고다이노 우리동네공룡> - 용인 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55730</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55730"/>
-        <updated>2022-12-06T10:12:40.978Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LINK FESTA : 2022 리처드 용재 오닐 송년 콘서트 <선물 : 탱고피버>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55729</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55729"/>
-        <updated>2022-12-06T07:10:24.835Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.08(목) 07:00]]></content>
     </entry>
 </feed>
