@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-12T08:16:54.985Z</updated>
+    <updated>2022-12-12T09:12:40.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 - 의정부​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55774</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55774"/>
+        <updated>2022-12-12T09:11:34.782Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(부천) 2023 가족뮤지컬 출동!슈퍼윙스<스노우 페스티벌> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55773</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55773"/>
+        <updated>2022-12-12T09:11:34.784Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 홈쑈핑 주식회사 국제흥신소 - 익산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55772</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55772"/>
+        <updated>2022-12-12T09:11:34.785Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.20(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 우리동네공룡> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55771</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55771"/>
+        <updated>2022-12-12T09:11:34.786Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2022 우드드로잉 연말 콘서트 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55770</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55770"/>
+        <updated>2022-12-12T09:11:34.787Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예문학생윈드오케스트라, 예문학생시어터 공연 <홈커밍데이(Homecoming Day)> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55769</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55769"/>
+        <updated>2022-12-12T09:11:34.788Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 용산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55768</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55768"/>
+        <updated>2022-12-12T09:11:34.789Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 갈라 콘서트  - 경주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55767</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55767"/>
+        <updated>2022-12-12T09:11:34.791Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.19(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 김창완밴드 전국투어 <아니벌써> - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55766</id>
@@ -52,62 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/55760</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55760"/>
         <updated>2022-12-09T14:10:16.883Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINK FESTA​ : 2022 임한별 콘서트 ‘Christmas Eve-ning Star’​ 추가 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55759</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55759"/>
-        <updated>2022-12-09T14:10:16.884Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.12(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <티티체리-용의 생일잔치를 도와라> - 성남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55757</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55757"/>
-        <updated>2022-12-09T14:10:16.885Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 연장공연오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55756</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55756"/>
-        <updated>2022-12-09T14:10:16.887Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​찰리재즈오케스트라 정기연주회 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55755</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55755"/>
-        <updated>2022-12-09T14:10:16.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.12(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 시흥​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55754</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55754"/>
-        <updated>2022-12-09T14:10:16.889Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023년 가족뮤지컬 <겨울이야기> - 목포​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55753</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55753"/>
-        <updated>2022-12-09T14:10:16.890Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <빨래> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55752</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55752"/>
-        <updated>2022-12-09T14:10:16.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 - 남양주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55751</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55751"/>
-        <updated>2022-12-09T14:10:16.894Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 02:30]]></content>
     </entry>
 </feed>
