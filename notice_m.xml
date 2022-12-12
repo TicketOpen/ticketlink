@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-12T13:23:15.696Z</updated>
+    <updated>2022-12-12T14:11:33.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 - 의정부​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55774</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55774"/>
+        <updated>2022-12-12T14:11:32.725Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(부천) 2023 가족뮤지컬 출동!슈퍼윙스<스노우 페스티벌> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55773</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55773"/>
+        <updated>2022-12-12T14:11:32.755Z</updated>
+        <content type="html"><![CDATA[2022.12.14(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 홈쑈핑 주식회사 국제흥신소 - 익산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55772</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55760"/>
         <updated>2022-12-09T07:11:17.540Z</updated>
         <content type="html"><![CDATA[2022.12.13(화) 02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINK FESTA​ : 2022 임한별 콘서트 ‘Christmas Eve-ning Star’​ 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55759</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55759"/>
-        <updated>2022-12-09T07:11:17.540Z</updated>
-        <content type="html"><![CDATA[2022.12.12(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <티티체리-용의 생일잔치를 도와라> - 성남 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55757</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55757"/>
-        <updated>2022-12-09T07:11:17.545Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 05:00]]></content>
     </entry>
 </feed>
