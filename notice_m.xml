@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-13T02:26:41.809Z</updated>
+    <updated>2022-12-13T03:19:33.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55777</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55777"/>
+        <updated>2022-12-13T03:19:32.894Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​연극 <그날밤, 너랑나> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55776</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55776"/>
+        <updated>2022-12-13T03:19:32.895Z</updated>
+        <content type="html"><![CDATA[2022.12.14(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 청주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55775</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55775"/>
+        <updated>2022-12-13T03:19:32.896Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 - 의정부​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55774</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55763"/>
         <updated>2022-12-09T07:11:17.539Z</updated>
         <content type="html"><![CDATA[2022.12.13(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LINK FESTA : <변신> 민활란 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55762</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55762"/>
-        <updated>2022-12-09T07:11:17.539Z</updated>
-        <content type="html"><![CDATA[2022.12.13(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LINK FESTA : 김은영 콘서트 - 페이지를 넘기며​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55761</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55761"/>
-        <updated>2022-12-09T07:11:17.539Z</updated>
-        <content type="html"><![CDATA[2022.12.13(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LINK FESTA : 3gether : 친해지길바래 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55760</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55760"/>
-        <updated>2022-12-09T07:11:17.540Z</updated>
-        <content type="html"><![CDATA[2022.12.13(화) 02:30]]></content>
     </entry>
 </feed>
