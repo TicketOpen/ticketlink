@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-13T12:22:35.602Z</updated>
+    <updated>2022-12-13T13:19:58.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​그네가 있는 풍경 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55788</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55788"/>
+        <updated>2022-12-13T13:19:51.985Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55787</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55787"/>
+        <updated>2022-12-13T13:19:51.990Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.16(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 용인처인홀​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55786</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55786"/>
+        <updated>2022-12-13T13:19:52.001Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​책먹는여우 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55785</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55785"/>
+        <updated>2022-12-13T13:19:52.001Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <광부화가들> 마지막​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55784</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55784"/>
+        <updated>2022-12-13T13:19:52.004Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [MD] 2022 XIA Ballad & Musical Concert with Orchestra Vol.8 온라인 판매 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55783</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55783"/>
+        <updated>2022-12-13T13:19:52.013Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 <아기돼지 3형제> - 원주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55782</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55782"/>
+        <updated>2022-12-13T13:19:52.017Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​오카리나의 장인 소지로 내한공연 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55781</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55781"/>
+        <updated>2022-12-13T13:19:52.019Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​이예림 작곡 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55780</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55780"/>
+        <updated>2022-12-13T13:19:52.020Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] AFC22 DIEDIE - 일산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55779</id>
@@ -46,68 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55774"/>
         <updated>2022-12-12T09:11:34.782Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(부천) 2023 가족뮤지컬 출동!슈퍼윙스<스노우 페스티벌> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55773</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55773"/>
-        <updated>2022-12-12T09:11:34.784Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 홈쑈핑 주식회사 국제흥신소 - 익산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55772</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55772"/>
-        <updated>2022-12-12T09:11:34.785Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.20(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 우리동네공룡> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55771</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55771"/>
-        <updated>2022-12-12T09:11:34.786Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2022 우드드로잉 연말 콘서트 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55770</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55770"/>
-        <updated>2022-12-12T09:11:34.787Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예문학생윈드오케스트라, 예문학생시어터 공연 <홈커밍데이(Homecoming Day)> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55769</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55769"/>
-        <updated>2022-12-12T09:11:34.788Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.13(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 서울앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55768"/>
-        <updated>2022-12-12T09:11:34.789Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 갈라 콘서트  - 경주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55767</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55767"/>
-        <updated>2022-12-12T09:11:34.791Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.19(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 김창완밴드 전국투어 <아니벌써> - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55766</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55766"/>
-        <updated>2022-12-09T14:10:16.864Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.12(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 김창완밴드 전국투어 <아니벌써> - 순천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55765</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55765"/>
-        <updated>2022-12-09T14:10:16.873Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.12(월) 04:00]]></content>
     </entry>
 </feed>
