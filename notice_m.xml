@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-14T05:11:08.243Z</updated>
+    <updated>2022-12-14T06:15:33.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 부산 앵콜! 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55794</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55794"/>
+        <updated>2022-12-14T06:15:32.628Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 고양 앵콜! 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55793</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55793"/>
+        <updated>2022-12-14T06:15:32.629Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <깨비키즈의 빽투더 공룡배틀> - 대전​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55792</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55792"/>
+        <updated>2022-12-14T06:15:32.642Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 안양​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55791</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55779"/>
         <updated>2022-12-13T05:11:40.576Z</updated>
         <content type="html"><![CDATA[2022.12.14(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023겨울방학 특선뮤지컬 출동!슈퍼윙스 <​스노우 페스티벌> - 원주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55778</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55778"/>
-        <updated>2022-12-13T05:11:40.576Z</updated>
-        <content type="html"><![CDATA[2022.12.16(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55777</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55777"/>
-        <updated>2022-12-13T03:19:32.894Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​연극 <그날밤, 너랑나> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55776</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55776"/>
-        <updated>2022-12-13T03:19:32.895Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 00:00]]></content>
     </entry>
 </feed>
