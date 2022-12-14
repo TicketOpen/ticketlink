@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-14T08:16:54.806Z</updated>
+    <updated>2022-12-14T09:11:17.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 제주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55797</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55797"/>
+        <updated>2022-12-14T09:11:16.623Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 울산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55796</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55796"/>
+        <updated>2022-12-14T09:11:16.623Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 용인 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55795</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55795"/>
+        <updated>2022-12-14T09:11:16.623Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 부산 앵콜! 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55794</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55782"/>
         <updated>2022-12-13T08:15:51.780Z</updated>
         <content type="html"><![CDATA[2022.12.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​오카리나의 장인 소지로 내한공연 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55781</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55781"/>
-        <updated>2022-12-13T08:15:51.782Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이예림 작곡 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55780</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55780"/>
-        <updated>2022-12-13T08:15:51.782Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] AFC22 DIEDIE - 일산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55779</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55779"/>
-        <updated>2022-12-13T05:11:40.576Z</updated>
-        <content type="html"><![CDATA[2022.12.14(수) 08:00]]></content>
     </entry>
 </feed>
