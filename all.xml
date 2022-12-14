@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-14T02:22:58.868Z</updated>
+    <updated>2022-12-14T03:17:02.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​그네가 있는 풍경 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -177,7 +177,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/55779</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55779"/>
         <updated>2022-12-13T05:11:40.576Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 05:00]]></content>
+        <content type="html"><![CDATA[2022.12.14(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023겨울방학 특선뮤지컬 출동!슈퍼윙스 <​스노우 페스티벌> - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
