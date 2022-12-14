@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-14T04:15:47.908Z</updated>
+    <updated>2022-12-14T05:11:08.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55791</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55791"/>
+        <updated>2022-12-14T05:11:00.745Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <종의 기원> 2차​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55790</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55790"/>
+        <updated>2022-12-14T05:11:00.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.21(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​그네가 있는 풍경 - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55788</id>
@@ -73,7 +87,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/55779</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55779"/>
         <updated>2022-12-13T06:14:26.745Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023겨울방학 특선뮤지컬 출동!슈퍼윙스 <​스노우 페스티벌> - 원주 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55776"/>
         <updated>2022-12-13T03:19:27.161Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55775</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55775"/>
-        <updated>2022-12-13T03:19:27.165Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.16(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하 X 소향 - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55774</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55774"/>
-        <updated>2022-12-12T09:11:34.782Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.16(금) 05:00]]></content>
     </entry>
 </feed>
