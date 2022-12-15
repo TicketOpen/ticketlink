@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-15T02:22:58.342Z</updated>
+    <updated>2022-12-15T03:16:45.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​(2023 롯데백화점 대구) 버블매직쇼 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55803</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55803"/>
+        <updated>2022-12-15T03:16:38.424Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.16(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 변진섭 전국투어 콘서트 : 변천사 - 부천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55802</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55802"/>
+        <updated>2022-12-15T03:16:38.424Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.20(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 부산앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55801</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55801"/>
+        <updated>2022-12-15T03:16:38.426Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.19(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬<어린이 캣>-광주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55800</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55800"/>
+        <updated>2022-12-15T03:16:38.428Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?> - 화성 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55799</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일> - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55787</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55787"/>
-        <updated>2022-12-13T13:19:51.990Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.16(금) 07:00]]></content>
+        <title type="html"><![CDATA[​(2023 롯데백화점 대구) 버블매직쇼 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55803</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55803"/>
+        <updated>2022-12-15T03:16:44.624Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 용인처인홀​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55786</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55786"/>
-        <updated>2022-12-13T13:19:52.001Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 00:00]]></content>
+        <title type="html"><![CDATA[​2023 변진섭 전국투어 콘서트 : 변천사 - 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55802</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55802"/>
+        <updated>2022-12-15T03:16:44.624Z</updated>
+        <content type="html"><![CDATA[2022.12.20(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​책먹는여우 - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55785</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55785"/>
-        <updated>2022-12-13T13:19:52.001Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 부산앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55801</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55801"/>
+        <updated>2022-12-15T03:16:44.624Z</updated>
+        <content type="html"><![CDATA[2022.12.19(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <광부화가들> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55784</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55784"/>
-        <updated>2022-12-13T13:19:52.004Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.15(목) 05:00]]></content>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬<어린이 캣>-광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55800</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55800"/>
+        <updated>2022-12-15T03:16:44.632Z</updated>
+        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?> - 화성 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55788"/>
         <updated>2022-12-13T08:15:51.773Z</updated>
         <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 연극 <친정엄마와 2박3일> - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55787</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55787"/>
-        <updated>2022-12-13T08:15:51.780Z</updated>
-        <content type="html"><![CDATA[2022.12.16(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 용인처인홀​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55786</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55786"/>
-        <updated>2022-12-13T08:15:51.780Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​책먹는여우 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55785</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55785"/>
-        <updated>2022-12-13T08:15:51.780Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <광부화가들> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55784</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55784"/>
-        <updated>2022-12-13T08:15:51.780Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 05:00]]></content>
     </entry>
 </feed>
