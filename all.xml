@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-16T02:08:43.489Z</updated>
+    <updated>2022-12-16T03:13:08.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[디즈니 탄생 100주년 기념] 유러피안 재즈 트리오​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,48 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.21(수) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​책먹는여우 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55809</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55809"/>
+        <updated>2022-12-16T03:13:07.467Z</updated>
+        <content type="html"><![CDATA[2022.12.20(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​틀려도 괜찮아 - 익산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55808</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55808"/>
+        <updated>2022-12-16T03:13:07.468Z</updated>
+        <content type="html"><![CDATA[2022.12.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​틀려도 괜찮아 - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55807</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55807"/>
+        <updated>2022-12-16T03:13:07.470Z</updated>
+        <content type="html"><![CDATA[2022.12.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​틀려도 괜찮아 - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55806</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55806"/>
+        <updated>2022-12-16T03:13:07.472Z</updated>
+        <content type="html"><![CDATA[2022.12.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​틀려도 괜찮아 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55805</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55805"/>
+        <updated>2022-12-16T03:13:07.473Z</updated>
+        <content type="html"><![CDATA[2022.12.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[디즈니 탄생 100주년 기념] 유러피안 재즈 트리오​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55804</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55804"/>
+        <updated>2022-12-16T03:13:07.476Z</updated>
+        <content type="html"><![CDATA[2022.12.16(금) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​(2023 롯데백화점 대구) 버블매직쇼 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55803</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55803"/>
@@ -171,47 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55795"/>
         <updated>2022-12-14T09:11:16.623Z</updated>
         <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 부산 앵콜! 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55794</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55794"/>
-        <updated>2022-12-14T06:15:32.628Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리TV 러브콘서트 KPOP - 고양 앵콜! 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55793</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55793"/>
-        <updated>2022-12-14T06:15:32.629Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <깨비키즈의 빽투더 공룡배틀> - 대전​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55792</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55792"/>
-        <updated>2022-12-14T06:15:32.642Z</updated>
-        <content type="html"><![CDATA[2022.12.16(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55791</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55791"/>
-        <updated>2022-12-14T05:11:07.442Z</updated>
-        <content type="html"><![CDATA[2022.12.15(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <종의 기원> 2차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55790</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55790"/>
-        <updated>2022-12-14T05:11:07.445Z</updated>
-        <content type="html"><![CDATA[2022.12.21(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 : 우리동네공룡> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55789</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55789"/>
-        <updated>2022-12-15T05:10:51.015Z</updated>
-        <content type="html"><![CDATA[2022.12.30(금) 00:00]]></content>
     </entry>
 </feed>
