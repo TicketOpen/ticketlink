@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-21T20:13:27.047Z</updated>
+    <updated>2022-12-21T21:10:51.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 한울림 윈드 오케스트라 정기연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -194,13 +194,6 @@
         <content type="html"><![CDATA[2022.12.22(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55822</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55822"/>
-        <updated>2022-12-20T05:11:04.848Z</updated>
-        <content type="html"><![CDATA[2022.12.23(금) 02:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[​2023 가족 라이브뮤지컬 <백설공주> - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55821</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55821"/>
@@ -213,5 +206,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55820"/>
         <updated>2022-12-20T05:11:04.856Z</updated>
         <content type="html"><![CDATA[2022.12.22(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <엉덩이 탐정> - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55819</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55819"/>
+        <updated>2022-12-21T21:10:50.692Z</updated>
+        <content type="html"><![CDATA[2022.12.21(수) 01:00]]></content>
     </entry>
 </feed>
