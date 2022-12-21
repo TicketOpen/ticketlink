@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-21T09:12:39.106Z</updated>
+    <updated>2022-12-21T10:13:02.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55830"/>
         <updated>2022-12-21T03:13:21.487Z</updated>
         <content type="html"><![CDATA[2022.12.23(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 잔나비 전국투어 <판타스틱 올드 패션드 송년회> - 천안​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55829</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55829"/>
+        <updated>2022-12-21T10:13:02.273Z</updated>
+        <content type="html"><![CDATA[2022.12.23(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<가족뮤지컬> 매직캅의 마법학교 대모험 - 과천 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55820"/>
         <updated>2022-12-20T05:11:04.856Z</updated>
         <content type="html"><![CDATA[2022.12.22(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <엉덩이 탐정> - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55819</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55819"/>
-        <updated>2022-12-20T05:11:04.859Z</updated>
-        <content type="html"><![CDATA[2022.12.21(수) 01:00]]></content>
     </entry>
 </feed>
