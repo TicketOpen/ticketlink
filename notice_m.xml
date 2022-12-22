@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-22T00:52:57.113Z</updated>
+    <updated>2022-12-22T02:11:09.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알레스트링 콰르텟 정기연주회]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55835</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55835"/>
+        <updated>2022-12-22T02:11:08.432Z</updated>
+        <content type="html"><![CDATA[2022.12.23(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 한울림 윈드 오케스트라 정기연주회 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55834</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55820"/>
         <updated>2022-12-20T05:11:04.856Z</updated>
         <content type="html"><![CDATA[2022.12.22(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <엉덩이 탐정> - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55819</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55819"/>
-        <updated>2022-12-21T21:10:50.692Z</updated>
-        <content type="html"><![CDATA[2022.12.21(수) 01:00]]></content>
     </entry>
 </feed>
