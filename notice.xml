@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-23T12:19:36.916Z</updated>
+    <updated>2022-12-23T13:16:01.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 부산학생예술문화회관 교직원 초청 공연 - 신년음악회 with 부산네오필하모닉오케스트라​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55841</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55841"/>
+        <updated>2022-12-23T13:15:55.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.27(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55840</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55840"/>
+        <updated>2022-12-23T13:15:55.143Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.26(월) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <스위니토드>​​ 4차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55839</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55827"/>
         <updated>2022-12-20T08:13:55.000Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.22(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제1회 콘텐츠플래닝 콘서트 - 첫 번째 노댚의 보석상자<일로 만난 사이> ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55826</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55826"/>
-        <updated>2022-12-20T08:13:55.000Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LINK FESTA : 조수미 Dream with me 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55825</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55825"/>
-        <updated>2022-12-20T08:13:55.001Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.22(목) 04:00]]></content>
     </entry>
 </feed>
