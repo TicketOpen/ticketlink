@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-23T05:11:01.992Z</updated>
+    <updated>2022-12-23T06:15:40.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <스위니토드>​​ 4차 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.22(목) 04:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 부산학생예술문화회관 교직원 초청 공연 - 신년음악회 with 부산네오필하모닉오케스트라​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55841</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55841"/>
+        <updated>2022-12-23T06:15:40.048Z</updated>
+        <content type="html"><![CDATA[2022.12.27(화) 07:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55840</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55840"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55827"/>
         <updated>2022-12-20T12:20:18.556Z</updated>
         <content type="html"><![CDATA[2022.12.22(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제1회 콘텐츠플래닝 콘서트 - 첫 번째 노댚의 보석상자<일로 만난 사이> ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55826</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55826"/>
-        <updated>2022-12-20T12:20:18.556Z</updated>
-        <content type="html"><![CDATA[2022.12.22(목) 05:00]]></content>
     </entry>
 </feed>
