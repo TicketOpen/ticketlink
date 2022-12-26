@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-26T09:11:41.060Z</updated>
+    <updated>2022-12-26T10:11:13.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 강원도립국악관현악단 2023신년음악회-원주​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55849</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55849"/>
+        <updated>2022-12-26T10:11:13.308Z</updated>
+        <content type="html"><![CDATA[2022.12.28(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​책먹는여우 - 남양주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55848</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55848"/>
+        <updated>2022-12-26T10:11:13.308Z</updated>
+        <content type="html"><![CDATA[2022.12.27(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <환절기에서> - 서울 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55847</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55835"/>
         <updated>2022-12-22T02:11:08.432Z</updated>
         <content type="html"><![CDATA[2022.12.23(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 한울림 윈드 오케스트라 정기연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55834</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55834"/>
-        <updated>2022-12-21T03:13:21.473Z</updated>
-        <content type="html"><![CDATA[2022.12.23(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 특선가족뮤지컬“누가 내머리에 똥 쌌어?” - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55833</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55833"/>
-        <updated>2022-12-21T03:13:21.473Z</updated>
-        <content type="html"><![CDATA[2022.12.23(금) 00:00]]></content>
     </entry>
 </feed>
