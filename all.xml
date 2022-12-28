@@ -2,31 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-28T07:11:32.122Z</updated>
+    <updated>2022-12-28T08:13:50.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 안양 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 군산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55859</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55859"/>
+        <updated>2022-12-28T08:13:42.153Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.02(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 안양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55858</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55858"/>
         <updated>2022-12-28T00:50:52.907Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.03(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 부천 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 부천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55857</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55857"/>
         <updated>2022-12-28T00:50:52.907Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.03(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 광주 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55856</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55856"/>
         <updated>2022-12-28T00:50:52.907Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.03(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <이상한 과자 가게 전천당> - 청주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55855</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55855"/>
         <updated>2022-12-28T00:50:52.907Z</updated>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55845"/>
         <updated>2022-12-26T09:10:33.830Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.28(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] NHN티켓링크 개인정보처리방침 변경에 대한 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55844</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55844"/>
-        <updated>2022-12-26T09:10:33.831Z</updated>
-        <content type="html"><![CDATA[2022.12.26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 군산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
