@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-29T04:15:35.228Z</updated>
+    <updated>2022-12-29T05:10:32.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  히흥 첫번째 단독공연 <히읗쇼>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55862</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55862"/>
+        <updated>2022-12-29T05:10:31.319Z</updated>
+        <content type="html"><![CDATA[2023.01.04(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 고양​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55861</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55848"/>
         <updated>2022-12-26T10:11:13.308Z</updated>
         <content type="html"><![CDATA[2022.12.27(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <환절기에서> - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55847</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55847"/>
-        <updated>2022-12-26T03:13:03.438Z</updated>
-        <content type="html"><![CDATA[2022.12.27(화) 05:00]]></content>
     </entry>
 </feed>
