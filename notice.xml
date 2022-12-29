@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2022-12-29T07:12:15.795Z</updated>
+    <updated>2022-12-29T08:14:47.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(부천) 2023 가족뮤지컬<꼬마버스 타요와 하하호호 노래자랑> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55864</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55864"/>
+        <updated>2022-12-29T08:13:41.538Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.03(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  히흥 첫번째 단독공연 <히읗쇼>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55862</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55849"/>
         <updated>2022-12-26T09:10:33.817Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2022.12.28(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​책먹는여우 - 남양주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55848</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55848"/>
-        <updated>2022-12-26T09:10:33.820Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2022.12.27(화) 00:00]]></content>
     </entry>
 </feed>
