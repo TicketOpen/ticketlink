@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2022-12-30T03:12:40.398Z</updated>
+    <updated>2022-12-30T04:14:02.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 순천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55869</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55869"/>
+        <updated>2022-12-30T04:14:01.635Z</updated>
+        <content type="html"><![CDATA[2023.01.02(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  LINK FESTA : NOW : playing​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55868</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55868"/>
+        <updated>2022-12-30T04:14:01.643Z</updated>
+        <content type="html"><![CDATA[2023.01.03(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  LINK FESTA : 쾌남시대 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55867</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55867"/>
+        <updated>2022-12-30T04:14:01.643Z</updated>
+        <content type="html"><![CDATA[2023.01.03(화) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023 가족매직쇼 <일루젼 버블쇼> - 대전​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55866</id>
@@ -87,27 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/55854</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55854"/>
         <updated>2022-12-27T03:12:09.826Z</updated>
-        <content type="html"><![CDATA[2022.12.29(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족뮤지컬 백설공주 - 구미 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55853</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55853"/>
-        <updated>2022-12-27T03:12:09.826Z</updated>
-        <content type="html"><![CDATA[2022.12.29(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55852</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55852"/>
-        <updated>2022-12-27T03:12:09.831Z</updated>
-        <content type="html"><![CDATA[2022.12.30(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 천안 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55851</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55851"/>
-        <updated>2022-12-27T03:12:09.832Z</updated>
         <content type="html"><![CDATA[2022.12.29(목) 05:00]]></content>
     </entry>
 </feed>
