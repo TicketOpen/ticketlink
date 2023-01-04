@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-04T06:15:10.095Z</updated>
+    <updated>2023-01-04T07:11:13.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 김천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55893</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55893"/>
+        <updated>2023-01-04T07:10:06.789Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.09(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 시흥 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55892</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55892"/>
+        <updated>2023-01-04T07:10:06.794Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.09(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회 '신년음악회'  티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55891</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55891"/>
+        <updated>2023-01-04T07:10:06.796Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.09(월) 05:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이솔로몬 첫 번째 단독 콘서트 <손으로 써 내려간 것들>​ - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55890</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55890"/>
+        <updated>2023-01-04T07:10:06.813Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flight to Denmark Live! (세종) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55889</id>
@@ -31,6 +59,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55886"/>
         <updated>2023-01-04T04:13:18.179Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.06(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이솔로몬 첫 번째 단독 콘서트 <손으로 써 내려간 것들> - 서울 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55885</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55885"/>
+        <updated>2023-01-04T07:10:06.822Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.09(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[안양] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크)]]></title>
@@ -73,41 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55879"/>
         <updated>2023-01-03T05:10:02.407Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 가족마술콘서트 <매직오브아트>-남양주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55878</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55878"/>
-        <updated>2023-01-02T07:10:24.939Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 부산금정 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55877</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55877"/>
-        <updated>2023-01-02T07:10:24.941Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.04(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ANISOUND FESTIVAL PLUS​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55876</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55876"/>
-        <updated>2023-01-02T06:13:32.320Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.03(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <용의자 X의 헌신> 마지막 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55875</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55875"/>
-        <updated>2023-01-02T06:13:32.322Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.06(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쳇 베이커, 라흐마니노프를 만나다 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55874</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55874"/>
-        <updated>2022-12-30T19:08:27.217Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.05(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회 '신년음악회'  티켓오픈 안내 (티켓링크 모바일)]]></title>
