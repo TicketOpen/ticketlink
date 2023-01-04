@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-04T08:17:07.914Z</updated>
+    <updated>2023-01-04T09:12:03.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <종의 기원> 3차​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55894</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55894"/>
+        <updated>2023-01-04T09:10:57.562Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.09(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책먹는여우 - 김천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55893</id>
@@ -100,13 +107,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/55880</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55880"/>
         <updated>2023-01-03T05:10:02.406Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​NEW 뮤지컬 미니특공대 브이레인저스 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55879</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55879"/>
-        <updated>2023-01-03T05:10:02.407Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.05(목) 00:00]]></content>
     </entry>
     <entry>
