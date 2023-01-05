@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-05T12:22:30.199Z</updated>
+    <updated>2023-01-05T13:21:29.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬<라푼젤> - 인천 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,20 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.09(월) 11:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬<라푼젤> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55899</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55899"/>
+        <updated>2023-01-05T13:21:28.572Z</updated>
+        <content type="html"><![CDATA[2023.01.11(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] LINK FESTA : 뮤지컬 더 라스트맨 “​혼자가 아닌 콘서트”​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55898</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55898"/>
+        <updated>2023-01-05T13:21:28.580Z</updated>
+        <content type="html"><![CDATA[2023.01.10(화) 04:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] Pokémon the Orchestra​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55897</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55897"/>
@@ -194,24 +208,10 @@
         <content type="html"><![CDATA[2023.01.06(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이솔로몬 첫 번째 단독 콘서트 <손으로 써 내려간 것들> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매]  이솔로몬 첫 번째 단독 콘서트 <손으로 써 내려간 것들> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55885</id>
         <link href="http://m.ticketlink.co.kr/help/notice/55885"/>
         <updated>2023-01-04T06:15:09.391Z</updated>
         <content type="html"><![CDATA[2023.01.09(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55884</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55884"/>
-        <updated>2023-01-04T06:15:09.394Z</updated>
-        <content type="html"><![CDATA[2023.01.06(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <반짝반짝 달님이 - 버블버블 마법의 솜사탕>​ 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55883</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55883"/>
-        <updated>2023-01-03T11:09:55.117Z</updated>
-        <content type="html"><![CDATA[2023.01.05(목) 01:00]]></content>
     </entry>
 </feed>
