@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-05T23:13:31.840Z</updated>
+    <updated>2023-01-06T00:54:09.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김혜린 피아노 반주 리사이틀 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55903</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55903"/>
+        <updated>2023-01-06T00:54:01.514Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.10(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬<라푼젤> - 인천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55899</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.06(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  이솔로몬 첫 번째 단독 콘서트 <손으로 써 내려간 것들> - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55885</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55885"/>
-        <updated>2023-01-04T07:10:06.822Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.09(월) 11:00]]></content>
+        <title type="html"><![CDATA[김혜린 피아노 반주 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55903</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55903"/>
+        <updated>2023-01-06T00:54:08.617Z</updated>
+        <content type="html"><![CDATA[2023.01.10(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬<라푼젤> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55886"/>
         <updated>2023-01-04T06:15:09.391Z</updated>
         <content type="html"><![CDATA[2023.01.06(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  이솔로몬 첫 번째 단독 콘서트 <손으로 써 내려간 것들> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55885</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55885"/>
-        <updated>2023-01-04T06:15:09.391Z</updated>
-        <content type="html"><![CDATA[2023.01.09(월) 11:00]]></content>
     </entry>
 </feed>
