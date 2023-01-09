@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-01-09T11:11:49.059Z</updated>
+    <updated>2023-01-09T12:21:52.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55917</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55917"/>
+        <updated>2023-01-09T12:20:46.249Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 김포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55916</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55916"/>
+        <updated>2023-01-09T12:20:46.250Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 성남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55915</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55915"/>
+        <updated>2023-01-09T12:20:46.254Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​애니메이션 첼로 페스티벌 디즈니 VS 지브리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55914</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55914"/>
+        <updated>2023-01-09T12:20:46.256Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.10(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 이은미 전국투어 콘서트 < NOCTURN > - 여수​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55913</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55913"/>
+        <updated>2023-01-09T12:20:46.258Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.12(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​드레스덴 슈타츠카펠레 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55912</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55912"/>
+        <updated>2023-01-09T12:20:46.259Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.13(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 언플러그드 - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55911</id>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55903"/>
         <updated>2023-01-06T00:54:01.514Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.10(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 대전​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55902</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55902"/>
-        <updated>2023-01-06T10:11:27.812Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.10(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 대구앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55901</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55901"/>
-        <updated>2023-01-06T10:11:27.814Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.10(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 천안​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55900</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55900"/>
-        <updated>2023-01-06T10:11:27.820Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.10(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬<라푼젤> - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55899</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55899"/>
-        <updated>2023-01-05T07:10:20.077Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LINK FESTA : 뮤지컬 더 라스트맨 “​혼자가 아닌 콘서트”​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55898</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55898"/>
-        <updated>2023-01-05T07:10:20.094Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.10(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Pokémon the Orchestra​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55897</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55897"/>
-        <updated>2023-01-05T07:10:20.105Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 06:00]]></content>
     </entry>
 </feed>
