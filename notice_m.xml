@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-01-09T23:12:14.735Z</updated>
+    <updated>2023-01-10T00:56:55.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​AMAXG와 함께하는 코리아 모던 필하모닉 오케스트라 음악회​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55925</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55925"/>
+        <updated>2023-01-10T00:56:55.231Z</updated>
+        <content type="html"><![CDATA[2023.01.11(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <이상한 과자 가게 전천당> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55922</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55922"/>
+        <updated>2023-01-10T00:56:55.234Z</updated>
+        <content type="html"><![CDATA[2023.01.12(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 <누가내머리에 똥쌌어?> - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55921</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55921"/>
+        <updated>2023-01-10T00:56:55.234Z</updated>
+        <content type="html"><![CDATA[2023.01.11(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JazzWorks N9 - Dave You Trio 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55920</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55920"/>
+        <updated>2023-01-10T00:56:55.235Z</updated>
+        <content type="html"><![CDATA[2023.01.10(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 <잭과 콩나무> - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55919</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55919"/>
+        <updated>2023-01-10T00:56:55.235Z</updated>
+        <content type="html"><![CDATA[2023.01.11(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55917</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55908"/>
         <updated>2023-01-06T13:18:19.120Z</updated>
         <content type="html"><![CDATA[2023.01.10(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  풍자 풍만한 톡쇼_사운드바이사운드특별판​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55907</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55907"/>
-        <updated>2023-01-06T13:18:19.120Z</updated>
-        <content type="html"><![CDATA[2023.01.12(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬<미녀와 야수> - 안양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55906</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55906"/>
-        <updated>2023-01-06T05:11:17.188Z</updated>
-        <content type="html"><![CDATA[2023.01.11(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬<알라딘>-수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55905</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55905"/>
-        <updated>2023-01-06T05:11:17.188Z</updated>
-        <content type="html"><![CDATA[2023.01.11(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 최현우 < THE BRAIN > - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55904</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55904"/>
-        <updated>2023-01-06T05:11:17.188Z</updated>
-        <content type="html"><![CDATA[2023.01.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜린 피아노 반주 리사이틀 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55903</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55903"/>
-        <updated>2023-01-06T00:54:08.617Z</updated>
-        <content type="html"><![CDATA[2023.01.10(화) 01:00]]></content>
     </entry>
 </feed>
