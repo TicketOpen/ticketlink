@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-01-11T12:22:11.204Z</updated>
+    <updated>2023-01-11T13:22:06.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이성찬그룹 단독공연 Bing Bird​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55941</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55941"/>
+        <updated>2023-01-11T13:21:58.185Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.16(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duck Street 덕스트릿 3집 쇼케이스​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55940</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55940"/>
+        <updated>2023-01-11T13:21:58.189Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.16(월) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 무지개랜드 - 안산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55939</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55927"/>
         <updated>2023-01-10T05:10:33.773Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 남동소래​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55926</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55926"/>
-        <updated>2023-01-10T05:10:33.781Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.13(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​AMAXG 코리아 모던 필하모닉 오케스트라 콘서트​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55925</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55925"/>
-        <updated>2023-01-10T05:10:33.799Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 05:00]]></content>
     </entry>
 </feed>
