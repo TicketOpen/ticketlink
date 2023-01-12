@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-12T00:56:44.083Z</updated>
+    <updated>2023-01-12T02:17:28.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 마지막 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55944</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55944"/>
+        <updated>2023-01-12T02:16:23.203Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.19(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[링크 Special] 뮤지컬 캣츠 오리지널 내한-서울(Musical CATS) 마지막 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55943</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55943"/>
+        <updated>2023-01-12T02:16:23.207Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.19(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 [바다탐험대 옥토넛 시즌2]－전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55942</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55942"/>
+        <updated>2023-01-12T02:16:23.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.13(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이성찬그룹 단독공연 Bing Bird​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55941</id>
@@ -87,27 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55930"/>
         <updated>2023-01-10T05:10:33.770Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55929</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55929"/>
-        <updated>2023-01-10T05:10:33.773Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.11(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​책먹는여우 - 안성​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55928</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55928"/>
-        <updated>2023-01-10T05:10:33.773Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.13(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 변진섭 전국투어 콘서트 : 변천사 - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55927</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55927"/>
-        <updated>2023-01-10T05:10:33.773Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.13(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이성찬그룹 단독공연 Bing Bird​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
