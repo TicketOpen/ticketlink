@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-01-16T06:15:50.887Z</updated>
+    <updated>2023-01-16T07:12:23.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제12회 한울림골목연극제 <무대게임> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55971</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55971"/>
+        <updated>2023-01-16T07:11:16.539Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.19(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 부천​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55970</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55970"/>
         <updated>2023-01-16T06:14:45.731Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.18(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임동혁 피아노 리사이틀 <쇼팽에 대하여>​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55969</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55969"/>
+        <updated>2023-01-16T07:11:16.542Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.19(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <여신님이 보고 계셔> 10th Anniversary - 부산​​​​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55957"/>
         <updated>2023-01-13T12:20:27.693Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.17(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <백설공주> - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55956</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55956"/>
-        <updated>2023-01-13T12:20:27.694Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.14(토) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <백설공주> - 과천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55955</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55955"/>
-        <updated>2023-01-13T12:20:27.701Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.14(토) 00:00]]></content>
     </entry>
 </feed>
