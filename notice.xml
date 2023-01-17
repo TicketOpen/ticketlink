@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-01-17T07:11:28.476Z</updated>
+    <updated>2023-01-17T08:15:11.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55977"/>
         <updated>2023-01-17T03:12:06.154Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.20(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <슈퍼 히어로의 똥 닦는 법> - 안산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55976</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55976"/>
+        <updated>2023-01-17T08:14:05.463Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.20(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 군포 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/55968"/>
         <updated>2023-01-16T02:14:26.028Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.20(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <슈퍼 히어로의 똥 닦는 법> - 성남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55967</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55967"/>
-        <updated>2023-01-13T12:20:27.673Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.18(수) 05:00]]></content>
     </entry>
 </feed>
