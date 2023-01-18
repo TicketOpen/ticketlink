@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-01-18T02:20:08.092Z</updated>
+    <updated>2023-01-18T03:13:13.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  연극 홈쑈핑 주식회사 국제흥신소 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55986</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55986"/>
+        <updated>2023-01-18T03:13:12.978Z</updated>
+        <content type="html"><![CDATA[2023.01.18(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55985</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55985"/>
+        <updated>2023-01-18T03:13:12.983Z</updated>
+        <content type="html"><![CDATA[2023.01.25(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조희창의 <토요∙클래식∙살롱> - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55984</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55984"/>
+        <updated>2023-01-18T03:13:12.984Z</updated>
+        <content type="html"><![CDATA[2023.01.31(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프란츠클래식 2023 포커스 온 시리즈 : 이솔 피아노 리사이틀 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/55983</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55971"/>
         <updated>2023-01-16T20:11:25.615Z</updated>
         <content type="html"><![CDATA[2023.01.19(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 부천​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55970</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55970"/>
-        <updated>2023-01-16T20:11:25.616Z</updated>
-        <content type="html"><![CDATA[2023.01.18(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임동혁 피아노 리사이틀 <쇼팽에 대하여>​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55969</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55969"/>
-        <updated>2023-01-16T20:11:25.621Z</updated>
-        <content type="html"><![CDATA[2023.01.19(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <여신님이 보고 계셔> 10th Anniversary - 부산​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55968</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55968"/>
-        <updated>2023-01-16T20:11:25.622Z</updated>
-        <content type="html"><![CDATA[2023.01.20(금) 05:00]]></content>
     </entry>
 </feed>
