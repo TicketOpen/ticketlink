@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-01-19T10:13:22.316Z</updated>
+    <updated>2023-01-19T11:11:07.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 강릉​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56004</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56004"/>
+        <updated>2023-01-19T11:10:02.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 고양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56003</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56003"/>
+        <updated>2023-01-19T11:10:02.169Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56002</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56002"/>
+        <updated>2023-01-19T11:10:02.170Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 천안 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56001</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56001"/>
+        <updated>2023-01-19T11:10:02.170Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56000</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56000"/>
+        <updated>2023-01-19T11:10:02.170Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 춘천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55999</id>
@@ -73,41 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/55990</id>
         <link href="http://www.ticketlink.co.kr/help/notice/55990"/>
         <updated>2023-01-18T11:09:20.395Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.25(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2021 뮤지컬<해적>_ 공연실황 녹화 중계 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55989</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55989"/>
-        <updated>2023-01-18T11:09:20.406Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.20(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 캠핑페스타(SS시즌) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55988</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55988"/>
-        <updated>2023-01-18T05:10:44.052Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.20(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 울산 첫공연!! 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55987</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55987"/>
-        <updated>2023-01-18T05:10:44.052Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  연극 홈쑈핑 주식회사 국제흥신소 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55986</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55986"/>
-        <updated>2023-01-18T00:56:11.101Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.18(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55985</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55985"/>
-        <updated>2023-01-18T00:56:11.102Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.25(수) 00:00]]></content>
     </entry>
 </feed>
