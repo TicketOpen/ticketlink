@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-19T06:14:36.111Z</updated>
+    <updated>2023-01-19T07:10:48.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55999</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55999"/>
+        <updated>2023-01-19T07:10:41.924Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55998</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55998"/>
+        <updated>2023-01-19T07:10:41.924Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 김현중 콘서트 < MY SUN > 선예매 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/55997</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/55997"/>
+        <updated>2023-01-19T07:10:41.930Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.25(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피아졸라, 바흐를 만나다 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/55996</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.25(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 조희창의 <토요∙클래식∙살롱> - 경주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55984</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55984"/>
-        <updated>2023-01-18T03:13:06.553Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.31(화) 01:00]]></content>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55999</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55999"/>
+        <updated>2023-01-19T07:10:47.728Z</updated>
+        <content type="html"><![CDATA[2023.01.27(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  프란츠클래식 2023 포커스 온 시리즈 : 이솔 피아노 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55983</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55983"/>
-        <updated>2023-01-17T06:13:44.836Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.20(금) 01:00]]></content>
+        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55998</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55998"/>
+        <updated>2023-01-19T07:10:47.731Z</updated>
+        <content type="html"><![CDATA[2023.01.27(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 빅3 “행복한 만남” 콘서트 - 안성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/55982</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/55982"/>
-        <updated>2023-01-17T06:13:44.837Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.20(금) 01:00]]></content>
+        <title type="html"><![CDATA[2023 김현중 콘서트 < MY SUN > 선예매 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/55997</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/55997"/>
+        <updated>2023-01-19T07:10:47.731Z</updated>
+        <content type="html"><![CDATA[2023.01.25(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피아졸라, 바흐를 만나다 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/55985"/>
         <updated>2023-01-18T03:13:12.983Z</updated>
         <content type="html"><![CDATA[2023.01.25(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 조희창의 <토요∙클래식∙살롱> - 경주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55984</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55984"/>
-        <updated>2023-01-18T03:13:12.984Z</updated>
-        <content type="html"><![CDATA[2023.01.31(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  프란츠클래식 2023 포커스 온 시리즈 : 이솔 피아노 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55983</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55983"/>
-        <updated>2023-01-17T07:11:28.002Z</updated>
-        <content type="html"><![CDATA[2023.01.20(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 빅3 “행복한 만남” 콘서트 - 안성 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/55982</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/55982"/>
-        <updated>2023-01-17T07:11:28.003Z</updated>
-        <content type="html"><![CDATA[2023.01.20(금) 01:00]]></content>
     </entry>
 </feed>
