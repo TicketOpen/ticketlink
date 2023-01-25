@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-25T06:14:00.272Z</updated>
+    <updated>2023-01-25T07:59:02.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 용인 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56016</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56016"/>
+        <updated>2023-01-25T07:58:50.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.31(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이은결 < MAGIC ＆ ILLUSION > - 제주​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56015</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56015"/>
+        <updated>2023-01-25T07:58:50.536Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 남진 60주년 콘서트 - 여수​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56014</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 천안 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56001</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56001"/>
-        <updated>2023-01-19T11:10:02.170Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56016</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56016"/>
+        <updated>2023-01-25T07:59:01.676Z</updated>
+        <content type="html"><![CDATA[2023.01.31(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56000</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56000"/>
-        <updated>2023-01-19T11:10:02.170Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.01.27(금) 00:00]]></content>
+        <title type="html"><![CDATA[이은결 < MAGIC ＆ ILLUSION > - 제주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56015</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56015"/>
+        <updated>2023-01-25T07:59:01.677Z</updated>
+        <content type="html"><![CDATA[2023.01.27(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 남진 60주년 콘서트 - 여수​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -197,20 +211,6 @@
         <title type="html"><![CDATA[엘사의 생일파티 - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56002</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56002"/>
-        <updated>2023-01-19T10:13:21.710Z</updated>
-        <content type="html"><![CDATA[2023.01.27(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56001</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56001"/>
-        <updated>2023-01-19T10:13:21.710Z</updated>
-        <content type="html"><![CDATA[2023.01.27(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56000</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56000"/>
         <updated>2023-01-19T10:13:21.710Z</updated>
         <content type="html"><![CDATA[2023.01.27(금) 00:00]]></content>
     </entry>
