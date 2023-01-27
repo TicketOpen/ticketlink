@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-01-27T06:16:15.594Z</updated>
+    <updated>2023-01-27T07:11:50.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 민쩌미 <사랑해요 엄마!> - 용인첫공연!!​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56036</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56036"/>
+        <updated>2023-01-27T07:11:50.277Z</updated>
+        <content type="html"><![CDATA[2023.02.03(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 브레드이발소 <대결! 최고의 이발사> - 전주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56035</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56022"/>
         <updated>2023-01-26T02:14:01.204Z</updated>
         <content type="html"><![CDATA[2023.01.30(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 매일클래식과 함께하는 엘 콘서트Ⅰ~Ⅳ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56021</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56021"/>
-        <updated>2023-01-26T12:22:34.393Z</updated>
-        <content type="html"><![CDATA[2023.01.31(화) 05:00]]></content>
     </entry>
 </feed>
