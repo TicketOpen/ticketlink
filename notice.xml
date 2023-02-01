@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-01T10:13:37.903Z</updated>
+    <updated>2023-02-01T11:11:12.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 SG워너비 콘서트 : 우리의 노래​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56071</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56071"/>
+        <updated>2023-02-01T11:10:06.986Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.10(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweet, Talk, Play with 고상지밴드​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56069</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56056"/>
         <updated>2023-01-31T09:11:38.174Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 장민호 단독 콘서트 ‘호시절 : 好時節’ - 앵콜공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56055</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56055"/>
-        <updated>2023-01-31T09:11:38.177Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.07(화) 11:00]]></content>
     </entry>
 </feed>
