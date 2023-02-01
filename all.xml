@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T09:12:44.059Z</updated>
+    <updated>2023-02-01T10:13:37.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sweet, Talk, Play with 고상지밴드​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,7 +68,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일클라씨코 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매]  일클라씨코 콘서트 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56060</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56060"/>
         <updated>2023-01-31T09:11:38.167Z</updated>
