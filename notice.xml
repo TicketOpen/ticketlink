@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-02T12:22:26.211Z</updated>
+    <updated>2023-02-02T13:20:18.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023무용여행舞游韩国​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56077</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56077"/>
+        <updated>2023-02-02T13:20:08.882Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.06(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 NIEL FAN CONCERT: BLEND]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56076</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56076"/>
+        <updated>2023-02-02T13:20:08.888Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울 은평​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56075</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56062"/>
         <updated>2023-01-31T09:11:38.149Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.06(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Quartet T - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56061</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56061"/>
-        <updated>2023-01-31T09:11:38.166Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  일클라씨코 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56060</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56060"/>
-        <updated>2023-01-31T09:11:38.167Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 01:00]]></content>
     </entry>
 </feed>
