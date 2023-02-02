@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-02T06:15:04.392Z</updated>
+    <updated>2023-02-02T07:12:16.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56072"/>
         <updated>2023-02-02T04:13:28.979Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 상토토마스대학합창단 내한공연 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56070</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56070"/>
+        <updated>2023-02-02T07:11:10.449Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sweet, Talk, Play with 고상지밴드​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56059"/>
         <updated>2023-01-31T09:11:38.167Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.06(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주시립교향악단] GSO 오티움 콘서트 I, Origin of Russian Music​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56058</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56058"/>
-        <updated>2023-01-31T09:11:38.167Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.01(수) 08:00]]></content>
     </entry>
 </feed>
