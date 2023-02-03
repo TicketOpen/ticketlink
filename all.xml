@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-03T08:14:17.932Z</updated>
+    <updated>2023-02-03T09:12:17.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <레드북> 프리뷰​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.07(화) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 이소정 콘서트 - 소정의 선물​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56083</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56083"/>
+        <updated>2023-02-03T09:12:16.879Z</updated>
+        <content type="html"><![CDATA[2023.02.06(월) 08:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 <레드북> 프리뷰​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56082</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56082"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56068"/>
         <updated>2023-02-01T06:15:50.748Z</updated>
         <content type="html"><![CDATA[2023.02.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56067</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56067"/>
-        <updated>2023-02-01T06:15:50.748Z</updated>
-        <content type="html"><![CDATA[2023.02.07(화) 05:00]]></content>
     </entry>
 </feed>
