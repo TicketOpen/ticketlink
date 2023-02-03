@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-03T22:12:39.163Z</updated>
+    <updated>2023-02-03T23:12:05.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?> - 오산​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.02(목) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?> - 오산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56084</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56084"/>
+        <updated>2023-02-03T23:12:04.558Z</updated>
+        <content type="html"><![CDATA[2023.02.07(화) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 이소정 콘서트 - 소정의 선물​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56083</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56083"/>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/56069</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56069"/>
         <updated>2023-02-01T06:15:50.747Z</updated>
-        <content type="html"><![CDATA[2023.02.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​Sweet, Talk, Play with 김현수, 김바울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56068</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56068"/>
-        <updated>2023-02-01T06:15:50.748Z</updated>
         <content type="html"><![CDATA[2023.02.02(목) 05:00]]></content>
     </entry>
 </feed>
