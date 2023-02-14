@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-14T02:22:43.896Z</updated>
+    <updated>2023-02-14T03:16:07.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모차르트 <마술피리>​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56153</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56153"/>
+        <updated>2023-02-14T03:15:57.656Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.16(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 벚꽃스캔들 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56152</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56139"/>
         <updated>2023-02-11T07:10:14.926Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.14(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <보이체크 인 더 다크> 2차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56138</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56138"/>
-        <updated>2023-02-10T09:11:47.471Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.14(화) 07:00]]></content>
     </entry>
 </feed>
