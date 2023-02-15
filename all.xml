@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-15T13:23:50.025Z</updated>
+    <updated>2023-02-15T14:12:03.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​2023 남진 콘서트 - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.14(화) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​(2023 롯데백화점 대구) 벌룬매직쇼​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56169</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56169"/>
+        <updated>2023-02-15T14:12:02.831Z</updated>
+        <content type="html"><![CDATA[2023.02.17(금) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 써니텐-군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56168</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56168"/>
@@ -150,6 +157,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56163"/>
         <updated>2023-02-15T06:16:20.600Z</updated>
         <content type="html"><![CDATA[2023.02.23(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 티켓 배송료 인상 안내 (2023년 03월 16일부) (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56162</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56162"/>
+        <updated>2023-02-15T14:12:02.824Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/56162" class="info_wrap"><strong class="label">기타</strong><h3 class="tit"><b>[공지]</b> 티켓 배송료 인상 안내 (2023년 03월 16일부)</h3></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족 뮤지컬 <프린세스공주> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56153"/>
         <updated>2023-02-14T03:16:06.984Z</updated>
         <content type="html"><![CDATA[2023.02.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 벚꽃스캔들 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56152</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56152"/>
-        <updated>2023-02-14T03:16:06.984Z</updated>
-        <content type="html"><![CDATA[2023.02.17(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <친정엄마>​ 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56151</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56151"/>
-        <updated>2023-02-14T03:16:06.986Z</updated>
-        <content type="html"><![CDATA[2023.02.15(수) 01:00]]></content>
     </entry>
 </feed>
