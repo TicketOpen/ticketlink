@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-16T23:14:02.421Z</updated>
+    <updated>2023-02-17T01:00:05.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -108,6 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56168</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56168"/>
         <updated>2023-02-15T16:15:42.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.17(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.18(토) 01:00]]></content>
     </entry>
 </feed>
