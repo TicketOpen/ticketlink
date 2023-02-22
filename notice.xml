@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-22T07:11:35.546Z</updated>
+    <updated>2023-02-22T08:15:09.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 피아니스트 서주희와 함께 하는 렉쳐 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56217</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56217"/>
+        <updated>2023-02-22T08:15:02.033Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.23(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 포항 음악 오디세이 Ⅰ~Ⅴ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56215</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56202"/>
         <updated>2023-02-21T05:10:45.537Z</updated>
         <content type="html"><![CDATA[2023.02.21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 수원​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56201</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56201"/>
-        <updated>2023-02-20T11:09:42.973Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.21(화) 00:00]]></content>
     </entry>
 </feed>
