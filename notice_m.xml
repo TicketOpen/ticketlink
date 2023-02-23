@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-02-23T08:14:38.934Z</updated>
+    <updated>2023-02-23T09:12:03.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  제40회 대구연극제 더파란 <(  ) 김진수입니다> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56221</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56221"/>
+        <updated>2023-02-23T09:12:02.145Z</updated>
+        <content type="html"><![CDATA[2023.02.24(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023년 광주시립창극단 기획공연 ‘신춘(新春)’​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56220</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56207"/>
         <updated>2023-02-21T14:12:13.837Z</updated>
         <content type="html"><![CDATA[2023.02.22(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 크레디아 클래식 클럽 : 한수진​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56206</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56206"/>
-        <updated>2023-02-21T14:12:13.838Z</updated>
-        <content type="html"><![CDATA[2023.02.21(화) 07:00]]></content>
     </entry>
 </feed>
