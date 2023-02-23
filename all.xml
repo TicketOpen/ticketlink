@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-23T07:11:02.567Z</updated>
+    <updated>2023-02-23T08:14:38.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023년 광주시립창극단 기획공연 ‘신춘(新春)’​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56220</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56220"/>
+        <updated>2023-02-23T08:14:31.077Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.24(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ASL 시즌15 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56219</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56219"/>
+        <updated>2023-02-23T08:14:31.079Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.24(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <포쉬> 1차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56218</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.21(화) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공지] 티켓 배송료 인상 안내 (2023년 03월 23일부) (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56205</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56205"/>
-        <updated>2023-02-21T05:10:45.537Z</updated>
-        <content type="html"><![CDATA[2023.02.21]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023년 광주시립창극단 기획공연 ‘신춘(新春)’​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56220</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56220"/>
+        <updated>2023-02-23T08:14:38.338Z</updated>
+        <content type="html"><![CDATA[2023.02.24(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 에일리 콘서트 < RE:boot > - 경주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56204</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56204"/>
-        <updated>2023-02-21T05:10:45.537Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.27(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] ASL 시즌15 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56219</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56219"/>
+        <updated>2023-02-23T08:14:38.349Z</updated>
+        <content type="html"><![CDATA[2023.02.24(금) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <포쉬> 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56206"/>
         <updated>2023-02-21T14:12:13.838Z</updated>
         <content type="html"><![CDATA[2023.02.21(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 티켓 배송료 인상 안내 (2023년 03월 23일부) (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56205</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56205"/>
-        <updated>2023-02-21T14:12:13.829Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/56205" class="info_wrap"><strong class="label">기타</strong><h3 class="tit"><b>[공지]</b> 티켓 배송료 인상 안내 (2023년 03월 23일부)</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 에일리 콘서트 < RE:boot > - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56204</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56204"/>
-        <updated>2023-02-21T14:12:13.839Z</updated>
-        <content type="html"><![CDATA[2023.02.27(월) 01:00]]></content>
     </entry>
 </feed>
