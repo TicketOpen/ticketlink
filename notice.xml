@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-02-27T07:11:56.824Z</updated>
+    <updated>2023-02-27T08:16:19.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패밀리 서커스 <이상한 나라의 앨리스> 오리지널 내한공연 - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56237</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56237"/>
+        <updated>2023-02-27T08:16:11.885Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패밀리 서커스 <이상한 나라의 앨리스> 오리지널 내한공연​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56236</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56236"/>
+        <updated>2023-02-27T08:16:11.892Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제371회 정기연주회 ‘그리움’​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56235</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56223"/>
         <updated>2023-02-24T07:10:52.410Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <인터뷰> 2차​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56222</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56222"/>
-        <updated>2023-02-24T02:18:07.763Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.28(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  제40회 대구연극제 더파란 <(  ) 김진수입니다> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56221</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56221"/>
-        <updated>2023-02-23T09:11:55.969Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.24(금) 00:00]]></content>
     </entry>
 </feed>
