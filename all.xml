@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-27T05:11:22.793Z</updated>
+    <updated>2023-02-27T06:15:20.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제371회 정기연주회 ‘그리움’​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56235</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56235"/>
+        <updated>2023-02-27T06:15:13.636Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.28(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​MOM 투어 콘서트 < MSG워너비 > in 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56234</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56234"/>
+        <updated>2023-02-27T06:15:13.637Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.03(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 구로​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56233</id>
@@ -45,6 +59,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56228"/>
         <updated>2023-02-27T05:11:13.535Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56227</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56227"/>
+        <updated>2023-02-27T06:15:13.657Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.02(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 삼척​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.24(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023년 광주시립창극단 기획공연 ‘신춘(新春)’​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56220</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56220"/>
-        <updated>2023-02-23T08:14:31.077Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.24(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제371회 정기연주회 ‘그리움’​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56235</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56235"/>
+        <updated>2023-02-27T06:15:20.109Z</updated>
+        <content type="html"><![CDATA[2023.02.28(화) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] ASL 시즌15 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56219</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56219"/>
-        <updated>2023-02-23T08:14:31.079Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.24(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <포쉬> 1차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56218</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56218"/>
-        <updated>2023-02-23T05:11:12.658Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.02(목) 05:00]]></content>
+        <title type="html"><![CDATA[​MOM 투어 콘서트 < MSG워너비 > in 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56234</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56234"/>
+        <updated>2023-02-27T06:15:20.109Z</updated>
+        <content type="html"><![CDATA[2023.03.03(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 구로​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -152,6 +166,13 @@
         <content type="html"><![CDATA[2023.03.07(화) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56227</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56227"/>
+        <updated>2023-02-27T06:15:20.123Z</updated>
+        <content type="html"><![CDATA[2023.03.02(목) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 삼척​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56226</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56226"/>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56221"/>
         <updated>2023-02-23T09:12:02.145Z</updated>
         <content type="html"><![CDATA[2023.02.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023년 광주시립창극단 기획공연 ‘신춘(新春)’​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56220</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56220"/>
-        <updated>2023-02-23T08:14:38.338Z</updated>
-        <content type="html"><![CDATA[2023.02.24(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ASL 시즌15 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56219</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56219"/>
-        <updated>2023-02-23T08:14:38.349Z</updated>
-        <content type="html"><![CDATA[2023.02.24(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <포쉬> 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56218</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56218"/>
-        <updated>2023-02-23T05:11:21.629Z</updated>
-        <content type="html"><![CDATA[2023.03.02(목) 05:00]]></content>
     </entry>
 </feed>
