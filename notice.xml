@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-02T01:00:38.754Z</updated>
+    <updated>2023-03-02T02:33:10.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 PINOCHIO FESTA ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56254</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56254"/>
+        <updated>2023-03-02T02:33:02.184Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.03(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 <감염된 도시의 비밀> - 고양앵콜​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56253</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56253"/>
+        <updated>2023-03-02T02:33:02.207Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 <감염된 도시의 비밀> - 부천​​ 티켓오픈 안]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56252</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56239"/>
         <updated>2023-02-27T09:12:32.763Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.03(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 133회 정기연주회 ‘전통과 현재의 공존’​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56238</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56238"/>
-        <updated>2023-02-27T09:12:32.774Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.02.28(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리 서커스 <이상한 나라의 앨리스> 오리지널 내한공연 - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56237</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56237"/>
-        <updated>2023-02-27T08:16:11.885Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 06:00]]></content>
     </entry>
 </feed>
