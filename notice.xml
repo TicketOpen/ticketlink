@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-03T05:16:21.943Z</updated>
+    <updated>2023-03-03T06:15:05.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 앤서니브라운 가족뮤지컬 <우리아빠가최고야> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56265</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56265"/>
+        <updated>2023-03-03T06:14:58.769Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.07(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 특선가족뮤지컬 <인어공주> - 익산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56264</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56250"/>
         <updated>2023-02-28T10:13:00.475Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.02.03(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 진솔 FANMEETING “SUNSET GLOW”​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56248</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56248"/>
-        <updated>2023-02-28T08:15:16.498Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.03(금) 10:00]]></content>
     </entry>
 </feed>
