@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-04T04:13:49.551Z</updated>
+    <updated>2023-03-04T05:10:38.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 오푸스라움 살롱콘서트 공모연주회 Op. 8: 五제 – 대한의 오도(五島)를 노래하다.​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56273</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56273"/>
+        <updated>2023-03-04T05:10:31.690Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[오산] 번개맨 뮤지컬 : 우주최강 번개삼총사​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56272</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 제 86기 KBS 부산 노래교실​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56257</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56257"/>
-        <updated>2023-03-02T08:14:53.508Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.10(금) 11:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023 오푸스라움 살롱콘서트 공모연주회 Op. 8: 五제 – 대한의 오도(五島)를 노래하다.​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56273</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56273"/>
+        <updated>2023-03-04T05:10:38.123Z</updated>
+        <content type="html"><![CDATA[2023.03.06(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[오산] 번개맨 뮤지컬 : 우주최강 번개삼총사​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56258"/>
         <updated>2023-03-02T08:15:00.356Z</updated>
         <content type="html"><![CDATA[2023.03.06(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제 86기 KBS 부산 노래교실​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56257</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56257"/>
-        <updated>2023-03-02T08:15:00.358Z</updated>
-        <content type="html"><![CDATA[2023.03.10(금) 11:00]]></content>
     </entry>
 </feed>
