@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-06T05:12:09.523Z</updated>
+    <updated>2023-03-06T06:15:56.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 가족버블매직쇼 <일루젼 버블쇼> - 수원 일루젼버블쇼 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56281</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56281"/>
+        <updated>2023-03-06T06:15:48.814Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.08(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <보이체크 인 더 다크> 마지막​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56280</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56280"/>
+        <updated>2023-03-06T06:15:48.814Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.08(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <프린세스공주> - 대전​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56279</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56266</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56266"/>
         <updated>2023-03-06T00:56:59.681Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 앤서니브라운 가족뮤지컬 <우리아빠가최고야> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56265</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56265"/>
-        <updated>2023-03-03T06:14:58.769Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.07(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <인어공주> - 익산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56264</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56264"/>
-        <updated>2023-03-03T05:16:14.430Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.06(월) 00:00]]></content>
     </entry>
 </feed>
