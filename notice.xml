@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-07T08:15:53.493Z</updated>
+    <updated>2023-03-07T09:12:24.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 제주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56292</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56292"/>
+        <updated>2023-03-07T09:12:16.825Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.08(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​로테르담 필하모닉 오케스트라​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56290</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56276</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56276"/>
         <updated>2023-03-06T00:56:59.662Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.09(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 용인​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56275</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56275"/>
-        <updated>2023-03-06T00:56:59.669Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.09(목) 00:00]]></content>
     </entry>
 </feed>
