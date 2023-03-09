@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-09T08:15:15.796Z</updated>
+    <updated>2023-03-09T09:13:31.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  광주오페라단 창단 41주년 기념 Opera Gala Concert]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56322</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56322"/>
+        <updated>2023-03-09T09:13:30.802Z</updated>
+        <content type="html"><![CDATA[2023.03.13(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬<인어공주> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56321</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56321"/>
+        <updated>2023-03-09T09:13:30.802Z</updated>
+        <content type="html"><![CDATA[2023.03.13(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 라흐마니노프 - 포항 티켓오픈 안내 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56320</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56308"/>
         <updated>2023-03-09T06:15:53.296Z</updated>
         <content type="html"><![CDATA[2023.03.14(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 하현상 X 스윗소로우 SUDDENLY FESTIVAL - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56307</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56307"/>
-        <updated>2023-03-09T02:27:01.928Z</updated>
-        <content type="html"><![CDATA[2023.03.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 레이어스 클래식 SUDDENLY FESTIVAL - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56306</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56306"/>
-        <updated>2023-03-09T02:27:01.937Z</updated>
-        <content type="html"><![CDATA[2023.03.13(월) 05:00]]></content>
     </entry>
 </feed>
