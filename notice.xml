@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-10T04:14:48.651Z</updated>
+    <updated>2023-03-10T05:11:33.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <광염 소나타> 2차​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56326</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56326"/>
+        <updated>2023-03-10T05:11:26.295Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 전주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56323</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56310"/>
         <updated>2023-03-09T05:11:31.991Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.14(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 디자이너 조현숙 과 함께하는 슈퍼 빅 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56309</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56309"/>
-        <updated>2023-03-09T07:10:59.808Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.10(금) 03:00]]></content>
     </entry>
 </feed>
