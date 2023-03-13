@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-13T00:54:46.679Z</updated>
+    <updated>2023-03-13T02:11:20.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이솔로몬 앵콜 콘서트 <손으로 써 내려간 것들>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56339</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56339"/>
+        <updated>2023-03-13T02:11:20.349Z</updated>
+        <content type="html"><![CDATA[2023.03.16(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 민쩌미<사랑해요 엄마!> - 울산 첫공연!!​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56338</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56338"/>
+        <updated>2023-03-13T02:11:20.351Z</updated>
+        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[당진] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56337</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56337"/>
+        <updated>2023-03-13T02:11:20.353Z</updated>
+        <content type="html"><![CDATA[2023.03.17(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 구미​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56336</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56325"/>
         <updated>2023-03-10T07:11:40.430Z</updated>
         <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리<잡아라! 황금트로피!> - 용인​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56324</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56324"/>
-        <updated>2023-03-10T07:11:40.431Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56323</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56323"/>
-        <updated>2023-03-10T00:59:36.465Z</updated>
-        <content type="html"><![CDATA[2023.03.14(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  광주오페라단 창단 41주년 기념 Opera Gala Concert]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56322</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56322"/>
-        <updated>2023-03-09T09:13:30.802Z</updated>
-        <content type="html"><![CDATA[2023.03.13(월) 05:00]]></content>
     </entry>
 </feed>
