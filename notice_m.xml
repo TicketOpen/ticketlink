@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-13T07:10:48.554Z</updated>
+    <updated>2023-03-13T08:15:42.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 순천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56347</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56347"/>
+        <updated>2023-03-13T08:15:41.885Z</updated>
+        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 과천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56346</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56346"/>
+        <updated>2023-03-13T08:15:41.885Z</updated>
+        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 남양주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56345</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56345"/>
+        <updated>2023-03-13T08:15:41.885Z</updated>
+        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 대전평송 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56344</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56344"/>
+        <updated>2023-03-13T08:15:41.888Z</updated>
+        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제43회 한국합창제 '세대공감 합창의 밤'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56343</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56343"/>
+        <updated>2023-03-13T08:15:41.888Z</updated>
+        <content type="html"><![CDATA[2023.03.14(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제43회 한국합창제 '한국일반합창의 밤'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56342</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56342"/>
+        <updated>2023-03-13T08:15:41.888Z</updated>
+        <content type="html"><![CDATA[2023.03.14(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 빅3 “행복한 만남“ <강진, 김용임, 진성> 콘서트 - 성남​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56341</id>
@@ -67,47 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56333"/>
         <updated>2023-03-10T09:12:50.864Z</updated>
         <content type="html"><![CDATA[2023.03.15(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 윤태경 Start from Bottom Concert​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56332</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56332"/>
-        <updated>2023-03-10T09:12:50.879Z</updated>
-        <content type="html"><![CDATA[2023.03.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“​2023년”​ 가족뮤지컬 겨울이야기 - 경주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56331</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56331"/>
-        <updated>2023-03-10T09:12:50.879Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“​2023년”​ 가족뮤지컬 겨울이야기 - 목포​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56330</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56330"/>
-        <updated>2023-03-10T09:12:50.880Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​김영임 “50주년” 소리 孝 대공연 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56329</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56329"/>
-        <updated>2023-03-10T09:12:50.880Z</updated>
-        <content type="html"><![CDATA[2023.03.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 ATL 시즌1 결승 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56328</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56328"/>
-        <updated>2023-03-10T07:11:40.429Z</updated>
-        <content type="html"><![CDATA[2023.03.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가필드뮤직페스티벌 2023_공식티켓1차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56327</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56327"/>
-        <updated>2023-03-10T07:11:40.430Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 05:00]]></content>
     </entry>
 </feed>
