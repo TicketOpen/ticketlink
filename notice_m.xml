@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-14T07:12:08.713Z</updated>
+    <updated>2023-03-14T08:16:37.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 명사특강Ⅰ. 최태성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56361</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56361"/>
+        <updated>2023-03-14T08:16:36.710Z</updated>
+        <content type="html"><![CDATA[2023.03.15(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​그랜드오페라단 창단 28주년 기념 올댓 푸치니, 올댓 오페라​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56360</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56360"/>
+        <updated>2023-03-14T08:16:36.750Z</updated>
+        <content type="html"><![CDATA[2023.03.16(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023 유키 구라모토 콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56359</id>
@@ -93,20 +107,6 @@
         <title type="html"><![CDATA[틀려도 괜찮아 - 순천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56347</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56347"/>
-        <updated>2023-03-13T08:15:41.885Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 과천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56346</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56346"/>
-        <updated>2023-03-13T08:15:41.885Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 남양주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56345</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56345"/>
         <updated>2023-03-13T08:15:41.885Z</updated>
         <content type="html"><![CDATA[2023.03.17(금) 00:00]]></content>
     </entry>
