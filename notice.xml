@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-15T03:11:58.972Z</updated>
+    <updated>2023-03-15T04:13:35.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  김봉곤훈장과 함께하는 'NEW조선통신사'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56370</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56370"/>
+        <updated>2023-03-15T04:13:23.883Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 전주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56368</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56355"/>
         <updated>2023-03-14T05:11:09.736Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56354</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56354"/>
-        <updated>2023-03-14T07:11:59.683Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 07:00]]></content>
     </entry>
 </feed>
