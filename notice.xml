@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-15T04:13:35.783Z</updated>
+    <updated>2023-03-15T05:10:45.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 예술특강 김영하 - 예술가가 되자, 지금 당장! (경주) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56371</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56371"/>
+        <updated>2023-03-15T05:10:36.050Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.20(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  김봉곤훈장과 함께하는 'NEW조선통신사'​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56370</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56370"/>
         <updated>2023-03-15T04:13:23.883Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.17(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 청춘트롯 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56369</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56369"/>
+        <updated>2023-03-15T05:10:36.050Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.20(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 전주​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56357"/>
         <updated>2023-03-14T07:11:59.674Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 신나는 캐릭터뮤지컬 <과학특공대> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56356</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56356"/>
-        <updated>2023-03-14T06:15:08.454Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 싱어롱 콘서트 뮤지컬 ‘Live Show’<무지개 물고기> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56355</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56355"/>
-        <updated>2023-03-14T05:11:09.736Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 01:00]]></content>
     </entry>
 </feed>
