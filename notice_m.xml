@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-16T06:14:26.891Z</updated>
+    <updated>2023-03-16T07:11:15.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <일라이> 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56380</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56380"/>
+        <updated>2023-03-16T07:11:14.529Z</updated>
+        <content type="html"><![CDATA[2023.03.23(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“2023년” 가족뮤지컬 인어공주 - 포항 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56379</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56366"/>
         <updated>2023-03-14T09:12:59.904Z</updated>
         <content type="html"><![CDATA[2023.03.17(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​김명인 피아노 독주회 - 안동 ​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56365</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56365"/>
-        <updated>2023-03-14T09:12:59.908Z</updated>
-        <content type="html"><![CDATA[2023.03.16(목) 01:00]]></content>
     </entry>
 </feed>
