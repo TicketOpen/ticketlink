@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-16T03:12:36.091Z</updated>
+    <updated>2023-03-16T04:13:19.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“2023년” 가족뮤지컬 인어공주 - 포항 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56379</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56379"/>
+        <updated>2023-03-16T04:13:13.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.17(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <종의 기원> 콘서트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56378</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56365"/>
         <updated>2023-03-14T09:12:53.944Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2022~2023 전라남도 방문의해 시즌2 서울페스티벌​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56364</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56364"/>
-        <updated>2023-03-14T09:12:53.944Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.16(목) 04:00]]></content>
     </entry>
 </feed>
