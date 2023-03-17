@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-17T04:13:36.652Z</updated>
+    <updated>2023-03-17T05:10:33.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병찬 콘서트 <공명, 211014> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56392</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56392"/>
+        <updated>2023-03-17T05:10:33.206Z</updated>
+        <content type="html"><![CDATA[2023.03.21(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 뮤지컬 <은밀하게 위대하게:THE LAST> 3차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56391</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56378"/>
         <updated>2023-03-16T03:12:35.304Z</updated>
         <content type="html"><![CDATA[2023.03.21(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <피터팬>- 서울(은평) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56377</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56377"/>
-        <updated>2023-03-15T08:15:12.408Z</updated>
-        <content type="html"><![CDATA[2023.03.17(금) 01:00]]></content>
     </entry>
 </feed>
