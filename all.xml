@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-18T03:11:43.974Z</updated>
+    <updated>2023-03-18T04:13:15.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 인천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56395</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56395"/>
+        <updated>2023-03-18T04:13:06.866Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.21(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <인터뷰> 3차​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56394</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.20(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <일라이> 4차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56380</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56380"/>
-        <updated>2023-03-16T07:11:07.804Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.23(목) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56395</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56395"/>
+        <updated>2023-03-18T04:13:14.244Z</updated>
+        <content type="html"><![CDATA[2023.03.21(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <인터뷰> 3차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56381"/>
         <updated>2023-03-16T08:14:38.160Z</updated>
         <content type="html"><![CDATA[2023.03.20(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <일라이> 4차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56380</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56380"/>
-        <updated>2023-03-16T07:11:14.529Z</updated>
-        <content type="html"><![CDATA[2023.03.23(목) 05:00]]></content>
     </entry>
 </feed>
