@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-22T05:11:36.554Z</updated>
+    <updated>2023-03-22T06:13:37.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]「본능을 넘어서 BEYOND INSTINCT 」/ 원초적 음악집단 이드 - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56434</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56434"/>
+        <updated>2023-03-22T06:13:36.657Z</updated>
+        <content type="html"><![CDATA[2023.03.24(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[< PITTA 강형호 콘서트: BE FREE > - 부산​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56433</id>
@@ -32,6 +39,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56430"/>
         <updated>2023-03-22T03:11:14.776Z</updated>
         <content type="html"><![CDATA[2023.03.23(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 스타크래프트 멸망전 - 동아리 최강전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56429</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56429"/>
+        <updated>2023-03-22T06:13:36.661Z</updated>
+        <content type="html"><![CDATA[2023.03.23(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 남진 디너쇼 - 서울 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56420"/>
         <updated>2023-03-21T05:10:43.273Z</updated>
         <content type="html"><![CDATA[2023.03.22(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​프랭크 와일드혼 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56419</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56419"/>
-        <updated>2023-03-21T05:10:43.275Z</updated>
-        <content type="html"><![CDATA[2023.03.22(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <티티체리 - 용의 생일파티를 도와라> – 안양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56418</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56418"/>
-        <updated>2023-03-21T05:10:43.276Z</updated>
-        <content type="html"><![CDATA[2023.03.24(금) 05:00]]></content>
     </entry>
 </feed>
