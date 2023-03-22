@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-22T06:13:37.261Z</updated>
+    <updated>2023-03-22T07:10:08.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공포 연극<괴담:위험한해시태그> 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56437</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56437"/>
+        <updated>2023-03-22T07:10:00.647Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.24(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​연극 <사춘기 메들리> - 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56436</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56436"/>
+        <updated>2023-03-22T07:10:00.649Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.24(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <몽심> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56435</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56435"/>
+        <updated>2023-03-22T07:10:00.649Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.24(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]「본능을 넘어서 BEYOND INSTINCT 」/ 원초적 음악집단 이드 - 광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56434</id>
@@ -87,27 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56423</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56423"/>
         <updated>2023-03-21T05:10:34.205Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.22(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉산문화회관 특별기획 <소소스테이지I-퍼플 엘리 of 비아트리오> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56422</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56422"/>
-        <updated>2023-03-21T05:10:34.208Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.27(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <어린이캣> - 전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56421</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56421"/>
-        <updated>2023-03-21T05:10:34.210Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <옛날 옛적에 훠어이 훠이> - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56420</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56420"/>
-        <updated>2023-03-21T05:10:34.214Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.22(수) 01:00]]></content>
     </entry>
 </feed>
