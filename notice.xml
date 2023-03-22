@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-22T08:14:01.253Z</updated>
+    <updated>2023-03-22T09:11:11.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뱅크개라지 라이브 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56438</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56438"/>
+        <updated>2023-03-22T09:11:03.284Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.24(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공포 연극<괴담:위험한해시태그> 청주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56437</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56424"/>
         <updated>2023-03-21T07:10:52.835Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 빅3 “행복한 만남” 콘서트 - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56423</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56423"/>
-        <updated>2023-03-21T05:10:34.205Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.22(수) 01:00]]></content>
     </entry>
 </feed>
