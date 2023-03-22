@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-21T23:10:35.079Z</updated>
+    <updated>2023-03-22T00:51:14.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 남진 디너쇼 - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56428</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56428"/>
+        <updated>2023-03-22T00:51:04.455Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.27(월) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 천안 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56426</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56413"/>
         <updated>2023-03-21T02:03:59.599Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.24(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이 뮤지컬 <우리엄마 최고> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56412</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56412"/>
-        <updated>2023-03-21T02:03:59.600Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.23(목) 01:00]]></content>
     </entry>
 </feed>
