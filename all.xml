@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-23T04:12:44.930Z</updated>
+    <updated>2023-03-23T05:10:39.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 김해 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56445</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56445"/>
+        <updated>2023-03-23T05:10:29.843Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.24(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​김영임 “50주년” 소리 孝 대공연 - 고양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56444</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.23(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 스타크래프트 멸망전 - 동아리 최강전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56429</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56429"/>
-        <updated>2023-03-22T06:13:29.294Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.23(목) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 김해 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56445</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56445"/>
+        <updated>2023-03-23T05:10:38.343Z</updated>
+        <content type="html"><![CDATA[2023.03.24(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​김영임 “50주년” 소리 孝 대공연 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56430"/>
         <updated>2023-03-22T03:11:14.776Z</updated>
         <content type="html"><![CDATA[2023.03.23(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 스타크래프트 멸망전 - 동아리 최강전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56429</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56429"/>
-        <updated>2023-03-22T06:13:36.661Z</updated>
-        <content type="html"><![CDATA[2023.03.23(목) 05:00]]></content>
     </entry>
 </feed>
