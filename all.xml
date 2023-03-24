@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T02:05:25.420Z</updated>
+    <updated>2023-03-24T03:11:43.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 특별기획 <소소스테이지I-롱아일랜드 재즈밴드 with 채왕록> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56458</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56458"/>
+        <updated>2023-03-24T03:11:34.209Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.27(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​(2023) 아기돼지 삼형제 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56456</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.27(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​김영임 “50주년” 소리 孝 대공연 - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56442</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56442"/>
-        <updated>2023-03-23T03:11:16.269Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.27(월) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 특별기획 <소소스테이지I-롱아일랜드 재즈밴드 with 채왕록> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56458</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56458"/>
+        <updated>2023-03-24T03:11:42.685Z</updated>
+        <content type="html"><![CDATA[2023.03.27(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​(2023) 아기돼지 삼형제 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/56443</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56443"/>
         <updated>2023-03-23T03:11:25.295Z</updated>
-        <content type="html"><![CDATA[2023.03.27(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​김영임 “50주년” 소리 孝 대공연 - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56442</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56442"/>
-        <updated>2023-03-23T03:11:25.299Z</updated>
         <content type="html"><![CDATA[2023.03.27(월) 05:00]]></content>
     </entry>
 </feed>
