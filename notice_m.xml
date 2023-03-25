@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-25T05:09:43.338Z</updated>
+    <updated>2023-03-25T06:13:09.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2023 가족 어린이연극 <사운드오브뮤직> - 창원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56465</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56465"/>
+        <updated>2023-03-25T06:13:08.828Z</updated>
+        <content type="html"><![CDATA[2023.03.28(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 특선가족뮤지컬 <인어공주> - 전주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56464</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56451"/>
         <updated>2023-03-23T07:09:59.378Z</updated>
         <content type="html"><![CDATA[2023.03.29(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 삼국유사교육문화회관 재개관 기념 신춘음악회 <다시, 봄> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56450</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56450"/>
-        <updated>2023-03-23T07:09:59.378Z</updated>
-        <content type="html"><![CDATA[2023.03.30(목) 01:00]]></content>
     </entry>
 </feed>
