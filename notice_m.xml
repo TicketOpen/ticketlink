@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-25T06:13:09.551Z</updated>
+    <updated>2023-03-25T07:09:49.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2023 신나는 캐릭터뮤지컬 <과학특공대> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56466</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56466"/>
+        <updated>2023-03-25T07:09:49.078Z</updated>
+        <content type="html"><![CDATA[2023.03.28(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023 가족 어린이연극 <사운드오브뮤직> - 창원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56465</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/56452</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56452"/>
         <updated>2023-03-23T07:09:59.377Z</updated>
-        <content type="html"><![CDATA[2023.03.29(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 포항 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56451</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56451"/>
-        <updated>2023-03-23T07:09:59.378Z</updated>
         <content type="html"><![CDATA[2023.03.29(수) 00:00]]></content>
     </entry>
 </feed>
