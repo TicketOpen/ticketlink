@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-25T02:03:30.275Z</updated>
+    <updated>2023-03-25T03:10:54.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 충남예산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56462</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56462"/>
+        <updated>2023-03-25T03:10:48.745Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.28(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리 <잡아라! 황금트로피!> - 울산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56461</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56448"/>
         <updated>2023-03-23T07:09:52.829Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.27(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리 <잡아라! 황금트로피!> - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56447</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56447"/>
-        <updated>2023-03-23T06:13:33.029Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.30(목) 00:00]]></content>
     </entry>
 </feed>
