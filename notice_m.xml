@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-27T03:11:34.604Z</updated>
+    <updated>2023-03-27T04:13:35.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 <인어공주> - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56477</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56477"/>
+        <updated>2023-03-27T04:13:34.748Z</updated>
+        <content type="html"><![CDATA[2023.03.29(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  안종도 피아노 리사이틀: Fantasy, 잠에서 깨어나다. 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56476</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/56463</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56463"/>
         <updated>2023-03-25T04:12:22.712Z</updated>
-        <content type="html"><![CDATA[2023.03.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <라푼젤> - 충남예산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56462</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56462"/>
-        <updated>2023-03-25T03:10:54.041Z</updated>
         <content type="html"><![CDATA[2023.03.28(화) 00:00]]></content>
     </entry>
 </feed>
