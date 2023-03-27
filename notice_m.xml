@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-03-27T02:05:01.537Z</updated>
+    <updated>2023-03-27T03:11:34.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  안종도 피아노 리사이틀: Fantasy, 잠에서 깨어나다. 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56476</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56476"/>
+        <updated>2023-03-27T03:11:33.918Z</updated>
+        <content type="html"><![CDATA[2023.04.06(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그림읽어주는 베토벤 클래식콘서트 <고흐vs고갱> - 성남 토요일 단하루!! 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56475</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56462"/>
         <updated>2023-03-25T03:10:54.041Z</updated>
         <content type="html"><![CDATA[2023.03.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리 <잡아라! 황금트로피!> - 울산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56461</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56461"/>
-        <updated>2023-03-24T10:11:29.613Z</updated>
-        <content type="html"><![CDATA[2023.03.30(목) 00:00]]></content>
     </entry>
 </feed>
