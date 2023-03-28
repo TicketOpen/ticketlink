@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-28T03:12:22.274Z</updated>
+    <updated>2023-03-28T04:13:34.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56491"/>
         <updated>2023-03-28T03:12:15.403Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.30(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 볼빨간사춘기 단독 콘서트 '사랑.zip' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56490</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56490"/>
+        <updated>2023-03-28T04:13:25.109Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.29(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 그림자극과 함께하는 키즈클래식​​​ 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56478</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56478"/>
         <updated>2023-03-27T05:11:01.946Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.29(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <인어공주> - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56477</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56477"/>
-        <updated>2023-03-27T04:13:24.367Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.29(수) 00:00]]></content>
     </entry>
 </feed>
