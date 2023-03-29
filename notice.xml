@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-29T10:12:37.256Z</updated>
+    <updated>2023-03-29T11:10:08.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구시립국악단 퓨전국악콘서트 <폼: 美쳤다>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56507</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56507"/>
+        <updated>2023-03-29T11:09:57.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.30(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리 <잡아라! 황금트로피!> - 광주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56506</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56493"/>
         <updated>2023-03-28T06:14:14.459Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.03.31(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족어린이공연<프린세스공주>-창원 단하루!! 공연​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56492</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56492"/>
-        <updated>2023-03-28T03:12:15.384Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.03.29(수) 00:00]]></content>
     </entry>
 </feed>
