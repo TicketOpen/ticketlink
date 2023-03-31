@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-31T10:12:14.590Z</updated>
+    <updated>2023-03-31T11:09:43.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 올 댓 러브2_ 헤르만 헤세, 내 안의 데미안을 찾아서 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56531</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56531"/>
+        <updated>2023-03-31T11:09:36.560Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​베이스 구본수와 함께하는 5월 한국가곡 & 아트팝 콘서트  ​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56530</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <레드북> 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56515</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56515"/>
-        <updated>2023-03-30T07:10:41.487Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 올 댓 러브2_ 헤르만 헤세, 내 안의 데미안을 찾아서 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56531</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56531"/>
+        <updated>2023-03-31T11:09:42.473Z</updated>
+        <content type="html"><![CDATA[2023.04.04(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​베이스 구본수와 함께하는 5월 한국가곡 & 아트팝 콘서트  ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56517"/>
         <updated>2023-03-31T02:06:59.844Z</updated>
         <content type="html"><![CDATA[2023.04.04(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <레드북> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56515</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56515"/>
-        <updated>2023-03-30T07:10:52.699Z</updated>
-        <content type="html"><![CDATA[2023.04.11(화) 06:00]]></content>
     </entry>
 </feed>
