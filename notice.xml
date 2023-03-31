@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-03-31T07:10:28.600Z</updated>
+    <updated>2023-03-31T08:13:43.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​베이스 구본수와 함께하는 5월 한국가곡 & 아트팝 콘서트  ​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56530</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56530"/>
+        <updated>2023-03-31T08:13:35.221Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 브라스마켓 시네콘서트 : 존 윌리암스 vs 한스짐머 (포항)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56529</id>
@@ -38,7 +45,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/56525</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56525"/>
         <updated>2023-03-31T05:10:24.813Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 02:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 <감염된 도시의 비밀> - 광주앵콜​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56515"/>
         <updated>2023-03-30T07:10:41.487Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 데스노트 (The Musical Death Note)​​​ 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56514</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56514"/>
-        <updated>2023-03-30T05:10:23.877Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 05:00]]></content>
     </entry>
 </feed>
