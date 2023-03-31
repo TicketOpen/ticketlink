@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-31T06:14:17.158Z</updated>
+    <updated>2023-03-31T07:10:28.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 브라스마켓 시네콘서트 : 존 윌리암스 vs 한스짐머 (포항)​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -30,7 +30,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/56526</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56526"/>
         <updated>2023-03-31T05:10:24.811Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.04(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -135,7 +135,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/56526</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56526"/>
         <updated>2023-03-31T05:10:35.312Z</updated>
-        <content type="html"><![CDATA[2023.04.04(화) 05:00]]></content>
+        <content type="html"><![CDATA[2023.04.05(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
