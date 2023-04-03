@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-03T05:10:32.148Z</updated>
+    <updated>2023-04-03T06:14:50.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​명앙상블 제5회 정기연주회​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56542</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56542"/>
+        <updated>2023-04-03T06:14:43.134Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프렌치 내한 뮤지컬 <나폴레옹> (Musical NAPOLEON) 첫 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56539</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56525"/>
         <updated>2023-03-31T05:10:24.813Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​신비아파트 뮤지컬 시즌5 <감염된 도시의 비밀> - 광주앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56524</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56524"/>
-        <updated>2023-03-31T02:06:52.662Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 00:00]]></content>
     </entry>
 </feed>
