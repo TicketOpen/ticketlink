@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-03T07:10:40.030Z</updated>
+    <updated>2023-04-03T08:14:12.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -17,13 +17,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56540</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56540"/>
         <updated>2023-04-03T07:10:29.081Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프렌치 내한 뮤지컬 <나폴레옹> (Musical NAPOLEON) 첫 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56539</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56539"/>
-        <updated>2023-04-03T03:10:58.761Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.07(금) 05:00]]></content>
     </entry>
     <entry>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56527"/>
         <updated>2023-03-31T05:10:24.810Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 1차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56525</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56525"/>
+        <updated>2023-04-03T08:14:01.721Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 04:00]]></content>
     </entry>
 </feed>
