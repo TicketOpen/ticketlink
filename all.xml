@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-03T02:29:47.893Z</updated>
+    <updated>2023-04-03T03:11:06.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[프렌치 내한 뮤지컬 <나폴레옹> (Musical NAPOLEON) 첫 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56539</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56539"/>
+        <updated>2023-04-03T03:10:58.761Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.07(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​연극 <별이네 헤어살롱> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56538</id>
@@ -82,13 +89,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오누이 콘서트 <김용임,진성> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56526</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56526"/>
-        <updated>2023-03-31T05:10:24.811Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56525</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56525"/>
@@ -108,6 +108,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56523"/>
         <updated>2023-03-31T02:06:52.663Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프렌치 내한 뮤지컬 <나폴레옹> (Musical NAPOLEON) 첫 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56539</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56539"/>
+        <updated>2023-04-03T03:11:05.944Z</updated>
+        <content type="html"><![CDATA[2023.04.07(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​연극 <별이네 헤어살롱> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -184,13 +191,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/56527</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56527"/>
         <updated>2023-03-31T05:10:35.311Z</updated>
-        <content type="html"><![CDATA[2023.04.05(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오누이 콘서트 <김용임,진성> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56526</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56526"/>
-        <updated>2023-03-31T05:10:35.312Z</updated>
         <content type="html"><![CDATA[2023.04.05(수) 05:00]]></content>
     </entry>
     <entry>
