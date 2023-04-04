@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-04T07:10:26.572Z</updated>
+    <updated>2023-04-04T08:13:34.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] MixMag Korea 7th Anniversary Special Event 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56556</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56556"/>
+        <updated>2023-04-04T08:13:25.887Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6년만에 귀환! 프렌치 내한 뮤지컬 <나폴레옹> (Musical NAPOLEON) 첫 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56555</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56538"/>
         <updated>2023-04-03T01:58:58.973Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.05(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 JUNG YONG HWA LIVE ‘All-Rounder' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56537</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56537"/>
-        <updated>2023-04-03T05:10:24.734Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 11:00]]></content>
     </entry>
 </feed>
