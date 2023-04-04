@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-04-04T09:10:32.069Z</updated>
+    <updated>2023-04-04T10:10:59.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제47회 정기연주회 <진솔과 임주희> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56558</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56558"/>
+        <updated>2023-04-04T10:10:58.907Z</updated>
+        <content type="html"><![CDATA[2023.04.06(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  제45회 정기연주회 <진솔과 김재영> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56557</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56542"/>
         <updated>2023-04-03T06:14:50.106Z</updated>
         <content type="html"><![CDATA[2023.04.04(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <비스티> 프리뷰​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56540</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56540"/>
-        <updated>2023-04-03T07:10:39.414Z</updated>
-        <content type="html"><![CDATA[2023.04.07(금) 05:00]]></content>
     </entry>
 </feed>
