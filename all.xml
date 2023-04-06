@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-06T02:32:58.688Z</updated>
+    <updated>2023-04-06T03:11:16.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브가족뮤지컬 <알라딘> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56564</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56564"/>
+        <updated>2023-04-06T03:11:06.842Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.07(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​연극 셰익스피어 <템페스트> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56563</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 스트링스 앙상블 콘서트 5월의 세레나데 - 양산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56546</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56546"/>
-        <updated>2023-04-04T02:03:49.232Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 05:00]]></content>
+        <title type="html"><![CDATA[2023 라이브가족뮤지컬 <알라딘> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56564</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56564"/>
+        <updated>2023-04-06T03:11:15.381Z</updated>
+        <content type="html"><![CDATA[2023.04.07(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​연극 셰익스피어 <템페스트> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[[단독판매] 제 9회 앙상블 쏘노 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56547</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56547"/>
-        <updated>2023-04-04T02:04:00.526Z</updated>
-        <content type="html"><![CDATA[2023.04.06(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 스트링스 앙상블 콘서트 5월의 세레나데 - 양산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56546</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56546"/>
         <updated>2023-04-04T02:04:00.526Z</updated>
         <content type="html"><![CDATA[2023.04.06(목) 05:00]]></content>
     </entry>
