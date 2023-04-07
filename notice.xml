@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-07T08:12:51.370Z</updated>
+    <updated>2023-04-07T09:11:11.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <2023강원도립무용단 기획공연 “불휘”>-춘천​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56576</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56576"/>
+        <updated>2023-04-07T09:11:03.991Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.10(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] BLANK2Y 1st TOUR CONCERT : MASTER KEY​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56575</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56562"/>
         <updated>2023-04-05T06:14:01.154Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.13(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​책먹는여우 - 강릉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56561</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56561"/>
-        <updated>2023-04-05T04:12:33.637Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.06(목) 00:00]]></content>
     </entry>
 </feed>
