@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-04-07T03:11:16.233Z</updated>
+    <updated>2023-04-07T04:12:39.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[​PEAK FESTIVAL 2023​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[PEAK FESTIVAL 2023 - 얼리버드 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56571</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56571"/>
         <updated>2023-04-07T03:11:15.364Z</updated>
