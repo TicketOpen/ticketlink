@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-10T06:13:57.887Z</updated>
+    <updated>2023-04-10T07:10:07.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 Fantastic 孝 Dinner show '희.로.애.락' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56583</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56583"/>
+        <updated>2023-04-10T07:09:56.050Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.13(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울구로​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56582</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56568"/>
         <updated>2023-04-07T05:09:43.425Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  2023년 안산시 청년 약물중독예방사업 뮤지컬 '각인'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56567</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56567"/>
-        <updated>2023-04-06T08:12:50.964Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 01:00]]></content>
     </entry>
 </feed>
