@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-10T04:12:35.568Z</updated>
+    <updated>2023-04-10T05:11:07.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울구로​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56582</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56582"/>
+        <updated>2023-04-10T05:10:59.305Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.12(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <폭풍의 언덕> 2차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56580</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 가방 들어주는 아이 - 이천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56566</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56566"/>
-        <updated>2023-04-06T06:13:38.543Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.07(금) 05:00]]></content>
+        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울구로​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56582</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56582"/>
+        <updated>2023-04-10T05:11:06.774Z</updated>
+        <content type="html"><![CDATA[2023.04.12(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <폭풍의 언덕> 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56567"/>
         <updated>2023-04-06T08:12:57.795Z</updated>
         <content type="html"><![CDATA[2023.04.11(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 가방 들어주는 아이 - 이천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56566</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56566"/>
-        <updated>2023-04-06T06:13:46.444Z</updated>
-        <content type="html"><![CDATA[2023.04.07(금) 05:00]]></content>
     </entry>
 </feed>
