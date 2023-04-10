@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-10T01:59:05.388Z</updated>
+    <updated>2023-04-10T02:28:57.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <폭풍의 언덕> 2차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56580</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56580"/>
+        <updated>2023-04-10T02:28:46.101Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 조희창의<토요 클래식 살롱 Ⅱ> - 경주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56579</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56566"/>
         <updated>2023-04-06T06:13:38.543Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] NOA 1st LIVE “NO.A” ASIA TOUR IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56565</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56565"/>
-        <updated>2023-04-06T05:10:23.151Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.07(금) 10:00]]></content>
     </entry>
 </feed>
