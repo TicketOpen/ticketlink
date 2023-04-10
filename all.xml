@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-10T07:10:07.144Z</updated>
+    <updated>2023-04-10T08:13:40.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 가족매직쇼<일루젼 버블쇼>-대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56585</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56585"/>
+        <updated>2023-04-10T08:13:32.636Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대 단막극전 '파수꾼' 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56584</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56584"/>
+        <updated>2023-04-10T08:13:32.637Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.17(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 Fantastic 孝 Dinner show '희.로.애.락' 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56583</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.12(수) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[책먹는여우 - 성남 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56569</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56569"/>
-        <updated>2023-04-07T03:11:06.712Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 00:00]]></content>
+        <title type="html"><![CDATA[2023 가족매직쇼<일루젼 버블쇼>-대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56585</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56585"/>
+        <updated>2023-04-10T08:13:39.474Z</updated>
+        <content type="html"><![CDATA[2023.04.11(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌 3 - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56568</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56568"/>
-        <updated>2023-04-07T05:09:43.425Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.11(화) 05:00]]></content>
+        <title type="html"><![CDATA[현대 단막극전 '파수꾼' 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56584</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56584"/>
+        <updated>2023-04-10T08:13:39.474Z</updated>
+        <content type="html"><![CDATA[2023.04.17(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 Fantastic 孝 Dinner show '희.로.애.락' 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56570"/>
         <updated>2023-04-07T03:11:15.365Z</updated>
         <content type="html"><![CDATA[2023.04.12(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56569</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56569"/>
-        <updated>2023-04-07T02:27:12.583Z</updated>
-        <content type="html"><![CDATA[2023.04.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌 3 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56568</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56568"/>
-        <updated>2023-04-07T05:09:52.553Z</updated>
-        <content type="html"><![CDATA[2023.04.11(화) 05:00]]></content>
     </entry>
 </feed>
