@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-11T00:50:33.564Z</updated>
+    <updated>2023-04-11T02:01:12.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(2023 롯데백화점 영등포) 인어공주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56587</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56587"/>
+        <updated>2023-04-11T02:01:03.101Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.13(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2023 롯데백화점 영등포) 사과가쿵 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56586</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56586"/>
+        <updated>2023-04-11T02:01:03.108Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.13(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족매직쇼<일루젼 버블쇼>-대전 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56585</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.10(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2023 - 얼리버드 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56571</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56571"/>
-        <updated>2023-04-07T03:11:06.706Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.10(월) 09:00]]></content>
+        <title type="html"><![CDATA[(2023 롯데백화점 영등포) 인어공주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56587</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56587"/>
+        <updated>2023-04-11T02:01:12.229Z</updated>
+        <content type="html"><![CDATA[2023.04.13(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청춘페스티벌2023 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56570</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56570"/>
-        <updated>2023-04-07T03:11:06.707Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.12(수) 08:00]]></content>
+        <title type="html"><![CDATA[(2023 롯데백화점 영등포) 사과가쿵 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56586</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56586"/>
+        <updated>2023-04-11T02:01:12.235Z</updated>
+        <content type="html"><![CDATA[2023.04.13(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족매직쇼<일루젼 버블쇼>-대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56572"/>
         <updated>2023-04-07T06:14:09.608Z</updated>
         <content type="html"><![CDATA[2023.04.10(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2023 - 얼리버드 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56571</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56571"/>
-        <updated>2023-04-07T03:11:15.364Z</updated>
-        <content type="html"><![CDATA[2023.04.10(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청춘페스티벌2023 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56570</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56570"/>
-        <updated>2023-04-07T03:11:15.365Z</updated>
-        <content type="html"><![CDATA[2023.04.12(수) 08:00]]></content>
     </entry>
 </feed>
