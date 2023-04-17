@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-17T04:12:51.937Z</updated>
+    <updated>2023-04-17T05:10:39.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족라이브 뮤지컬 <신데렐라> - 순천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56639</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56639"/>
+        <updated>2023-04-17T05:10:31.185Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족라이브 뮤지컬 <신데렐라> - 군산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56638</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56638"/>
+        <updated>2023-04-17T05:10:31.187Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제주] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56637</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56637"/>
+        <updated>2023-04-17T05:10:31.187Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제주 서귀포] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56636</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56636"/>
+        <updated>2023-04-17T05:10:31.189Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］- 서울(백암아트홀) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56635</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56635"/>
+        <updated>2023-04-17T05:10:31.190Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.18(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​THE GREATEST: 전율 정동하 X 소향 - 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56634</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56625"/>
         <updated>2023-04-14T07:10:54.319Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 충주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56624</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56624"/>
-        <updated>2023-04-14T07:10:54.319Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해설과 함께하는 < Do you know Mozart? > - 울산]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56623</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56623"/>
-        <updated>2023-04-14T06:13:53.074Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.18(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공포 연극[괴담: 위험한 해시태그] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56621</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56621"/>
-        <updated>2023-04-14T00:48:42.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아노말리 내한공연 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56620</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56620"/>
-        <updated>2023-04-13T10:10:54.622Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.17(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​삼국유사교육문화회관 어린이날 특집 뮤지컬 <이상한 나라의 앨리스3D> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56619</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56619"/>
-        <updated>2023-04-13T09:10:35.497Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.18(화) 01:00]]></content>
     </entry>
 </feed>
