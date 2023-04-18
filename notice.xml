@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-18T06:13:28.409Z</updated>
+    <updated>2023-04-18T07:11:17.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고잉홈프로젝트 [더 심포닉 댄스]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56651</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56651"/>
+        <updated>2023-04-18T07:11:09.596Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고잉홈프로젝트 [볼레로: 더 갈라]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56650</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56650"/>
+        <updated>2023-04-18T07:11:09.597Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​고잉홈프로젝트 [신(新) 세계]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56649</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56649"/>
+        <updated>2023-04-18T07:11:09.599Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 부활 단독콘서트 < Born Again >－청주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56648</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56637"/>
         <updated>2023-04-17T05:10:31.187Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제주 서귀포] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56636</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56636"/>
-        <updated>2023-04-17T05:10:31.189Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］- 서울(백암아트홀) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56635</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56635"/>
-        <updated>2023-04-17T05:10:31.190Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.18(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST: 전율 정동하 X 소향 - 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56634</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56634"/>
-        <updated>2023-04-17T02:03:41.017Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.20(목) 05:00]]></content>
     </entry>
 </feed>
