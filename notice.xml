@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-18T23:10:16.635Z</updated>
+    <updated>2023-04-19T00:57:00.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2023 가족마술쇼 <힐링 매직쇼> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56657</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56657"/>
+        <updated>2023-04-19T00:56:50.817Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.20(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 [바다탐험대 옥토넛 시즌 2] - 의성 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56656</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56656"/>
+        <updated>2023-04-19T00:56:50.822Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.08(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW 뮤지컬 미니특공대 브이레인저스 - 진주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56654</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56654"/>
+        <updated>2023-04-19T00:56:50.823Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.21(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <인어공주> - 용인 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56653</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56642"/>
         <updated>2023-04-17T11:09:25.749Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.20(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제372회 정기연주회 'Titan' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56641</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56641"/>
-        <updated>2023-04-17T07:10:19.287Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경산시립교향악단 제3회 정기연주회​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56640</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56640"/>
-        <updated>2023-04-17T06:14:00.590Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.18(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족라이브 뮤지컬 <신데렐라> - 순천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56639</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56639"/>
-        <updated>2023-04-17T05:10:31.185Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.19(수) 00:00]]></content>
     </entry>
 </feed>
