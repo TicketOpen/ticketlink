@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T05:10:29.995Z</updated>
+    <updated>2023-04-20T06:19:01.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매][광주시립소년소녀합창단] 제138회 정기공연_패밀리 콘서트 시리즈 II, 행복한 우리 가족 티켓오픈 공지 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56676</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56676"/>
+        <updated>2023-04-20T06:18:52.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 재즈 피아노 페스티벌 2023 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56675</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.24(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <이상한 엄마> - 포항​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56660</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56660"/>
-        <updated>2023-04-19T03:12:00.147Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.24(월) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매][광주시립소년소녀합창단] 제138회 정기공연_패밀리 콘서트 시리즈 II, 행복한 우리 가족 티켓오픈 공지 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56676</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56676"/>
+        <updated>2023-04-20T06:19:00.760Z</updated>
+        <content type="html"><![CDATA[2023.04.27(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울 재즈 피아노 페스티벌 2023 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/56661</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56661"/>
         <updated>2023-04-19T03:12:06.468Z</updated>
-        <content type="html"><![CDATA[2023.04.24(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <이상한 엄마> - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56660</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56660"/>
-        <updated>2023-04-19T03:12:06.469Z</updated>
         <content type="html"><![CDATA[2023.04.24(월) 05:00]]></content>
     </entry>
 </feed>
