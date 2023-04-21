@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-21T04:12:50.349Z</updated>
+    <updated>2023-04-21T05:10:24.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56692</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56692"/>
+        <updated>2023-04-21T05:10:15.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56691</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56691"/>
+        <updated>2023-04-21T05:10:15.927Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 춘천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56690</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56690"/>
+        <updated>2023-04-21T05:10:15.930Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 창원  티켓오픈 공지]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56689</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56689"/>
+        <updated>2023-04-21T05:10:15.931Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56678</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56667"/>
         <updated>2023-04-19T09:15:25.216Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.24(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]동춘 서커스 쇼 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56666</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56666"/>
-        <updated>2023-04-19T03:12:00.138Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  상상블과 함께 하는 클래식 프라임 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56665</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56665"/>
-        <updated>2023-04-19T03:12:00.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.21(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 양산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56664</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56664"/>
-        <updated>2023-04-19T03:12:00.143Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  원주시민과 함께하는 <열린음악회> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56663</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56663"/>
-        <updated>2023-04-19T03:12:00.144Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.20(목) 01:00]]></content>
     </entry>
 </feed>
