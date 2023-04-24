@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-24T03:11:37.535Z</updated>
+    <updated>2023-04-24T04:13:10.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매]대구국제청소년오케스트라 제8회 정기연주회 &미국덴튼유스심포니 '국제교류음악회' 티켓오픈 공지 (티켓링크)]]></title>
@@ -24,6 +24,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56696"/>
         <updated>2023-04-24T00:52:11.863Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[온라인 스트리밍] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 공지 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56695</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56695"/>
+        <updated>2023-04-24T04:13:01.470Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56694</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56694"/>
+        <updated>2023-04-24T04:13:01.470Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.24(월) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <비스티> 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,20 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 체임버 뮤직 콘서트 I. (8.14) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56683</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56683"/>
-        <updated>2023-04-21T06:14:17.820Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 한경arte필의 말러 교향곡 제4번 (8.13) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56681</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56681"/>
-        <updated>2023-04-21T06:14:17.822Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매]대구국제청소년오케스트라 제8회 정기연주회 &미국덴튼유스심포니 '국제교류음악회' 티켓오픈 공지 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56702</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56702"/>
@@ -129,6 +129,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56696"/>
         <updated>2023-04-24T00:52:18.650Z</updated>
         <content type="html"><![CDATA[2023.04.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[온라인 스트리밍] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 공지 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56695</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56695"/>
+        <updated>2023-04-24T04:13:09.681Z</updated>
+        <content type="html"><![CDATA[2023.04.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56694</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56694"/>
+        <updated>2023-04-24T04:13:09.681Z</updated>
+        <content type="html"><![CDATA[2023.04.24(월) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <비스티> 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/56684</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56684"/>
         <updated>2023-04-21T06:14:25.094Z</updated>
-        <content type="html"><![CDATA[2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 체임버 뮤직 콘서트 I. (8.14) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56683</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56683"/>
-        <updated>2023-04-21T06:14:25.104Z</updated>
-        <content type="html"><![CDATA[2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 한경arte필의 말러 교향곡 제4번 (8.13) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56681</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56681"/>
-        <updated>2023-04-21T06:14:25.105Z</updated>
         <content type="html"><![CDATA[2023.04.27(목) 05:00]]></content>
     </entry>
 </feed>
