@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-24T00:52:19.241Z</updated>
+    <updated>2023-04-24T02:04:42.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]대구국제청소년오케스트라 제8회 정기연주회 &미국덴튼유스심포니 '국제교류음악회' 티켓오픈 공지]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56702</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56702"/>
+        <updated>2023-04-24T02:04:31.649Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.01(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 대구앵콜 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56696</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56680</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56680"/>
         <updated>2023-04-21T06:14:17.823Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 서울시향의 드보르작 교향곡 제9번 (8.11) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56679</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56679"/>
-        <updated>2023-04-21T06:14:17.824Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
     </entry>
 </feed>
