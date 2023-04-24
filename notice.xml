@@ -2,15 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-24T04:13:10.495Z</updated>
+    <updated>2023-04-24T05:10:39.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추억의 애니메이션 피터팬 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56705</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56705"/>
+        <updated>2023-04-24T05:10:29.417Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 펭수 펭미팅 <20세기 펭수 – 우리의 네 번째 여름> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56704</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56704"/>
+        <updated>2023-04-24T05:10:29.423Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김태우 2023 T-Party  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56703</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56703"/>
+        <updated>2023-04-24T05:10:29.426Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.01(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]대구국제청소년오케스트라 제8회 정기연주회 &미국덴튼유스심포니 '국제교류음악회' 티켓오픈 공지]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56702</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56702"/>
         <updated>2023-04-24T02:04:31.649Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.01(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2023 수성아트피아 마티네 콘서트 12월 - Dear, Antique (어느 멋진 날) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56701</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56701"/>
+        <updated>2023-04-24T05:10:29.436Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2023 수성아트피아 마티네 콘서트 9월 - Dear, Romance (사랑의 온도) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56700</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56700"/>
+        <updated>2023-04-24T05:10:29.441Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2023 수성아트피아 마티네 콘서트 6월 - Dear, Dream (꿈을 꾸다) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56699</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56699"/>
+        <updated>2023-04-24T05:10:29.442Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 PINOCHIO FESTA 티켓오픈 안내]]></title>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56690"/>
         <updated>2023-04-21T05:10:15.930Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 창원  티켓오픈 공지]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56689</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56689"/>
-        <updated>2023-04-21T05:10:15.931Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 경기필의 번스타인 심포닉 댄스 (8.20) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56688</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56688"/>
-        <updated>2023-04-21T06:14:17.813Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] KBS교향악단의 드보르작 교향곡 제7번 (8.19) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56687</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56687"/>
-        <updated>2023-04-21T06:14:17.815Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 수원시향의 차이콥스키 교향곡 제5번 (8.18) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56686</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56686"/>
-        <updated>2023-04-21T06:14:17.819Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 인천시향의 브람스 교향곡 제1번 (8.17) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56685</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56685"/>
-        <updated>2023-04-21T06:14:17.819Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클래식 레볼루션 2023] 체임버 뮤직 콘서트 II. (8.15) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56684</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56684"/>
-        <updated>2023-04-21T06:14:17.820Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 05:00]]></content>
     </entry>
 </feed>
