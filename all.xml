@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-24T05:10:39.812Z</updated>
+    <updated>2023-04-24T06:14:18.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[추억의 애니메이션 피터팬 - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -19,7 +19,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 김태우 2023 T-Party  티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 김태우 2023 T-Party < For:Rest > 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56703</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56703"/>
         <updated>2023-04-24T05:10:29.426Z</updated>
@@ -68,14 +68,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[온라인 스트리밍] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 공지 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] [온라인 스트리밍] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 공지 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56695</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56695"/>
         <updated>2023-04-24T04:13:01.470Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.24(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW < HENECIA, Let's party! > 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56694</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56694"/>
         <updated>2023-04-24T04:13:01.470Z</updated>
@@ -124,7 +124,7 @@
         <content type="html"><![CDATA[2023.05.02(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 김태우 2023 T-Party  티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 김태우 2023 T-Party < For:Rest > 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56703</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56703"/>
         <updated>2023-04-24T05:10:38.882Z</updated>
@@ -173,14 +173,14 @@
         <content type="html"><![CDATA[2023.04.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[온라인 스트리밍] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 공지 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] [온라인 스트리밍] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 공지 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56695</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56695"/>
         <updated>2023-04-24T04:13:09.681Z</updated>
         <content type="html"><![CDATA[2023.04.24(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 KIMHYUNJOONG SPECIAL LIVE SHOW  티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2023 KIMHYUNJOONG SPECIAL LIVE SHOW < HENECIA, Let's party! > 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56694</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56694"/>
         <updated>2023-04-24T04:13:09.681Z</updated>
