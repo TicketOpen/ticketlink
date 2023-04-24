@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-24T08:14:54.577Z</updated>
+    <updated>2023-04-24T09:11:06.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]심승엽 피아노 리사이틀 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56706</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56706"/>
+        <updated>2023-04-24T09:10:59.017Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.01(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추억의 애니메이션 피터팬 - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56705</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 춘천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56690</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56690"/>
-        <updated>2023-04-21T05:10:15.930Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매]심승엽 피아노 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56706</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56706"/>
+        <updated>2023-04-24T09:11:05.694Z</updated>
+        <content type="html"><![CDATA[2023.05.01(월) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추억의 애니메이션 피터팬 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56691"/>
         <updated>2023-04-21T05:10:23.702Z</updated>
         <content type="html"><![CDATA[2023.04.27(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56690</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56690"/>
-        <updated>2023-04-21T05:10:23.708Z</updated>
-        <content type="html"><![CDATA[2023.04.27(목) 06:00]]></content>
     </entry>
 </feed>
