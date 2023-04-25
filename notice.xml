@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-25T06:13:23.442Z</updated>
+    <updated>2023-04-25T07:10:09.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <레드북> 마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56715</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56715"/>
+        <updated>2023-04-25T07:10:02.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메가필드뮤직페스티벌 2023_공식티켓 3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56714</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56701</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56701"/>
         <updated>2023-04-24T05:10:29.436Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2023 수성아트피아 마티네 콘서트 9월 - Dear, Romance (사랑의 온도) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56700</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56700"/>
-        <updated>2023-04-24T05:10:29.441Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content>
     </entry>
 </feed>
