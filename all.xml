@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-25T00:51:41.253Z</updated>
+    <updated>2023-04-25T02:03:31.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [MD]STARCALL GOOD CONCERT vol.1 다나카​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56708</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56708"/>
+        <updated>2023-04-25T02:03:21.714Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]울산광역시학생교육문화회관 기획공연 - 타악퍼포먼스 < 비트팡팡 > 티켓오픈 공지 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56707</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56707"/>
+        <updated>2023-04-25T02:03:21.723Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]심승엽 피아노 리사이틀 - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56706</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.28(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56692</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56692"/>
-        <updated>2023-04-21T05:10:15.926Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [MD]STARCALL GOOD CONCERT vol.1 다나카​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56708</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56708"/>
+        <updated>2023-04-25T02:03:30.749Z</updated>
+        <content type="html"><![CDATA[2023.04.27(목) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2023 이승철 전국투어 콘서트: RETRO Night - 전주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56691</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56691"/>
-        <updated>2023-04-21T05:10:15.927Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 07:00]]></content>
+        <title type="html"><![CDATA[[단독판매]울산광역시학생교육문화회관 기획공연 - 타악퍼포먼스 < 비트팡팡 > 티켓오픈 공지 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56707</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56707"/>
+        <updated>2023-04-25T02:03:30.759Z</updated>
+        <content type="html"><![CDATA[2023.05.03(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]심승엽 피아노 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56693"/>
         <updated>2023-04-21T07:10:20.629Z</updated>
         <content type="html"><![CDATA[2023.04.28(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56692</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56692"/>
-        <updated>2023-04-21T05:10:23.702Z</updated>
-        <content type="html"><![CDATA[2023.04.27(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2023 이승철 전국투어 콘서트: RETRO Night - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56691</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56691"/>
-        <updated>2023-04-21T05:10:23.702Z</updated>
-        <content type="html"><![CDATA[2023.04.27(목) 07:00]]></content>
     </entry>
 </feed>
