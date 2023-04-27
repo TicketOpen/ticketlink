@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-26T23:10:52.922Z</updated>
+    <updated>2023-04-27T00:54:46.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬〈라푼젤〉- 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56731</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56731"/>
+        <updated>2023-04-27T00:54:37.919Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 페스티벌 <파워풀 K-트롯>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56730</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56730"/>
+        <updated>2023-04-27T00:54:37.919Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.28(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 성남 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56729</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56729"/>
+        <updated>2023-04-27T00:54:37.920Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]울산광역시학생교육문화회관 기획공연 - [탭댄스] 탭댄스쇼< 올 댓 리듬 > (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56728</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.28(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 < 호야 내 새끼 > - 대구 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56716</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56716"/>
-        <updated>2023-04-25T09:10:52.802Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.28(금) 00:00]]></content>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬〈라푼젤〉- 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56731</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56731"/>
+        <updated>2023-04-27T00:54:45.173Z</updated>
+        <content type="html"><![CDATA[2023.05.02(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <레드북> 마지막 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56715</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56715"/>
-        <updated>2023-04-25T07:10:02.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023 페스티벌 <파워풀 K-트롯>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56730</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56730"/>
+        <updated>2023-04-27T00:54:45.174Z</updated>
+        <content type="html"><![CDATA[2023.04.28(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메가필드뮤직페스티벌 2023_공식티켓 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56714</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56714"/>
-        <updated>2023-04-25T06:13:16.127Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.28(금) 09:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56729</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56729"/>
+        <updated>2023-04-27T00:54:45.175Z</updated>
+        <content type="html"><![CDATA[2023.05.02(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]울산광역시학생교육문화회관 기획공연 - [탭댄스] 탭댄스쇼< 올 댓 리듬 > (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56717"/>
         <updated>2023-04-26T00:51:55.642Z</updated>
         <content type="html"><![CDATA[2023.04.28(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 < 호야 내 새끼 > - 대구 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56716</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56716"/>
-        <updated>2023-04-25T09:10:59.459Z</updated>
-        <content type="html"><![CDATA[2023.04.28(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <레드북> 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56715</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56715"/>
-        <updated>2023-04-25T07:10:08.749Z</updated>
-        <content type="html"><![CDATA[2023.05.02(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가필드뮤직페스티벌 2023_공식티켓 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56714</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56714"/>
-        <updated>2023-04-25T06:13:22.824Z</updated>
-        <content type="html"><![CDATA[2023.04.28(금) 09:00]]></content>
     </entry>
 </feed>
