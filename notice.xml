@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-27T08:13:05.176Z</updated>
+    <updated>2023-04-27T09:10:31.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]연극 < 동성로 로맨스 > - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56738</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56738"/>
+        <updated>2023-04-27T09:10:23.477Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송남현 베이스 솔로 콘서트​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56737</id>
@@ -24,7 +31,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/56734</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56734"/>
         <updated>2023-04-27T02:02:59.092Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 11:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제29회 드림콘서트 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56723"/>
         <updated>2023-04-26T08:18:52.019Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[여수] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56722</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56722"/>
-        <updated>2023-04-26T07:14:56.306Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.28(금) 02:00]]></content>
     </entry>
 </feed>
