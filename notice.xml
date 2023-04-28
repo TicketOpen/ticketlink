@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-04-28T02:03:09.423Z</updated>
+    <updated>2023-04-28T03:11:10.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -76,7 +76,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 페스티벌 <파워풀 K-트롯>​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2023 POWERFUL K-트로트 FESTIVAL​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56730</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56730"/>
         <updated>2023-04-27T00:54:37.919Z</updated>
