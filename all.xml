@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-28T03:11:10.808Z</updated>
+    <updated>2023-04-28T04:12:25.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제2회 김천국제음악제 뮤지컬 투나잇 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56743</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56743"/>
+        <updated>2023-04-28T04:12:18.732Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2023 롯데백화점 대구) 반짝반짝 달님이 - 버블버블 마법의 솜사탕 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56742</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56742"/>
+        <updated>2023-04-28T04:12:18.740Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테판 케레키 트리오 내한공연 (대구)​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56741</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]울산광역시학생교육문화회관 기획공연 - [탭댄스] 탭댄스쇼< 올 댓 리듬 > (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56727</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56727"/>
-        <updated>2023-04-26T10:11:17.017Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.02(화) 01:00]]></content>
+        <title type="html"><![CDATA[제2회 김천국제음악제 뮤지컬 투나잇 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56743</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56743"/>
+        <updated>2023-04-28T04:12:25.155Z</updated>
+        <content type="html"><![CDATA[2023.05.04(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​대구시립국악단 < 화요국악무대 >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56726</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56726"/>
-        <updated>2023-04-26T09:10:34.318Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.04.28(금) 01:00]]></content>
+        <title type="html"><![CDATA[(2023 롯데백화점 대구) 반짝반짝 달님이 - 버블버블 마법의 솜사탕 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56742</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56742"/>
+        <updated>2023-04-28T04:12:25.155Z</updated>
+        <content type="html"><![CDATA[2023.05.03(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스테판 케레키 트리오 내한공연 (대구)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56728"/>
         <updated>2023-04-26T10:11:25.312Z</updated>
         <content type="html"><![CDATA[2023.05.02(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]울산광역시학생교육문화회관 기획공연 - [탭댄스] 탭댄스쇼< 올 댓 리듬 > (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56727</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56727"/>
-        <updated>2023-04-26T10:11:25.312Z</updated>
-        <content type="html"><![CDATA[2023.05.02(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​대구시립국악단 < 화요국악무대 >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56726</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56726"/>
-        <updated>2023-04-26T09:10:40.884Z</updated>
-        <content type="html"><![CDATA[2023.04.28(금) 01:00]]></content>
     </entry>
 </feed>
