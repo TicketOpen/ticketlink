@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-01T23:13:06.050Z</updated>
+    <updated>2023-05-02T00:52:15.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ‘2023시즌 최강야구’ 두번째 직관데이  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56751</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56751"/>
+        <updated>2023-05-02T00:52:07.693Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.09(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소향 - 화성 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56748</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56734"/>
         <updated>2023-04-27T02:02:59.092Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.04.27(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제29회 드림콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56733</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56733"/>
-        <updated>2023-04-27T02:02:59.109Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 11:00]]></content>
     </entry>
 </feed>
