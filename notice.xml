@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-02T05:09:57.264Z</updated>
+    <updated>2023-05-02T06:13:27.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​영상스토리 가곡 콘서트 ‘​환대 (歡待)’​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56757</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56757"/>
+        <updated>2023-05-02T06:13:16.864Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <폭풍의 언덕> 3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56756</id>
@@ -25,13 +32,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56754"/>
         <updated>2023-05-02T03:10:46.192Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 삼국유사교육문화회관 가정의달 기념 연극 『템플』 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56753</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56753"/>
-        <updated>2023-05-02T03:10:46.193Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ‘2023시즌 최강야구’ 두번째 직관데이  티켓오픈 안내]]></title>
