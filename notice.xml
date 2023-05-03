@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-03T03:11:12.024Z</updated>
+    <updated>2023-05-03T04:12:24.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -73,7 +73,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/56754</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56754"/>
         <updated>2023-05-02T03:10:46.192Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 09:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.08(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 삼국유사교육문화회관 가정의달 기념 연극 『템플』 티켓오픈 안내]]></title>
