@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-03T02:00:37.407Z</updated>
+    <updated>2023-05-03T02:33:46.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야외 키즈 놀이터 - 대백미니랜드 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56763</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56763"/>
+        <updated>2023-05-03T02:33:36.323Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 세상의 모든 음악 - 문경 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56762</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56749"/>
         <updated>2023-05-02T05:09:50.694Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.03(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST: 전율 정동하 X 소향 - 화성 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56748</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56748"/>
-        <updated>2023-04-28T08:13:04.653Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.08(월) 05:00]]></content>
     </entry>
 </feed>
