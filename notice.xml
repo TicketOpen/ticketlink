@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-03T06:12:59.305Z</updated>
+    <updated>2023-05-03T07:09:51.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립심포니오케스트라 ‘CINEMA CLASSIC DAY’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56765</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56765"/>
+        <updated>2023-05-03T07:09:42.823Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.04(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매][11시 음악산책] 올 댓 러브3_ 이중섭, 도쿄로 보낸 편지 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56764</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56751"/>
         <updated>2023-05-02T00:52:07.693Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.09(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 조성진 & 발트앙상블 콘서트 - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56750</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56750"/>
-        <updated>2023-05-02T02:02:09.029Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.08(월) 01:00]]></content>
     </entry>
 </feed>
