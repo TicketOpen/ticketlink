@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-05-03T00:51:22.392Z</updated>
+    <updated>2023-05-03T02:00:37.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 세상의 모든 음악 - 문경 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56762</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56762"/>
+        <updated>2023-05-03T02:00:36.803Z</updated>
+        <content type="html"><![CDATA[2023.05.08(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 내 인생의 소중한 가치 - 문경 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56761</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56761"/>
+        <updated>2023-05-03T02:00:36.805Z</updated>
+        <content type="html"><![CDATA[2023.05.08(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케코 포르나렐리 솔로 피아노 Naked (대구) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56760</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56748"/>
         <updated>2023-05-02T19:09:04.556Z</updated>
         <content type="html"><![CDATA[2023.05.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023 롯데백화점 영등포) 무지개물고기 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56747</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56747"/>
-        <updated>2023-05-02T19:09:04.557Z</updated>
-        <content type="html"><![CDATA[2023.05.02(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023 롯데백화점 대구) 무지개물고기 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56746</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56746"/>
-        <updated>2023-05-02T19:09:04.559Z</updated>
-        <content type="html"><![CDATA[2023.05.02(화) 01:00]]></content>
     </entry>
 </feed>
