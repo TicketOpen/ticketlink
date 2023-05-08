@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-08T02:03:46.958Z</updated>
+    <updated>2023-05-08T03:10:50.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 군포 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56790</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56790"/>
+        <updated>2023-05-08T03:10:44.503Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.10(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 서울 (서대문문화체육회관) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56789</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56789"/>
+        <updated>2023-05-08T03:10:44.507Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 서울 (구로구민회관) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56788</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56788"/>
+        <updated>2023-05-08T03:10:44.508Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 서울 (성북구민회관) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56787</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56787"/>
+        <updated>2023-05-08T03:10:44.510Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매][광주시립교향악단] 제373회 정기연주회 ‘Beyond’ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56786</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56786"/>
+        <updated>2023-05-08T03:10:44.510Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.10(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 해운대 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56783</id>
@@ -75,39 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.11(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]대구시립무용단 기획공연 - SPIN OFF (스핀오프) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56771</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56771"/>
-        <updated>2023-05-04T02:00:15.334Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.10(수) 05:00]]></content>
+        <title type="html"><![CDATA[책먹는여우 - 군포 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56790</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56790"/>
+        <updated>2023-05-08T03:10:50.011Z</updated>
+        <content type="html"><![CDATA[2023.05.10(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 가족버블콘서트 <일루젼버블쇼> - 안양 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56770</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56770"/>
-        <updated>2023-05-04T02:00:15.334Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.08(월) 00:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 서울 (서대문문화체육회관) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56789</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56789"/>
+        <updated>2023-05-08T03:10:50.015Z</updated>
+        <content type="html"><![CDATA[2023.05.11(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지브리 페스티벌 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56769</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56769"/>
-        <updated>2023-05-04T05:09:59.556Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.09(화) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 서울 (구로구민회관) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56788</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56788"/>
+        <updated>2023-05-08T03:10:50.035Z</updated>
+        <content type="html"><![CDATA[2023.05.11(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 <백작> 프리뷰​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56768"/>
-        <updated>2023-05-04T02:00:15.339Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.11(목) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 서울 (성북구민회관) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56787</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56787"/>
+        <updated>2023-05-08T03:10:50.035Z</updated>
+        <content type="html"><![CDATA[2023.05.11(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 대전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56767</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56767"/>
-        <updated>2023-05-04T00:51:09.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.08(월) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매][광주시립교향악단] 제373회 정기연주회 ‘Beyond’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56786</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56786"/>
+        <updated>2023-05-08T03:10:50.035Z</updated>
+        <content type="html"><![CDATA[2023.05.10(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 해운대 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56773"/>
         <updated>2023-05-04T05:10:06.219Z</updated>
         <content type="html"><![CDATA[2023.05.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]대구시립무용단 기획공연 - SPIN OFF (스핀오프) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56771</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56771"/>
-        <updated>2023-05-04T02:00:23.017Z</updated>
-        <content type="html"><![CDATA[2023.05.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족버블콘서트 <일루젼버블쇼> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56770</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56770"/>
-        <updated>2023-05-04T02:00:23.017Z</updated>
-        <content type="html"><![CDATA[2023.05.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리 페스티벌 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56769</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56769"/>
-        <updated>2023-05-04T05:10:06.226Z</updated>
-        <content type="html"><![CDATA[2023.05.09(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <백작> 프리뷰​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56768</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56768"/>
-        <updated>2023-05-04T02:00:23.018Z</updated>
-        <content type="html"><![CDATA[2023.05.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56767</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56767"/>
-        <updated>2023-05-04T00:51:18.640Z</updated>
-        <content type="html"><![CDATA[2023.05.08(월) 00:00]]></content>
     </entry>
 </feed>
