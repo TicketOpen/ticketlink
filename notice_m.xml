@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-05-09T04:12:01.419Z</updated>
+    <updated>2023-05-09T05:09:54.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2023 라이브 가족뮤지컬〈사운드오브뮤직> - 안양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56797</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56797"/>
+        <updated>2023-05-09T05:09:53.959Z</updated>
+        <content type="html"><![CDATA[2023.05.10(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]루드윅-베토벤 더 피아노 - 동해 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56796</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56783"/>
         <updated>2023-05-08T02:03:46.095Z</updated>
         <content type="html"><![CDATA[2023.05.10(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56782</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56782"/>
-        <updated>2023-05-08T02:03:46.098Z</updated>
-        <content type="html"><![CDATA[2023.05.11(목) 00:00]]></content>
     </entry>
 </feed>
