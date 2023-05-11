@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-05-11T02:01:27.817Z</updated>
+    <updated>2023-05-11T02:34:33.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <오페라의 유령> 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56818</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56818"/>
+        <updated>2023-05-11T02:34:33.041Z</updated>
+        <content type="html"><![CDATA[2023.05.17(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매] 소프라노 이윤경 독창회 - 대구 (6.27) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56817</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56804"/>
         <updated>2023-05-10T02:00:54.285Z</updated>
         <content type="html"><![CDATA[2023.05.17(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[6/3, 토] 썸머스프링 한강 크루즈 파티 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56803</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56803"/>
-        <updated>2023-05-10T02:00:54.290Z</updated>
-        <content type="html"><![CDATA[2023.05.10(수) 05:00]]></content>
     </entry>
 </feed>
