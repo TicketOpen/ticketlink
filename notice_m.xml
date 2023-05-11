@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-05-11T00:51:56.403Z</updated>
+    <updated>2023-05-11T02:01:27.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매] 소프라노 이윤경 독창회 - 대구 (6.27) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56817</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56817"/>
+        <updated>2023-05-11T02:01:27.213Z</updated>
+        <content type="html"><![CDATA[2023.05.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매] 소프라노 이윤경 독창회 - 대구 (6.20) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56816</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56816"/>
+        <updated>2023-05-11T02:01:27.213Z</updated>
+        <content type="html"><![CDATA[2023.05.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매] 소프라노 이윤경 독창회 - 대구 (6.13) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56815</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56815"/>
+        <updated>2023-05-11T02:01:27.213Z</updated>
+        <content type="html"><![CDATA[2023.05.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  소프라노 이윤경 독창회 - 대구 (6.5) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56814</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56814"/>
+        <updated>2023-05-11T02:01:27.213Z</updated>
+        <content type="html"><![CDATA[2023.05.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  고경남 바이올린 리사이틀 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56813</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56813"/>
+        <updated>2023-05-11T02:01:27.215Z</updated>
+        <content type="html"><![CDATA[2023.05.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  신지아 & 경북도립교향악단 - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56812</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56812"/>
+        <updated>2023-05-11T02:01:27.217Z</updated>
+        <content type="html"><![CDATA[2023.05.15(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  대구시립국악단 209회 정기연주회 <전통의 향기>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56811</id>
@@ -67,47 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56803"/>
         <updated>2023-05-10T02:00:54.290Z</updated>
         <content type="html"><![CDATA[2023.05.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 POWERFUL K-트로트 FESTIVAL​ 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56802</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56802"/>
-        <updated>2023-05-10T02:00:54.291Z</updated>
-        <content type="html"><![CDATA[2023.05.11(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023) 팥죽할멈과 호랑이 - 부산 신세계 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56801</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56801"/>
-        <updated>2023-05-10T00:50:32.714Z</updated>
-        <content type="html"><![CDATA[2023.05.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023) 누가 내 머리에 똥쌌어? - 부산 신세계 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56800</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56800"/>
-        <updated>2023-05-10T00:50:32.716Z</updated>
-        <content type="html"><![CDATA[2023.05.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <와일드 그레이> 1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56799</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56799"/>
-        <updated>2023-05-09T20:11:30.337Z</updated>
-        <content type="html"><![CDATA[2023.05.12(금) 04:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <피터팬> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56798</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56798"/>
-        <updated>2023-05-09T20:11:30.338Z</updated>
-        <content type="html"><![CDATA[2023.05.11(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 라이브 가족뮤지컬〈사운드오브뮤직> - 안양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56797</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56797"/>
-        <updated>2023-05-09T20:11:30.342Z</updated>
-        <content type="html"><![CDATA[2023.05.10(수) 00:00]]></content>
     </entry>
 </feed>
