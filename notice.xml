@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-12T00:51:02.356Z</updated>
+    <updated>2023-05-12T01:59:11.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 합천 씨파크 (C-PARK) - 캠프닉콤마 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56828</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56828"/>
+        <updated>2023-05-12T01:59:04.327Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.19(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알사탕> - 안양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56826</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56812"/>
         <updated>2023-05-11T02:01:18.880Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.15(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  대구시립국악단 209회 정기연주회 <전통의 향기>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56811</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56811"/>
-        <updated>2023-05-10T08:13:28.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.12(금) 01:00]]></content>
     </entry>
 </feed>
