@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-12T04:11:45.752Z</updated>
+    <updated>2023-05-12T05:10:11.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <빨래> - 용인 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56833</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56833"/>
+        <updated>2023-05-12T05:10:02.309Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.17(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2023 포레스텔라 전국투어 콘서트 : The Light in Seoul 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56832</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56832"/>
+        <updated>2023-05-12T05:10:02.311Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.18(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐리tv 쇼뮤지컬 <캐리와 슈퍼걸스> - 서울 송파 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56830</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56816</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56816"/>
         <updated>2023-05-11T02:01:18.862Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매] 소프라노 이윤경 독창회 - 대구 (6.13) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56815</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56815"/>
-        <updated>2023-05-11T02:01:18.862Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  소프라노 이윤경 독창회 - 대구 (6.5) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56814</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56814"/>
-        <updated>2023-05-11T02:01:18.874Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.17(수) 01:00]]></content>
     </entry>
 </feed>
