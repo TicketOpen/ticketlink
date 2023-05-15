@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-05-15T00:53:11.222Z</updated>
+    <updated>2023-05-15T02:05:36.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <백작> 1차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56836</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56836"/>
+        <updated>2023-05-15T02:05:35.203Z</updated>
+        <content type="html"><![CDATA[2023.05.22(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 넌버벌 퍼포먼스 코미디 〈옹알스〉 - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56835</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56822"/>
         <updated>2023-05-11T07:10:44.318Z</updated>
         <content type="html"><![CDATA[2023.05.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매] 부산학생예술문화회관 교직원 초청 공연 - 유키 구라모토 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56821</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56821"/>
-        <updated>2023-05-11T06:13:44.541Z</updated>
-        <content type="html"><![CDATA[2023.05.16(화) 07:00]]></content>
     </entry>
 </feed>
