@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-17T06:14:43.268Z</updated>
+    <updated>2023-05-17T08:14:18.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 오버워치 리그 동부 스프링 스테이지 넉아웃 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56866</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56866"/>
+        <updated>2023-05-17T08:14:06.686Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.18(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​경산시립극단 제11회 정기공연 <가요뮤지컬 울고 넘는 박달재>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56865</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56865"/>
+        <updated>2023-05-17T08:14:06.698Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]미디어 아이스쇼 G-SHOW : Dragon Flower 티켓오픈 공지]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56864</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56864"/>
+        <updated>2023-05-17T08:14:06.699Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.24(수) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​부산학생예술문화회관 교육가족 및 시민 초청 공연 - 하모나이즈 콘서트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56863</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56863"/>
+        <updated>2023-05-17T08:14:06.701Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.19(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <반짝이는 프리채널 - 두근두근! 주얼 컬렉션!> - 울산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56862</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56852"/>
         <updated>2023-05-16T06:18:17.422Z</updated>
         <content type="html"><![CDATA[2023.05.16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화가 있는 날 그냥예술마냥예술 - [뮤지컬] 사운드 오브 뮤직​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56851</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56851"/>
-        <updated>2023-05-16T06:18:17.424Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <레드북> 추가 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56850</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56850"/>
-        <updated>2023-05-16T06:18:17.427Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.18(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 배우 이지혜 클래식 콘서트 < VocaLise >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56849</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56849"/>
-        <updated>2023-05-16T06:18:17.429Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] RINI (리니) 첫 내한 공연 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56848</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56848"/>
-        <updated>2023-05-16T05:10:10.346Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.19(금) 03:00]]></content>
     </entry>
 </feed>
