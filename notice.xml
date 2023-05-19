@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-19T06:13:11.147Z</updated>
+    <updated>2023-05-19T07:10:20.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]클래식, 벽을 허물다 - 포항]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56886</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56886"/>
+        <updated>2023-05-19T07:10:08.396Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.25(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56885</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56885"/>
+        <updated>2023-05-19T07:10:08.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.24(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <비스티> 2차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56884</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56884"/>
+        <updated>2023-05-19T07:10:08.408Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.25(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2023 전북관광브랜드 상설공연 판소리댄스컬 '몽연-서동의 꽃' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56883</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56883"/>
+        <updated>2023-05-19T07:10:08.412Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.29(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매][광주문화예술회관 기획] 아트위크 「유키 구라모토 콘서트 - dear Heart」 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56882</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56882"/>
+        <updated>2023-05-19T07:10:08.412Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Ensemble Belle Équipes 앙상블 벨 에킵 창단연주회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56881</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56870"/>
         <updated>2023-05-18T02:02:42.833Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.19(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립합창단 제28회 정기연주회 < MOZART REQUIEM > 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56869</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56869"/>
-        <updated>2023-05-18T02:02:42.835Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알로하, 나의 엄마들> 1차​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56868</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56868"/>
-        <updated>2023-05-17T10:10:47.347Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.22(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <겟팅아웃>​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56867</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56867"/>
-        <updated>2023-05-17T09:10:28.268Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 오버워치 리그 동부 스프링 스테이지 넉아웃 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56866</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56866"/>
-        <updated>2023-05-17T08:14:06.686Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.18(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​경산시립극단 제11회 정기공연 <가요뮤지컬 울고 넘는 박달재>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56865</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56865"/>
-        <updated>2023-05-17T08:14:06.698Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 03:00]]></content>
     </entry>
 </feed>
