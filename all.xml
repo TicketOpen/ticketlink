@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T05:10:21.141Z</updated>
+    <updated>2023-05-19T06:13:11.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Ensemble Belle Équipes 앙상블 벨 에킵 창단연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56881</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56881"/>
+        <updated>2023-05-19T06:13:00.134Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.22(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 다시, 지금, 여기, 마비노기 19주년 판타지 파티 티켓 오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56880</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]미디어아트 아이스쇼 G-SHOW 티켓오픈 공지 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56864</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56864"/>
-        <updated>2023-05-17T08:14:06.699Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.24(수) 04:00]]></content>
+        <title type="html"><![CDATA[[단독판매] Ensemble Belle Équipes 앙상블 벨 에킵 창단연주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56881</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56881"/>
+        <updated>2023-05-19T06:13:10.471Z</updated>
+        <content type="html"><![CDATA[2023.05.22(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 다시, 지금, 여기, 마비노기 19주년 판타지 파티 티켓 오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56865"/>
         <updated>2023-05-17T08:14:18.041Z</updated>
         <content type="html"><![CDATA[2023.06.21(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]미디어아트 아이스쇼 G-SHOW 티켓오픈 공지 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56864</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56864"/>
-        <updated>2023-05-17T08:14:18.042Z</updated>
-        <content type="html"><![CDATA[2023.05.24(수) 04:00]]></content>
     </entry>
 </feed>
