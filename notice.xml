@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-23T04:12:00.958Z</updated>
+    <updated>2023-05-23T05:09:55.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 가족매직쇼 <류엘의 매직콘서트> - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56903</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56903"/>
+        <updated>2023-05-23T05:09:43.038Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.25(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 서울 (강서구민회관)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56902</id>
@@ -41,6 +48,55 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.24(수) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Busan​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56897</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56897"/>
+        <updated>2023-05-23T05:09:43.051Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.22(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Gangneung 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56896</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56896"/>
+        <updated>2023-05-23T05:09:43.052Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Incheon​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56895</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56895"/>
+        <updated>2023-05-23T05:09:43.056Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Daegu​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56894</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56894"/>
+        <updated>2023-05-23T05:09:43.057Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.18(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Changwon​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56893</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56893"/>
+        <updated>2023-05-23T05:09:43.059Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Gwangju​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56892</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56892"/>
+        <updated>2023-05-23T05:09:43.061Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.20(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Cheongju 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56891</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56891"/>
+        <updated>2023-05-23T05:09:43.062Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 11:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 대구시립국악단 화요국악무대 <한국 춤, 선의 오묘>​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56890</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56890"/>
@@ -53,61 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56889"/>
         <updated>2023-05-22T05:10:24.184Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[포커스] 데이브레이크 ‘빛나는 사람’-광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56888</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56888"/>
-        <updated>2023-05-22T03:10:52.935Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 수원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56887</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56887"/>
-        <updated>2023-05-19T10:10:51.735Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]클래식, 벽을 허물다 - 포항]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56886</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56886"/>
-        <updated>2023-05-19T07:10:08.396Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.25(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 수원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56885</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56885"/>
-        <updated>2023-05-19T07:10:08.398Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.24(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <비스티> 2차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56884</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56884"/>
-        <updated>2023-05-19T07:10:08.408Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.25(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2023 전북관광브랜드 상설공연 판소리댄스컬 '몽연-서동의 꽃' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56883</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56883"/>
-        <updated>2023-05-19T07:10:08.412Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매][광주문화예술회관 기획] 아트위크 「유키 구라모토 콘서트 - dear Heart」 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56882</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56882"/>
-        <updated>2023-05-19T07:10:08.412Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.23(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Ensemble Belle Équipes 앙상블 벨 에킵 창단연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56881</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56881"/>
-        <updated>2023-05-19T06:13:00.134Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.22(월) 01:00]]></content>
     </entry>
 </feed>
