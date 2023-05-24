@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-24T04:12:23.898Z</updated>
+    <updated>2023-05-24T05:10:21.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립합창단 제193회 정기연주회 ‘선물’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56913</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56913"/>
+        <updated>2023-05-24T05:10:06.424Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.25(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최고다 호기심딱지 - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56912</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56899"/>
         <updated>2023-05-23T02:07:45.899Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] DSAC 시즌 콘서트 < Playlist : Untitled > 여름 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56898</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56898"/>
-        <updated>2023-05-23T02:07:45.899Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.24(수) 05:00]]></content>
     </entry>
 </feed>
