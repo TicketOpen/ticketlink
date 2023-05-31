@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-05-31T00:59:48.238Z</updated>
+    <updated>2023-05-31T02:25:23.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2023 메모리즈vol.14 <마크툽x박혜원(HYNN)x정준일> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56945</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56945"/>
+        <updated>2023-05-31T02:25:15.239Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.02(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​조희창의<토요 클래식 살롱 III> - 경주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56943</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56930"/>
         <updated>2023-05-25T08:13:59.022Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.31(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Seoul​ 시청각제한석 추가 판매 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56929</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56929"/>
-        <updated>2023-05-25T08:13:59.023Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.31(수) 11:00]]></content>
     </entry>
 </feed>
