@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-31T07:11:10.371Z</updated>
+    <updated>2023-05-31T08:14:28.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]김하영 바이올린 독주회 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56947</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56947"/>
+        <updated>2023-05-31T08:14:19.852Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.02(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2023 메모리즈vol.14 <마크툽x박혜원(HYNN)x정준일> - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56945</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.05.30(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 여수 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56930</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56930"/>
-        <updated>2023-05-25T08:13:59.022Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.31(수) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]김하영 바이올린 독주회 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56947</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56947"/>
+        <updated>2023-05-31T08:14:27.900Z</updated>
+        <content type="html"><![CDATA[2023.06.02(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2023 메모리즈vol.14 <마크툽x박혜원(HYNN)x정준일> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56931"/>
         <updated>2023-05-25T08:14:12.879Z</updated>
         <content type="html"><![CDATA[2023.05.30(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56930</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56930"/>
-        <updated>2023-05-25T08:14:12.886Z</updated>
-        <content type="html"><![CDATA[2023.05.31(수) 00:00]]></content>
     </entry>
 </feed>
