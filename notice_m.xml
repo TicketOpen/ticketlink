@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-05-31T09:14:09.932Z</updated>
+    <updated>2023-05-31T10:12:19.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56948</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56948"/>
+        <updated>2023-05-31T10:12:18.863Z</updated>
+        <content type="html"><![CDATA[2023.06.02(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]김하영 바이올린 독주회 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56947</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56933"/>
         <updated>2023-05-25T09:12:39.968Z</updated>
         <content type="html"><![CDATA[2023.05.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 예술의전당 영상화사업(SAC ON SCREEN) 연극<돌아온다> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56932</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56932"/>
-        <updated>2023-05-25T09:12:39.979Z</updated>
-        <content type="html"><![CDATA[2023.06.01(목) 01:00]]></content>
     </entry>
 </feed>
