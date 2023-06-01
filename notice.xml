@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-01T07:10:34.983Z</updated>
+    <updated>2023-06-01T08:14:15.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애니메이션 첼로 페스티벌 디즈니 VS 지브리 - 성남 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56954</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56954"/>
+        <updated>2023-06-01T08:14:04.468Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애니메이션 첼로 페스티벌 디즈니 VS 지브리 - 대구 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56953</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56953"/>
+        <updated>2023-06-01T08:14:04.477Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2023 박창근 콘서트 [우리들 꿈에 관한 이야기] - 수원​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56952</id>
@@ -62,7 +76,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.02(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <반짝이는 프리채널 - 두근두근! 주얼 컬렉션!> - 서울 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <반짝이는 프리채널 - 두근두근! 주얼 컬렉션!> - 용산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56944</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56944"/>
         <updated>2023-06-01T05:10:15.699Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56940"/>
         <updated>2023-05-30T05:09:48.355Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.01(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(성북) 2023 어린이마술쇼​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56939</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56939"/>
-        <updated>2023-05-26T10:11:12.578Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.30(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56938</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56938"/>
-        <updated>2023-05-26T08:12:50.695Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.05.31(수) 01:00]]></content>
     </entry>
 </feed>
