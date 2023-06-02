@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-06-02T09:11:15.918Z</updated>
+    <updated>2023-06-02T10:10:51.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ALL 시즌6 결승전​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56966</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56966"/>
+        <updated>2023-06-02T10:10:51.108Z</updated>
+        <content type="html"><![CDATA[2023.06.03(토) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]summer night  cinema - 대구 티켓오픈 공지]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56965</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56950"/>
         <updated>2023-06-01T05:10:25.109Z</updated>
         <content type="html"><![CDATA[2023.06.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마리아킴 재즈 콜렉티브 Getz/Gilberto 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56949</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56949"/>
-        <updated>2023-06-01T03:08:10.245Z</updated>
-        <content type="html"><![CDATA[2023.06.02(금) 08:00]]></content>
     </entry>
 </feed>
