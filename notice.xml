@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-02T02:23:33.752Z</updated>
+    <updated>2023-06-02T03:12:38.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]경산시립교향악단 실내악 시리즈1  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56959</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56959"/>
+        <updated>2023-06-02T03:12:26.174Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.05(월) 14:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10-FEET “COLLINS” TOUR 2023 in Korea 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56957</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56944"/>
         <updated>2023-06-01T05:10:15.699Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​조희창의<토요 클래식 살롱 III> - 경주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56943</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56943"/>
-        <updated>2023-05-30T07:10:01.971Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.01(목) 01:00]]></content>
     </entry>
 </feed>
