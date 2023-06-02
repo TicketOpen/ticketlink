@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-06-02T05:09:54.440Z</updated>
+    <updated>2023-06-02T06:13:21.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[11시 음악산책] 올 댓 러브4 ‘​스메타나와 알폰소 무하, 나의 조국’​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56962</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56962"/>
+        <updated>2023-06-02T06:13:21.141Z</updated>
+        <content type="html"><![CDATA[2023.06.05(월) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘, 발라드 콘서트 in 서울 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56960</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56946"/>
         <updated>2023-05-31T09:14:09.134Z</updated>
         <content type="html"><![CDATA[2023.06.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2023 메모리즈vol.14 <마크툽x박혜원(HYNN)x정준일> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56945</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56945"/>
-        <updated>2023-05-31T02:25:22.293Z</updated>
-        <content type="html"><![CDATA[2023.06.02(금) 09:00]]></content>
     </entry>
 </feed>
