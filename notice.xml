@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-05T02:24:45.573Z</updated>
+    <updated>2023-06-05T03:13:29.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  송영민 피아노 독주회: Cantabile II 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56979</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56979"/>
+        <updated>2023-06-05T03:13:15.125Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.07(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 한여름 밤의 듀엣(A Midsummer Night's Vocal Duet) - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56978</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56963"/>
         <updated>2023-06-02T07:09:50.154Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.07(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[11시 음악산책] 올 댓 러브4 ‘​스메타나와 알폰소 무하, 나의 조국’​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56962</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56962"/>
-        <updated>2023-06-02T06:13:09.307Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.05(월) 07:00]]></content>
     </entry>
 </feed>
