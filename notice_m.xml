@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-06-05T08:13:20.556Z</updated>
+    <updated>2023-06-05T09:11:29.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​Soundberry Festa'23​ 얼리버드 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56983</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56983"/>
+        <updated>2023-06-05T09:11:29.131Z</updated>
+        <content type="html"><![CDATA[2023.06.07(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JUMF 2023 전주얼티밋뮤직페스티벌 블라인드티켓 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56982</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56969"/>
         <updated>2023-06-04T09:10:52.026Z</updated>
         <content type="html"><![CDATA[2023.06.07(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 4차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56968</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56968"/>
-        <updated>2023-06-05T04:12:39.347Z</updated>
-        <content type="html"><![CDATA[2023.06.12(월) 04:00]]></content>
     </entry>
 </feed>
