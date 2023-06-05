@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-05T00:58:27.301Z</updated>
+    <updated>2023-06-05T02:24:45.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 한여름 밤의 듀엣(A Midsummer Night's Vocal Duet) - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56978</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56978"/>
+        <updated>2023-06-05T02:24:31.707Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.07(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이중창으로의 초대(Invitation to a Duet) - 서울 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56977</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56977"/>
+        <updated>2023-06-05T02:24:31.708Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.07(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <어린이캣> - 서울 강동 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56976</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56976"/>
+        <updated>2023-06-05T02:24:31.709Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <백설공주> - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56974</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56974"/>
+        <updated>2023-06-05T02:24:31.711Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  대구피아노페스타 프로젝트 앙상블 제2회 정기연주회​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56973</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.05(월) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘, 발라드 콘서트 in 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56960</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56960"/>
-        <updated>2023-06-02T05:09:44.750Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.09(금) 10:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 한여름 밤의 듀엣(A Midsummer Night's Vocal Duet) - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56978</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56978"/>
+        <updated>2023-06-05T02:24:44.673Z</updated>
+        <content type="html"><![CDATA[2023.06.07(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]경산시립교향악단 실내악 시리즈1  티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56959</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56959"/>
-        <updated>2023-06-02T03:12:26.174Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.05(월) 14:59]]></content>
+        <title type="html"><![CDATA[[단독판매] 이중창으로의 초대(Invitation to a Duet) - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56977</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56977"/>
+        <updated>2023-06-05T02:24:44.675Z</updated>
+        <content type="html"><![CDATA[2023.06.07(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10-FEET “COLLINS” TOUR 2023 in Korea 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56957</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56957"/>
-        <updated>2023-06-02T02:23:22.770Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 07:00]]></content>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <어린이캣> - 서울 강동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56976</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56976"/>
+        <updated>2023-06-05T02:24:44.678Z</updated>
+        <content type="html"><![CDATA[2023.06.08(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2023 이승철 전국투어 콘서트: RETRO Night - 창원 티켓 추가오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56956</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56956"/>
-        <updated>2023-06-02T02:23:22.773Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.02(금) 08:00]]></content>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <백설공주> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/56974</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/56974"/>
+        <updated>2023-06-05T02:24:44.682Z</updated>
+        <content type="html"><![CDATA[2023.06.08(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  대구피아노페스타 프로젝트 앙상블 제2회 정기연주회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/56962"/>
         <updated>2023-06-02T06:13:21.141Z</updated>
         <content type="html"><![CDATA[2023.06.05(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘, 발라드 콘서트 in 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56960</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56960"/>
-        <updated>2023-06-02T05:09:53.838Z</updated>
-        <content type="html"><![CDATA[2023.06.09(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]경산시립교향악단 실내악 시리즈1  티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56959</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56959"/>
-        <updated>2023-06-02T03:12:38.018Z</updated>
-        <content type="html"><![CDATA[2023.06.05(월) 14:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10-FEET “COLLINS” TOUR 2023 in Korea 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56957</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56957"/>
-        <updated>2023-06-02T02:23:32.841Z</updated>
-        <content type="html"><![CDATA[2023.06.08(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 이승철 전국투어 콘서트: RETRO Night - 창원 티켓 추가오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/56956</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/56956"/>
-        <updated>2023-06-02T02:23:32.841Z</updated>
-        <content type="html"><![CDATA[2023.06.02(금) 08:00]]></content>
     </entry>
 </feed>
