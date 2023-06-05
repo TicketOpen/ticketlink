@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-05T05:10:37.700Z</updated>
+    <updated>2023-06-05T06:14:19.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JUMF 2023 전주얼티밋뮤직페스티벌 블라인드티켓 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56982</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56982"/>
+        <updated>2023-06-05T06:14:07.736Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​JazzWorks N14 - Ahmad Jamal​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56981</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56981"/>
+        <updated>2023-06-05T06:14:07.740Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]뮤지컬 맘마미아! 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56980</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56980"/>
+        <updated>2023-06-05T06:14:07.741Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.09(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  송영민 피아노 독주회: Cantabile II 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56979</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56968"/>
         <updated>2023-06-05T04:12:29.287Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.12(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오자와 아리 1st 팬미팅 In Seoul​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56967</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56967"/>
-        <updated>2023-06-02T12:19:45.346Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.05(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ALL 시즌6 결승전​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56966</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56966"/>
-        <updated>2023-06-02T10:10:41.047Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.03(토) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]summer night  cinema - 대구 티켓오픈 공지]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56965</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56965"/>
-        <updated>2023-06-02T08:13:38.975Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.07(수) 01:00]]></content>
     </entry>
 </feed>
