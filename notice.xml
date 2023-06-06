@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-06T22:10:00.667Z</updated>
+    <updated>2023-06-06T23:10:32.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -31,13 +31,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56986</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56986"/>
         <updated>2023-06-05T13:14:36.394Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 제375회 정기연주회 'Queen'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56985</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56985"/>
-        <updated>2023-06-05T13:14:36.396Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 01:00]]></content>
     </entry>
     <entry>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/56975"/>
         <updated>2023-06-05T05:10:26.335Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.12(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <백설공주> - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/56974</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/56974"/>
+        <updated>2023-06-06T23:10:23.112Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.08(목) 00:00]]></content>
     </entry>
 </feed>
