@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-07T06:13:42.449Z</updated>
+    <updated>2023-06-07T07:11:31.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <반짝이는 프리채널 - 두근두근! 주얼 컬렉션!> - 대전 티켓오픈 안내 (티켓링크)]]></title>
@@ -61,7 +61,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.07(수) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JUMF 2023 전주얼티밋뮤직페스티벌 블라인드티켓 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] JUMF 2023 전주얼티밋뮤직페스티벌 블라인드티켓 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/56982</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56982"/>
         <updated>2023-06-05T06:14:07.736Z</updated>
@@ -166,7 +166,7 @@
         <content type="html"><![CDATA[2023.06.07(수) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JUMF 2023 전주얼티밋뮤직페스티벌 블라인드티켓 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] JUMF 2023 전주얼티밋뮤직페스티벌 블라인드티켓 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/56982</id>
         <link href="http://m.ticketlink.co.kr/help/notice/56982"/>
         <updated>2023-06-05T06:14:18.284Z</updated>
