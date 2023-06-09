@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-09T04:12:24.669Z</updated>
+    <updated>2023-06-09T05:10:01.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <비스티> 3차​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57010</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57010"/>
+        <updated>2023-06-09T05:09:51.503Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.15(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]울산광역시학생교육문화회관 기획공연 - [미디어퍼포먼스] 광화문, 그 사내 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57009</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/56996</id>
         <link href="http://www.ticketlink.co.kr/help/notice/56996"/>
         <updated>2023-06-08T03:14:55.523Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.09(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2023 가족라이브 뮤지컬 <신데렐라> - 예산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/56995</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/56995"/>
-        <updated>2023-06-08T02:27:35.008Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.09(금) 08:00]]></content>
     </entry>
 </feed>
