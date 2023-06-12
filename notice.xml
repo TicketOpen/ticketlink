@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-12T05:10:39.642Z</updated>
+    <updated>2023-06-12T06:13:51.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]발레와 국악의 조합 「마블링」 - 포항 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57030</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57030"/>
+        <updated>2023-06-12T06:13:40.263Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]민우혁X민경아 뮤지컬 갈라 콘서트 < La Premier (라 프리미에) > - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57029</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57029"/>
+        <updated>2023-06-12T06:13:40.279Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.19(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 스카 슈퍼스웩 페스티벌 <시즌6> - 1차 일반 할인예매 (한정판매) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57028</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57028"/>
+        <updated>2023-06-12T06:13:40.290Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.14(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<세쿠 카네 메이슨 & 이사타 카네 메이슨 듀오 리사이틀> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57027</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57016"/>
         <updated>2023-06-09T09:10:28.411Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.14(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​(도봉) 2023가족뮤지컬 프린세스 공주뮤지컬쇼​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57015</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57015"/>
-        <updated>2023-06-09T08:13:31.930Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.12(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [미디어퍼포먼스] 광화문, 그 사내 (06.22) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57014</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57014"/>
-        <updated>2023-06-09T08:13:31.931Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.13(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 YURI 2nd FANMEETING TOUR [Chapter 2]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57013</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57013"/>
-        <updated>2023-06-09T07:10:21.637Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.12(월) 11:00]]></content>
     </entry>
 </feed>
