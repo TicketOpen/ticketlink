@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-13T04:12:36.226Z</updated>
+    <updated>2023-06-13T05:10:19.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬[바다탐험대 옥토넛 시즌2]－수원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57040</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57040"/>
+        <updated>2023-06-13T05:10:09.592Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.15(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족 매직콘서트 <매직오브아트> - 용인 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57039</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.13(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <파리넬리> - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57025</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57025"/>
-        <updated>2023-06-12T05:10:28.774Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.19(월) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬[바다탐험대 옥토넛 시즌2]－수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57040</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57040"/>
+        <updated>2023-06-13T05:10:19.201Z</updated>
+        <content type="html"><![CDATA[2023.06.15(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족 매직콘서트 <매직오브아트> - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57026"/>
         <updated>2023-06-12T05:10:38.952Z</updated>
         <content type="html"><![CDATA[2023.06.13(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <파리넬리> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57025</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57025"/>
-        <updated>2023-06-12T05:10:38.963Z</updated>
-        <content type="html"><![CDATA[2023.06.19(월) 05:00]]></content>
     </entry>
 </feed>
