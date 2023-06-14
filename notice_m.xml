@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-06-14T09:10:57.319Z</updated>
+    <updated>2023-06-14T10:11:15.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국립합창단 영화음악여행 - 의성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57052</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57052"/>
+        <updated>2023-06-14T10:11:14.466Z</updated>
+        <content type="html"><![CDATA[2023.06.20(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 군산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57051</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57051"/>
+        <updated>2023-06-14T10:11:14.468Z</updated>
+        <content type="html"><![CDATA[2023.06.20(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 인천 청라 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57050</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57038"/>
         <updated>2023-06-13T02:14:33.047Z</updated>
         <content type="html"><![CDATA[2023.06.15(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 원주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57037</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57037"/>
-        <updated>2023-06-13T02:14:33.050Z</updated>
-        <content type="html"><![CDATA[2023.06.14(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]연극 <너에게로 또 다시> - 고령 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57036</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57036"/>
-        <updated>2023-06-12T09:11:26.503Z</updated>
-        <content type="html"><![CDATA[2023.06.16(금) 01:00]]></content>
     </entry>
 </feed>
