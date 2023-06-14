@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-14T08:15:08.345Z</updated>
+    <updated>2023-06-14T09:10:57.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 인천 청라 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57050</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57050"/>
+        <updated>2023-06-14T09:10:45.813Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.19(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 시스템 임시점검(6/16 02:30 ~ 08:00)으로 인한 서비스 일시 중단 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57049</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57036"/>
         <updated>2023-06-12T09:11:17.490Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.16(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  <넌센스> - 칠곡군​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57035</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57035"/>
-        <updated>2023-06-12T09:11:17.491Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.19(월) 02:00]]></content>
     </entry>
 </feed>
