@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T07:10:38.030Z</updated>
+    <updated>2023-06-15T08:13:38.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈우리 아빠가 최고야〉 - 안동 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57061</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57061"/>
+        <updated>2023-06-15T08:13:29.960Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.16(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  가족뮤지컬 마법여우 주비 “​반딧불을 구하라” - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57060</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57060"/>
+        <updated>2023-06-15T08:13:29.984Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.20(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 박창근 콘서트 [우리들 꿈에 관한 이야기] - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57059</id>
@@ -65,7 +79,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/57051</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57051"/>
         <updated>2023-06-14T10:11:06.089Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.20(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.20(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 인천 청라 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.15(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] PMPS 2023 SEASON 2 FINALS 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57046</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57046"/>
-        <updated>2023-06-14T05:09:54.608Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.19(월) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 〈우리 아빠가 최고야〉 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57061</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57061"/>
+        <updated>2023-06-15T08:13:38.049Z</updated>
+        <content type="html"><![CDATA[2023.06.16(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[클래식과 재즈가 있는 <오후의 산책> - 안동 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57045</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57045"/>
-        <updated>2023-06-14T02:14:40.964Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.16(금) 00:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  가족뮤지컬 마법여우 주비 “​반딧불을 구하라” - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57060</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57060"/>
+        <updated>2023-06-15T08:13:38.050Z</updated>
+        <content type="html"><![CDATA[2023.06.20(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 박창근 콘서트 [우리들 꿈에 관한 이야기] - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -170,7 +184,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/57051</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57051"/>
         <updated>2023-06-14T10:11:14.468Z</updated>
-        <content type="html"><![CDATA[2023.06.20(화) 05:00]]></content>
+        <content type="html"><![CDATA[2023.06.20(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 인천 청라 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57047"/>
         <updated>2023-06-14T06:13:54.257Z</updated>
         <content type="html"><![CDATA[2023.06.15(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] PMPS 2023 SEASON 2 FINALS 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57046</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57046"/>
-        <updated>2023-06-14T05:10:06.663Z</updated>
-        <content type="html"><![CDATA[2023.06.19(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식과 재즈가 있는 <오후의 산책> - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57045</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57045"/>
-        <updated>2023-06-14T02:14:48.770Z</updated>
-        <content type="html"><![CDATA[2023.06.16(금) 00:00]]></content>
     </entry>
 </feed>
