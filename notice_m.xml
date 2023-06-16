@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-06-16T06:13:24.254Z</updated>
+    <updated>2023-06-16T07:10:38.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 부산발레시어터의 신작 - 스릴러 발레 < Snow White > 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57066</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57066"/>
+        <updated>2023-06-16T07:10:38.031Z</updated>
+        <content type="html"><![CDATA[2023.06.20(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <백설공주> - 서울 (강동구민회관)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57065</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57052"/>
         <updated>2023-06-15T22:09:41.754Z</updated>
         <content type="html"><![CDATA[2023.06.20(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 군산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57051</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57051"/>
-        <updated>2023-06-15T22:09:41.755Z</updated>
-        <content type="html"><![CDATA[2023.06.20(화) 06:00]]></content>
     </entry>
 </feed>
