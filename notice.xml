@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-19T08:14:00.875Z</updated>
+    <updated>2023-06-19T09:11:29.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​말러리안 시리즈 6​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57082</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57082"/>
+        <updated>2023-06-19T09:11:17.416Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 안양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57081</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57066"/>
         <updated>2023-06-16T07:10:26.061Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023년 특선가족뮤지컬 <백설공주> - 서울 (강동구민회관)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57065</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57065"/>
-        <updated>2023-06-16T03:11:08.005Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.19(월) 00:00]]></content>
     </entry>
 </feed>
