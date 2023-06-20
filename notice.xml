@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-20T09:10:39.683Z</updated>
+    <updated>2023-06-20T10:10:54.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <백설공주> - 시흥​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57094</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57094"/>
+        <updated>2023-06-20T10:10:43.154Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  시드바이시드 단독콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57093</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57080"/>
         <updated>2023-06-20T08:13:15.245Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  BENEE (베니) 첫 내한 공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57079</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57079"/>
-        <updated>2023-06-20T08:13:15.249Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 03:00]]></content>
     </entry>
 </feed>
