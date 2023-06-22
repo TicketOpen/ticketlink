@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-22T11:09:14.447Z</updated>
+    <updated>2023-06-22T13:13:15.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023년 특선가족뮤지컬 <피노키오> - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57110</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57110"/>
+        <updated>2023-06-22T13:13:06.201Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.26(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 캣 - 거제 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57109</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.26(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 YOU & IT - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 유앤잇 (YOU & IT) - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57106</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57106"/>
         <updated>2023-06-22T09:10:11.912Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57096"/>
         <updated>2023-06-21T06:13:25.957Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.22(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [바다탐험대 옥토넛 시즌2] - 평택 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57095</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57095"/>
-        <updated>2023-06-21T02:16:46.225Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.23(금) 00:00]]></content>
     </entry>
 </feed>
