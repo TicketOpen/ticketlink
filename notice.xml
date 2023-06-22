@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-22T00:58:10.173Z</updated>
+    <updated>2023-06-22T02:19:59.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정표 토크 콘서트 kick-off - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57101</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57101"/>
+        <updated>2023-06-22T02:19:46.479Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.23(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Jazzbreak 2023 - 재즈 속으로 떠나는 여름 음악 여행 -​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57100</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57087"/>
         <updated>2023-06-20T08:13:15.241Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.21(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4회 여주인공페스티벌 참가작 <몽심> - 서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57086</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57086"/>
-        <updated>2023-06-20T08:13:15.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.22(목) 01:00]]></content>
     </entry>
 </feed>
