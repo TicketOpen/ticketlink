@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-24T02:54:38.644Z</updated>
+    <updated>2023-06-24T03:23:40.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오페라 갈라랜드 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57122</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57122"/>
+        <updated>2023-06-24T03:23:29.795Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.27(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <피터팬> - 김해 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57121</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57108"/>
         <updated>2023-06-22T09:10:11.911Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.27(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <너무 놀라지 마라> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57107</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57107"/>
-        <updated>2023-06-22T09:10:11.912Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.26(월) 00:00]]></content>
     </entry>
 </feed>
