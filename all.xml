@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-27T05:11:32.940Z</updated>
+    <updated>2023-06-27T06:15:24.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주오페라단 창단 41주년 기념 제48회 정기공연 Opera “Rigoletto” 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57142</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57142"/>
+        <updated>2023-06-27T06:15:11.096Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.29(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알폰스 무하 이모션 인 서울(Alphonse Mucha eMOTION in SEOUL) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57140</id>
@@ -16,6 +23,20 @@
         <id>http://www.ticketlink.co.kr/help/notice/57139</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57139"/>
         <updated>2023-06-27T04:13:49.522Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 이천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57136</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57136"/>
+        <updated>2023-06-27T06:15:11.101Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 성남 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57135</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57135"/>
+        <updated>2023-06-27T06:15:11.103Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 01:00]]></content>
     </entry>
     <entry>
@@ -89,25 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 추억의 애니메이션 이상한 나라의 앨리스 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57124</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57124"/>
-        <updated>2023-06-24T09:10:41.122Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Trio S 제2회 정기연주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57123</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57123"/>
-        <updated>2023-06-24T08:13:39.644Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.27(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오페라 갈라랜드 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57122</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57122"/>
-        <updated>2023-06-24T03:23:29.795Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.27(화) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 광주오페라단 창단 41주년 기념 제48회 정기공연 Opera “Rigoletto” 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57142</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57142"/>
+        <updated>2023-06-27T06:15:23.933Z</updated>
+        <content type="html"><![CDATA[2023.06.29(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알폰스 무하 이모션 인 서울(Alphonse Mucha eMOTION in SEOUL) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -121,6 +128,20 @@
         <id>http://m.ticketlink.co.kr/help/notice/57139</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57139"/>
         <updated>2023-06-27T04:13:59.620Z</updated>
+        <content type="html"><![CDATA[2023.06.28(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 이천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57136</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57136"/>
+        <updated>2023-06-27T06:15:23.948Z</updated>
+        <content type="html"><![CDATA[2023.06.28(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57135</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57135"/>
+        <updated>2023-06-27T06:15:23.950Z</updated>
         <content type="html"><![CDATA[2023.06.28(수) 01:00]]></content>
     </entry>
     <entry>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57125"/>
         <updated>2023-06-24T09:10:51.514Z</updated>
         <content type="html"><![CDATA[2023.06.28(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 추억의 애니메이션 이상한 나라의 앨리스 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57124</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57124"/>
-        <updated>2023-06-24T09:10:51.515Z</updated>
-        <content type="html"><![CDATA[2023.06.28(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Trio S 제2회 정기연주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57123</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57123"/>
-        <updated>2023-06-24T08:13:48.584Z</updated>
-        <content type="html"><![CDATA[2023.06.27(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오페라 갈라랜드 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57122</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57122"/>
-        <updated>2023-06-24T03:23:39.537Z</updated>
-        <content type="html"><![CDATA[2023.06.27(화) 01:00]]></content>
     </entry>
 </feed>
