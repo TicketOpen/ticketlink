@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-28T08:14:36.821Z</updated>
+    <updated>2023-06-28T09:11:39.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023년 가족뮤지컬 백설공주 - 파주 티켓오픈 안내 (티켓링크)]]></title>
@@ -17,6 +17,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57153"/>
         <updated>2023-06-28T07:11:07.496Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.29(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] WAKE UP : Summer vacation​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57152</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57152"/>
+        <updated>2023-06-28T09:11:30.298Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.30(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 대구 시야제한석 추가 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 용인 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57137</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57137"/>
-        <updated>2023-06-27T07:11:06.050Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023년 가족뮤지컬 백설공주 - 파주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57154</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57154"/>
@@ -122,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57153"/>
         <updated>2023-06-28T07:11:14.230Z</updated>
         <content type="html"><![CDATA[2023.06.29(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] WAKE UP : Summer vacation​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57152</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57152"/>
+        <updated>2023-06-28T09:11:39.323Z</updated>
+        <content type="html"><![CDATA[2023.06.30(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 대구 시야제한석 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/57139</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57139"/>
         <updated>2023-06-27T04:13:59.620Z</updated>
-        <content type="html"><![CDATA[2023.06.28(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57137</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57137"/>
-        <updated>2023-06-27T07:11:15.269Z</updated>
         <content type="html"><![CDATA[2023.06.28(수) 01:00]]></content>
     </entry>
 </feed>
