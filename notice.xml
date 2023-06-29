@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-29T03:02:54.874Z</updated>
+    <updated>2023-06-29T03:22:59.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 판타지아 - 의성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57157</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57157"/>
+        <updated>2023-06-29T03:22:50.281Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조남열 밴드 Live in 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57156</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57143</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57143"/>
         <updated>2023-06-27T07:11:06.040Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.29(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주오페라단 창단 41주년 기념 제48회 정기공연 Opera “Rigoletto” 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57142</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57142"/>
-        <updated>2023-06-27T06:15:11.096Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.29(목) 00:00]]></content>
     </entry>
 </feed>
