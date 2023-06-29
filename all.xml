@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-29T03:23:01.008Z</updated>
+    <updated>2023-06-29T05:20:09.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 US EARTH FESTIVAL ESG BUSAN <어스어스 페스티벌> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57161</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57161"/>
+        <updated>2023-06-29T05:20:02.020Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.03(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알로하, 나의 엄마들> 2차​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57160</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57160"/>
+        <updated>2023-06-29T05:20:02.020Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 부활 단독콘서트 〈Born Again〉－대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57159</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57159"/>
+        <updated>2023-06-29T05:20:02.020Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[익산] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57158</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57158"/>
+        <updated>2023-06-29T05:20:02.020Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.05(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​뮤지컬 판타지아 - 의성​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57157</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.30(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  가족뮤지컬 마법여우 주비 “​반딧불을 구하라” - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57146</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57146"/>
-        <updated>2023-06-28T01:04:49.079Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.30(금) 00:00]]></content>
+        <title type="html"><![CDATA[2023 US EARTH FESTIVAL ESG BUSAN <어스어스 페스티벌> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57161</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57161"/>
+        <updated>2023-06-29T05:20:09.303Z</updated>
+        <content type="html"><![CDATA[2023.07.03(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  가족뮤지컬 마법여우 주비 “​반딧불을 구하라” - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57145</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57145"/>
-        <updated>2023-06-28T01:04:49.083Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.30(금) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <알로하, 나의 엄마들> 2차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57160</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57160"/>
+        <updated>2023-06-29T05:20:09.303Z</updated>
+        <content type="html"><![CDATA[2023.07.04(화) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 합천 씨파크(C-PARK) 핫썸머 쿨캉스 페스티벌 - 물놀이 이용권 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57144</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57144"/>
-        <updated>2023-06-27T08:14:44.336Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.28(수) 03:00]]></content>
+        <title type="html"><![CDATA[2023 부활 단독콘서트 〈Born Again〉－대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57159</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57159"/>
+        <updated>2023-06-29T05:20:09.304Z</updated>
+        <content type="html"><![CDATA[2023.07.04(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 가족마술쇼 <김민형의 폭소매직쇼> - 수원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57143</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57143"/>
-        <updated>2023-06-27T07:11:06.040Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.29(목) 00:00]]></content>
+        <title type="html"><![CDATA[[익산] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57158</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57158"/>
+        <updated>2023-06-29T05:20:09.305Z</updated>
+        <content type="html"><![CDATA[2023.07.05(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​뮤지컬 판타지아 - 의성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57147"/>
         <updated>2023-06-28T01:04:57.848Z</updated>
         <content type="html"><![CDATA[2023.06.30(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  가족뮤지컬 마법여우 주비 “​반딧불을 구하라” - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57146</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57146"/>
-        <updated>2023-06-28T01:04:57.849Z</updated>
-        <content type="html"><![CDATA[2023.06.30(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  가족뮤지컬 마법여우 주비 “​반딧불을 구하라” - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57145</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57145"/>
-        <updated>2023-06-28T01:04:57.850Z</updated>
-        <content type="html"><![CDATA[2023.06.30(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 합천 씨파크(C-PARK) 핫썸머 쿨캉스 페스티벌 - 물놀이 이용권 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57144</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57144"/>
-        <updated>2023-06-27T08:14:52.758Z</updated>
-        <content type="html"><![CDATA[2023.06.28(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족마술쇼 <김민형의 폭소매직쇼> - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57143</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57143"/>
-        <updated>2023-06-27T07:11:15.248Z</updated>
-        <content type="html"><![CDATA[2023.06.29(목) 00:00]]></content>
     </entry>
 </feed>
