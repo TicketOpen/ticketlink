@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-06-30T04:13:21.428Z</updated>
+    <updated>2023-06-30T05:10:55.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57169"/>
         <updated>2023-06-30T01:00:26.138Z</updated>
         <content type="html"><![CDATA[2023.07.04(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <비스티> 4차​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57168</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57168"/>
+        <updated>2023-06-30T05:10:54.879Z</updated>
+        <content type="html"><![CDATA[2023.07.07(금) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 군산 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/57155</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57155"/>
         <updated>2023-06-29T03:02:54.054Z</updated>
-        <content type="html"><![CDATA[2023.06.30(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 백설공주 - 파주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57154</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57154"/>
-        <updated>2023-06-28T07:11:14.229Z</updated>
         <content type="html"><![CDATA[2023.06.30(금) 00:00]]></content>
     </entry>
 </feed>
