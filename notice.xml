@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-06-29T23:11:55.230Z</updated>
+    <updated>2023-06-30T01:00:26.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​코믹추리스릴러 연극 <행오버> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57169</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57169"/>
+        <updated>2023-06-30T01:00:16.569Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 군산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57167</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57154"/>
         <updated>2023-06-28T07:11:07.492Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.06.30(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 특선가족뮤지컬 “무지개물고기” - 서울 (강서구민회관)​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57153</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57153"/>
-        <updated>2023-06-28T07:11:07.496Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.06.29(목) 00:00]]></content>
     </entry>
 </feed>
