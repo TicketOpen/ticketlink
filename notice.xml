@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-03T06:15:25.409Z</updated>
+    <updated>2023-07-03T07:11:33.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장한나, 미샤 마이스키 & 디토 오케스트라​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57173</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57173"/>
+        <updated>2023-07-03T07:11:23.341Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.05(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 신인음악회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57172</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57159"/>
         <updated>2023-06-29T05:20:02.020Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[익산] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57158</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57158"/>
-        <updated>2023-06-29T05:20:02.020Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.05(수) 02:00]]></content>
     </entry>
 </feed>
