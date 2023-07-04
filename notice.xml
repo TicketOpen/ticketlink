@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-04T07:12:22.171Z</updated>
+    <updated>2023-07-04T08:14:46.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <페인터즈> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57180</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57180"/>
+        <updated>2023-07-04T08:14:34.909Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​jazz meets opera​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57179</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57166</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57166"/>
         <updated>2023-06-29T08:22:40.498Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 의정부 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57165</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57165"/>
-        <updated>2023-06-29T08:22:40.500Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 01:00]]></content>
     </entry>
 </feed>
