@@ -2,27 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-05T05:11:58.659Z</updated>
+    <updated>2023-07-05T06:16:45.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57186</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57186"/>
-        <updated>2023-07-05T05:11:47.959Z</updated>
+        <updated>2023-07-05T06:16:34.502Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.10(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 고양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57185</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57185"/>
-        <updated>2023-07-05T05:11:47.959Z</updated>
+        <updated>2023-07-05T06:16:34.507Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.10(월) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 오버워치 리그 동부 서머 스테이지 오픈 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57184</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57184"/>
-        <updated>2023-07-05T05:11:47.960Z</updated>
+        <updated>2023-07-05T06:16:34.511Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 05:00]]></content>
     </entry>
     <entry>
@@ -113,21 +113,21 @@
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57186</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57186"/>
-        <updated>2023-07-05T05:11:58.022Z</updated>
+        <updated>2023-07-05T06:16:44.800Z</updated>
         <content type="html"><![CDATA[2023.07.10(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57185</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57185"/>
-        <updated>2023-07-05T05:11:58.022Z</updated>
+        <updated>2023-07-05T06:16:44.802Z</updated>
         <content type="html"><![CDATA[2023.07.10(월) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 오버워치 리그 동부 서머 스테이지 오픈 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57184</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57184"/>
-        <updated>2023-07-05T05:11:58.038Z</updated>
+        <updated>2023-07-05T06:16:44.803Z</updated>
         <content type="html"><![CDATA[2023.07.06(목) 05:00]]></content>
     </entry>
     <entry>
