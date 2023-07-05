@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-05T15:12:21.454Z</updated>
+    <updated>2023-07-05T16:15:02.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[2023 Micro Seoul Festival : Seoulbound​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57194</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57194"/>
-        <updated>2023-07-05T09:12:18.724Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.11(화) 04:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 양주​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57193</id>
@@ -110,11 +103,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 Micro Seoul Festival : Seoulbound​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57194</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57194"/>
-        <updated>2023-07-05T09:12:27.593Z</updated>
-        <content type="html"><![CDATA[2023.07.11(화) 04:00]]></content>
+        <title type="html"><![CDATA[오늘, 발라드 콘서트 in 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57178</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57178"/>
+        <updated>2023-07-05T16:14:55.278Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.07(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 양주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -213,5 +206,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57179"/>
         <updated>2023-07-04T07:12:21.294Z</updated>
         <content type="html"><![CDATA[2023.07.06(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘, 발라드 콘서트 in 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57178</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57178"/>
+        <updated>2023-07-05T16:15:01.407Z</updated>
+        <content type="html"><![CDATA[2023.07.07(금) 10:00]]></content>
     </entry>
 </feed>
