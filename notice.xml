@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-05T01:04:18.958Z</updated>
+    <updated>2023-07-05T02:55:46.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <와일드 그레이> 4차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57183</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57183"/>
+        <updated>2023-07-05T02:55:36.641Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.10(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57182</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57182"/>
+        <updated>2023-07-05T02:55:36.652Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.12(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​Vorsingen Concert 포징엔 콘서트 - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57181</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57181"/>
         <updated>2023-07-04T09:11:53.791Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 01:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <페인터즈> - 대구 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57169"/>
         <updated>2023-06-30T01:00:16.569Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <비스티> 4차​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57168</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57168"/>
-        <updated>2023-06-30T05:10:46.919Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.07(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57167</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57167"/>
-        <updated>2023-06-29T08:22:40.495Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.04(화) 01:00]]></content>
     </entry>
 </feed>
