@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-05T23:12:23.229Z</updated>
+    <updated>2023-07-06T01:05:28.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]노래하는 대한민국 - 대구 수성구편 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57196</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57196"/>
+        <updated>2023-07-06T01:05:17.824Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.17(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <전천당 vs 흑화당> - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57195</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57195"/>
+        <updated>2023-07-06T01:05:17.834Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.10(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 양주​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57193</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57180"/>
         <updated>2023-07-04T08:14:34.909Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​jazz meets opera​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57179</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57179"/>
-        <updated>2023-07-04T07:12:12.573Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.06(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘, 발라드 콘서트 in 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57178</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57178"/>
-        <updated>2023-07-05T16:14:55.278Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.07(금) 10:00]]></content>
     </entry>
 </feed>
