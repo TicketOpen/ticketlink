@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-07T11:10:11.543Z</updated>
+    <updated>2023-07-07T12:21:55.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57210"/>
         <updated>2023-07-07T07:10:37.250Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]김해 전국체전 성공기원 콘서트 (송가인, 박군, 정다경) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57209</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57209"/>
-        <updated>2023-07-07T06:15:12.799Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.10(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​오리지널 과학마술콘서트 - 평택​ 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57200"/>
         <updated>2023-07-06T05:11:57.722Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.10(월) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이브 가족뮤지컬 <고양이캣> - 용인​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57199</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57199"/>
+        <updated>2023-07-07T12:21:46.090Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.10(월) 01:00]]></content>
     </entry>
 </feed>
