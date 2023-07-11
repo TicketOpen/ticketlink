@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-07-11T06:16:17.908Z</updated>
+    <updated>2023-07-11T07:11:19.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 김해 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57236</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57236"/>
+        <updated>2023-07-11T07:11:18.472Z</updated>
+        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 구리 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57235</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57235"/>
+        <updated>2023-07-11T07:11:18.474Z</updated>
+        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Hannover ON 하노버 온 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57234</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57234"/>
+        <updated>2023-07-11T07:11:18.476Z</updated>
+        <content type="html"><![CDATA[2023.07.13(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <피터팬> - 대전​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57233</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57233"/>
+        <updated>2023-07-11T07:11:18.477Z</updated>
+        <content type="html"><![CDATA[2023.07.13(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 라이브 가족뮤지컬 <백설공주> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57232</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57232"/>
+        <updated>2023-07-11T07:11:18.478Z</updated>
+        <content type="html"><![CDATA[2023.07.13(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 최현우 Answer - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57231</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57222"/>
         <updated>2023-07-10T07:12:06.701Z</updated>
         <content type="html"><![CDATA[2023.07.13(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 안성​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57221</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57221"/>
-        <updated>2023-07-10T07:12:06.702Z</updated>
-        <content type="html"><![CDATA[2023.07.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 군산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57220</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57220"/>
-        <updated>2023-07-10T07:12:06.706Z</updated>
-        <content type="html"><![CDATA[2023.07.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 포항​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57219</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57219"/>
-        <updated>2023-07-10T07:12:06.711Z</updated>
-        <content type="html"><![CDATA[2023.07.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <겨울이야기> - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57218</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57218"/>
-        <updated>2023-07-10T06:15:34.365Z</updated>
-        <content type="html"><![CDATA[2023.07.12(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] EA CHAMPIONS CUP SUMMER 2023 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57217</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57217"/>
-        <updated>2023-07-10T06:15:34.365Z</updated>
-        <content type="html"><![CDATA[2023.07.11(화) 05:00]]></content>
     </entry>
 </feed>
