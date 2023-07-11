@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-11T07:11:19.076Z</updated>
+    <updated>2023-07-11T08:15:05.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(2023) 신데렐라 - 부산 신세계 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57237</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57237"/>
+        <updated>2023-07-11T08:14:54.887Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 김해 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57236</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57223"/>
         <updated>2023-07-10T10:13:29.128Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [포시즌3] 정트리오 콘서트(CHUNG TRIO)-광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57222</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57222"/>
-        <updated>2023-07-10T07:11:58.362Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 02:00]]></content>
     </entry>
 </feed>
