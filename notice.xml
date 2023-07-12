@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-12T01:02:51.464Z</updated>
+    <updated>2023-07-12T02:53:43.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <백작> 4차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57242</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57242"/>
+        <updated>2023-07-12T02:53:32.417Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.17(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2023) 피노키오 - 부산 신세계 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57241</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57241"/>
         <updated>2023-07-12T01:02:41.800Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 조이올팍페스티벌​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57240</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57240"/>
+        <updated>2023-07-12T02:53:32.425Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.12(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <아기돼지삼형제> - 구미​ 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57228</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57228"/>
         <updated>2023-07-11T02:21:33.092Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <라푼젤> - 평택 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57227</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57227"/>
-        <updated>2023-07-11T02:21:33.092Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.12(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023) 피노키오 - 부산 신세계 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57226</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57226"/>
-        <updated>2023-07-11T00:58:14.637Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 00:00]]></content>
     </entry>
 </feed>
