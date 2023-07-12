@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-12T04:14:11.206Z</updated>
+    <updated>2023-07-12T05:11:49.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <미녀와 야수> - 울산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57245</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57245"/>
+        <updated>2023-07-12T05:11:40.351Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <전천당 VS 흑화당> - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57244</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57244"/>
+        <updated>2023-07-12T05:11:40.351Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 부활 단독콘서트 －대전​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57243</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57243"/>
+        <updated>2023-07-12T05:11:40.356Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.18(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <백작> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57242</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.11(화) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 제375회 정기연주회 Queen​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57230</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57230"/>
-        <updated>2023-07-11T03:17:20.253Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.12(수) 08:00]]></content>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <미녀와 야수> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57245</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57245"/>
+        <updated>2023-07-12T05:11:48.958Z</updated>
+        <content type="html"><![CDATA[2023.07.14(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 가족마술콘서트 <익스트림 매직쇼> - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57229</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57229"/>
-        <updated>2023-07-11T02:21:33.091Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <전천당 VS 흑화당> - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57244</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57244"/>
+        <updated>2023-07-12T05:11:48.961Z</updated>
+        <content type="html"><![CDATA[2023.07.14(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 가족마술콘서트 <익스트림 매직쇼> - 울산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57228</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57228"/>
-        <updated>2023-07-11T02:21:33.092Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.13(목) 00:00]]></content>
+        <title type="html"><![CDATA[​2023 부활 단독콘서트 －대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57243</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57243"/>
+        <updated>2023-07-12T05:11:48.962Z</updated>
+        <content type="html"><![CDATA[2023.07.18(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <백작> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57231"/>
         <updated>2023-07-11T06:16:16.999Z</updated>
         <content type="html"><![CDATA[2023.07.11(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 제375회 정기연주회 Queen​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57230</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57230"/>
-        <updated>2023-07-11T03:17:29.212Z</updated>
-        <content type="html"><![CDATA[2023.07.12(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족마술콘서트 <익스트림 매직쇼> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57229</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57229"/>
-        <updated>2023-07-11T02:21:40.984Z</updated>
-        <content type="html"><![CDATA[2023.07.13(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족마술콘서트 <익스트림 매직쇼> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57228</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57228"/>
-        <updated>2023-07-11T02:21:40.991Z</updated>
-        <content type="html"><![CDATA[2023.07.13(목) 00:00]]></content>
     </entry>
 </feed>
