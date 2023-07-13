@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-13T09:12:14.115Z</updated>
+    <updated>2023-07-13T10:12:06.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 영주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57265</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57265"/>
+        <updated>2023-07-13T10:11:56.387Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.17(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023년 가족뮤지컬 인어공주 - 제천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57264</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57264"/>
+        <updated>2023-07-13T10:11:56.393Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.17(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] JUMF 2023 새만금 세계스카우트잼버리 참가자 특별 티켓 오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57263</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57249</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57249"/>
-        <updated>2023-07-13T01:04:11.398Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.18(화) 05:00]]></content>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 영주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57265</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57265"/>
+        <updated>2023-07-13T10:12:05.594Z</updated>
+        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [한글&재즈 - 청춘시리즈] '한글과 재즈가 만나면?' 이재경 트리오​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57248</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57248"/>
-        <updated>2023-07-12T09:11:23.326Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 01:00]]></content>
+        <title type="html"><![CDATA[​2023년 가족뮤지컬 인어공주 - 제천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57264</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57264"/>
+        <updated>2023-07-13T10:12:05.597Z</updated>
+        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] JUMF 2023 새만금 세계스카우트잼버리 참가자 특별 티켓 오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/57251</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57251"/>
         <updated>2023-07-13T01:04:19.095Z</updated>
-        <content type="html"><![CDATA[2023.07.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57249</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57249"/>
-        <updated>2023-07-13T01:04:19.095Z</updated>
-        <content type="html"><![CDATA[2023.07.18(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [한글&재즈 - 청춘시리즈] '한글과 재즈가 만나면?' 이재경 트리오​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57248</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57248"/>
-        <updated>2023-07-12T09:11:32.124Z</updated>
         <content type="html"><![CDATA[2023.07.14(금) 01:00]]></content>
     </entry>
 </feed>
