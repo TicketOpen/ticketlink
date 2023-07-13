@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-13T07:11:12.710Z</updated>
+    <updated>2023-07-13T08:15:19.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -32,6 +32,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57260"/>
         <updated>2023-07-13T05:11:40.805Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.19(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 쇼뮤지컬 <캐리와 슈퍼걸스> - 안산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57259</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57259"/>
+        <updated>2023-07-13T08:15:09.342Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 쇼뮤지컬 <캐리와 슈퍼걸스> - 당진 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57258</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57258"/>
+        <updated>2023-07-13T08:15:09.347Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캐리tv 쇼뮤지컬 <캐리와 슈퍼걸스> - 고양 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57248"/>
         <updated>2023-07-12T09:11:23.326Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 시즌2 〈내 꿈을 찾아서〉 - 수원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57247</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57247"/>
-        <updated>2023-07-12T06:14:25.911Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <백설공주> - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57246</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57246"/>
-        <updated>2023-07-12T06:14:25.911Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 00:00]]></content>
     </entry>
 </feed>
