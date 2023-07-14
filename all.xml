@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-14T07:10:54.061Z</updated>
+    <updated>2023-07-14T08:14:44.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 이승환 콘서트 < 이상한 이승환 > - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57272</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57272"/>
+        <updated>2023-07-14T08:14:34.413Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.19(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023 오르간 시리즈 II. 스콧 브라더스 듀오 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57270</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.14(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 김태혁 호른 리사이틀 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57256</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57256"/>
-        <updated>2023-07-13T04:13:36.792Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.20(목) 05:00]]></content>
+        <title type="html"><![CDATA[2023 이승환 콘서트 < 이상한 이승환 > - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57272</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57272"/>
+        <updated>2023-07-14T08:14:43.729Z</updated>
+        <content type="html"><![CDATA[2023.07.19(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2023 오르간 시리즈 II. 스콧 브라더스 듀오 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57257"/>
         <updated>2023-07-13T21:11:30.545Z</updated>
         <content type="html"><![CDATA[2023.07.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김태혁 호른 리사이틀 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57256</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57256"/>
-        <updated>2023-07-13T21:11:30.548Z</updated>
-        <content type="html"><![CDATA[2023.07.20(목) 05:00]]></content>
     </entry>
 </feed>
