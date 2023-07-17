@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-07-17T06:15:50.600Z</updated>
+    <updated>2023-07-17T07:12:15.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]현대무용과 미디어아트의 만남 < Panorama_Empathy >​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57285</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57285"/>
+        <updated>2023-07-17T07:12:14.340Z</updated>
+        <content type="html"><![CDATA[2023.07.18(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 크레디아 클래식 클럽 : 9월 시네마 파라디소​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57284</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57284"/>
+        <updated>2023-07-17T07:12:14.340Z</updated>
+        <content type="html"><![CDATA[2023.07.19(수) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 이솔로몬 생일파티 <어느 벅찬 날> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57283</id>
@@ -18,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57282"/>
         <updated>2023-07-17T06:15:49.782Z</updated>
         <content type="html"><![CDATA[2023.07.18(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <타오르는 어둠 속에서>​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57281</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57281"/>
+        <updated>2023-07-17T07:12:14.345Z</updated>
+        <content type="html"><![CDATA[2023.07.20(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [재즈빅밴드] 모던사운즈 티켓오픈 안내]]></title>
@@ -83,31 +104,10 @@
         <content type="html"><![CDATA[2023.07.19(수) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2023 오르간 시리즈 II. 스콧 브라더스 듀오 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57270</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57270"/>
-        <updated>2023-07-14T06:15:39.924Z</updated>
-        <content type="html"><![CDATA[2023.07.20(목) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매]  ​경산시립교향악단 실내악 시리즈2​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57269</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57269"/>
         <updated>2023-07-14T05:11:41.212Z</updated>
         <content type="html"><![CDATA[2023.07.18(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <피노키오> - 광주​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57268</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57268"/>
-        <updated>2023-07-14T02:56:35.147Z</updated>
-        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창완밴드 전국투어 <아니벌써> - 고양​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57267</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57267"/>
-        <updated>2023-07-14T04:13:55.138Z</updated>
-        <content type="html"><![CDATA[2023.07.18(화) 04:00]]></content>
     </entry>
 </feed>
