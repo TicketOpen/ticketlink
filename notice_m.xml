@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-07-17T05:11:25.617Z</updated>
+    <updated>2023-07-17T06:15:50.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 이솔로몬 생일파티 <어느 벅찬 날> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57283</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57283"/>
+        <updated>2023-07-17T06:15:49.770Z</updated>
+        <content type="html"><![CDATA[2023.07.19(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언빌리버블쇼 - 청주 소명아트홀 공연 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57282</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57282"/>
+        <updated>2023-07-17T06:15:49.782Z</updated>
+        <content type="html"><![CDATA[2023.07.18(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [재즈빅밴드] 모던사운즈 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57280</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57280"/>
+        <updated>2023-07-17T06:15:49.785Z</updated>
+        <content type="html"><![CDATA[2023.07.19(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 레트로슈퍼콘서트 in 대구​ ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57279</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57279"/>
+        <updated>2023-07-17T06:15:49.788Z</updated>
+        <content type="html"><![CDATA[2023.07.20(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 레트로슈퍼콘서트 in 서울​ ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57278</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57278"/>
+        <updated>2023-07-17T06:15:49.790Z</updated>
+        <content type="html"><![CDATA[2023.07.20(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사칠> 프리뷰 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57277</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57277"/>
+        <updated>2023-07-17T06:15:49.793Z</updated>
+        <content type="html"><![CDATA[2023.07.21(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 인 콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57276</id>
@@ -67,47 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57267"/>
         <updated>2023-07-14T04:13:55.138Z</updated>
         <content type="html"><![CDATA[2023.07.18(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 쇼뮤지컬 <캐리와 슈퍼걸스> - 창원​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57266</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57266"/>
-        <updated>2023-07-13T21:11:30.515Z</updated>
-        <content type="html"><![CDATA[2023.07.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 <겨울이야기> - 영주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57265</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57265"/>
-        <updated>2023-07-13T21:11:30.515Z</updated>
-        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023년 가족뮤지컬 인어공주 - 제천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57264</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57264"/>
-        <updated>2023-07-13T21:11:30.520Z</updated>
-        <content type="html"><![CDATA[2023.07.17(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] JUMF 2023 새만금 세계스카우트잼버리 참가자 특별 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57263</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57263"/>
-        <updated>2023-07-13T21:11:30.520Z</updated>
-        <content type="html"><![CDATA[2023.07.14(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57262</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57262"/>
-        <updated>2023-07-13T21:11:30.520Z</updated>
-        <content type="html"><![CDATA[2023.07.19(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <22년 2개월> 1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57261</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57261"/>
-        <updated>2023-07-13T21:11:30.525Z</updated>
-        <content type="html"><![CDATA[2023.07.18(화) 05:00]]></content>
     </entry>
 </feed>
