@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-18T08:14:06.113Z</updated>
+    <updated>2023-07-18T09:11:10.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김해 전국체전 성공기원 콘서트 (송가인, 박군, 정다경) ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57291</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57291"/>
+        <updated>2023-07-18T09:11:02.087Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.20(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알사탕> - 울산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57290</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.20(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[한문연 방방곡곡 문화공감] 누모리쇼​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매][한문연 방방곡곡 문화공감] 누모리쇼​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57289</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57289"/>
         <updated>2023-07-18T07:10:46.121Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57277"/>
         <updated>2023-07-17T06:15:41.442Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.21(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 인 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57276</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57276"/>
-        <updated>2023-07-17T05:11:17.523Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.18(화) 07:00]]></content>
     </entry>
 </feed>
