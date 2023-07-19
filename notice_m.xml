@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-07-19T01:51:55.128Z</updated>
+    <updated>2023-07-19T03:42:16.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 퀸 엘리자베스 콩쿠르 위너스 콘서트 in 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57296</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57296"/>
+        <updated>2023-07-19T03:42:15.814Z</updated>
+        <content type="html"><![CDATA[2023.08.07(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]피스트 - 여덟개의 순간 (대구)​​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57295</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57295"/>
+        <updated>2023-07-19T03:42:15.819Z</updated>
+        <content type="html"><![CDATA[2023.07.27(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]시네마틱 오케스트라 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57294</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57294"/>
+        <updated>2023-07-19T03:42:15.819Z</updated>
+        <content type="html"><![CDATA[2023.07.21(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이마술쇼 - 서울 (강동구민회관) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57293</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57293"/>
+        <updated>2023-07-19T03:42:15.819Z</updated>
+        <content type="html"><![CDATA[2023.07.21(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김해 전국체전 성공기원 콘서트 (송가인, 박군, 정다경) ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57291</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57281"/>
         <updated>2023-07-17T07:12:14.345Z</updated>
         <content type="html"><![CDATA[2023.07.20(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [재즈빅밴드] 모던사운즈 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57280</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57280"/>
-        <updated>2023-07-17T06:15:49.785Z</updated>
-        <content type="html"><![CDATA[2023.07.19(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 레트로슈퍼콘서트 in 대구​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57279</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57279"/>
-        <updated>2023-07-17T06:15:49.788Z</updated>
-        <content type="html"><![CDATA[2023.07.20(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 레트로슈퍼콘서트 in 서울​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57278</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57278"/>
-        <updated>2023-07-17T06:15:49.790Z</updated>
-        <content type="html"><![CDATA[2023.07.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <사칠> 프리뷰 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57277</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57277"/>
-        <updated>2023-07-17T06:15:49.793Z</updated>
-        <content type="html"><![CDATA[2023.07.21(금) 02:00]]></content>
     </entry>
 </feed>
