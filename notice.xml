@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-19T04:18:01.142Z</updated>
+    <updated>2023-07-19T05:10:51.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립극단 제21회 정기공연 ‘안녕, 프랑켄슈타인’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57297</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57297"/>
+        <updated>2023-07-19T05:10:40.888Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.21(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 퀸 엘리자베스 콩쿠르 위너스 콘서트 in 경주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57296</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57282"/>
         <updated>2023-07-17T06:15:41.432Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <타오르는 어둠 속에서>​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57281</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57281"/>
-        <updated>2023-07-17T07:12:05.696Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.20(목) 07:00]]></content>
     </entry>
 </feed>
