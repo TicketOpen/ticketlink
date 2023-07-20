@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-20T00:56:35.853Z</updated>
+    <updated>2023-07-20T02:03:58.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 정트리오 - 동해 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57302</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57302"/>
+        <updated>2023-07-20T02:03:49.971Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손모은 프로젝트 Live in 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57301</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57301"/>
+        <updated>2023-07-20T02:03:49.971Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아동 뮤지컬 <삼양동화 - 헨젤과 새엄마, 거울을 깬 왕비> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57300</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57300"/>
+        <updated>2023-07-20T02:03:49.971Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.24(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 번개맨 <전설의 시작> - 안산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57299</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.21(금) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​책먹는여우 - 경주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57287</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57287"/>
-        <updated>2023-07-18T01:19:41.136Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.20(목) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 정트리오 - 동해 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57302</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57302"/>
+        <updated>2023-07-20T02:03:57.202Z</updated>
+        <content type="html"><![CDATA[2023.07.25(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당 기획] 한문연 문화공감 방방곡곡 「파랑새」​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57286</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57286"/>
-        <updated>2023-07-17T08:15:52.775Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.18(화) 08:00]]></content>
+        <title type="html"><![CDATA[손모은 프로젝트 Live in 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57301</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57301"/>
+        <updated>2023-07-20T02:03:57.202Z</updated>
+        <content type="html"><![CDATA[2023.07.25(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]현대무용과 미디어아트의 만남 < Panorama_Empathy >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57285</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57285"/>
-        <updated>2023-07-17T07:12:05.681Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.18(화) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 아동 뮤지컬 <삼양동화 - 헨젤과 새엄마, 거울을 깬 왕비> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57300</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57300"/>
+        <updated>2023-07-20T02:03:57.204Z</updated>
+        <content type="html"><![CDATA[2023.07.24(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 번개맨 <전설의 시작> - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57288"/>
         <updated>2023-07-18T07:10:55.325Z</updated>
         <content type="html"><![CDATA[2023.07.21(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​책먹는여우 - 경주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57287</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57287"/>
-        <updated>2023-07-18T01:19:50.538Z</updated>
-        <content type="html"><![CDATA[2023.07.20(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당 기획] 한문연 문화공감 방방곡곡 「파랑새」​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57286</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57286"/>
-        <updated>2023-07-17T08:16:01.167Z</updated>
-        <content type="html"><![CDATA[2023.07.18(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]현대무용과 미디어아트의 만남 < Panorama_Empathy >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57285</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57285"/>
-        <updated>2023-07-17T07:12:14.340Z</updated>
-        <content type="html"><![CDATA[2023.07.18(화) 01:00]]></content>
     </entry>
 </feed>
