@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-20T11:09:20.101Z</updated>
+    <updated>2023-07-20T12:20:51.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 제주국제관악제 여름시즌 개막공연​​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57309</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57309"/>
+        <updated>2023-07-20T12:20:40.556Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.21(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 사의찬미 10th Anniversary Concert​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57308</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57295"/>
         <updated>2023-07-19T03:42:07.787Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]시네마틱 오케스트라 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57294</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57294"/>
-        <updated>2023-07-19T03:42:07.790Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.21(금) 08:00]]></content>
     </entry>
 </feed>
