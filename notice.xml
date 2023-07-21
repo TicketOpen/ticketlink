@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-21T00:56:37.395Z</updated>
+    <updated>2023-07-21T02:06:20.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57312</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57312"/>
+        <updated>2023-07-21T02:06:09.496Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 인천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57311</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57298"/>
         <updated>2023-07-19T07:10:10.392Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립극단 제21회 정기공연 ‘안녕, 프랑켄슈타인’ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57297</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57297"/>
-        <updated>2023-07-19T05:10:40.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.21(금) 01:00]]></content>
     </entry>
 </feed>
