@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-24T10:11:49.313Z</updated>
+    <updated>2023-07-24T11:09:08.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 내머리에 똥 쌌어 - 이천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57325</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57325"/>
+        <updated>2023-07-24T11:08:58.820Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오리지널 과학마술콘서트 - 수원​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57324</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57311</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57311"/>
         <updated>2023-07-21T06:13:31.707Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.24(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프린세스 스쿨 - 논산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57310</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57310"/>
-        <updated>2023-07-21T06:13:31.708Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.24(월) 00:00]]></content>
     </entry>
 </feed>
