@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-25T05:10:19.961Z</updated>
+    <updated>2023-07-25T06:13:49.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[MACOF 프랑스 음악 시리즈 ‘La Vie Parisienne’ 파리지엔느의 삶 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57327</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57327"/>
+        <updated>2023-07-25T06:13:38.078Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MACOF 프랑스 음악 시리즈 ‘La Françaoise’ 라 프랑수아즈 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57326</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57326"/>
+        <updated>2023-07-25T06:13:38.082Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.27(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 내머리에 똥 쌌어 - 이천​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57325</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 마지막 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57312</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57312"/>
-        <updated>2023-07-21T06:13:31.707Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 04:00]]></content>
+        <title type="html"><![CDATA[MACOF 프랑스 음악 시리즈 ‘La Vie Parisienne’ 파리지엔느의 삶 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57327</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57327"/>
+        <updated>2023-07-25T06:13:48.308Z</updated>
+        <content type="html"><![CDATA[2023.07.27(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프린세스 스쿨 - 인천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57311</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57311"/>
-        <updated>2023-07-21T06:13:31.707Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.24(월) 00:00]]></content>
+        <title type="html"><![CDATA[MACOF 프랑스 음악 시리즈 ‘La Françaoise’ 라 프랑수아즈 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57326</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57326"/>
+        <updated>2023-07-25T06:13:48.310Z</updated>
+        <content type="html"><![CDATA[2023.07.27(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누가 내머리에 똥 쌌어 - 이천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57313"/>
         <updated>2023-07-21T06:13:39.800Z</updated>
         <content type="html"><![CDATA[2023.07.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <트레이스 유> 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57312</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57312"/>
-        <updated>2023-07-21T06:13:39.806Z</updated>
-        <content type="html"><![CDATA[2023.07.26(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프린세스 스쿨 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57311</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57311"/>
-        <updated>2023-07-21T06:13:39.809Z</updated>
-        <content type="html"><![CDATA[2023.07.24(월) 00:00]]></content>
     </entry>
 </feed>
