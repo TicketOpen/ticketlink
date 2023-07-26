@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-07-26T06:12:58.284Z</updated>
+    <updated>2023-07-26T07:10:22.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57344</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57344"/>
+        <updated>2023-07-26T07:10:21.115Z</updated>
+        <content type="html"><![CDATA[2023.07.28(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 울산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57343</id>
@@ -49,17 +56,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 안산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57337</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57337"/>
-        <updated>2023-07-26T05:10:10.795Z</updated>
-        <content type="html"><![CDATA[2023.07.31(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> - 제주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57336</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57336"/>
         <updated>2023-07-26T06:12:57.549Z</updated>
-        <content type="html"><![CDATA[2023.07.28(금) 05:00]]></content>
+        <content type="html"><![CDATA[2023.07.31(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <백작> 마지막​ 티켓오픈 안내]]></title>
