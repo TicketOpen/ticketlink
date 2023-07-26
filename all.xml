@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-26T04:12:18.799Z</updated>
+    <updated>2023-07-26T05:10:11.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 여수​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57339</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57339"/>
+        <updated>2023-07-26T05:10:00.214Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57338</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57338"/>
+        <updated>2023-07-26T05:10:00.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57337</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57337"/>
+        <updated>2023-07-26T05:10:00.239Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <백작> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57335</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2023 어린이라이브 뮤지컬<브레멘음악대> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57323</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57323"/>
-        <updated>2023-07-24T04:13:21.341Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 00:00]]></content>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 여수​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57339</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57339"/>
+        <updated>2023-07-26T05:10:10.786Z</updated>
+        <content type="html"><![CDATA[2023.07.31(월) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2023 광주 정동하 콘서트 PLAYLIST​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57322</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57322"/>
-        <updated>2023-07-24T05:10:16.855Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.27(목) 05:00]]></content>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 진주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57338</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57338"/>
+        <updated>2023-07-26T05:10:10.793Z</updated>
+        <content type="html"><![CDATA[2023.07.31(월) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[포커스] 전상근×그_냥 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57321</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57321"/>
-        <updated>2023-07-24T03:11:44.762Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 08:00]]></content>
+        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57337</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57337"/>
+        <updated>2023-07-26T05:10:10.795Z</updated>
+        <content type="html"><![CDATA[2023.07.31(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <백작> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57324"/>
         <updated>2023-07-24T04:13:32.216Z</updated>
         <content type="html"><![CDATA[2023.07.26(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 어린이라이브 뮤지컬<브레멘음악대> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57323</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57323"/>
-        <updated>2023-07-24T04:13:32.216Z</updated>
-        <content type="html"><![CDATA[2023.07.26(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 광주 정동하 콘서트 PLAYLIST​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57322</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57322"/>
-        <updated>2023-07-24T05:10:25.400Z</updated>
-        <content type="html"><![CDATA[2023.07.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[포커스] 전상근×그_냥 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57321</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57321"/>
-        <updated>2023-07-24T03:11:54.407Z</updated>
-        <content type="html"><![CDATA[2023.07.25(화) 08:00]]></content>
     </entry>
 </feed>
