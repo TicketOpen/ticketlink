@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-07-26T08:13:47.043Z</updated>
+    <updated>2023-07-26T09:10:33.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 한탄강 지오 페스티벌 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57345</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57345"/>
+        <updated>2023-07-26T09:10:32.243Z</updated>
+        <content type="html"><![CDATA[2023.07.28(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> - 제주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57344</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57330"/>
         <updated>2023-07-25T08:14:05.156Z</updated>
         <content type="html"><![CDATA[2023.07.27(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​연극 <그때도 오늘> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57329</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57329"/>
-        <updated>2023-07-25T08:14:05.165Z</updated>
-        <content type="html"><![CDATA[2023.07.28(금) 01:00]]></content>
     </entry>
 </feed>
