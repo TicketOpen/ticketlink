@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-26T00:56:06.542Z</updated>
+    <updated>2023-07-26T02:08:25.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <백작> 마지막​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57335</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57335"/>
+        <updated>2023-07-26T02:08:11.448Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.02(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  봉산문화회관 특별기획 <소소스테이지Ⅴ-뮤지컬과 사랑에 빠지다.>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57334</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57334"/>
+        <updated>2023-07-26T02:08:11.448Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 평택​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57333</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57333"/>
+        <updated>2023-07-26T02:08:11.453Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57332</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57332"/>
+        <updated>2023-07-26T02:08:11.453Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 소향 단독콘서트 - 제주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57331</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57321"/>
         <updated>2023-07-24T03:11:44.762Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「서찰을 전하는 아이」 / 에이치프로젝트 - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57320</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57320"/>
-        <updated>2023-07-24T02:05:46.598Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멸종위기동물편(화성시어린이문화센터)​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57319</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57319"/>
-        <updated>2023-07-24T02:05:46.600Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.25(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로열 콘세르트헤바우 오케스트라 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57318</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57318"/>
-        <updated>2023-07-24T00:56:08.205Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <급식걸즈 – 뿌슝빠슝 깨져버린 우정> - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57317</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57317"/>
-        <updated>2023-07-24T00:56:08.205Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.26(수) 00:00]]></content>
     </entry>
 </feed>
