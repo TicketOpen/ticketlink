@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-27T10:10:43.074Z</updated>
+    <updated>2023-07-27T11:08:31.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 여름날의 가곡 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57352</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57352"/>
+        <updated>2023-07-27T11:08:24.287Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 구리 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57351</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57338"/>
         <updated>2023-07-26T05:10:00.232Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 안산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57336</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57336"/>
-        <updated>2023-07-26T06:12:47.692Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 05:00]]></content>
     </entry>
 </feed>
