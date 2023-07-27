@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-27T08:13:00.017Z</updated>
+    <updated>2023-07-27T09:10:29.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 구리 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57351</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57351"/>
+        <updated>2023-07-27T09:10:18.850Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57350</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57350"/>
+        <updated>2023-07-27T09:10:18.850Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.02(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 기분을 말해봐(화성시어린이문화센터)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57349</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57349"/>
+        <updated>2023-07-27T09:10:18.850Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <와일드 그레이> 마지막​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57348</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57336"/>
         <updated>2023-07-26T06:12:47.692Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <백작> 마지막​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57335</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57335"/>
-        <updated>2023-07-26T02:08:11.448Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  봉산문화회관 특별기획 <소소스테이지Ⅴ-뮤지컬과 사랑에 빠지다.>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57334</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57334"/>
-        <updated>2023-07-26T02:08:11.448Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 평택​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57333</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57333"/>
-        <updated>2023-07-26T02:08:11.453Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 01:00]]></content>
     </entry>
 </feed>
