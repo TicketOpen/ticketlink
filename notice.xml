@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-28T01:59:34.679Z</updated>
+    <updated>2023-07-28T02:30:28.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 INK 콘서트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57353</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57353"/>
-        <updated>2023-07-28T01:59:25.451Z</updated>
+        <updated>2023-07-28T02:30:19.009Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 05:00]]></content>
     </entry>
     <entry>
