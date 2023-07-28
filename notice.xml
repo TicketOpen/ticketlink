@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-28T10:10:17.071Z</updated>
+    <updated>2023-07-28T11:08:43.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57361</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57361"/>
+        <updated>2023-07-28T11:08:32.582Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.02(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​책먹는여우 - 인천 청라​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57360</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57347"/>
         <updated>2023-07-27T01:55:19.108Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​해리 포터와 불의 잔™ 인 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57346</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57346"/>
-        <updated>2023-07-27T01:55:19.109Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 05:00]]></content>
     </entry>
 </feed>
