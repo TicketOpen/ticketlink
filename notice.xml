@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-28T05:10:12.933Z</updated>
+    <updated>2023-07-28T06:13:07.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립소년소녀합창단 제139회 정기공연 < Voice of Angels >​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57356</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57356"/>
+        <updated>2023-07-28T06:12:56.458Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.03(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 양산​​​ ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57355</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57342"/>
         <updated>2023-07-26T06:12:47.676Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 정혜진 클라리넷 독주회 - 대구 (HOLA CLARINET) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57341</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57341"/>
-        <updated>2023-07-26T06:12:47.681Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.07.31(월) 05:00]]></content>
     </entry>
 </feed>
