@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-07-31T05:10:07.030Z</updated>
+    <updated>2023-07-31T06:13:39.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <자녀와 함께 고민해 보는 인생의 선택, 역사 앞에서>_최태성 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57366</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57366"/>
+        <updated>2023-07-31T06:13:28.459Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2023 박재정 콘서트 < Alone > 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57364</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57350"/>
         <updated>2023-07-27T09:10:18.850Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 기분을 말해봐(화성시어린이문화센터)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57349</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57349"/>
-        <updated>2023-07-27T09:10:18.850Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.01(화) 01:00]]></content>
     </entry>
 </feed>
