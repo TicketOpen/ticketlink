@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-03T06:13:07.676Z</updated>
+    <updated>2023-08-03T07:10:57.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 23년 광주시립창극단 제59회 정기공연 창극 ‘23 별주부전 - 수궁 어벤저스’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57396</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57396"/>
+        <updated>2023-08-03T07:10:46.861Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.08(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 뷰티플 라이프 - 천안​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57394</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57378"/>
         <updated>2023-08-02T05:09:56.253Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.09(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <전천당 vs 흑화당> - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57377</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57377"/>
-        <updated>2023-08-02T00:50:38.333Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.04(금) 00:00]]></content>
     </entry>
 </feed>
