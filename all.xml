@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-03T05:09:51.815Z</updated>
+    <updated>2023-08-03T06:13:07.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 뷰티플 라이프 - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57394</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57394"/>
+        <updated>2023-08-03T06:12:59.016Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.04(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 가족뮤지컬 신데렐라 - 광양​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57391</id>
@@ -54,6 +61,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.03(목) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 월드뮤직그룹 공명 <음악이 춤을 추다>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57383</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57383"/>
+        <updated>2023-08-03T06:12:59.030Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.08(화) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]장한나 & 미샤 마이스키 with 디토 오케스트라 - 경주​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57382</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57382"/>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.04(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <후크> 1차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57376</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57376"/>
-        <updated>2023-08-02T05:09:56.257Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57375</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57375"/>
-        <updated>2023-08-01T07:10:38.919Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.03(목) 00:00]]></content>
+        <title type="html"><![CDATA[연극 뷰티플 라이프 - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57394</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57394"/>
+        <updated>2023-08-03T06:13:06.850Z</updated>
+        <content type="html"><![CDATA[2023.08.04(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 가족뮤지컬 신데렐라 - 광양​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -159,6 +166,13 @@
         <content type="html"><![CDATA[2023.08.03(목) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 월드뮤직그룹 공명 <음악이 춤을 추다>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57383</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57383"/>
+        <updated>2023-08-03T06:13:06.868Z</updated>
+        <content type="html"><![CDATA[2023.08.08(화) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]장한나 & 미샤 마이스키 with 디토 오케스트라 - 경주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57382</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57382"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57377"/>
         <updated>2023-08-02T00:50:47.978Z</updated>
         <content type="html"><![CDATA[2023.08.04(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <후크> 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57376</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57376"/>
-        <updated>2023-08-02T05:10:06.226Z</updated>
-        <content type="html"><![CDATA[2023.08.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57375</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57375"/>
-        <updated>2023-08-01T07:10:46.793Z</updated>
-        <content type="html"><![CDATA[2023.08.03(목) 00:00]]></content>
     </entry>
 </feed>
