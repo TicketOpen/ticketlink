@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-04T06:14:44.643Z</updated>
+    <updated>2023-08-04T07:09:28.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​EXTRA ORDINARY 엑스트라 오디너리 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57412</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57412"/>
+        <updated>2023-08-04T07:09:27.614Z</updated>
+        <content type="html"><![CDATA[2023.08.18(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <타오르는 어둠 속에서> 1차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57411</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57411"/>
+        <updated>2023-08-04T07:09:27.619Z</updated>
+        <content type="html"><![CDATA[2023.08.11(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023 최현우 Answer - 안산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57409</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[2023.08.10(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] K-Arts DMZ Festa 2023 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2023 K-Arts DMZ Festa 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57406</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57406"/>
         <updated>2023-08-04T04:12:09.527Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57394"/>
         <updated>2023-08-03T06:13:06.850Z</updated>
         <content type="html"><![CDATA[2023.08.04(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists”​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57393</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57393"/>
-        <updated>2023-08-04T05:10:01.359Z</updated>
-        <content type="html"><![CDATA[2023.08.09(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 가족뮤지컬 신데렐라 - 광양​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57391</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57391"/>
-        <updated>2023-08-03T01:57:52.534Z</updated>
-        <content type="html"><![CDATA[2023.08.07(월) 00:00]]></content>
     </entry>
 </feed>
