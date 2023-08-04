@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-04T03:17:26.325Z</updated>
+    <updated>2023-08-04T04:12:10.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57408"/>
         <updated>2023-08-04T03:17:15.828Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] K-Arts DMZ Festa 2023 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57406</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57406"/>
+        <updated>2023-08-04T04:12:00.929Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.08(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [11시 음악산책] 올 댓 러브5, 가브리엘 로세티와 엘리자베스 시달, 어긋난 사랑​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57389"/>
         <updated>2023-08-03T01:57:43.474Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 충주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57388</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57388"/>
-        <updated>2023-08-03T00:52:14.177Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 05:00]]></content>
     </entry>
 </feed>
