@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-04T11:08:29.778Z</updated>
+    <updated>2023-08-04T12:25:36.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제1회 대한민국 국제뮤지컬콩쿠르 <결선>​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57413</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57413"/>
+        <updated>2023-08-04T12:25:26.390Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​EXTRA ORDINARY 엑스트라 오디너리 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57412</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 <개막공연> 메인콘서트 Ⅰ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57397</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57397"/>
-        <updated>2023-08-03T08:12:41.164Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content>
+        <title type="html"><![CDATA[제1회 대한민국 국제뮤지컬콩쿠르 <결선>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57413</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57413"/>
+        <updated>2023-08-04T12:25:36.039Z</updated>
+        <content type="html"><![CDATA[2023.08.07(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​EXTRA ORDINARY 엑스트라 오디너리 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/57398</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57398"/>
         <updated>2023-08-03T08:12:50.650Z</updated>
-        <content type="html"><![CDATA[2023.08.07(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 <개막공연> 메인콘서트 Ⅰ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57397</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57397"/>
-        <updated>2023-08-03T08:12:50.655Z</updated>
         <content type="html"><![CDATA[2023.08.07(월) 01:00]]></content>
     </entry>
 </feed>
