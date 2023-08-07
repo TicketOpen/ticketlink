@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-07T05:10:36.654Z</updated>
+    <updated>2023-08-07T06:13:28.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] XIA Fanmeeting Tour < COCOTIME > in Seoul : The 20th Anniversary​ 시야제한석 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57415</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57415"/>
+        <updated>2023-08-07T06:13:21.120Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.08(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 니엘 팬미팅 - WHERE'S NIEL?  a.k.a BIRTHDAY PARTY ​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57414</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57399</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57399"/>
         <updated>2023-08-03T08:12:41.156Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 제 14회 부산마루국제음악제 메인콘서트 II 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57398</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57398"/>
-        <updated>2023-08-05T04:12:25.447Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.07(월) 01:00]]></content>
     </entry>
 </feed>
