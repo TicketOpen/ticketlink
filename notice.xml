@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-07T23:09:45.259Z</updated>
+    <updated>2023-08-08T00:50:27.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​NEW 뮤지컬 번개맨 <전설의 시작> - 대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57421</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57421"/>
+        <updated>2023-08-08T00:50:17.836Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 - 원주​ ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57419</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57406"/>
         <updated>2023-08-04T04:12:00.929Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [11시 음악산책] 올 댓 러브5, 가브리엘 로세티와 엘리자베스 시달, 어긋난 사랑​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57405</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57405"/>
-        <updated>2023-08-03T10:11:28.017Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.09(수) 02:00]]></content>
     </entry>
 </feed>
