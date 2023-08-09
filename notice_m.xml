@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-09T02:29:04.488Z</updated>
+    <updated>2023-08-09T03:10:40.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 노래에 담다 - 수성아트피아 솔로이스츠 (대구) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57435</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57435"/>
+        <updated>2023-08-09T03:10:40.073Z</updated>
+        <content type="html"><![CDATA[2023.08.10(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족라이브 뮤지컬 <신데렐라> - 수원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57434</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57420"/>
         <updated>2023-08-08T01:58:54.711Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/57420" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2023시즌 &lt;최강야구&gt; 4번째 직관 DAY 티켓오픈 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 원주​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57419</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57419"/>
-        <updated>2023-08-07T10:11:44.003Z</updated>
-        <content type="html"><![CDATA[2023.08.10(목) 00:00]]></content>
     </entry>
 </feed>
