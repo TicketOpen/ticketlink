@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-08T23:10:14.893Z</updated>
+    <updated>2023-08-09T00:52:41.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족라이브 뮤지컬 <신데렐라> - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57434</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57434"/>
+        <updated>2023-08-09T00:52:32.985Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023년 가족뮤지컬 백설공주 - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57433</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57433"/>
+        <updated>2023-08-09T00:52:32.985Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  반 박자 느려도 좋은 포르투갈​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57432</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57432"/>
+        <updated>2023-08-09T00:52:32.988Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양 앵콜] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57431</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57431"/>
+        <updated>2023-08-09T00:52:32.990Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.11(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 군포 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57430</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 성수​ ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57418</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57418"/>
-        <updated>2023-08-07T10:11:34.437Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 00:00]]></content>
+        <title type="html"><![CDATA[가족라이브 뮤지컬 <신데렐라> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57434</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57434"/>
+        <updated>2023-08-09T00:52:40.388Z</updated>
+        <content type="html"><![CDATA[2023.08.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 논산​ ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57417</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57417"/>
-        <updated>2023-08-07T10:11:34.438Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 00:00]]></content>
+        <title type="html"><![CDATA[​2023년 가족뮤지컬 백설공주 - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57433</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57433"/>
+        <updated>2023-08-09T00:52:40.401Z</updated>
+        <content type="html"><![CDATA[2023.08.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 순천​​​​ ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57416</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57416"/>
-        <updated>2023-08-07T10:11:34.438Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.09(수) 00:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  반 박자 느려도 좋은 포르투갈​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57432</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57432"/>
+        <updated>2023-08-09T00:52:40.403Z</updated>
+        <content type="html"><![CDATA[2023.08.10(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] XIA Fanmeeting Tour < COCOTIME > in Seoul : The 20th Anniversary​ 시야제한석 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57415</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57415"/>
-        <updated>2023-08-07T06:13:21.120Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.08(화) 11:00]]></content>
+        <title type="html"><![CDATA[[고양 앵콜] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57431</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57431"/>
+        <updated>2023-08-09T00:52:40.405Z</updated>
+        <content type="html"><![CDATA[2023.08.11(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 군포 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57419"/>
         <updated>2023-08-07T10:11:44.003Z</updated>
         <content type="html"><![CDATA[2023.08.10(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 성수​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57418</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57418"/>
-        <updated>2023-08-07T10:11:44.004Z</updated>
-        <content type="html"><![CDATA[2023.08.10(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 논산​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57417</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57417"/>
-        <updated>2023-08-07T10:11:44.004Z</updated>
-        <content type="html"><![CDATA[2023.08.10(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 순천​​​​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57416</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57416"/>
-        <updated>2023-08-07T10:11:44.008Z</updated>
-        <content type="html"><![CDATA[2023.08.09(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] XIA Fanmeeting Tour < COCOTIME > in Seoul : The 20th Anniversary​ 시야제한석 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57415</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57415"/>
-        <updated>2023-08-07T06:13:27.996Z</updated>
-        <content type="html"><![CDATA[2023.08.08(화) 11:00]]></content>
     </entry>
 </feed>
