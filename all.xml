@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-11T05:09:38.302Z</updated>
+    <updated>2023-08-11T06:13:32.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​2023 라이브 가족뮤지컬<미녀와 야수> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57452</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57452"/>
+        <updated>2023-08-11T06:13:22.927Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.14(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Someday Festival 2023 - 얼리버드​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57451</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[2023.08.09]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 박수예 바이올린 리사이틀 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57436</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57436"/>
-        <updated>2023-08-09T04:12:45.390Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 05:00]]></content>
+        <title type="html"><![CDATA[​2023 라이브 가족뮤지컬<미녀와 야수> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57452</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57452"/>
+        <updated>2023-08-11T06:13:30.864Z</updated>
+        <content type="html"><![CDATA[2023.08.14(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Someday Festival 2023 - 얼리버드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57438"/>
         <updated>2023-08-09T20:11:43.495Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/57438" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(8/10 01:00 ~ 08:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박수예 바이올린 리사이틀 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57436</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57436"/>
-        <updated>2023-08-09T20:11:43.511Z</updated>
-        <content type="html"><![CDATA[2023.08.10(목) 05:00]]></content>
     </entry>
 </feed>
