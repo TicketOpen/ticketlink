@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-11T07:10:22.770Z</updated>
+    <updated>2023-08-11T08:12:53.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]대구시립국악단 화요국악무대 <원형의 美>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57453</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57453"/>
+        <updated>2023-08-11T08:12:52.067Z</updated>
+        <content type="html"><![CDATA[2023.08.16(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023 라이브 가족뮤지컬<미녀와 야수> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57452</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57439"/>
         <updated>2023-08-09T20:11:43.507Z</updated>
         <content type="html"><![CDATA[2023.08.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 시스템 임시점검(8/10 01:00 ~ 08:00)으로 인한 서비스 일시 중단 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57438</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57438"/>
-        <updated>2023-08-09T20:11:43.495Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/57438" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(8/10 01:00 ~ 08:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
     </entry>
 </feed>
