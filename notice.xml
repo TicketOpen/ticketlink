@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-12T00:40:53.555Z</updated>
+    <updated>2023-08-12T01:39:03.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​마리아킴 X 베니 베넥 III (대구)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57457</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57457"/>
+        <updated>2023-08-12T01:38:52.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57456</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57456"/>
+        <updated>2023-08-12T01:38:52.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​책먹는여우 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57455</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57455"/>
+        <updated>2023-08-12T01:38:52.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2023 대구치맥페스티벌 <프리미엄 사전예약존>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57454</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57454"/>
+        <updated>2023-08-12T01:38:52.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]대구시립국악단 화요국악무대 <원형의 美>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57453</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57443"/>
         <updated>2023-08-10T06:13:30.925Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <급식걸즈 – 뿌슝빠슝 깨져버린 우정> - 구미​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57442</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57442"/>
-        <updated>2023-08-10T05:10:00.215Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <고양이캣> - 남양주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57441</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57441"/>
-        <updated>2023-08-10T05:10:00.217Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ASL 시즌16 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57440</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57440"/>
-        <updated>2023-08-09T08:13:53.965Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 우리들의 사랑 - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57439</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57439"/>
-        <updated>2023-08-09T07:09:56.035Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.10(목) 05:00]]></content>
     </entry>
 </feed>
