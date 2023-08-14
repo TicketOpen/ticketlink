@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-14T02:15:20.606Z</updated>
+    <updated>2023-08-14T03:10:12.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]Say U Fan Vol.1 미모리 스즈코 팬미팅​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57460</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57460"/>
+        <updated>2023-08-14T03:10:01.741Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [포커스] 스탠딩 에그 콘서트 ‘Romantic Holiday’ - 광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57459</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 군포​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57445</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57445"/>
-        <updated>2023-08-10T07:09:57.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매]Say U Fan Vol.1 미모리 스즈코 팬미팅​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57460</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57460"/>
+        <updated>2023-08-14T03:10:11.912Z</updated>
+        <content type="html"><![CDATA[2023.08.18(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [포커스] 스탠딩 에그 콘서트 ‘Romantic Holiday’ - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/57446</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57446"/>
         <updated>2023-08-10T07:10:07.654Z</updated>
-        <content type="html"><![CDATA[2023.08.16(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 군포​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57445</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57445"/>
-        <updated>2023-08-10T07:10:07.656Z</updated>
         <content type="html"><![CDATA[2023.08.16(수) 01:00]]></content>
     </entry>
 </feed>
