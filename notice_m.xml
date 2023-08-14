@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-14T04:12:52.746Z</updated>
+    <updated>2023-08-14T05:10:06.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]콘서트 오페라 <박하사탕> 광주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57462</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57462"/>
+        <updated>2023-08-14T05:10:05.190Z</updated>
+        <content type="html"><![CDATA[2023.08.16(수) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 월트디즈니 100주년 기념 콘서트 - 더 사운드 오브 매직​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57461</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57461"/>
+        <updated>2023-08-14T05:10:05.200Z</updated>
+        <content type="html"><![CDATA[2023.08.21(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]Say U Fan Vol.1 미모리 스즈코 팬미팅​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57460</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57448"/>
         <updated>2023-08-11T01:40:22.531Z</updated>
         <content type="html"><![CDATA[2023.08.14(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 한글&클래식- 가족시리즈 : K드라마 OST를 오케스트라로 만나다! 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57447</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57447"/>
-        <updated>2023-08-11T01:40:22.531Z</updated>
-        <content type="html"><![CDATA[2023.08.14(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 강릉​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57446</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57446"/>
-        <updated>2023-08-10T07:10:07.654Z</updated>
-        <content type="html"><![CDATA[2023.08.16(수) 01:00]]></content>
     </entry>
 </feed>
