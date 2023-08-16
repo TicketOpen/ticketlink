@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-16T07:10:06.956Z</updated>
+    <updated>2023-08-16T08:12:36.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <의자는 잘못없다>​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57482</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57482"/>
+        <updated>2023-08-16T08:12:24.906Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​앙상블 멜로디 브리앙의 <가장 아름다운 노래> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57481</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57481"/>
+        <updated>2023-08-16T08:12:24.910Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 소옥대로 <음유시인 II> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57480</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57468"/>
         <updated>2023-08-16T00:41:21.332Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박파랑의 '클래식 서양 미술사' - 경주 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57467</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57467"/>
-        <updated>2023-08-14T08:12:29.792Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 조희창의 '작곡가 집중탐구' - 경주 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57466</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57466"/>
-        <updated>2023-08-14T08:12:29.793Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 05:00]]></content>
     </entry>
 </feed>
