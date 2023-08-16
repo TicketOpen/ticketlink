@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-16T03:11:08.006Z</updated>
+    <updated>2023-08-16T04:12:25.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회Ⅴ ‘가족’ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57478</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57478"/>
+        <updated>2023-08-16T04:12:14.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 대구치맥페스티벌 프리미엄 사전예약존 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57477</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57477"/>
+        <updated>2023-08-16T04:12:14.399Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 「고정관념을 넘어서 BEYOND Stereotype 」/ 동양고주파 - 광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57476</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.21(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]Say U Fan Vol.1 미모리 스즈코 팬미팅​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57460</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57460"/>
-        <updated>2023-08-14T03:10:01.741Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 10:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회Ⅴ ‘가족’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57478</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57478"/>
+        <updated>2023-08-16T04:12:24.477Z</updated>
+        <content type="html"><![CDATA[2023.08.17(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [포커스] 스탠딩 에그 콘서트 ‘Romantic Holiday’ - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57459</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57459"/>
-        <updated>2023-08-14T01:41:58.492Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023 대구치맥페스티벌 프리미엄 사전예약존 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57477</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57477"/>
+        <updated>2023-08-16T04:12:24.487Z</updated>
+        <content type="html"><![CDATA[2023.08.17(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 「고정관념을 넘어서 BEYOND Stereotype 」/ 동양고주파 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57461"/>
         <updated>2023-08-14T05:10:05.200Z</updated>
         <content type="html"><![CDATA[2023.08.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]Say U Fan Vol.1 미모리 스즈코 팬미팅​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57460</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57460"/>
-        <updated>2023-08-14T03:10:11.912Z</updated>
-        <content type="html"><![CDATA[2023.08.18(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [포커스] 스탠딩 에그 콘서트 ‘Romantic Holiday’ - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57459</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57459"/>
-        <updated>2023-08-14T01:42:08.894Z</updated>
-        <content type="html"><![CDATA[2023.08.17(목) 08:00]]></content>
     </entry>
 </feed>
