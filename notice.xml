@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-16T02:14:58.590Z</updated>
+    <updated>2023-08-16T03:11:07.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 「고정관념을 넘어서 BEYOND Stereotype 」/ 동양고주파 - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57476</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57476"/>
+        <updated>2023-08-16T03:10:57.008Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 광양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57474</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57459"/>
         <updated>2023-08-14T01:41:58.492Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  신명근 1st Concert 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57458</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57458"/>
-        <updated>2023-08-14T00:42:15.846Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 05:00]]></content>
     </entry>
 </feed>
