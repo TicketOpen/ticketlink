@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-16T04:12:25.529Z</updated>
+    <updated>2023-08-16T05:10:11.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회Ⅴ ‘가족’ 티켓오픈 안내 (티켓링크)]]></title>
@@ -26,11 +26,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <문스토리> 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57475</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57475"/>
+        <updated>2023-08-16T05:10:02.281Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.22(화) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 광양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57474</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57474"/>
         <updated>2023-08-16T01:41:03.082Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57473</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57473"/>
+        <updated>2023-08-16T05:10:02.295Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023~24 최현우 Answer​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57472</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57472"/>
+        <updated>2023-08-16T05:10:02.300Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 춘천 오페라 페스티벌​ 오페라 '토스카'​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,27 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[군포] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57463</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57463"/>
-        <updated>2023-08-14T06:13:40.738Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]콘서트 오페라 <박하사탕> 광주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57462</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57462"/>
-        <updated>2023-08-14T05:09:55.386Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.16(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 월트디즈니 100주년 기념 콘서트 - 더 사운드 오브 매직​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57461</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57461"/>
-        <updated>2023-08-14T05:09:55.399Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.21(월) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립합창단 기획연주회Ⅴ ‘가족’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57478</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57478"/>
@@ -131,11 +131,32 @@
         <content type="html"><![CDATA[2023.08.18(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 <문스토리> 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57475</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57475"/>
+        <updated>2023-08-16T05:10:10.583Z</updated>
+        <content type="html"><![CDATA[2023.08.22(화) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 광양 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57474</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57474"/>
         <updated>2023-08-16T01:41:11.519Z</updated>
         <content type="html"><![CDATA[2023.08.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 시즌2 <내 꿈을 찾아서> - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57473</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57473"/>
+        <updated>2023-08-16T05:10:10.585Z</updated>
+        <content type="html"><![CDATA[2023.08.18(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023~24 최현우 Answer​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57472</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57472"/>
+        <updated>2023-08-16T05:10:10.588Z</updated>
+        <content type="html"><![CDATA[2023.08.18(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 춘천 오페라 페스티벌​ 오페라 '토스카'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57464"/>
         <updated>2023-08-14T08:12:40.091Z</updated>
         <content type="html"><![CDATA[2023.08.16(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군포] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57463</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57463"/>
-        <updated>2023-08-14T06:13:50.599Z</updated>
-        <content type="html"><![CDATA[2023.08.22(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]콘서트 오페라 <박하사탕> 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57462</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57462"/>
-        <updated>2023-08-14T05:10:05.190Z</updated>
-        <content type="html"><![CDATA[2023.08.16(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 월트디즈니 100주년 기념 콘서트 - 더 사운드 오브 매직​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57461</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57461"/>
-        <updated>2023-08-14T05:10:05.200Z</updated>
-        <content type="html"><![CDATA[2023.08.21(월) 05:00]]></content>
     </entry>
 </feed>
