@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-16T01:41:12.375Z</updated>
+    <updated>2023-08-16T02:14:58.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57471"/>
         <updated>2023-08-16T01:41:03.083Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​NEW 뮤지컬 번개맨 <전설의 시작> – 서울앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57470</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57470"/>
+        <updated>2023-08-16T02:14:48.003Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.23(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] KBS 50년×god 25년 2023 KBS 대기획 <ㅇㅁㄷ 지오디>​​​ 추가 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57458"/>
         <updated>2023-08-14T00:42:15.846Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​마리아킴 X 베니 베넥 III (대구)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57457</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57457"/>
-        <updated>2023-08-12T01:38:52.535Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 01:00]]></content>
     </entry>
 </feed>
