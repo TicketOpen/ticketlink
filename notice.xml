@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-17T05:10:17.118Z</updated>
+    <updated>2023-08-17T06:13:40.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​지브리 페스티벌 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57491</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57491"/>
+        <updated>2023-08-17T06:13:30.263Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] PMPS 2023 SEASON 3 FINALS 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57489</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57475"/>
         <updated>2023-08-16T05:10:02.281Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.22(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프린세스 스쿨 - 광양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57474</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57474"/>
-        <updated>2023-08-16T01:41:03.082Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
     </entry>
 </feed>
