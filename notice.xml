@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-17T07:09:46.963Z</updated>
+    <updated>2023-08-17T08:12:29.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -46,13 +46,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57487"/>
         <updated>2023-08-17T03:10:17.036Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.18(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023년 하반기 창덕궁 달빛기행 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57486</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57486"/>
-        <updated>2023-08-17T02:13:22.267Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <위윌락유>​ 티켓오픈 안내]]></title>
@@ -108,6 +101,13 @@
         <id>http://www.ticketlink.co.kr/help/notice/57478</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57478"/>
         <updated>2023-08-16T04:12:14.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 대구치맥페스티벌 프리미엄 사전예약존 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57477</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57477"/>
+        <updated>2023-08-17T08:12:21.089Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.17(목) 01:00]]></content>
     </entry>
 </feed>
