@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-22T08:12:48.701Z</updated>
+    <updated>2023-08-22T09:10:17.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57515"/>
         <updated>2023-08-21T00:41:45.949Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.24(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[전통연희극] 환생전 - 울산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57514</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57514"/>
+        <updated>2023-08-22T09:10:05.683Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.30(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  홍지민과 함께하는 판타스틱쇼 - 시즌2​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57506"/>
         <updated>2023-08-19T01:37:58.884Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.23(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Korean Breath : 만파(萬波) - 원주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57505</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57505"/>
-        <updated>2023-08-18T12:17:05.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.21(월) 01:00]]></content>
     </entry>
 </feed>
