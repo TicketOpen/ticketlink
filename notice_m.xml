@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-21T23:09:30.958Z</updated>
+    <updated>2023-08-22T00:42:26.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 극단 코끼리들이웃는다 ‘물질’ - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57520</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57520"/>
+        <updated>2023-08-22T00:42:25.404Z</updated>
+        <content type="html"><![CDATA[2023.08.23(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled, 가을 > 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57517</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57503"/>
         <updated>2023-08-18T08:12:46.890Z</updated>
         <content type="html"><![CDATA[2023.08.25(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <조기> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57502"/>
-        <updated>2023-08-18T08:12:46.890Z</updated>
-        <content type="html"><![CDATA[2023.08.21(월) 01:00]]></content>
     </entry>
 </feed>
