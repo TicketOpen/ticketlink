@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-23T05:09:36.533Z</updated>
+    <updated>2023-08-23T06:12:46.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57522"/>
         <updated>2023-08-22T06:13:26.138Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]원신 콘서트 (GENSHIN CONCERT) 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57521</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57521"/>
+        <updated>2023-08-23T06:12:36.819Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 극단 코끼리들이웃는다 ‘물질’ - 광주 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57511</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57511"/>
         <updated>2023-08-19T01:37:58.862Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.23(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​시릴 말메달 해게 & 치에틸 물레리드 (서울)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57510</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57510"/>
-        <updated>2023-08-19T01:37:58.865Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.23(수) 01:00]]></content>
     </entry>
 </feed>
