@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-23T04:12:39.184Z</updated>
+    <updated>2023-08-23T05:09:36.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57527"/>
         <updated>2023-08-23T02:14:33.969Z</updated>
         <content type="html"><![CDATA[2023.08.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <삼총사> 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57526</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57526"/>
+        <updated>2023-08-23T05:09:35.370Z</updated>
+        <content type="html"><![CDATA[2023.08.30(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 K-Arts DMZ Festa 2차 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57510"/>
         <updated>2023-08-19T01:38:07.860Z</updated>
         <content type="html"><![CDATA[2023.08.23(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤직인 런던 (MUSIC IN LONDON)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57509</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57509"/>
-        <updated>2023-08-19T01:38:07.870Z</updated>
-        <content type="html"><![CDATA[2023.08.23(수) 05:00]]></content>
     </entry>
 </feed>
