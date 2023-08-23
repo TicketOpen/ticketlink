@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-22T23:09:37.720Z</updated>
+    <updated>2023-08-23T00:41:22.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 K-Arts DMZ Festa 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57525</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57525"/>
+        <updated>2023-08-23T00:41:13.291Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.24(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박정국 피아노 독주회 - 대구​ ​​​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57524</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57508"/>
         <updated>2023-08-19T01:37:58.875Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.22(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[부산 앵콜] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57507</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57507"/>
-        <updated>2023-08-19T01:37:58.879Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.23(수) 02:00]]></content>
     </entry>
 </feed>
