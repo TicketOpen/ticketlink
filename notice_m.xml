@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-24T05:09:53.883Z</updated>
+    <updated>2023-08-24T06:12:43.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 수성아트피아 솔로이스츠 정기연주회 (Suseong Artpia Soloists) - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57534</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57534"/>
+        <updated>2023-08-24T06:12:42.360Z</updated>
+        <content type="html"><![CDATA[2023.08.29(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 수성아트피아 문화가 있는 날 「가을밤, 이야기」 - 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57533</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57533"/>
+        <updated>2023-08-24T06:12:42.362Z</updated>
+        <content type="html"><![CDATA[2023.08.29(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] PUBG NATIONS CUP 2023 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57532</id>
@@ -73,7 +87,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/57523</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57523"/>
         <updated>2023-08-22T06:13:33.698Z</updated>
-        <content type="html"><![CDATA[2023.08.25(금) 01:00]]></content>
+        <content type="html"><![CDATA[2023.08.25(금) 01:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]고령군 청년의 날 기념 < GO! RE:YOUNG > - 릴보이, 신스, 손 심바, 야누, 디젤​​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57520"/>
         <updated>2023-08-22T00:42:25.404Z</updated>
         <content type="html"><![CDATA[2023.08.23(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​2023 김창옥 토크콘서트 시즌3 -창원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57519</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57519"/>
-        <updated>2023-08-24T00:41:24.982Z</updated>
-        <content type="html"><![CDATA[2023.08.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled, 가을 > 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57517</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57517"/>
-        <updated>2023-08-21T07:09:41.402Z</updated>
-        <content type="html"><![CDATA[2023.08.23(수) 05:00]]></content>
     </entry>
 </feed>
