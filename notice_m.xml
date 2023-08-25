@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-25T07:09:49.491Z</updated>
+    <updated>2023-08-25T08:12:47.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [MD]2023 XIA Fanmeeting Tour in SEOUL < COCOTIME > : The 20th anniversary MD​ 온라인 판매 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57546</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57546"/>
+        <updated>2023-08-25T08:12:46.441Z</updated>
+        <content type="html"><![CDATA[2023.08.29(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 명작 가족라이브 뮤지컬 <호두까기인형> - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57545</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57532"/>
         <updated>2023-08-24T03:10:48.593Z</updated>
         <content type="html"><![CDATA[2023.08.24(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 당진 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57531</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57531"/>
-        <updated>2023-08-24T00:41:24.947Z</updated>
-        <content type="html"><![CDATA[2023.08.29(화) 00:00]]></content>
     </entry>
 </feed>
