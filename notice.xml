@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-25T00:42:31.893Z</updated>
+    <updated>2023-08-25T01:43:12.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]바리톤 유영광 리사이틀 < Story of Glory 2023 > - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57538</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57538"/>
+        <updated>2023-08-25T01:43:00.773Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 하반기 경복궁 생과방 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57537</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57537"/>
+        <updated>2023-08-25T01:43:00.774Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​코리안팝스오케스트라 Again, The Amazing Orchestra Series​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57536</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57524"/>
         <updated>2023-08-22T10:10:24.165Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.23(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]제 33기 TBC 가요아카데미 (선착순 자유석 예매) ​​​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57523</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57523"/>
-        <updated>2023-08-22T06:13:26.138Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.25(금) 01:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]고령군 청년의 날 기념 < GO! RE:YOUNG > - 릴보이, 신스, 손 심바, 야누, 디젤​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57522</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57522"/>
-        <updated>2023-08-22T06:13:26.138Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 01:00]]></content>
     </entry>
 </feed>
