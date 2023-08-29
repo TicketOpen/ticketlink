@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-29T05:09:51.043Z</updated>
+    <updated>2023-08-29T06:13:46.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 평화누리 피크닉 페스티벌 앙코르 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57553</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57553"/>
+        <updated>2023-08-29T06:13:36.581Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.04(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023년 하반기 창덕궁 달빛기행 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57551</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57538"/>
         <updated>2023-08-25T01:43:00.773Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 하반기 경복궁 생과방 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57537</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57537"/>
-        <updated>2023-08-25T01:43:00.774Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 05:00]]></content>
     </entry>
 </feed>
