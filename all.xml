@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-29T08:14:58.978Z</updated>
+    <updated>2023-08-29T09:10:24.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 평화누리 피크닉 페스티벌 앙코르 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57553"/>
         <updated>2023-08-29T06:13:36.581Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.04(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​2023 이세계 페스티벌 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57552</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57552"/>
+        <updated>2023-08-29T09:10:15.030Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023년 하반기 창덕궁 달빛기행 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.25(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]바리톤 유영광 리사이틀 < Story of Glory 2023 > - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57538</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57538"/>
-        <updated>2023-08-25T01:43:00.773Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 2023 평화누리 피크닉 페스티벌 앙코르 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57553</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57553"/>
         <updated>2023-08-29T06:13:45.531Z</updated>
         <content type="html"><![CDATA[2023.09.04(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​2023 이세계 페스티벌 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57552</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57552"/>
+        <updated>2023-08-29T09:10:23.486Z</updated>
+        <content type="html"><![CDATA[2023.09.01(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023년 하반기 창덕궁 달빛기행 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57539"/>
         <updated>2023-08-25T02:16:24.026Z</updated>
         <content type="html"><![CDATA[2023.08.25(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]바리톤 유영광 리사이틀 < Story of Glory 2023 > - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57538</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57538"/>
-        <updated>2023-08-25T01:43:11.412Z</updated>
-        <content type="html"><![CDATA[2023.08.29(화) 05:00]]></content>
     </entry>
 </feed>
