@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-30T04:12:16.610Z</updated>
+    <updated>2023-08-30T05:09:46.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2023 가족마술콘서트 〈익스트림 매직쇼〉-이천​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]2023 가족마술콘서트 <익스트림 매직쇼>-이천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57565</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57565"/>
         <updated>2023-08-30T03:10:29.430Z</updated>
