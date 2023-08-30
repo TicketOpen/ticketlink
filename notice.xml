@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-30T06:13:22.448Z</updated>
+    <updated>2023-08-30T07:10:03.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]뮤지컬 <월계서림>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57566</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57566"/>
+        <updated>2023-08-30T07:09:52.586Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2023 가족마술콘서트 <익스트림 매직쇼>-이천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57565</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57552"/>
         <updated>2023-08-29T09:10:15.030Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023년 하반기 창덕궁 달빛기행 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57551</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57551"/>
-        <updated>2023-08-29T01:43:21.007Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.29(화) 05:00]]></content>
     </entry>
 </feed>
