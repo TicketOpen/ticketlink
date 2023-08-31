@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-31T08:13:06.862Z</updated>
+    <updated>2023-08-31T09:10:08.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 가족라이브 뮤지컬 <호두까기인형> - 수원​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57581</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57581"/>
+        <updated>2023-08-31T09:09:57.171Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 가족라이브 뮤지컬 <고양이캣>- 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57580</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57580"/>
+        <updated>2023-08-31T09:09:57.174Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 가족어린이공연 <공룡애니멀쇼> - 대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57579</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57579"/>
+        <updated>2023-08-31T09:09:57.176Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노을 단독 콘서트[OFFROAD]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57578</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57566"/>
         <updated>2023-08-30T07:09:52.586Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2023 가족마술콘서트 <익스트림 매직쇼>-이천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57565</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57565"/>
-        <updated>2023-08-30T03:10:29.430Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 기술하는몸 <도로위에 나비> ​​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57564</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57564"/>
-        <updated>2023-08-30T03:10:29.430Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023년 하반기 경복궁 별빛야행 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57563</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57563"/>
-        <updated>2023-08-30T01:42:26.426Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.08.30(수) 05:00]]></content>
     </entry>
 </feed>
