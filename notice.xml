@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-08-31T07:09:38.069Z</updated>
+    <updated>2023-08-31T08:13:06.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노을 단독 콘서트[OFFROAD]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57578</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57578"/>
+        <updated>2023-08-31T08:12:55.158Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.05(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 평택 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57577</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57563"/>
         <updated>2023-08-30T01:42:26.426Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.08.30(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라 <라보엠> - 서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57562</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57562"/>
-        <updated>2023-08-30T01:42:26.427Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 07:00]]></content>
     </entry>
 </feed>
