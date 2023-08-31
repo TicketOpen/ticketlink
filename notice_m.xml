@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-31T00:42:52.731Z</updated>
+    <updated>2023-08-31T01:43:53.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​강승민 첼로 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57568</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57568"/>
+        <updated>2023-08-31T01:43:52.046Z</updated>
+        <content type="html"><![CDATA[2023.09.01(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]뮤지컬 <월계서림>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57566</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57553"/>
         <updated>2023-08-29T06:13:45.531Z</updated>
         <content type="html"><![CDATA[2023.09.04(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​2023 이세계 페스티벌 3차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57552</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57552"/>
-        <updated>2023-08-29T09:10:23.486Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 09:00]]></content>
     </entry>
 </feed>
