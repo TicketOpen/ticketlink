@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-01T08:14:14.517Z</updated>
+    <updated>2023-09-01T09:10:59.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사칠> 2차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57597</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57597"/>
+        <updated>2023-09-01T09:10:49.552Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.05(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울 강남] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57596</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57582"/>
         <updated>2023-09-01T00:45:36.062Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 가족라이브 뮤지컬 <호두까기인형> - 수원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57581</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57581"/>
-        <updated>2023-08-31T09:09:57.171Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.01(금) 00:00]]></content>
     </entry>
 </feed>
