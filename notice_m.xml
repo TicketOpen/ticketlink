@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-08-31T23:10:10.473Z</updated>
+    <updated>2023-09-01T00:45:45.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2023 변진섭 전국투어 콘서트 : 변천사 - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57589</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57589"/>
+        <updated>2023-09-01T00:45:44.260Z</updated>
+        <content type="html"><![CDATA[2023.09.06(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하X소향 - 구미​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57588</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57588"/>
+        <updated>2023-09-01T00:45:44.260Z</updated>
+        <content type="html"><![CDATA[2023.09.06(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 타임캡슐 슈퍼콘서트 전국투어 in 광주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57587</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57587"/>
+        <updated>2023-09-01T00:45:44.261Z</updated>
+        <content type="html"><![CDATA[2023.09.06(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[경주] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57586</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57586"/>
+        <updated>2023-09-01T00:45:44.263Z</updated>
+        <content type="html"><![CDATA[2023.09.06(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 화성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57585</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57585"/>
+        <updated>2023-09-01T00:45:44.266Z</updated>
+        <content type="html"><![CDATA[2023.09.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​누가 내 머리에 똥 쌌어 - 춘천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57584</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57584"/>
+        <updated>2023-09-01T00:45:44.270Z</updated>
+        <content type="html"><![CDATA[2023.09.06(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 <루돌프와 산타할아버지> - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57583</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57583"/>
+        <updated>2023-09-01T00:45:44.273Z</updated>
+        <content type="html"><![CDATA[2023.09.05(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 서울 앵콜! 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57582</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57582"/>
+        <updated>2023-09-01T00:45:44.277Z</updated>
+        <content type="html"><![CDATA[2023.09.04(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 가족라이브 뮤지컬 <호두까기인형> - 수원​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57581</id>
@@ -53,61 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57575"/>
         <updated>2023-08-31T06:13:17.309Z</updated>
         <content type="html"><![CDATA[2023.09.01(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57574</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57574"/>
-        <updated>2023-08-31T06:13:17.311Z</updated>
-        <content type="html"><![CDATA[2023.09.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <후크> 2차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57573</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57573"/>
-        <updated>2023-08-31T06:13:17.313Z</updated>
-        <content type="html"><![CDATA[2023.09.07(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] PUBG NATIONS CUP 2023 워치파티 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57572</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57572"/>
-        <updated>2023-08-31T07:09:37.242Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 특선가족뮤지컬 <백설공주> - 서울 (강서구민회관)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57571</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57571"/>
-        <updated>2023-08-31T04:12:00.727Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023년 어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57570</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57570"/>
-        <updated>2023-08-31T03:10:13.542Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​강승민 첼로 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57568</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57568"/>
-        <updated>2023-08-31T01:43:52.046Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 - 뿌슝빠슝 깨져버린 우정 > - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57567</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57567"/>
-        <updated>2023-08-31T05:09:51.811Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]뮤지컬 <월계서림>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57566</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57566"/>
-        <updated>2023-08-30T07:10:02.299Z</updated>
-        <content type="html"><![CDATA[2023.09.01(금) 03:00]]></content>
     </entry>
 </feed>
