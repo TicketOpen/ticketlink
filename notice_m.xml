@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-09-04T05:09:59.240Z</updated>
+    <updated>2023-09-04T06:14:25.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57596"/>
         <updated>2023-09-01T08:14:13.561Z</updated>
         <content type="html"><![CDATA[2023.09.04(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 페스티벌​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57595</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57595"/>
-        <updated>2023-09-04T02:17:20.452Z</updated>
-        <content type="html"><![CDATA[2023.09.06(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 아산 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57585"/>
         <updated>2023-09-01T00:45:44.266Z</updated>
         <content type="html"><![CDATA[2023.09.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​누가 내 머리에 똥 쌌어 - 춘천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57584</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57584"/>
+        <updated>2023-09-04T06:14:24.789Z</updated>
+        <content type="html"><![CDATA[2023.09.06(수) 00:00]]></content>
     </entry>
 </feed>
