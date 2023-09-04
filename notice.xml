@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-04T00:43:03.831Z</updated>
+    <updated>2023-09-04T01:44:09.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 파워풀대구 뮤직페스타​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57599</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57599"/>
+        <updated>2023-09-04T01:44:01.212Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.04(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 낙동강 캠핑 & 뮤직 페스타 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57598</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57584"/>
         <updated>2023-09-01T00:45:36.050Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <루돌프와 산타할아버지> - 원주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57583</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57583"/>
-        <updated>2023-09-01T00:45:36.050Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.05(화) 01:00]]></content>
     </entry>
 </feed>
