@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-05T07:09:24.604Z</updated>
+    <updated>2023-09-05T08:16:34.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2023 가족어린이공연 <버블버블쇼> - 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57609</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57609"/>
+        <updated>2023-09-05T08:16:26.240Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.06(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <테레즈 라캥> - 홍성​ ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57608</id>
@@ -83,7 +90,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.04(월) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 페스티벌​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] [변경공지] 2023 포레스텔라 페스티벌​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57595</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57595"/>
         <updated>2023-09-04T08:13:27.399Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57593"/>
         <updated>2023-09-01T06:13:06.176Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.07(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]광주시립발레단 기획공연 [발레 살롱콘서트Ⅲ]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57592</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57592"/>
-        <updated>2023-09-01T03:11:10.258Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.05(화) 05:00]]></content>
     </entry>
 </feed>
