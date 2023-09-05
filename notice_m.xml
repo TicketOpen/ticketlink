@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-09-05T01:41:48.743Z</updated>
+    <updated>2023-09-05T02:15:12.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]봉산문화회관 기획 <봉포유 무브스테이지Ⅲ - 겜블러·아트지의 렛츠 겟 투게더>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57603</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57603"/>
+        <updated>2023-09-05T02:15:11.695Z</updated>
+        <content type="html"><![CDATA[2023.09.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW 뮤지컬 신비아파트 <붉은 눈의 저주> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57602</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57602"/>
+        <updated>2023-09-05T02:15:11.700Z</updated>
+        <content type="html"><![CDATA[2023.09.07(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <전천당 vs 흑화당> - 창원​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57601</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57601"/>
+        <updated>2023-09-05T02:15:11.701Z</updated>
+        <content type="html"><![CDATA[2023.09.08(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <타오르는 어둠 속에서> 2차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57600</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57587"/>
         <updated>2023-09-01T00:45:44.261Z</updated>
         <content type="html"><![CDATA[2023.09.06(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[경주] 뮤지컬 알쏭달쏭 캐치! 티니핑 <신비한 상자를 열어라!>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57586</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57586"/>
-        <updated>2023-09-01T00:45:44.263Z</updated>
-        <content type="html"><![CDATA[2023.09.06(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 화성​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57585</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57585"/>
-        <updated>2023-09-01T00:45:44.266Z</updated>
-        <content type="html"><![CDATA[2023.09.05(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​누가 내 머리에 똥 쌌어 - 춘천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57584</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57584"/>
-        <updated>2023-09-04T09:10:35.061Z</updated>
-        <content type="html"><![CDATA[2023.09.06(수) 00:00]]></content>
     </entry>
 </feed>
