@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-06T01:43:19.502Z</updated>
+    <updated>2023-09-06T02:16:16.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 눈부시게 빛날 너의 봄날 - 마음을 그려내는 우리말 콘서트 (대구) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57621</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57621"/>
+        <updated>2023-09-06T02:16:05.925Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.07(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최고다 호기심딱지 - 전주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57620</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57607"/>
         <updated>2023-09-05T09:10:29.020Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.15(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> - 성남 ​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57606</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57606"/>
-        <updated>2023-09-05T07:09:13.812Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.07(목) 05:00]]></content>
     </entry>
 </feed>
