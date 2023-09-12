@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-09-12T01:42:16.100Z</updated>
+    <updated>2023-09-12T02:15:20.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[울산] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57660</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57660"/>
+        <updated>2023-09-12T02:15:19.660Z</updated>
+        <content type="html"><![CDATA[2023.09.06(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57659</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57659"/>
+        <updated>2023-09-12T02:15:19.664Z</updated>
+        <content type="html"><![CDATA[2023.09.11(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울 강동] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57658</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57658"/>
+        <updated>2023-09-12T02:15:19.665Z</updated>
+        <content type="html"><![CDATA[2023.09.11(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[용인] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57657</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57645"/>
         <updated>2023-09-09T07:08:54.590Z</updated>
         <content type="html"><![CDATA[2023.10.10(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 청춘사운드콘서트 - 대구 (10월 14일)​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57644</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57644"/>
-        <updated>2023-09-09T07:08:54.599Z</updated>
-        <content type="html"><![CDATA[2023.09.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 청춘사운드콘서트 - 대구 (10월 9일)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57643</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57643"/>
-        <updated>2023-09-09T07:08:54.603Z</updated>
-        <content type="html"><![CDATA[2023.09.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 포레스텔라 전국투어 콘서트 : The Light in Busan 추가 좌석 판매​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57642</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57642"/>
-        <updated>2023-09-08T09:10:03.547Z</updated>
-        <content type="html"><![CDATA[2023.09.11(월) 08:00]]></content>
     </entry>
 </feed>
