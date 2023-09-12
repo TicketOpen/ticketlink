@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-12T05:10:14.623Z</updated>
+    <updated>2023-09-12T06:13:00.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Konomi Suzuki Asia Tour 2023 in Seoul​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57667</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57667"/>
+        <updated>2023-09-12T06:12:49.514Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.13(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <22년 2개월> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57666</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57666"/>
+        <updated>2023-09-12T06:12:49.515Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.15(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <삼총사> 3차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57665</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.13(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 베스트 세계명작 뮤지컬<장화신은고양이> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57651</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57651"/>
-        <updated>2023-09-11T06:13:40.111Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.12(화) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] Konomi Suzuki Asia Tour 2023 in Seoul​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57667</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57667"/>
+        <updated>2023-09-12T06:12:59.796Z</updated>
+        <content type="html"><![CDATA[2023.09.13(수) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#potd #aespa 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57650</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57650"/>
-        <updated>2023-09-11T06:13:40.111Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.13(수) 08:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <22년 2개월> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57666</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57666"/>
+        <updated>2023-09-12T06:12:59.798Z</updated>
+        <content type="html"><![CDATA[2023.09.15(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <삼총사> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57652"/>
         <updated>2023-09-11T08:14:42.174Z</updated>
         <content type="html"><![CDATA[2023.09.13(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 베스트 세계명작 뮤지컬<장화신은고양이> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57651</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57651"/>
-        <updated>2023-09-11T06:13:48.042Z</updated>
-        <content type="html"><![CDATA[2023.09.12(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#potd #aespa 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57650</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57650"/>
-        <updated>2023-09-11T06:13:48.045Z</updated>
-        <content type="html"><![CDATA[2023.09.13(수) 08:00]]></content>
     </entry>
 </feed>
