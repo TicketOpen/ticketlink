@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-09-14T10:12:28.286Z</updated>
+    <updated>2023-09-14T11:09:06.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 광주​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57701</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57701"/>
+        <updated>2023-09-14T11:09:05.972Z</updated>
+        <content type="html"><![CDATA[2023.09.21(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 안양​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57700</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57700"/>
+        <updated>2023-09-14T11:09:05.973Z</updated>
+        <content type="html"><![CDATA[2023.09.21(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 안산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57699</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57699"/>
+        <updated>2023-09-14T11:09:05.974Z</updated>
+        <content type="html"><![CDATA[2023.09.21(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 춘천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57698</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57698"/>
+        <updated>2023-09-14T11:09:05.977Z</updated>
+        <content type="html"><![CDATA[2023.09.20(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 고양​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57697</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57697"/>
+        <updated>2023-09-14T11:09:05.979Z</updated>
+        <content type="html"><![CDATA[2023.09.20(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57696</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57696"/>
+        <updated>2023-09-14T11:09:05.981Z</updated>
+        <content type="html"><![CDATA[2023.09.20(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리<잡아라! 황금트로피!> - 전주​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57695</id>
@@ -67,47 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57687"/>
         <updated>2023-09-14T01:42:45.822Z</updated>
         <content type="html"><![CDATA[2023.09.18(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 서든하이 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57686</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57686"/>
-        <updated>2023-09-13T10:10:59.491Z</updated>
-        <content type="html"><![CDATA[2023.09.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023) 루돌프와 산타클로스 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57685</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57685"/>
-        <updated>2023-09-13T04:12:01.434Z</updated>
-        <content type="html"><![CDATA[2023.09.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2023) 루돌프와 산타클로스 - 진주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57684</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57684"/>
-        <updated>2023-09-13T04:12:01.437Z</updated>
-        <content type="html"><![CDATA[2023.09.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 이은미 LIVE TOUR 콘서트-순천]​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57683</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57683"/>
-        <updated>2023-09-13T05:09:37.641Z</updated>
-        <content type="html"><![CDATA[2023.09.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<맘마미아!> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57682</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57682"/>
-        <updated>2023-09-13T05:09:37.642Z</updated>
-        <content type="html"><![CDATA[2023.09.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 지브리 탱고 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57681</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57681"/>
-        <updated>2023-09-13T05:09:37.644Z</updated>
-        <content type="html"><![CDATA[2023.09.19(화) 05:00]]></content>
     </entry>
 </feed>
