@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-14T02:16:15.387Z</updated>
+    <updated>2023-09-14T03:11:04.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제29회 전국시립소년소녀합창제 <내일이 빛나는 새싹들의 향연>광주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57689</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57689"/>
+        <updated>2023-09-14T03:10:55.245Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.18(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 플라시도도밍고 내한공연​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57687</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.15(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 원주 댄싱카니발​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57673</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57673"/>
-        <updated>2023-09-12T10:10:40.269Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.13(수) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 제29회 전국시립소년소녀합창제 <내일이 빛나는 새싹들의 향연>광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57689</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57689"/>
+        <updated>2023-09-14T03:11:02.847Z</updated>
+        <content type="html"><![CDATA[2023.09.18(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 플라시도도밍고 내한공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57674"/>
         <updated>2023-09-12T10:10:50.532Z</updated>
         <content type="html"><![CDATA[2023.09.15(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 원주 댄싱카니발​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57673</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57673"/>
-        <updated>2023-09-12T10:10:50.534Z</updated>
-        <content type="html"><![CDATA[2023.09.13(수) 01:00]]></content>
     </entry>
 </feed>
