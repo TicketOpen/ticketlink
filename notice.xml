@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-16T00:41:52.385Z</updated>
+    <updated>2023-09-16T01:42:28.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​배나라 데뷔 10주년 콘서트 '나라말싸미'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57709</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57709"/>
+        <updated>2023-09-16T01:42:16.628Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 ‘아기돼지 삼형제’ - 광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57708</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57695"/>
         <updated>2023-09-14T10:12:15.816Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57694</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57694"/>
-        <updated>2023-09-14T10:12:15.816Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 05:00]]></content>
     </entry>
 </feed>
