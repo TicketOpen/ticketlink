@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-09-18T00:43:38.421Z</updated>
+    <updated>2023-09-18T01:44:26.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -62,7 +62,7 @@
         <content type="html"><![CDATA[2023.09.19(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 부산​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57703</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57703"/>
         <updated>2023-09-15T04:11:51.028Z</updated>
