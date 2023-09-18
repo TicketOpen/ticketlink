@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-18T10:11:37.450Z</updated>
+    <updated>2023-09-18T11:08:42.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 방방곡곡 _ <수에뇨의 탱고 살롱> in 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57720</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57720"/>
+        <updated>2023-09-18T11:08:32.429Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아프리카TV 2023 LoL 멸망전 시즌2 결승전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57719</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57704"/>
         <updated>2023-09-15T06:13:57.519Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57703</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57703"/>
-        <updated>2023-09-15T04:11:42.664Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 02:00]]></content>
     </entry>
 </feed>
