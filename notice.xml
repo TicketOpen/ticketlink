@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-18T09:10:53.841Z</updated>
+    <updated>2023-09-18T10:11:37.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아프리카TV 2023 LoL 멸망전 시즌2 결승전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57719</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57719"/>
+        <updated>2023-09-18T10:11:25.458Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호두까기인형 - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57717</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57703"/>
         <updated>2023-09-15T04:11:42.664Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 1차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57702</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57702"/>
-        <updated>2023-09-15T01:44:36.259Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.21(목) 05:00]]></content>
     </entry>
 </feed>
