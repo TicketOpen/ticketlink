@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-18T04:12:30.730Z</updated>
+    <updated>2023-09-18T05:10:35.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​배나라 데뷔 10주년 콘서트 '나라말싸미'​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[​[단독판매]  배나라 데뷔 10주년 콘서트 '나라말싸미'​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57709</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57709"/>
         <updated>2023-09-16T01:42:16.628Z</updated>
