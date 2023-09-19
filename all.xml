@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-19T04:12:32.999Z</updated>
+    <updated>2023-09-19T05:09:35.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[KBS 열린음악회 (제59회 인천 시민의 날 및 인천경제자유구역청 개청 20주년 기념)​ 추가 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57724</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57724"/>
+        <updated>2023-09-19T05:09:24.497Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.22(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈사칠> 3차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57723</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57723"/>
+        <updated>2023-09-19T05:09:24.502Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.25(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족어린이공연 <버블버블쇼> - 울산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57722</id>
@@ -31,6 +45,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57719"/>
         <updated>2023-09-18T10:11:25.458Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더 쇼! 신라하다> 1차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57718</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57718"/>
+        <updated>2023-09-19T05:09:24.524Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.22(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호두까기인형 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  배나라 데뷔 10주년 콘서트 '나라말싸미'​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57709</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57709"/>
-        <updated>2023-09-16T01:42:16.628Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.19(화) 09:00]]></content>
+        <title type="html"><![CDATA[KBS 열린음악회 (제59회 인천 시민의 날 및 인천경제자유구역청 개청 20주년 기념)​ 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57724</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57724"/>
+        <updated>2023-09-19T05:09:35.193Z</updated>
+        <content type="html"><![CDATA[2023.09.22(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 ‘아기돼지 삼형제’ - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57708</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57708"/>
-        <updated>2023-09-15T10:11:11.261Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.18(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 THE CRY ground​ 공식티켓 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57707</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57707"/>
-        <updated>2023-09-15T09:10:23.326Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.18(월) 09:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 〈사칠> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57723</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57723"/>
+        <updated>2023-09-19T05:09:35.193Z</updated>
+        <content type="html"><![CDATA[2023.09.25(월) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 가족어린이공연 <버블버블쇼> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -136,6 +150,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57719"/>
         <updated>2023-09-18T10:11:36.538Z</updated>
         <content type="html"><![CDATA[2023.09.19(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더 쇼! 신라하다> 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57718</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57718"/>
+        <updated>2023-09-19T05:09:35.206Z</updated>
+        <content type="html"><![CDATA[2023.09.22(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호두까기인형 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57710"/>
         <updated>2023-09-16T04:11:56.982Z</updated>
         <content type="html"><![CDATA[2023.09.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  배나라 데뷔 10주년 콘서트 '나라말싸미'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57709</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57709"/>
-        <updated>2023-09-16T01:42:27.354Z</updated>
-        <content type="html"><![CDATA[2023.09.19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 ‘아기돼지 삼형제’ - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57708</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57708"/>
-        <updated>2023-09-15T10:11:19.127Z</updated>
-        <content type="html"><![CDATA[2023.09.18(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2023 THE CRY ground​ 공식티켓 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57707</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57707"/>
-        <updated>2023-09-15T09:10:32.633Z</updated>
-        <content type="html"><![CDATA[2023.09.18(월) 09:00]]></content>
     </entry>
 </feed>
