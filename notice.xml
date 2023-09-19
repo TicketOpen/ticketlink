@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-19T08:13:53.837Z</updated>
+    <updated>2023-09-19T09:10:46.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -41,7 +41,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.22(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈사칠> 3차 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <사칠> 3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57723</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57723"/>
         <updated>2023-09-19T05:09:24.502Z</updated>
