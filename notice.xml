@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-20T02:17:03.737Z</updated>
+    <updated>2023-09-20T03:10:51.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/57733</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57733"/>
         <updated>2023-09-20T02:16:53.430Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 06:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  우리가락 한마당 - 의성​ 티켓오픈 안내]]></title>
