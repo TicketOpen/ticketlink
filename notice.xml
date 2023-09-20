@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-20T10:11:09.144Z</updated>
+    <updated>2023-09-20T11:09:24.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 대한민국 미래모빌리티엑스포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57742</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57742"/>
+        <updated>2023-09-20T11:09:12.467Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.21(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <위윌락유>​ 2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57741</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57728"/>
         <updated>2023-09-19T06:13:31.161Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.20(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <후크> 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57727</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57727"/>
-        <updated>2023-09-19T06:13:31.161Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.26(화) 05:00]]></content>
     </entry>
 </feed>
