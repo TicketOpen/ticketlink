@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-09-21T03:10:38.504Z</updated>
+    <updated>2023-09-21T04:12:05.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2023 원주문화재단 기획공연Ⅴ <장수탕 선녀님> - 원주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57746</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57746"/>
+        <updated>2023-09-21T04:12:04.104Z</updated>
+        <content type="html"><![CDATA[2023.09.25(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​제33회 뮤지콘 작곡발표회 - 시간 공간 마주침 V - 원주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57745</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57745"/>
+        <updated>2023-09-21T04:12:04.106Z</updated>
+        <content type="html"><![CDATA[2023.09.25(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​합천 씨파크 X 정브르 토크콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57744</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57732"/>
         <updated>2023-09-20T01:44:18.834Z</updated>
         <content type="html"><![CDATA[2023.10.05(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​(2023) 루돌프와 산타클로스 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57731</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57731"/>
-        <updated>2023-09-20T00:43:08.697Z</updated>
-        <content type="html"><![CDATA[2023.09.22(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <삼총사> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57730</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57730"/>
-        <updated>2023-09-20T02:17:03.011Z</updated>
-        <content type="html"><![CDATA[2023.09.27(수) 05:00]]></content>
     </entry>
 </feed>
