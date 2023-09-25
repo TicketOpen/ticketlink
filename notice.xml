@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-25T10:11:34.104Z</updated>
+    <updated>2023-09-25T11:08:49.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -59,7 +59,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/57767</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57767"/>
         <updated>2023-09-23T01:41:21.980Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러셀 말론 솔로 기타 티켓오픈 안내]]></title>
