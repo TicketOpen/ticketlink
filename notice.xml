@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-26T09:11:01.827Z</updated>
+    <updated>2023-09-26T10:11:03.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 라이브가족뮤지컬 <산타와루돌프> - 대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57783</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57783"/>
+        <updated>2023-09-26T10:10:52.620Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 <급식걸즈 - 뿌슝빠슝 깨져버린 우정> - 대전​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57782</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57769"/>
         <updated>2023-09-25T00:43:31.495Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.25(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 여수 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57768"/>
-        <updated>2023-09-25T05:10:31.809Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.26(화) 05:00]]></content>
     </entry>
 </feed>
