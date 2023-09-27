@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-27T08:13:27.648Z</updated>
+    <updated>2023-09-27T09:10:58.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/57794</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57794"/>
         <updated>2023-09-27T08:13:19.163Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.06(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.06(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​​​ 티켓오픈 안내]]></title>
