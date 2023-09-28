@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-09-28T07:10:05.183Z</updated>
+    <updated>2023-09-28T08:14:16.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <정의의 사람들> - 부산 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57796</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57796"/>
+        <updated>2023-09-28T08:14:04.821Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.04(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[kt wiz] 빅또리데이(유니폼) 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57795</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57782"/>
         <updated>2023-09-26T09:10:51.441Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 대한민국 온천 산업 박람회 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57781</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57781"/>
-        <updated>2023-09-26T09:10:51.442Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 05:00]]></content>
     </entry>
 </feed>
