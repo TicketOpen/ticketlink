@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-01T01:56:13.133Z</updated>
+    <updated>2023-10-01T02:23:57.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​연극 <여자는 무엇으로 사는가 > - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57799</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57799"/>
+        <updated>2023-10-01T02:23:48.565Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.04(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 오버워치 리그를 위하여 LIVE 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57798</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57785"/>
         <updated>2023-09-27T00:43:20.078Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.27(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[kt wiz] 10월 04일(수) 더블헤더 관람 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57784</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57784"/>
-        <updated>2023-09-26T15:10:57.667Z</updated>
-        <content type="html"><![CDATA[2023.09.26]]></content>
     </entry>
 </feed>
