@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-02T05:10:36.299Z</updated>
+    <updated>2023-10-02T06:14:01.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 라이브 가족뮤지컬 <겨울이야기>-남양주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57807</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57807"/>
+        <updated>2023-10-02T06:13:54.100Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.05(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023라이브가족뮤지컬 <산타와루돌프> - 수원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57806</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57806"/>
+        <updated>2023-10-02T06:13:54.103Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.05(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023겨울가족라이브뮤지컬 <크리스마스캐롤> - 안양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57805</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.09.07(목) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스탠딩 에그 콘서트 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57792</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57792"/>
-        <updated>2023-09-27T06:13:27.677Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.05(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023 라이브 가족뮤지컬 <겨울이야기>-남양주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57807</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57807"/>
+        <updated>2023-10-02T06:14:00.774Z</updated>
+        <content type="html"><![CDATA[2023.10.05(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대전] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다- 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57791</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57791"/>
-        <updated>2023-09-27T06:13:27.685Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.09.13(수) 03:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023라이브가족뮤지컬 <산타와루돌프> - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57806</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57806"/>
+        <updated>2023-10-02T06:14:00.776Z</updated>
+        <content type="html"><![CDATA[2023.10.05(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023겨울가족라이브뮤지컬 <크리스마스캐롤> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57793"/>
         <updated>2023-09-27T06:13:37.039Z</updated>
         <content type="html"><![CDATA[2023.09.07(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠딩 에그 콘서트 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57792</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57792"/>
-        <updated>2023-09-27T06:13:37.039Z</updated>
-        <content type="html"><![CDATA[2023.10.05(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다- 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57791</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57791"/>
-        <updated>2023-09-27T06:13:37.040Z</updated>
-        <content type="html"><![CDATA[2023.09.13(수) 03:00]]></content>
     </entry>
 </feed>
