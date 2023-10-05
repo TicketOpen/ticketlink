@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-05T02:20:47.487Z</updated>
+    <updated>2023-10-05T03:10:44.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 파리나무십자가소년합창단 크리스마스 특별초청공연－수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57815</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57815"/>
+        <updated>2023-10-05T03:10:33.763Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [2023 공연예술축제 그라제]  「웅산, All that Jazz」​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57814</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57801"/>
         <updated>2023-10-01T07:09:14.077Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2023 오버워치 컨텐더스 코리아 가을 시리즈 그랜드 파이널​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57800</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57800"/>
-        <updated>2023-10-01T07:09:14.077Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.05(목) 05:00]]></content>
     </entry>
 </feed>
