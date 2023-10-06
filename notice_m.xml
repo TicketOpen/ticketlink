@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-10-06T04:13:06.290Z</updated>
+    <updated>2023-10-06T05:10:14.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57830</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57830"/>
+        <updated>2023-10-06T05:10:14.095Z</updated>
+        <content type="html"><![CDATA[2023.10.11(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <연극 아버지와 살면- 대구> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57829</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57829"/>
+        <updated>2023-10-06T05:10:14.097Z</updated>
+        <content type="html"><![CDATA[2023.10.10(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 앙상블 블랑슈 제3회 정기연주회 < The Scarlet Shadow > 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57828</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57828"/>
+        <updated>2023-10-06T05:10:14.099Z</updated>
+        <content type="html"><![CDATA[2023.10.11(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 군산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57827</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57827"/>
+        <updated>2023-10-06T05:10:14.101Z</updated>
+        <content type="html"><![CDATA[2023.10.12(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <3일만 볼수있다면> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57826</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57826"/>
+        <updated>2023-10-06T05:10:14.103Z</updated>
+        <content type="html"><![CDATA[2023.10.10(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2023 이은미 LIVE TOUR 콘서트-서울] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57825</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57825"/>
+        <updated>2023-10-06T05:10:14.104Z</updated>
+        <content type="html"><![CDATA[2023.10.13(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023~24 김창완밴드 전국투어 <개구쟁이> - 경주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57824</id>
@@ -48,6 +90,13 @@
         <content type="html"><![CDATA[2023.10.10(화) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[서울] 월트디즈니 100주년 기념 콘서트 - 더 사운드 오브 매직 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57818</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57818"/>
+        <updated>2023-10-06T05:10:14.121Z</updated>
+        <content type="html"><![CDATA[2023.10.16(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023 이병우 기타콘서트 - 다가오는 심장 소리​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57817</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57817"/>
@@ -60,54 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57816"/>
         <updated>2023-10-05T05:10:15.321Z</updated>
         <content type="html"><![CDATA[2023.10.10(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 파리나무십자가소년합창단 크리스마스 특별초청공연－수원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57815</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57815"/>
-        <updated>2023-10-05T03:10:43.750Z</updated>
-        <content type="html"><![CDATA[2023.10.12(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [2023 공연예술축제 그라제]  「웅산, All that Jazz」​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57814</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57814"/>
-        <updated>2023-10-05T02:20:46.435Z</updated>
-        <content type="html"><![CDATA[2023.10.10(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​소란, 우리여행 (광주)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57813</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57813"/>
-        <updated>2023-10-05T00:43:50.945Z</updated>
-        <content type="html"><![CDATA[2023.10.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  베를린 슈타츠카펠레 현악사중주 (광주)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57812</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57812"/>
-        <updated>2023-10-04T08:14:02.226Z</updated>
-        <content type="html"><![CDATA[2023.10.10(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[서울] 2023 장윤정 연말 디너쇼 ​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57811</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57811"/>
-        <updated>2023-10-04T05:10:18.034Z</updated>
-        <content type="html"><![CDATA[2023.10.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <문스토리> 3차​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57810</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57810"/>
-        <updated>2023-10-04T05:10:18.034Z</updated>
-        <content type="html"><![CDATA[2023.10.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <맘마미아!> - 안동 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57809</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57809"/>
-        <updated>2023-10-04T05:10:18.037Z</updated>
-        <content type="html"><![CDATA[2023.10.10(화) 05:00]]></content>
     </entry>
 </feed>
