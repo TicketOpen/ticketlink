@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-08T13:10:45.754Z</updated>
+    <updated>2023-10-08T14:08:33.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[천안] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57839</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57839"/>
+        <updated>2023-10-08T14:08:22.405Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립오페라단 제14회 정기공연 콘체르탄테 <토스카>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57838</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57825"/>
         <updated>2023-10-06T05:10:02.379Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023~24 김창완밴드 전국투어 <개구쟁이> - 경주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57824</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57824"/>
-        <updated>2023-10-05T08:14:42.687Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.06(금) 00:00]]></content>
     </entry>
 </feed>
