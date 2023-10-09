@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-09T05:10:07.696Z</updated>
+    <updated>2023-10-09T06:14:30.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프린세스 스쿨 -예천-​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57841</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57841"/>
+        <updated>2023-10-09T06:14:19.066Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [11시 음악산책] 올 댓 러브7 ‘쇼팽과 리스트’ (광주) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57840</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57827"/>
         <updated>2023-10-06T05:10:02.376Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 <3일만 볼수있다면> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57826</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57826"/>
-        <updated>2023-10-06T05:10:02.376Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 05:00]]></content>
     </entry>
 </feed>
