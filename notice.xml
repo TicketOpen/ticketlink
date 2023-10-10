@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-10T02:17:42.726Z</updated>
+    <updated>2023-10-10T03:10:58.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립발레단 제135회 정기공연 [Giselle] 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57849</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57849"/>
+        <updated>2023-10-10T03:10:47.649Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.11(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]7년 만에 대구를 찾아 왔다!! - 코믹마셜아츠 퍼포먼스 ‘점프’​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57846</id>
@@ -32,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57843"/>
         <updated>2023-10-10T00:43:01.285Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 PWS: Phase 2 그랜드 파이널 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57842</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57842"/>
+        <updated>2023-10-10T03:10:47.668Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프린세스 스쿨 -예천-​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57833"/>
         <updated>2023-10-06T09:10:29.064Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​명화동화 인형극 <호두까기 인형> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57832</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57832"/>
-        <updated>2023-10-06T07:09:23.000Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57831</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57831"/>
-        <updated>2023-10-06T07:09:23.001Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 05:00]]></content>
     </entry>
 </feed>
