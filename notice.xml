@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-10T05:10:16.508Z</updated>
+    <updated>2023-10-10T06:14:12.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57851</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57851"/>
+        <updated>2023-10-10T06:14:02.497Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제10회 이데일리 문화대상 시상식​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57850</id>
@@ -25,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57848"/>
         <updated>2023-10-10T04:11:54.324Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <후크> 4차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57847</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57847"/>
+        <updated>2023-10-10T06:14:02.508Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]7년 만에 대구를 찾아 왔다!! - 코믹마셜아츠 퍼포먼스 ‘점프’​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57837"/>
         <updated>2023-10-07T07:08:47.197Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 대한민국 대중문화예술상​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57836</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57836"/>
-        <updated>2023-10-07T08:11:52.763Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 라이브 가족뮤지컬 <정글북> - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57835</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57835"/>
-        <updated>2023-10-06T13:14:06.616Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 00:00]]></content>
     </entry>
 </feed>
