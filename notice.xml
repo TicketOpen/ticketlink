@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-10T01:44:50.391Z</updated>
+    <updated>2023-10-10T02:17:42.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]7년 만에 대구를 찾아 왔다!! - 코믹마셜아츠 퍼포먼스 ‘점프’​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57846</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57846"/>
+        <updated>2023-10-10T02:17:31.958Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <전천당 vs 흑화당> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57845</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57831"/>
         <updated>2023-10-06T07:09:23.001Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57830</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57830"/>
-        <updated>2023-10-06T05:10:02.372Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.11(수) 00:00]]></content>
     </entry>
 </feed>
