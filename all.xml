@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-10T00:43:11.854Z</updated>
+    <updated>2023-10-10T01:44:50.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <전천당 vs 흑화당> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57845</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57845"/>
+        <updated>2023-10-10T01:44:38.666Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 신비아파트 <붉은 눈의 저주> - 광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57844</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.11(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <연극 아버지와 살면- 대구> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57829</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57829"/>
-        <updated>2023-10-06T05:10:02.374Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.10(화) 01:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <전천당 vs 흑화당> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57845</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57845"/>
+        <updated>2023-10-10T01:44:49.416Z</updated>
+        <content type="html"><![CDATA[2023.10.12(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 신비아파트 <붉은 눈의 저주> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57830"/>
         <updated>2023-10-06T05:10:14.095Z</updated>
         <content type="html"><![CDATA[2023.10.11(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <연극 아버지와 살면- 대구> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57829</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57829"/>
-        <updated>2023-10-06T05:10:14.097Z</updated>
-        <content type="html"><![CDATA[2023.10.10(화) 01:00]]></content>
     </entry>
 </feed>
