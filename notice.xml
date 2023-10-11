@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-11T02:17:48.955Z</updated>
+    <updated>2023-10-11T03:11:19.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 피노키오 - 목포​​ ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57857</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57857"/>
+        <updated>2023-10-11T03:11:10.110Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 2023 카즈미 타테이시 트리오 내한공연 -지브리, 재즈를 만나다-​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57856</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57843"/>
         <updated>2023-10-10T00:43:01.285Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 PWS: Phase 2 그랜드 파이널 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57842</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57842"/>
-        <updated>2023-10-10T03:10:47.668Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 09:00]]></content>
     </entry>
 </feed>
