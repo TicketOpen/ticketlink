@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-13T05:10:18.969Z</updated>
+    <updated>2023-10-13T06:14:33.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -13,14 +13,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.18(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브랜든리 심포니 콘서트 <너의 이름은 & 스즈메의 문단속> -대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57875</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57875"/>
-        <updated>2023-10-13T05:10:09.158Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.19(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <산타와 루돌프> - 대구​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  가족뮤지컬 <산타와 루돌프> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57874</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57874"/>
         <updated>2023-10-13T04:12:40.356Z</updated>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57862"/>
         <updated>2023-10-11T09:10:52.878Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.13(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 파리나무십자가소년합창단 크리스마스 특별초청공연－수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57861</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57861"/>
+        <updated>2023-10-13T06:14:24.438Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.12(목) 01:00]]></content>
     </entry>
 </feed>
