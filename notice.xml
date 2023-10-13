@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-13T09:10:48.989Z</updated>
+    <updated>2023-10-13T10:11:09.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소울디바 임희숙 콘서트, 60년의 벗 / 대한민국의 벗, 소방관을 응원 합니다.​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57880</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57880"/>
+        <updated>2023-10-13T10:10:59.489Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  정동하 12월의 PLAYLIST-서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57879</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57865"/>
         <updated>2023-10-12T08:13:12.673Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 집을 떠나며 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57864</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57864"/>
-        <updated>2023-10-12T00:41:47.626Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.16(월) 00:00]]></content>
     </entry>
 </feed>
