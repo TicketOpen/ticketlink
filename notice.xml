@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-14T06:13:20.289Z</updated>
+    <updated>2023-10-14T07:09:17.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57892</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57892"/>
+        <updated>2023-10-14T07:09:07.650Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 기획공연 <마스터 시리즈 I > '하트 오브 스톰' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57891</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57891"/>
+        <updated>2023-10-14T07:09:07.653Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 성탄절 특선가족뮤지컬 <빨간코 루돌프와 산타크로스> - 서울 (서대문문화체육회관) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57890</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57877"/>
         <updated>2023-10-13T07:09:55.811Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.18(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 창원 [AKMUTOPIA] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57876</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57876"/>
-        <updated>2023-10-13T07:09:55.814Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.18(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브랜든리 심포니 콘서트 <너의 이름은 & 스즈메의 문단속> -대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57875</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57875"/>
-        <updated>2023-10-14T06:13:10.012Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.19(목) 05:00]]></content>
     </entry>
 </feed>
