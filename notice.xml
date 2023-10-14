@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-14T02:15:29.345Z</updated>
+    <updated>2023-10-14T03:10:34.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [포커스] 민아×슬기 퀸텟 재즈 콘서트-광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57888</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57888"/>
+        <updated>2023-10-14T03:10:24.049Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 베스트셀러 가족뮤지컬 <무지개물고기> - 서울 (구로구민회관) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57887</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57872"/>
         <updated>2023-10-13T00:44:51.409Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.16(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Liyuu Fanmeeting in Seoul 2023 「안녕 Seoul！」​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57871</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57871"/>
-        <updated>2023-10-12T12:18:55.541Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.20(금) 11:00]]></content>
     </entry>
 </feed>
