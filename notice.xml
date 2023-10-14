@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-14T08:12:01.935Z</updated>
+    <updated>2023-10-14T09:09:49.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  대구시립국악단 화요국악무대 <민속음악 멋과 흥> - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57896</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57896"/>
+        <updated>2023-10-14T09:09:40.214Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.18(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 어린이 가족뮤지컬<오즈의마법사> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57895</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57881"/>
         <updated>2023-10-13T12:19:13.153Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.01(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소울디바 임희숙 콘서트, 60년의 벗 / 대한민국의 벗, 소방관을 응원 합니다.​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57880</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57880"/>
-        <updated>2023-10-13T10:10:59.489Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 05:00]]></content>
     </entry>
 </feed>
