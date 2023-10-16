@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-16T00:44:37.576Z</updated>
+    <updated>2023-10-16T01:48:43.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​2023 금난새의 크리스마스 선물​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57898</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57898"/>
+        <updated>2023-10-16T01:48:32.906Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 번개맨 <전설의 시작> - 고양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57897</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년 성탄절 특선가족뮤지컬 <빨간코 루돌프와 산타크로스> - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57883</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57883"/>
-        <updated>2023-10-13T13:13:56.128Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.16(월) 00:00]]></content>
+        <title type="html"><![CDATA[​2023 금난새의 크리스마스 선물​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57898</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57898"/>
+        <updated>2023-10-16T01:48:42.945Z</updated>
+        <content type="html"><![CDATA[2023.10.17(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NEW 뮤지컬 번개맨 <전설의 시작> - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57884"/>
         <updated>2023-10-14T01:42:19.809Z</updated>
         <content type="html"><![CDATA[2023.10.17(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 성탄절 특선가족뮤지컬 <빨간코 루돌프와 산타크로스> - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57883</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57883"/>
-        <updated>2023-10-13T13:14:06.114Z</updated>
-        <content type="html"><![CDATA[2023.10.16(월) 00:00]]></content>
     </entry>
 </feed>
