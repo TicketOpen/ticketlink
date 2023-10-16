@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-15T23:09:51.711Z</updated>
+    <updated>2023-10-16T00:44:37.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[NEW 뮤지컬 번개맨 <전설의 시작> - 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57897</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57897"/>
+        <updated>2023-10-16T00:44:26.390Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.18(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  대구시립국악단 화요국악무대 <민속음악 멋과 흥> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57896</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.16(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 김단희 서도소리 독창회Ⅱ - 단희謠​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57881</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57881"/>
-        <updated>2023-10-13T12:19:13.153Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.01(수) 01:00]]></content>
+        <title type="html"><![CDATA[NEW 뮤지컬 번개맨 <전설의 시작> - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57897</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57897"/>
+        <updated>2023-10-16T00:44:36.793Z</updated>
+        <content type="html"><![CDATA[2023.10.18(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  대구시립국악단 화요국악무대 <민속음악 멋과 흥> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57883"/>
         <updated>2023-10-13T13:14:06.114Z</updated>
         <content type="html"><![CDATA[2023.10.16(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김단희 서도소리 독창회Ⅱ - 단희謠​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57881</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57881"/>
-        <updated>2023-10-13T12:19:22.150Z</updated>
-        <content type="html"><![CDATA[2023.11.01(수) 01:00]]></content>
     </entry>
 </feed>
