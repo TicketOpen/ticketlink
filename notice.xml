@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-16T09:11:46.499Z</updated>
+    <updated>2023-10-16T10:12:16.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울재즈쿼텟 라이브 콘서트 2023​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57908</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57908"/>
+        <updated>2023-10-16T10:12:07.388Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]광주시립합창단 제193회 정기연주회 [더 나은 미래를 향한 비상]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57907</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/57894</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57894"/>
         <updated>2023-10-14T08:11:50.607Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57893</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57893"/>
-        <updated>2023-10-14T08:11:50.609Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.17(화) 01:00]]></content>
     </entry>
 </feed>
