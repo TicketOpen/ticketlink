@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-10-16T02:20:43.127Z</updated>
+    <updated>2023-10-16T03:11:05.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울재즈쿼텟 라이브 콘서트 2023 (대구)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57899</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57899"/>
+        <updated>2023-10-16T03:11:05.148Z</updated>
+        <content type="html"><![CDATA[2023.10.17(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2023 금난새의 크리스마스 선물​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57898</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57885"/>
         <updated>2023-10-14T01:42:19.806Z</updated>
         <content type="html"><![CDATA[2023.10.17(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족뮤지컬 로보카폴리<잡아라! 황금트로피!> - 대전앵콜 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57884</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57884"/>
-        <updated>2023-10-14T01:42:19.809Z</updated>
-        <content type="html"><![CDATA[2023.10.17(화) 00:00]]></content>
     </entry>
 </feed>
