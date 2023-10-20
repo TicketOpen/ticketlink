@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-10-20T02:17:54.752Z</updated>
+    <updated>2023-10-20T03:10:47.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 최백호 콘서트 - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57942</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57942"/>
+        <updated>2023-10-20T03:10:46.739Z</updated>
+        <content type="html"><![CDATA[2023.10.23(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유키구라모토 콘서트 - 순천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57939</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57925"/>
         <updated>2023-10-18T07:10:00.986Z</updated>
         <content type="html"><![CDATA[2023.10.19(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 라이브 가족뮤지컬<백설공주> - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57924</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57924"/>
-        <updated>2023-10-18T07:10:00.988Z</updated>
-        <content type="html"><![CDATA[2023.10.19(목) 00:00]]></content>
     </entry>
 </feed>
