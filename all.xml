@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-19T23:10:26.256Z</updated>
+    <updated>2023-10-20T00:43:36.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유키구라모토 콘서트 - 순천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57939</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57939"/>
+        <updated>2023-10-20T00:43:24.704Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키구라모토 콘서트 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57938</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57938"/>
+        <updated>2023-10-20T00:43:24.720Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키구라모토 콘서트 - 원주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57937</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57937"/>
+        <updated>2023-10-20T00:43:24.721Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <컬렉션> 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57936</id>
@@ -16,6 +37,13 @@
         <id>http://www.ticketlink.co.kr/help/notice/57935</id>
         <link href="http://www.ticketlink.co.kr/help/notice/57935"/>
         <updated>2023-10-19T06:13:56.973Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.23(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]「세종솔로이스츠 & 이안 보스트리지 '일루미나시옹'」-광주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57934</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57934"/>
+        <updated>2023-10-20T00:43:24.721Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.23(월) 01:00]]></content>
     </entry>
     <entry>
@@ -82,32 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.19(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  브랜든리 심포니 콘서트 <너의 이름은 & 스즈메의 문단속> -대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57923</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57923"/>
-        <updated>2023-10-18T06:14:23.250Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.24(화) 05:00]]></content>
+        <title type="html"><![CDATA[유키구라모토 콘서트 - 순천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57939</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57939"/>
+        <updated>2023-10-20T00:43:35.539Z</updated>
+        <content type="html"><![CDATA[2023.10.25(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2023 라이브 가족뮤지컬<오즈의마법사> - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57922</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57922"/>
-        <updated>2023-10-18T06:14:23.250Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.19(목) 00:00]]></content>
+        <title type="html"><![CDATA[유키구라모토 콘서트 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57938</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57938"/>
+        <updated>2023-10-20T00:43:35.540Z</updated>
+        <content type="html"><![CDATA[2023.10.25(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 빨간코 루돌프와 산타크로스 - 서울 (강서구민회관) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57921</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57921"/>
-        <updated>2023-10-18T06:14:23.250Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.19(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 라이브 가족뮤지컬<아기돼지 삼형제> - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57920</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57920"/>
-        <updated>2023-10-18T06:14:23.254Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.19(목) 00:00]]></content>
+        <title type="html"><![CDATA[유키구라모토 콘서트 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57937</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57937"/>
+        <updated>2023-10-20T00:43:35.543Z</updated>
+        <content type="html"><![CDATA[2023.10.25(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <컬렉션> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -121,6 +142,13 @@
         <id>http://m.ticketlink.co.kr/help/notice/57935</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57935"/>
         <updated>2023-10-19T06:14:05.747Z</updated>
+        <content type="html"><![CDATA[2023.10.23(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]「세종솔로이스츠 & 이안 보스트리지 '일루미나시옹'」-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57934</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57934"/>
+        <updated>2023-10-20T00:43:35.554Z</updated>
         <content type="html"><![CDATA[2023.10.23(월) 01:00]]></content>
     </entry>
     <entry>
@@ -184,34 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/57924</id>
         <link href="http://m.ticketlink.co.kr/help/notice/57924"/>
         <updated>2023-10-18T07:10:00.988Z</updated>
-        <content type="html"><![CDATA[2023.10.19(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  브랜든리 심포니 콘서트 <너의 이름은 & 스즈메의 문단속> -대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57923</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57923"/>
-        <updated>2023-10-18T06:14:32.828Z</updated>
-        <content type="html"><![CDATA[2023.10.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2023 라이브 가족뮤지컬<오즈의마법사> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57922</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57922"/>
-        <updated>2023-10-18T06:14:32.829Z</updated>
-        <content type="html"><![CDATA[2023.10.19(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 빨간코 루돌프와 산타크로스 - 서울 (강서구민회관) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57921</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57921"/>
-        <updated>2023-10-18T06:14:32.831Z</updated>
-        <content type="html"><![CDATA[2023.10.19(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 라이브 가족뮤지컬<아기돼지 삼형제> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57920</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57920"/>
-        <updated>2023-10-18T06:14:32.834Z</updated>
         <content type="html"><![CDATA[2023.10.19(목) 00:00]]></content>
     </entry>
 </feed>
