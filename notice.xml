@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-23T02:19:20.483Z</updated>
+    <updated>2023-10-23T03:11:30.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​8TURN FAN CONCERT [TURN TABLE]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57957</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57957"/>
+        <updated>2023-10-23T03:11:19.989Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.27(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김진솔 플루트 독주회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57956</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57941"/>
         <updated>2023-10-20T05:10:06.292Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 고양 [AKMUTOPIA]​​ 티켓오픈 안내​]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57940</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57940"/>
-        <updated>2023-10-20T05:10:06.297Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 07:00]]></content>
     </entry>
 </feed>
