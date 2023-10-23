@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-10-22T23:09:58.095Z</updated>
+    <updated>2023-10-23T00:44:10.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 <피노키오> - 안동​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57953</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57953"/>
+        <updated>2023-10-23T00:44:09.890Z</updated>
+        <content type="html"><![CDATA[2023.10.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 <피노키오> - 대전​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57952</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57952"/>
+        <updated>2023-10-23T00:44:09.890Z</updated>
+        <content type="html"><![CDATA[2023.10.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 <피노키오> - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57951</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57951"/>
+        <updated>2023-10-23T00:44:09.907Z</updated>
+        <content type="html"><![CDATA[2023.10.27(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​<춤밥!비밥!시집가는날> - 칠곡군​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57949</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57937"/>
         <updated>2023-10-20T00:43:35.543Z</updated>
         <content type="html"><![CDATA[2023.10.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <컬렉션> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57936</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57936"/>
-        <updated>2023-10-19T07:10:28.421Z</updated>
-        <content type="html"><![CDATA[2023.10.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구시립국악단 제27회 협주곡의 밤 < THE-NEXT-GUGAK-人 > 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57935</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57935"/>
-        <updated>2023-10-19T06:14:05.747Z</updated>
-        <content type="html"><![CDATA[2023.10.23(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]「세종솔로이스츠 & 이안 보스트리지 '일루미나시옹'」-광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57934</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57934"/>
-        <updated>2023-10-20T00:43:35.554Z</updated>
-        <content type="html"><![CDATA[2023.10.23(월) 01:00]]></content>
     </entry>
 </feed>
