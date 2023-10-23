@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-23T00:44:10.804Z</updated>
+    <updated>2023-10-23T01:45:54.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김진솔 플루트 독주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57956</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57956"/>
+        <updated>2023-10-23T01:45:43.842Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.26(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제4회 울산학생예술단 정기연주회 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57955</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57955"/>
+        <updated>2023-10-23T01:45:43.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.01(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 가족뮤지컬 <피노키오> - 안동​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57953</id>
@@ -24,6 +38,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57951"/>
         <updated>2023-10-23T00:44:00.250Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 이소라 콘서트 <소라에게> 추가 회차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57950</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57950"/>
+        <updated>2023-10-23T01:45:43.850Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.26(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​<춤밥!비밥!시집가는날> - 칠곡군​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유키구라모토 콘서트 - 순천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57939</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57939"/>
-        <updated>2023-10-20T00:43:24.704Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 김진솔 플루트 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57956</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57956"/>
+        <updated>2023-10-23T01:45:53.472Z</updated>
+        <content type="html"><![CDATA[2023.10.26(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유키구라모토 콘서트 - 춘천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57938</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57938"/>
-        <updated>2023-10-20T00:43:24.720Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키구라모토 콘서트 - 원주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57937</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57937"/>
-        <updated>2023-10-20T00:43:24.721Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 제4회 울산학생예술단 정기연주회 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57955</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57955"/>
+        <updated>2023-10-23T01:45:53.474Z</updated>
+        <content type="html"><![CDATA[2023.11.01(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 가족뮤지컬 <피노키오> - 안동​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -129,6 +143,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57951"/>
         <updated>2023-10-23T00:44:09.907Z</updated>
         <content type="html"><![CDATA[2023.10.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 이소라 콘서트 <소라에게> 추가 회차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57950</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57950"/>
+        <updated>2023-10-23T01:45:53.485Z</updated>
+        <content type="html"><![CDATA[2023.10.26(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​<춤밥!비밥!시집가는날> - 칠곡군​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57940"/>
         <updated>2023-10-20T05:10:15.644Z</updated>
         <content type="html"><![CDATA[2023.10.25(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키구라모토 콘서트 - 순천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57939</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57939"/>
-        <updated>2023-10-20T00:43:35.539Z</updated>
-        <content type="html"><![CDATA[2023.10.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키구라모토 콘서트 - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57938</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57938"/>
-        <updated>2023-10-20T00:43:35.540Z</updated>
-        <content type="html"><![CDATA[2023.10.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키구라모토 콘서트 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57937</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57937"/>
-        <updated>2023-10-20T00:43:35.543Z</updated>
-        <content type="html"><![CDATA[2023.10.25(수) 01:00]]></content>
     </entry>
 </feed>
