@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-10-23T09:11:41.274Z</updated>
+    <updated>2023-10-23T10:11:33.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 앤서니브라운 가족뮤지컬 <우리아빠가최고야>-대전​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57959</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57959"/>
+        <updated>2023-10-23T10:11:33.198Z</updated>
+        <content type="html"><![CDATA[2023.10.24(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 김창옥 토크콘서트 시즌3 - 인천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57958</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57945"/>
         <updated>2023-10-20T05:10:15.638Z</updated>
         <content type="html"><![CDATA[2023.10.24(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 방방곡곡 _ 뮤지컬 <전설의 리틀 농구단> in 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57944</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57944"/>
-        <updated>2023-10-20T05:10:15.639Z</updated>
-        <content type="html"><![CDATA[2023.10.24(화) 02:00]]></content>
     </entry>
 </feed>
