@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-24T04:12:16.131Z</updated>
+    <updated>2023-10-24T05:10:06.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023시즌 <최강야구> 5번째 직관 DAY 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57965</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57965"/>
+        <updated>2023-10-24T05:09:57.294Z</updated>
+        <content type="html"><![CDATA[2023.10.24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악낭독극 <흔들리며 피는 꽃 : 도라지 꽃> - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57964</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.27(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 이소라 콘서트 <소라에게> 추가 회차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57950</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57950"/>
-        <updated>2023-10-23T01:45:43.850Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.26(목) 09:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023시즌 <최강야구> 5번째 직관 DAY 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57965</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57965"/>
+        <updated>2023-10-24T05:10:06.061Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/57965" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2023시즌 &lt;최강야구&gt; 5번째 직관 DAY 티켓오픈 안내</h3></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악낭독극 <흔들리며 피는 꽃 : 도라지 꽃> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57951"/>
         <updated>2023-10-23T00:44:09.907Z</updated>
         <content type="html"><![CDATA[2023.10.27(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 이소라 콘서트 <소라에게> 추가 회차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57950</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57950"/>
-        <updated>2023-10-23T01:45:53.485Z</updated>
-        <content type="html"><![CDATA[2023.10.26(목) 09:00]]></content>
     </entry>
 </feed>
