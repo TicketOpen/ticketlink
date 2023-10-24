@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-24T03:11:37.312Z</updated>
+    <updated>2023-10-24T04:12:16.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음악낭독극 <흔들리며 피는 꽃 : 도라지 꽃> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57964</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57964"/>
+        <updated>2023-10-24T04:12:04.684Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.25(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루돌프와 산타할아버지 - 인천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57963</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57950"/>
         <updated>2023-10-23T01:45:43.850Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.10.26(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​<춤밥!비밥!시집가는날> - 칠곡군​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57949</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57949"/>
-        <updated>2023-10-20T08:13:47.143Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.23(월) 02:00]]></content>
     </entry>
 </feed>
