@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-10-25T04:12:44.131Z</updated>
+    <updated>2023-10-25T05:12:03.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 최현우 Answer - 청주​​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57969</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57969"/>
+        <updated>2023-10-25T05:11:51.648Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.27(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 무용, 상상(想像)-상상하는 우리춤 Ⅱ (목포) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57968</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57955"/>
         <updated>2023-10-23T01:45:43.846Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.01(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57954</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57954"/>
-        <updated>2023-10-23T05:10:04.770Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.10.24(화) 05:00]]></content>
     </entry>
 </feed>
