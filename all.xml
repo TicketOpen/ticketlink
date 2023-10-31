@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-31T07:10:07.908Z</updated>
+    <updated>2023-10-31T08:13:43.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/57999</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/57999"/>
+        <updated>2023-10-31T08:13:32.735Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 가족 뮤지컬 <겨울왕국스토리> 겨울이야기 - 남해 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/57998</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 WASBE 세계관악컨퍼런스 경기 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57984</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57984"/>
-        <updated>2023-10-30T01:47:16.349Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.01(수) 18:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57999</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57999"/>
+        <updated>2023-10-31T08:13:42.145Z</updated>
+        <content type="html"><![CDATA[2023.11.07(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 가족 뮤지컬 <겨울왕국스토리> 겨울이야기 - 남해 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57985"/>
         <updated>2023-10-30T02:19:54.224Z</updated>
         <content type="html"><![CDATA[2023.11.07(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 WASBE 세계관악컨퍼런스 경기 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57984</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57984"/>
-        <updated>2023-10-30T01:47:26.207Z</updated>
-        <content type="html"><![CDATA[2023.11.01(수) 18:00]]></content>
     </entry>
 </feed>
