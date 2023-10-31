@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-10-31T02:18:59.086Z</updated>
+    <updated>2023-10-31T03:10:57.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족 뮤지컬 <겨울왕국스토리> 겨울이야기 - 남해 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/57998</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/57998"/>
+        <updated>2023-10-31T03:10:56.286Z</updated>
+        <content type="html"><![CDATA[2023.11.02(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  민속악연주단 선풍 9번째 이야기 춤, 바람 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/57997</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57984"/>
         <updated>2023-10-30T01:47:26.207Z</updated>
         <content type="html"><![CDATA[2023.11.01(수) 18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​조성모 & 더원 The story​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57983</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57983"/>
-        <updated>2023-10-30T01:47:26.208Z</updated>
-        <content type="html"><![CDATA[2023.11.01(수) 06:00]]></content>
     </entry>
 </feed>
