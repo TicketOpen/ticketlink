@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-11-01T04:12:32.465Z</updated>
+    <updated>2023-11-01T05:10:10.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <결투> 프리뷰​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58005</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58005"/>
+        <updated>2023-11-01T05:10:10.073Z</updated>
+        <content type="html"><![CDATA[2023.11.06(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Music Festival “Ride the Beat”​  일반 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58004</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58004"/>
+        <updated>2023-11-01T05:10:10.073Z</updated>
+        <content type="html"><![CDATA[2023.11.06(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 이승철 전국투어 콘서트: RETRO Night - 부산앵콜​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58003</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58003"/>
+        <updated>2023-11-01T05:10:10.073Z</updated>
+        <content type="html"><![CDATA[2023.11.08(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2023 이승철 전국투어 콘서트: RETRO Night - 대구앵콜​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58002</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58002"/>
+        <updated>2023-11-01T05:10:10.073Z</updated>
+        <content type="html"><![CDATA[2023.11.08(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 푸에르자부르타 웨이라 인 서울 [2023 FUERZA BRUTA WAYRA IN SEOUL]​ 2차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58001</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57991"/>
         <updated>2023-10-30T06:14:03.857Z</updated>
         <content type="html"><![CDATA[2023.11.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 변진섭 전국투어 콘서트 : 변천사 - 남양주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57990</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57990"/>
-        <updated>2023-10-30T06:14:03.858Z</updated>
-        <content type="html"><![CDATA[2023.11.08(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 특선 호두까기 인형 - 수원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57989</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57989"/>
-        <updated>2023-10-30T06:14:03.870Z</updated>
-        <content type="html"><![CDATA[2023.11.01(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​김덕우 바이올린 독주회 - 김해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57988</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57988"/>
-        <updated>2023-10-30T06:14:03.870Z</updated>
-        <content type="html"><![CDATA[2023.10.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 < 아가사 AGATHA > 10th Anniversary 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57987</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57987"/>
-        <updated>2023-10-30T05:10:52.169Z</updated>
-        <content type="html"><![CDATA[2023.11.03(금) 06:00]]></content>
     </entry>
 </feed>
