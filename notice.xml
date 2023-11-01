@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-01T07:10:38.670Z</updated>
+    <updated>2023-11-01T08:13:15.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립극단 기획공연 '제2회 창작희곡공모 당선작: 섬 옆의 섬' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58007</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58007"/>
+        <updated>2023-11-01T08:13:07.070Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.03(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <더 쇼! 신라하다> 2차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58006</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57993"/>
         <updated>2023-10-30T08:13:16.414Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  한강의 '기적' - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57992</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57992"/>
-        <updated>2023-10-30T06:13:55.567Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.03(금) 03:00]]></content>
     </entry>
 </feed>
