@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-02T02:18:07.688Z</updated>
+    <updated>2023-11-02T03:11:32.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 달서가족문화센터 [유레카극장] '부모 리더십을 키우자'_강은미​ ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58010</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58010"/>
+        <updated>2023-11-02T03:11:21.285Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.06(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023~24 최현우 Answer​​ 2차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58009</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.03(금) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 톰 그린리브스 팀파니 마스터클래스 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57994</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57994"/>
-        <updated>2023-10-30T08:13:16.411Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.01(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 달서가족문화센터 [유레카극장] '부모 리더십을 키우자'_강은미​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58010</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58010"/>
+        <updated>2023-11-02T03:11:31.728Z</updated>
+        <content type="html"><![CDATA[2023.11.06(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023~24 최현우 Answer​​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/57995"/>
         <updated>2023-10-31T01:45:36.537Z</updated>
         <content type="html"><![CDATA[2023.11.03(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 톰 그린리브스 팀파니 마스터클래스 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57994</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57994"/>
-        <updated>2023-10-30T08:13:24.225Z</updated>
-        <content type="html"><![CDATA[2023.11.01(수) 05:00]]></content>
     </entry>
 </feed>
