@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-02T04:12:23.196Z</updated>
+    <updated>2023-11-02T05:09:56.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) 2차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58011</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58011"/>
+        <updated>2023-11-02T05:09:46.175Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.10(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 달서가족문화센터 [유레카극장] '부모 리더십을 키우자'_강은미​ ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58010</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57996"/>
         <updated>2023-10-31T01:45:27.873Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] MOTIV-ATION SHOW <정동화의 레드카펫>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57995</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57995"/>
-        <updated>2023-10-31T01:45:27.873Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.03(금) 06:00]]></content>
     </entry>
 </feed>
