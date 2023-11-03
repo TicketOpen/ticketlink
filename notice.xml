@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-03T04:12:38.013Z</updated>
+    <updated>2023-11-03T05:10:37.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58009"/>
         <updated>2023-11-01T09:11:18.824Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 콘서트 유키 구라모토와 친구들 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58008</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58008"/>
+        <updated>2023-11-03T05:10:28.176Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.09(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립극단 기획공연 '제2회 창작희곡공모 당선작: 섬 옆의 섬' 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57999"/>
         <updated>2023-10-31T08:13:32.735Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족 뮤지컬 <겨울왕국스토리> 겨울이야기 - 남해 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57998</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57998"/>
-        <updated>2023-10-31T03:10:45.848Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.02(목) 01:00]]></content>
     </entry>
 </feed>
