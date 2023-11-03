@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-11-03T05:10:37.628Z</updated>
+    <updated>2023-11-03T06:13:59.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <그날들> - 고양 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58016</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58016"/>
+        <updated>2023-11-03T06:13:58.923Z</updated>
+        <content type="html"><![CDATA[2023.11.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 콘서트 유키 구라모토와 친구들 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58015</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58015"/>
+        <updated>2023-11-03T06:13:58.923Z</updated>
+        <content type="html"><![CDATA[2023.11.09(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스즈메의 문단속 공식 필름 콘서트_서울 feat. 너의 이름은, 날씨의 아이​ 2차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58013</id>
@@ -39,13 +53,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58009"/>
         <updated>2023-11-01T09:11:30.059Z</updated>
         <content type="html"><![CDATA[2023.11.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 콘서트 유키 구라모토와 친구들 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58008</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58008"/>
-        <updated>2023-11-03T05:10:36.621Z</updated>
-        <content type="html"><![CDATA[2023.11.09(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립극단 기획공연 '제2회 창작희곡공모 당선작: 섬 옆의 섬' 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58000"/>
         <updated>2023-11-01T03:11:22.645Z</updated>
         <content type="html"><![CDATA[2023.11.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/57999</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/57999"/>
-        <updated>2023-10-31T08:13:42.145Z</updated>
-        <content type="html"><![CDATA[2023.11.07(화) 05:00]]></content>
     </entry>
 </feed>
