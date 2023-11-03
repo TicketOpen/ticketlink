@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-03T02:19:43.499Z</updated>
+    <updated>2023-11-03T03:10:57.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스즈메의 문단속 공식 필름 콘서트_서울 feat. 너의 이름은, 날씨의 아이​ 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58013</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58013"/>
+        <updated>2023-11-03T03:10:48.108Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.03(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 푸치니, 오페라 <나비부인>광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58012</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/57998"/>
         <updated>2023-10-31T03:10:45.848Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  민속악연주단 선풍 9번째 이야기 춤, 바람 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/57997</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/57997"/>
-        <updated>2023-10-31T01:45:27.866Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.01(수) 01:00]]></content>
     </entry>
 </feed>
