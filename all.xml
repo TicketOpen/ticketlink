@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-07T04:12:05.744Z</updated>
+    <updated>2023-11-07T05:10:29.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립소년소녀합창단 제140회 정기공연 창작뮤지컬 <나를 노래해> 티켓오픈 안내 (티켓링크)]]></title>
@@ -31,6 +31,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58038"/>
         <updated>2023-11-07T00:44:55.849Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.09(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] XIA 2023 CONCERT Chapter 1 : Recreation 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58037</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58037"/>
+        <updated>2023-11-07T05:10:18.417Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.20(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.09(목) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공룡테마파크 < DINO BAY > 시즌2 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58026</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58026"/>
-        <updated>2023-11-06T02:22:34.522Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.08(수) 02:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립소년소녀합창단 제140회 정기공연 창작뮤지컬 <나를 노래해> 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58041</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58041"/>
@@ -136,6 +136,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58038"/>
         <updated>2023-11-07T00:45:06.230Z</updated>
         <content type="html"><![CDATA[2023.11.09(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] XIA 2023 CONCERT Chapter 1 : Recreation 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58037</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58037"/>
+        <updated>2023-11-07T05:10:28.307Z</updated>
+        <content type="html"><![CDATA[2023.11.20(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58027"/>
         <updated>2023-11-06T05:10:14.602Z</updated>
         <content type="html"><![CDATA[2023.11.09(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡테마파크 < DINO BAY > 시즌2 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58026</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58026"/>
-        <updated>2023-11-06T02:22:43.756Z</updated>
-        <content type="html"><![CDATA[2023.11.08(수) 02:00]]></content>
     </entry>
 </feed>
