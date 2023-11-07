@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-07T00:45:07.362Z</updated>
+    <updated>2023-11-07T01:49:37.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 더 트롯라이브- 광주 (김용임/신유) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58039</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58039"/>
+        <updated>2023-11-07T01:49:27.501Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.13(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤니크챔버오케스트라 창단 연주회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58038</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58024"/>
         <updated>2023-11-06T00:44:28.144Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.06(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알라딘과 자스민공주 - 노원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58023</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58023"/>
-        <updated>2023-11-04T02:17:15.617Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.07(화) 00:00]]></content>
     </entry>
 </feed>
