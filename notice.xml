@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-08T04:11:51.967Z</updated>
+    <updated>2023-11-08T05:10:42.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브랜든리 심포니 OST 콘서트 - 전주 (CAST 유준상,옥주현,김지우,기세중)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58046</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58046"/>
+        <updated>2023-11-08T05:10:30.440Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.10(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> – 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58045</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58032</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58032"/>
         <updated>2023-11-06T10:12:08.385Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.09(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루돌프와 산타할아버지 - 성남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58031</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58031"/>
-        <updated>2023-11-06T10:12:08.388Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.09(목) 00:00]]></content>
     </entry>
 </feed>
