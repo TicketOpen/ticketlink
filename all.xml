@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-09T09:10:16.911Z</updated>
+    <updated>2023-11-09T10:11:19.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <다이빙 온 아이스> - 춘천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58060</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58060"/>
+        <updated>2023-11-09T10:11:08.283Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전인권밴드 콘서트 [MEISTER] - 서울​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58058</id>
@@ -17,6 +24,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58057"/>
         <updated>2023-11-09T06:13:28.471Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.16(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보일러룸 서울 2023 Boiler Room SEOUL 2023​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58056</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58056"/>
+        <updated>2023-11-09T10:11:08.289Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 Heize Concert [Heize City : Last Winter]​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.22(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <메리셸리> 프리뷰​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58044</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58044"/>
-        <updated>2023-11-08T02:19:23.776Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.14(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023/2024 모두예술극장 개관프로그램 <제자리>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58043</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58043"/>
-        <updated>2023-11-08T02:19:23.782Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.08(수) 02:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <다이빙 온 아이스> - 춘천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58060</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58060"/>
+        <updated>2023-11-09T10:11:19.156Z</updated>
+        <content type="html"><![CDATA[2023.11.15(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전인권밴드 콘서트 [MEISTER] - 서울​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58057"/>
         <updated>2023-11-09T06:13:38.800Z</updated>
         <content type="html"><![CDATA[2023.11.16(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보일러룸 서울 2023 Boiler Room SEOUL 2023​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58056</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58056"/>
+        <updated>2023-11-09T10:11:19.167Z</updated>
+        <content type="html"><![CDATA[2023.11.15(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 Heize Concert [Heize City : Last Winter]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58045"/>
         <updated>2023-11-08T02:19:32.759Z</updated>
         <content type="html"><![CDATA[2023.11.22(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <메리셸리> 프리뷰​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58044</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58044"/>
-        <updated>2023-11-08T02:19:32.765Z</updated>
-        <content type="html"><![CDATA[2023.11.14(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023/2024 모두예술극장 개관프로그램 <제자리>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58043</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58043"/>
-        <updated>2023-11-08T02:19:32.766Z</updated>
-        <content type="html"><![CDATA[2023.11.08(수) 02:00]]></content>
     </entry>
 </feed>
