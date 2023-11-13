@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-13T04:12:21.914Z</updated>
+    <updated>2023-11-13T05:10:54.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 두번째 달 단독콘서트 <산아지 타령>​ ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58087</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58087"/>
+        <updated>2023-11-13T05:10:44.913Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.17(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 삼척시민과 함께하는 송년음악회 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58086</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58086"/>
+        <updated>2023-11-13T05:10:44.914Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.22(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58085</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58085"/>
+        <updated>2023-11-13T05:10:44.923Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58084</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58084"/>
+        <updated>2023-11-13T05:10:44.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.14(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <위윌락유>​ 마지막 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58083</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58083"/>
+        <updated>2023-11-13T05:10:44.930Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 금융결제원 금융공동망 재해복구훈련 작업 일정 안내(11/11,12) (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58082</id>
@@ -75,39 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] ​[광주예술의전당 기획-포시즌5]  「손민수 피아노 리사이틀」​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58072</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58072"/>
-        <updated>2023-11-10T06:13:33.920Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 두번째 달 단독콘서트 <산아지 타령>​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58087</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58087"/>
+        <updated>2023-11-13T05:10:53.820Z</updated>
+        <content type="html"><![CDATA[2023.11.17(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 이승철 전국투어 콘서트: RETRO Night - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58071</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58071"/>
-        <updated>2023-11-10T05:09:56.377Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.14(화) 07:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023 삼척시민과 함께하는 송년음악회 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58086</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58086"/>
+        <updated>2023-11-13T05:10:53.820Z</updated>
+        <content type="html"><![CDATA[2023.11.22(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 이승철 전국투어 콘서트: RETRO Night - 울산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58070</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58070"/>
-        <updated>2023-11-10T05:09:56.377Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.14(화) 06:00]]></content>
+        <title type="html"><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58085</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58085"/>
+        <updated>2023-11-13T05:10:53.821Z</updated>
+        <content type="html"><![CDATA[2023.11.15(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 이승철 전국투어 콘서트: RETRO Night - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58069</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58069"/>
-        <updated>2023-11-10T05:09:56.391Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.14(화) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58084</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58084"/>
+        <updated>2023-11-13T05:10:53.823Z</updated>
+        <content type="html"><![CDATA[2023.11.14(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​제13회 한울림골목연극제 - 연극 <진창>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58068</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58068"/>
-        <updated>2023-11-10T05:09:56.391Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.13(월) 00:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 <위윌락유>​ 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58083</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58083"/>
+        <updated>2023-11-13T05:10:53.826Z</updated>
+        <content type="html"><![CDATA[2023.11.17(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 금융결제원 금융공동망 재해복구훈련 작업 일정 안내(11/11,12) (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58073"/>
         <updated>2023-11-10T06:13:42.999Z</updated>
         <content type="html"><![CDATA[2023.11.15(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​[광주예술의전당 기획-포시즌5]  「손민수 피아노 리사이틀」​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58072</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58072"/>
-        <updated>2023-11-10T06:13:43.001Z</updated>
-        <content type="html"><![CDATA[2023.11.15(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 이승철 전국투어 콘서트: RETRO Night - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58071</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58071"/>
-        <updated>2023-11-10T05:10:33.831Z</updated>
-        <content type="html"><![CDATA[2023.11.14(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 이승철 전국투어 콘서트: RETRO Night - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58070</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58070"/>
-        <updated>2023-11-10T05:10:33.831Z</updated>
-        <content type="html"><![CDATA[2023.11.14(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 이승철 전국투어 콘서트: RETRO Night - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58069</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58069"/>
-        <updated>2023-11-10T05:10:33.831Z</updated>
-        <content type="html"><![CDATA[2023.11.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​제13회 한울림골목연극제 - 연극 <진창>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58068</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58068"/>
-        <updated>2023-11-10T05:10:33.831Z</updated>
-        <content type="html"><![CDATA[2023.11.13(월) 00:00]]></content>
     </entry>
 </feed>
