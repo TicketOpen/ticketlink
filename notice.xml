@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-15T07:10:28.275Z</updated>
+    <updated>2023-11-15T08:13:34.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58107"/>
         <updated>2023-11-15T06:14:13.573Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] K-Link Festival​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58105</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58105"/>
+        <updated>2023-11-15T08:13:26.523Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.21(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <백설공주> - 울산 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58093"/>
         <updated>2023-11-13T10:11:13.619Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.22(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족 마술쇼 최형배마술사의< MAGIC MOON >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58092</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58092"/>
-        <updated>2023-11-13T10:11:13.619Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.14(화) 00:00]]></content>
     </entry>
 </feed>
