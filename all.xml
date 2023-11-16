@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-16T04:12:39.086Z</updated>
+    <updated>2023-11-16T05:10:12.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 그들만 아는 공소시효 - 동해​​​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58117</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58117"/>
+        <updated>2023-11-16T05:10:04.728Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.22(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <포쉬> 앙코르​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58116</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58116"/>
+        <updated>2023-11-16T05:10:04.729Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.20(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 성남​​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58115</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58115"/>
+        <updated>2023-11-16T05:10:04.729Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.22(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE)​ 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58114</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58114"/>
+        <updated>2023-11-16T05:10:04.730Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알사탕> - 수원 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58113</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.17(금) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가우디 세계 총회 2023 서울 (Gaudi World Congress 2023 Seoul) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58102</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58102"/>
-        <updated>2023-11-15T06:14:13.579Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 그들만 아는 공소시효 - 동해​​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58117</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58117"/>
+        <updated>2023-11-16T05:10:11.414Z</updated>
+        <content type="html"><![CDATA[2023.11.22(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 판타스틱 퍼커션 앙상블 창단연주회​ - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58101</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58101"/>
-        <updated>2023-11-14T11:08:48.777Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 05:00]]></content>
+        <title type="html"><![CDATA[연극 <포쉬> 앙코르​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58116</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58116"/>
+        <updated>2023-11-16T05:10:11.415Z</updated>
+        <content type="html"><![CDATA[2023.11.20(월) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58100</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58100"/>
-        <updated>2023-11-14T06:13:16.887Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.15(수) 01:00]]></content>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 성남​​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58115</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58115"/>
+        <updated>2023-11-16T05:10:11.415Z</updated>
+        <content type="html"><![CDATA[2023.11.22(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58099</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58099"/>
-        <updated>2023-11-14T06:13:16.894Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.16(목) 02:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE)​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58114</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58114"/>
+        <updated>2023-11-16T05:10:11.416Z</updated>
+        <content type="html"><![CDATA[2023.11.23(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알사탕> - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58103"/>
         <updated>2023-11-15T01:52:58.790Z</updated>
         <content type="html"><![CDATA[2023.11.17(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가우디 세계 총회 2023 서울 (Gaudi World Congress 2023 Seoul) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58102</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58102"/>
-        <updated>2023-11-15T06:14:21.934Z</updated>
-        <content type="html"><![CDATA[2023.11.15(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 판타스틱 퍼커션 앙상블 창단연주회​ - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58101</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58101"/>
-        <updated>2023-11-14T11:08:54.796Z</updated>
-        <content type="html"><![CDATA[2023.11.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58100</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58100"/>
-        <updated>2023-11-14T06:13:23.249Z</updated>
-        <content type="html"><![CDATA[2023.11.15(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58099</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58099"/>
-        <updated>2023-11-14T06:13:23.252Z</updated>
-        <content type="html"><![CDATA[2023.11.16(목) 02:00]]></content>
     </entry>
 </feed>
