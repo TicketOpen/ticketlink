@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-20T23:11:00.686Z</updated>
+    <updated>2023-11-21T00:47:07.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매][뮤지컬] 뮤지컬 앤ANNE - 울산 (11.30) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58127</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58127"/>
+        <updated>2023-11-21T00:46:57.329Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.21(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <우리 아빠가 최고야> - 양산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58126</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58112"/>
         <updated>2023-11-16T03:11:17.769Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.20(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 나윤선 재즈 콘서트 「Another Christmas」 - 포항 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58111</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58111"/>
-        <updated>2023-11-16T01:53:13.113Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.21(화) 05:00]]></content>
     </entry>
 </feed>
