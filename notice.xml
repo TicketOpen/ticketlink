@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-22T07:10:10.125Z</updated>
+    <updated>2023-11-22T08:14:31.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 베스트 세계명작 라이브뮤지컬 <장화신은고양이> - 대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58144</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58144"/>
+        <updated>2023-11-22T08:14:21.588Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] AVL 2023 티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58143</id>
@@ -83,7 +90,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 원주문화재단 기획공연Ⅵ 뮤지컬 〈빨래〉 - 원주​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2023 원주문화재단 기획공연Ⅵ 뮤지컬 <빨래> - 원주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58132</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58132"/>
         <updated>2023-11-21T07:09:49.175Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58129"/>
         <updated>2023-11-21T07:09:49.176Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.27(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박창근 콘서트 "그래 우린 다시" - 고양​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58128</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58128"/>
-        <updated>2023-11-21T04:12:28.117Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 05:00]]></content>
     </entry>
 </feed>
