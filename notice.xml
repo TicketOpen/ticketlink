@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-23T05:10:09.403Z</updated>
+    <updated>2023-11-23T06:14:18.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 3차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58154</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58154"/>
+        <updated>2023-11-23T06:14:09.138Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <오즈의마법사> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58153</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58153"/>
+        <updated>2023-11-23T06:14:09.140Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 베스트 세계명작 라이브뮤지컬 <장화신은고양이> - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58152</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58152"/>
+        <updated>2023-11-23T06:14:09.140Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 어린이마술쇼 - 구미 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58151</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58140"/>
         <updated>2023-11-22T06:13:59.485Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 베스트셀러 뮤지컬 <누가 내 머리에 똥 쌌어？> - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58139</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58139"/>
-        <updated>2023-11-22T05:10:25.206Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <라푼젤> - 경기광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58138</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58138"/>
-        <updated>2023-11-22T05:10:25.209Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024학년도 정시 대학입학정보박람회 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58137</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58137"/>
-        <updated>2023-11-22T00:48:23.392Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.21(화) 15:00]]></content>
     </entry>
 </feed>
