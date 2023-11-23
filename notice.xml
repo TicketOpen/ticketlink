@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-23T06:14:18.027Z</updated>
+    <updated>2023-11-23T07:09:45.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 3차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58155</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58155"/>
+        <updated>2023-11-23T07:09:35.772Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 3차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58154</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58141"/>
         <updated>2023-11-22T06:13:59.484Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬<미녀와야수> - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58140</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58140"/>
-        <updated>2023-11-22T06:13:59.485Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 00:00]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-23T06:14:18.018Z</updated>
+    <updated>2023-11-23T07:09:45.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 3차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58155</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58155"/>
+        <updated>2023-11-23T07:09:35.772Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58154</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬<미녀와야수> - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58140</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58140"/>
-        <updated>2023-11-22T06:13:59.485Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58155</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58155"/>
+        <updated>2023-11-23T07:09:44.773Z</updated>
+        <content type="html"><![CDATA[2023.11.28(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58141"/>
         <updated>2023-11-22T06:14:07.429Z</updated>
         <content type="html"><![CDATA[2023.11.23(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬<미녀와야수> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58140</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58140"/>
-        <updated>2023-11-22T06:14:07.429Z</updated>
-        <content type="html"><![CDATA[2023.11.23(목) 00:00]]></content>
     </entry>
 </feed>
