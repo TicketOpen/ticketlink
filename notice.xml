@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-23T23:11:14.946Z</updated>
+    <updated>2023-11-24T00:44:14.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 오산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58157</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58157"/>
+        <updated>2023-11-24T00:44:04.847Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.28(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 라이브 가족뮤지컬 <알라딘> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58156</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58143"/>
         <updated>2023-11-22T07:10:02.335Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜] 최고다 호기심딱지 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58142</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58142"/>
-        <updated>2023-11-22T07:10:02.337Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.27(월) 00:00]]></content>
     </entry>
 </feed>
