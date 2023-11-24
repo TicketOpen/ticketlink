@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-24T10:11:48.596Z</updated>
+    <updated>2023-11-24T11:09:03.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로>서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58164</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58164"/>
+        <updated>2023-11-24T11:08:54.318Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 라이브 가족뮤지컬 <피터팬> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58163</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58150"/>
         <updated>2023-11-23T03:11:05.842Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.27(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 HOT6 스타크래프트 멸망전 - 대학대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58149</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58149"/>
-        <updated>2023-11-23T02:23:03.200Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.23(목) 07:00]]></content>
     </entry>
 </feed>
