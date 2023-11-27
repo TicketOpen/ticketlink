@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-27T04:13:06.134Z</updated>
+    <updated>2023-11-27T05:10:36.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <결투> 2차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58174</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58174"/>
+        <updated>2023-11-27T05:10:26.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.04(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58172</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58172"/>
+        <updated>2023-11-27T05:10:26.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 - 용산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58171</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58171"/>
+        <updated>2023-11-27T05:10:26.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58170</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58170"/>
+        <updated>2023-11-27T05:10:26.847Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 내사랑 사북 - 원주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58169</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58169"/>
+        <updated>2023-11-27T05:10:26.848Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.04(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 서울 (용산)​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58168</id>
@@ -75,39 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.04(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공지] 신협 전산작업으로 인한 결제서비스 일시중단 안내(11/25,26) (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58158</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58158"/>
-        <updated>2023-11-24T01:49:35.660Z</updated>
-        <content type="html"><![CDATA[2023.11.24]]></content>
+        <title type="html"><![CDATA[뮤지컬 <결투> 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58174</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58174"/>
+        <updated>2023-11-27T05:10:36.164Z</updated>
+        <content type="html"><![CDATA[2023.12.04(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 오산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58157</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58157"/>
-        <updated>2023-11-24T00:44:04.847Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.28(화) 00:00]]></content>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58172</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58172"/>
+        <updated>2023-11-27T05:10:36.164Z</updated>
+        <content type="html"><![CDATA[2023.11.29(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 라이브 가족뮤지컬 <알라딘> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58156</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58156"/>
-        <updated>2023-11-23T08:13:24.412Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.24(금) 00:00]]></content>
+        <title type="html"><![CDATA[엘사의 생일파티 - 용산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58171</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58171"/>
+        <updated>2023-11-27T05:10:36.165Z</updated>
+        <content type="html"><![CDATA[2023.11.29(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58155</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58155"/>
-        <updated>2023-11-23T07:09:35.772Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.28(화) 05:00]]></content>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58170</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58170"/>
+        <updated>2023-11-27T05:10:36.165Z</updated>
+        <content type="html"><![CDATA[2023.11.29(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58154</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58154"/>
-        <updated>2023-11-23T06:14:09.138Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 연극 내사랑 사북 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58169</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58169"/>
+        <updated>2023-11-27T05:10:36.171Z</updated>
+        <content type="html"><![CDATA[2023.12.04(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 서울 (용산)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58159"/>
         <updated>2023-11-24T05:10:16.588Z</updated>
         <content type="html"><![CDATA[2023.12.04(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 신협 전산작업으로 인한 결제서비스 일시중단 안내(11/25,26) (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58158</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58158"/>
-        <updated>2023-11-24T01:49:43.738Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/58158" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 신협 전산작업으로 인한 결제서비스 일시중단 안내(11/25,26)</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 오산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58157</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58157"/>
-        <updated>2023-11-24T00:44:14.054Z</updated>
-        <content type="html"><![CDATA[2023.11.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 라이브 가족뮤지컬 <알라딘> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58156</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58156"/>
-        <updated>2023-11-23T08:13:30.426Z</updated>
-        <content type="html"><![CDATA[2023.11.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시스터 액트> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58155</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58155"/>
-        <updated>2023-11-23T07:09:44.773Z</updated>
-        <content type="html"><![CDATA[2023.11.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58154</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58154"/>
-        <updated>2023-11-23T06:14:17.441Z</updated>
-        <content type="html"><![CDATA[2023.11.29(수) 05:00]]></content>
     </entry>
 </feed>
