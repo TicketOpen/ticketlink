@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-11-27T09:11:14.699Z</updated>
+    <updated>2023-11-27T10:11:53.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​8TURN FAN CONCERT [TURN TABLE : CRESC ∞]​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  ​8TURN FAN CONCERT [TURN TABLE : cresc. ∞]​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58176</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58176"/>
         <updated>2023-11-27T09:11:14.103Z</updated>
