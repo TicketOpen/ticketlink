@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-28T02:24:59.938Z</updated>
+    <updated>2023-11-28T03:11:14.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 아이레 앙상블 정기연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58182</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58182"/>
+        <updated>2023-11-28T03:11:05.175Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 빈 소년 합창단 신년음악회​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58181</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58167"/>
         <updated>2023-11-27T01:52:48.516Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 김창완밴드 전국투어 <개구쟁이> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58166</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58166"/>
-        <updated>2023-11-27T00:46:20.902Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.28(화) 00:00]]></content>
     </entry>
 </feed>
