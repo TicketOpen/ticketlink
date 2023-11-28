@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-28T08:14:14.419Z</updated>
+    <updated>2023-11-28T09:11:06.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023-2024 이솔로몬 전국 투어 콘서트 <겨울병> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58187</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58187"/>
+        <updated>2023-11-28T09:10:56.354Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제〉 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58186</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[틀려도 괜찮아 - 청주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58172</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58172"/>
-        <updated>2023-11-27T05:10:26.846Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 용산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58171</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58171"/>
         <updated>2023-11-27T05:10:26.846Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 00:00]]></content>
     </entry>
