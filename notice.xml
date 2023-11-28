@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-11-27T23:10:13.406Z</updated>
+    <updated>2023-11-28T00:46:54.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 울산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58180</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58180"/>
+        <updated>2023-11-28T00:46:46.945Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.29(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <라푼젤> - 상주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58178</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58178"/>
+        <updated>2023-11-28T00:46:46.947Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.04(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 <백설공주> - 포항 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58177</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58177"/>
+        <updated>2023-11-28T00:46:46.947Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​8TURN FAN CONCERT [TURN TABLE : cresc. ∞]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58176</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58164"/>
         <updated>2023-11-24T11:08:54.318Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 라이브 가족뮤지컬 <피터팬> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58163</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58163"/>
-        <updated>2023-11-24T08:13:23.311Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.27(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2023년 광주시립창극단 제60회 정기공연 '한 해를 보내며...'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58162</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58162"/>
-        <updated>2023-11-24T07:09:47.679Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.27(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼킹 출장 나이트[신곡떳다] 전국투어 콘서트 - 여수 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58161</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58161"/>
-        <updated>2023-11-24T08:13:23.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.28(화) 10:00]]></content>
     </entry>
 </feed>
