@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-30T00:45:53.616Z</updated>
+    <updated>2023-11-30T01:53:10.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 목포​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58207</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58207"/>
+        <updated>2023-11-30T01:53:00.458Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 수성아트피아 송년음악회​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58206</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58206"/>
+        <updated>2023-11-30T01:53:00.459Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.05(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 스타듀 밸리: Festival of Seasons 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58205</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.11.30(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <신데렐라> - 울산​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58191</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58191"/>
-        <updated>2023-11-29T02:23:46.007Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.11.30(목) 00:00]]></content>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 목포​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58207</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58207"/>
+        <updated>2023-11-30T01:53:09.593Z</updated>
+        <content type="html"><![CDATA[2023.12.05(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 경산공감락페스티벌 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58190</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58190"/>
-        <updated>2023-11-29T01:53:08.001Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2023 수성아트피아 송년음악회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58206</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58206"/>
+        <updated>2023-11-30T01:53:09.597Z</updated>
+        <content type="html"><![CDATA[2023.12.05(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 스타듀 밸리: Festival of Seasons 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58192"/>
         <updated>2023-11-29T08:14:08.050Z</updated>
         <content type="html"><![CDATA[2023.11.30(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <신데렐라> - 울산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58191</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58191"/>
-        <updated>2023-11-29T02:23:53.798Z</updated>
-        <content type="html"><![CDATA[2023.11.30(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 경산공감락페스티벌 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58190</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58190"/>
-        <updated>2023-11-29T01:53:16.116Z</updated>
-        <content type="html"><![CDATA[2023.12.01(금) 05:00]]></content>
     </entry>
 </feed>
