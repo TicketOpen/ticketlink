@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-12-01T04:12:50.068Z</updated>
+    <updated>2023-12-01T05:12:49.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <메리셸리> 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58212</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58212"/>
+        <updated>2023-12-01T05:12:49.267Z</updated>
+        <content type="html"><![CDATA[2023.12.07(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] LOST ARK 2023 Dear. Friends FESTA with WINTER SHOWCASE 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58211</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58211"/>
+        <updated>2023-12-01T05:12:49.267Z</updated>
+        <content type="html"><![CDATA[2023.12.08(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] LOST ARK 2023 Dear. Friends FESTA 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58210</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58210"/>
+        <updated>2023-12-01T05:12:49.267Z</updated>
+        <content type="html"><![CDATA[2023.12.07(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​온국민 웃음찾기 코미디 <더 빅 개그쇼> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58209</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58209"/>
         <updated>2023-12-01T02:33:27.405Z</updated>
         <content type="html"><![CDATA[2023.12.04(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 박현빈 디너쇼 - 서울​​​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58208</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58208"/>
+        <updated>2023-12-01T05:12:49.270Z</updated>
+        <content type="html"><![CDATA[2023.12.06(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 목포​​ 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58198"/>
         <updated>2023-11-29T06:13:51.337Z</updated>
         <content type="html"><![CDATA[2023.12.08(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023-24 먼데이키즈 콘서트 ‘The Real Voice’ - 광주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58197</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58197"/>
-        <updated>2023-11-29T05:10:38.554Z</updated>
-        <content type="html"><![CDATA[2023.12.01(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58196</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58196"/>
-        <updated>2023-11-29T05:10:38.554Z</updated>
-        <content type="html"><![CDATA[2023.12.01(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 푸에르자부르타 웨이라 인 서울 [2023 FUERZA BRUTA WAYRA IN SEOUL]​ 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58195</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58195"/>
-        <updated>2023-11-29T05:10:38.554Z</updated>
-        <content type="html"><![CDATA[2023.12.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” – 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58194</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58194"/>
-        <updated>2023-11-29T05:10:38.557Z</updated>
-        <content type="html"><![CDATA[2023.12.01(금) 07:00]]></content>
     </entry>
 </feed>
