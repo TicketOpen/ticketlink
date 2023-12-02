@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-02T07:08:59.719Z</updated>
+    <updated>2023-12-02T08:12:06.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58219</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58219"/>
+        <updated>2023-12-02T08:11:59.254Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.05(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지 삼형제> - 안양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58218</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58205"/>
         <updated>2023-11-30T00:45:46.046Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.06(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 V.O.S 콘서트 < OUR VOICES > - 제주​​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58204</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58204"/>
-        <updated>2023-11-30T00:45:46.046Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.01(금) 00:00]]></content>
     </entry>
 </feed>
