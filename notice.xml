@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-05T06:14:20.985Z</updated>
+    <updated>2023-12-05T07:10:24.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 송년음악회 - 칠곡군 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58234</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58234"/>
+        <updated>2023-12-05T07:10:15.573Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 울산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58233</id>
@@ -32,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58230"/>
         <updated>2023-12-05T06:14:11.881Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.06(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <스모크> 4​차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58229</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58229"/>
+        <updated>2023-12-05T07:10:15.576Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.11(월) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 울산학생예술단 겨울 별빛 음악회 - 울산 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58220"/>
         <updated>2023-12-04T00:46:31.030Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58219</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58219"/>
-        <updated>2023-12-02T08:11:59.254Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.05(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지 삼형제> - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58218</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58218"/>
-        <updated>2023-12-02T06:13:16.265Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.05(화) 00:00]]></content>
     </entry>
 </feed>
