@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-07T07:09:53.114Z</updated>
+    <updated>2023-12-07T08:13:19.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024년 특선가족뮤지컬 <백설공주와 일곱난장이> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58249</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58249"/>
+        <updated>2023-12-07T08:13:10.738Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 전주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58247</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58234"/>
         <updated>2023-12-05T07:10:15.573Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58233</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58233"/>
-        <updated>2023-12-05T06:14:11.873Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.07(목) 00:00]]></content>
     </entry>
 </feed>
