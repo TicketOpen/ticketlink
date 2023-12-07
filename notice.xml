@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-07T06:14:01.099Z</updated>
+    <updated>2023-12-07T07:09:53.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58247</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58247"/>
+        <updated>2023-12-07T07:09:45.265Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 구미​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58246</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58246"/>
+        <updated>2023-12-07T07:09:45.269Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 빈 소년 합창단 신년음악회​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58245</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58245"/>
+        <updated>2023-12-07T07:09:45.274Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤직플래닛 2024_ LUCY X N.Flying​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58244</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58233"/>
         <updated>2023-12-05T06:14:11.873Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬<라푼젤> - 대전​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58232</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58232"/>
-        <updated>2023-12-05T06:14:11.877Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 액티비티 뮤지컬 시즌1 <점프점프> - 대전​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58231</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58231"/>
-        <updated>2023-12-05T06:14:11.877Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.06(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 <돼지책> - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58230</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58230"/>
-        <updated>2023-12-05T06:14:11.881Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.06(수) 00:00]]></content>
     </entry>
 </feed>
