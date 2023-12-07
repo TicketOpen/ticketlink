@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-07T03:11:11.799Z</updated>
+    <updated>2023-12-07T04:12:36.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤직플래닛 2024_ LUCY X N.Flying​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58244</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58244"/>
+        <updated>2023-12-07T04:12:29.542Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라푼젤 - 이천​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58243</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58230"/>
         <updated>2023-12-05T06:14:11.881Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <스모크> 4​차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58229</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58229"/>
-        <updated>2023-12-05T07:10:15.576Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.11(월) 07:00]]></content>
     </entry>
 </feed>
