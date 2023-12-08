@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-08T04:13:38.322Z</updated>
+    <updated>2023-12-08T05:10:22.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58249"/>
         <updated>2023-12-07T08:13:10.738Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안네 소피 무터 바이올린 리사이틀​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58248</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58248"/>
+        <updated>2023-12-08T05:10:13.006Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.12(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 전주​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58235"/>
         <updated>2023-12-06T00:46:48.012Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 송년음악회 - 칠곡군 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58234</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58234"/>
-        <updated>2023-12-05T07:10:15.573Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 01:00]]></content>
     </entry>
 </feed>
