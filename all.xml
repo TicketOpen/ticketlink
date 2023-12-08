@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-08T10:11:23.732Z</updated>
+    <updated>2023-12-08T11:09:21.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 특선 가족뮤지컬 <라푼젤> - 구미​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58253</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58253"/>
+        <updated>2023-12-08T11:09:12.305Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.11(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이승환 콘서트 < 이상한 이승환 > - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58252</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​쇼킹 출장 나이트 [신곡떴다] 전국투어 콘서트 - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58237</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58237"/>
-        <updated>2023-12-06T00:46:48.010Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 01:00]]></content>
+        <title type="html"><![CDATA[2024 특선 가족뮤지컬 <라푼젤> - 구미​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58253</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58253"/>
+        <updated>2023-12-08T11:09:21.278Z</updated>
+        <content type="html"><![CDATA[2023.12.11(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 이승환 콘서트 < 이상한 이승환 > - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58238"/>
         <updated>2023-12-06T03:11:19.896Z</updated>
         <content type="html"><![CDATA[2023.12.08(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​쇼킹 출장 나이트 [신곡떴다] 전국투어 콘서트 - 진주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58237</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58237"/>
-        <updated>2023-12-06T00:46:54.397Z</updated>
-        <content type="html"><![CDATA[2023.12.08(금) 01:00]]></content>
     </entry>
 </feed>
