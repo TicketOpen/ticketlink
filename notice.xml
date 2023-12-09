@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-09T06:12:53.412Z</updated>
+    <updated>2023-12-09T07:09:03.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 내머리에 똥 쌌어 - 평택남부​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58257</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58257"/>
+        <updated>2023-12-09T07:08:54.739Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책먹는여우 - 진주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58256</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58242"/>
         <updated>2023-12-06T10:11:02.371Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 이승환 콘서트 <이상한 이승환> - 춘천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58241</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58241"/>
-        <updated>2023-12-06T07:09:52.181Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.07(목) 07:00]]></content>
     </entry>
 </feed>
