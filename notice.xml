@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-11T08:15:46.824Z</updated>
+    <updated>2023-12-11T09:12:08.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 < 아가사 AGATHA > 10th Anniversary 3차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58266</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58266"/>
+        <updated>2023-12-11T09:11:58.298Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블 - 부산​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58265</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58250"/>
         <updated>2023-12-10T19:08:00.418Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.11(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024년 특선가족뮤지컬 <백설공주와 일곱난장이> - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58249</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58249"/>
-        <updated>2023-12-10T19:08:00.422Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.08(금) 00:00]]></content>
     </entry>
 </feed>
