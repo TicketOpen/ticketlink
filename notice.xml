@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-12T02:25:38.081Z</updated>
+    <updated>2023-12-12T03:11:50.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울도봉​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58273</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58273"/>
+        <updated>2023-12-12T03:11:43.989Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​책먹는여우 - 서울성동​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58271</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58257"/>
         <updated>2023-12-10T19:08:00.401Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 진주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58256</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58256"/>
-        <updated>2023-12-10T19:08:00.404Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
     </entry>
 </feed>
