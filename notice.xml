@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-12T04:12:59.378Z</updated>
+    <updated>2023-12-12T05:10:47.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58273"/>
         <updated>2023-12-12T03:11:43.989Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 최현우 Answer - 제주​​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58272</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58272"/>
+        <updated>2023-12-12T05:10:37.152Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​책먹는여우 - 서울성동​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58258"/>
         <updated>2023-12-11T00:47:19.023Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 내머리에 똥 쌌어 - 평택남부​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58257</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58257"/>
-        <updated>2023-12-10T19:08:00.401Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 00:00]]></content>
     </entry>
 </feed>
