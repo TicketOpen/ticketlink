@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-12T05:10:47.318Z</updated>
+    <updated>2023-12-12T06:14:25.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 체험극 “어린이 서커스 마술쇼” - 군산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58279</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58279"/>
+        <updated>2023-12-12T06:14:15.602Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​<2024 오르간 오딧세이>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58278</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58278"/>
+        <updated>2023-12-12T06:14:15.607Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <신데렐라> - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58277</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58277"/>
+        <updated>2023-12-12T06:14:15.608Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​지브리 피아노 트리오 발렌타인 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58276</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58276"/>
+        <updated>2023-12-12T06:14:15.608Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울도봉​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58273</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58263"/>
         <updated>2023-12-11T05:10:27.549Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.12(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <결투> 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58262</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58262"/>
-        <updated>2023-12-11T05:10:27.554Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE)​ OP석 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58261</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58261"/>
-        <updated>2023-12-11T05:10:27.556Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(앵콜) 최고다 호기심딱지 - 고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58260</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58260"/>
-        <updated>2023-12-11T02:25:06.572Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 제주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58258</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58258"/>
-        <updated>2023-12-11T00:47:19.023Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
     </entry>
 </feed>
