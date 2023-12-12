@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-12T06:14:25.038Z</updated>
+    <updated>2023-12-12T07:10:22.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58281</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58281"/>
+        <updated>2023-12-12T07:10:13.113Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 체험극 “어린이 서커스 마술쇼” - 시흥 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58280</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58280"/>
+        <updated>2023-12-12T07:10:13.114Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 체험극 “어린이 서커스 마술쇼” - 군산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58279</id>
@@ -32,6 +46,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58276"/>
         <updated>2023-12-12T06:14:15.608Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023-2024 이솔로몬 전국 투어 콘서트 <겨울병> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58275</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58275"/>
+        <updated>2023-12-12T07:10:13.122Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 - 2024 이솔로몬 전국 투어 콘서트 <겨울병>​ - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58274</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58274"/>
+        <updated>2023-12-12T07:10:13.123Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울도봉​ 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58267"/>
         <updated>2023-12-12T00:46:53.267Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 < 아가사 AGATHA > 10th Anniversary 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58266</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58266"/>
-        <updated>2023-12-11T09:11:58.298Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블 - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58265</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58265"/>
-        <updated>2023-12-11T07:10:33.594Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블 - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58264</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58264"/>
-        <updated>2023-12-11T07:10:33.595Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58263</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58263"/>
-        <updated>2023-12-11T05:10:27.549Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.12(화) 00:00]]></content>
     </entry>
 </feed>
