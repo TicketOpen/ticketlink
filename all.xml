@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-13T09:11:18.976Z</updated>
+    <updated>2023-12-13T10:11:15.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​쇼팽으로 만나는 지브리 앙상블 - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58310</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58310"/>
+        <updated>2023-12-13T10:11:07.161Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​쇼팽으로 만나는 지브리 앙상블 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58309</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58309"/>
+        <updated>2023-12-13T10:11:07.163Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 예산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58308</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <참기름아저씨> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58287</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58287"/>
-        <updated>2023-12-13T03:11:49.754Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
+        <title type="html"><![CDATA[​쇼팽으로 만나는 지브리 앙상블 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58310</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58310"/>
+        <updated>2023-12-13T10:11:14.509Z</updated>
+        <content type="html"><![CDATA[2023.12.14(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(2024) 어린이 스토리 마술쇼 - 부산 신세계​ ​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58286</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58286"/>
-        <updated>2023-12-13T01:53:56.395Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
+        <title type="html"><![CDATA[​쇼팽으로 만나는 지브리 앙상블 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58309</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58309"/>
+        <updated>2023-12-13T10:11:14.509Z</updated>
+        <content type="html"><![CDATA[2023.12.14(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 예산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58296"/>
         <updated>2023-12-13T05:10:49.902Z</updated>
         <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <참기름아저씨> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58287</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58287"/>
-        <updated>2023-12-13T03:11:58.720Z</updated>
-        <content type="html"><![CDATA[2023.12.15(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 어린이 스토리 마술쇼 - 부산 신세계​ ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58286</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58286"/>
-        <updated>2023-12-13T01:54:16.689Z</updated>
-        <content type="html"><![CDATA[2023.12.15(금) 00:00]]></content>
     </entry>
 </feed>
