@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-13T04:12:52.339Z</updated>
+    <updated>2023-12-13T05:10:50.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워터밤 서울 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58304</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58304"/>
+        <updated>2023-12-13T05:10:41.670Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 제주 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58303</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58303"/>
+        <updated>2023-12-13T05:10:41.671Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 대구 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58302</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58302"/>
+        <updated>2023-12-13T05:10:41.671Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 부산 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58301</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58301"/>
+        <updated>2023-12-13T05:10:41.673Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 인천 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58300</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58300"/>
+        <updated>2023-12-13T05:10:41.674Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 대전 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58299</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58299"/>
+        <updated>2023-12-13T05:10:41.676Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 속초 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58298</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58298"/>
+        <updated>2023-12-13T05:10:41.677Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 수원 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58297</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58297"/>
+        <updated>2023-12-13T05:10:41.678Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 광주 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58296</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58296"/>
+        <updated>2023-12-13T05:10:41.679Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <참기름아저씨> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58287</id>
@@ -46,68 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58282"/>
         <updated>2023-12-12T08:14:03.846Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼팽으로 만나는 지브리 앙상블​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58281</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58281"/>
-        <updated>2023-12-12T07:10:13.113Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 체험극 “어린이 서커스 마술쇼” - 시흥 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58280</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58280"/>
-        <updated>2023-12-12T07:10:13.114Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 체험극 “어린이 서커스 마술쇼” - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58279</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58279"/>
-        <updated>2023-12-12T06:14:15.602Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​<2024 오르간 오딧세이>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58278</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58278"/>
-        <updated>2023-12-12T06:14:15.607Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 <신데렐라> - 서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58277</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58277"/>
-        <updated>2023-12-12T06:14:15.608Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​지브리 피아노 트리오 발렌타인 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58276</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58276"/>
-        <updated>2023-12-12T06:14:15.608Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023-2024 이솔로몬 전국 투어 콘서트 <겨울병> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58275</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58275"/>
-        <updated>2023-12-12T07:10:13.122Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2023 - 2024 이솔로몬 전국 투어 콘서트 <겨울병>​ - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58274</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58274"/>
-        <updated>2023-12-12T07:10:13.123Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 서울도봉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58273</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58273"/>
-        <updated>2023-12-12T03:11:43.989Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
     </entry>
 </feed>
