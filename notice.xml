@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-13T07:09:55.422Z</updated>
+    <updated>2023-12-13T08:13:56.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프린세스 스쿨 - 예산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58308</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58308"/>
+        <updated>2023-12-13T08:13:50.180Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 서울 (강서구민회관) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58307</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58286</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58286"/>
         <updated>2023-12-13T01:53:56.395Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 콧구멍을 후비면 - 부산 신세계​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58285</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58285"/>
-        <updated>2023-12-13T00:46:15.975Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
     </entry>
 </feed>
