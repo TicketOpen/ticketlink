@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-14T02:23:26.416Z</updated>
+    <updated>2023-12-14T03:11:36.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라이브 가족뮤지컬 <고양이캣> - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58322</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58322"/>
+        <updated>2023-12-14T03:11:26.659Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58311</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58298</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58298"/>
         <updated>2023-12-13T05:10:41.677Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 수원 2024 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58297</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58297"/>
-        <updated>2023-12-13T05:10:41.678Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.14(목) 05:00]]></content>
     </entry>
 </feed>
