@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-14T05:10:47.250Z</updated>
+    <updated>2023-12-14T06:13:46.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> - 용산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58331</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58331"/>
+        <updated>2023-12-14T06:13:38.638Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> - 목동​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58330</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58330"/>
+        <updated>2023-12-14T06:13:38.643Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> - 강동​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58329</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58329"/>
+        <updated>2023-12-14T06:13:38.644Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58328</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58328"/>
+        <updated>2023-12-14T06:13:38.648Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58327</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58327"/>
+        <updated>2023-12-14T06:13:38.649Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.18(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58326</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58326"/>
+        <updated>2023-12-14T06:13:38.651Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.18(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 일 테노레 (IL TENORE)​ 3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58325</id>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58317"/>
         <updated>2023-12-14T05:10:38.735Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 안산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58316</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58316"/>
-        <updated>2023-12-14T05:10:38.736Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 고양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58315</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58315"/>
-        <updated>2023-12-14T05:10:38.737Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 익산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58314</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58314"/>
-        <updated>2023-12-14T05:10:38.739Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58313</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58313"/>
-        <updated>2023-12-14T05:10:38.740Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58312</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58312"/>
-        <updated>2023-12-14T05:10:38.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58311</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58311"/>
-        <updated>2023-12-14T02:23:18.855Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.18(월) 00:00]]></content>
     </entry>
 </feed>
