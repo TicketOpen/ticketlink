@@ -2,15 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-12-14T04:13:02.637Z</updated>
+    <updated>2023-12-14T05:10:47.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <바톤콘서트> 프리뷰​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58324</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58324"/>
+        <updated>2023-12-14T05:10:46.668Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <우리 아빠가 최고야> - 경기광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58323</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58323"/>
+        <updated>2023-12-14T05:10:46.669Z</updated>
+        <content type="html"><![CDATA[2023.12.15(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이브 가족뮤지컬 <고양이캣> - 울산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58322</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58322"/>
         <updated>2023-12-14T03:11:35.643Z</updated>
         <content type="html"><![CDATA[2023.12.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 강릉​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58321</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58321"/>
+        <updated>2023-12-14T05:10:46.669Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 광주​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58320</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58320"/>
+        <updated>2023-12-14T05:10:46.670Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 여수​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58319</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58319"/>
+        <updated>2023-12-14T05:10:46.670Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58318</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58318"/>
+        <updated>2023-12-14T05:10:46.671Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58317</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58317"/>
+        <updated>2023-12-14T05:10:46.672Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 안산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58316</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58316"/>
+        <updated>2023-12-14T05:10:46.673Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58315</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58315"/>
+        <updated>2023-12-14T05:10:46.675Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 익산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58314</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58314"/>
+        <updated>2023-12-14T05:10:46.676Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58313</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58313"/>
+        <updated>2023-12-14T05:10:46.685Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58312</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58312"/>
+        <updated>2023-12-14T05:10:46.685Z</updated>
+        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 광주 티켓오픈 안내]]></title>
@@ -25,89 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58310"/>
         <updated>2023-12-13T10:11:14.509Z</updated>
         <content type="html"><![CDATA[2023.12.14(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​쇼팽으로 만나는 지브리 앙상블 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58309</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58309"/>
-        <updated>2023-12-13T10:11:14.509Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프린세스 스쿨 - 예산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58308</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58308"/>
-        <updated>2023-12-13T08:13:56.256Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <호두까기인형> - 서울 (강서구민회관) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58307</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58307"/>
-        <updated>2023-12-13T07:09:54.700Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​연극 <허공에 의지하여> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58306</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58306"/>
-        <updated>2023-12-13T06:13:54.571Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌7 <웰컴 투 파라다이스> - 안양  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58305</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58305"/>
-        <updated>2023-12-13T06:13:54.571Z</updated>
-        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 서울 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58304</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58304"/>
-        <updated>2023-12-13T05:10:49.892Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 제주 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58303</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58303"/>
-        <updated>2023-12-13T05:10:49.894Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 대구 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58302</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58302"/>
-        <updated>2023-12-13T05:10:49.895Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 부산 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58301</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58301"/>
-        <updated>2023-12-13T05:10:49.895Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 인천 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58300</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58300"/>
-        <updated>2023-12-13T05:10:49.897Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 대전 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58299</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58299"/>
-        <updated>2023-12-13T05:10:49.900Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워터밤 속초 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58298</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58298"/>
-        <updated>2023-12-13T05:10:49.900Z</updated>
-        <content type="html"><![CDATA[2023.12.14(목) 05:00]]></content>
     </entry>
 </feed>
