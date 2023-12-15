@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-15T06:13:46.709Z</updated>
+    <updated>2023-12-15T07:10:15.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​국민 코믹연극 <부처핸섬!> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58337</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58337"/>
+        <updated>2023-12-15T07:10:07.084Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.18(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 마지막​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58336</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58323</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58323"/>
         <updated>2023-12-14T05:10:38.733Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이브 가족뮤지컬 <고양이캣> - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58322</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58322"/>
-        <updated>2023-12-14T03:11:26.659Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 01:00]]></content>
     </entry>
 </feed>
