@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-18T01:53:52.214Z</updated>
+    <updated>2023-12-18T02:25:05.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​김혜성 1ST FAN MEETING < Shine a Light >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58343</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58343"/>
+        <updated>2023-12-18T02:24:55.591Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.20(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  <골든걸스> 전국투어 콘서트 - 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58342</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58328"/>
         <updated>2023-12-14T06:13:38.648Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.15(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 안양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58327</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58327"/>
-        <updated>2023-12-14T06:13:38.649Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.18(월) 05:00]]></content>
     </entry>
 </feed>
