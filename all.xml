@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-19T05:11:26.712Z</updated>
+    <updated>2023-12-19T06:13:53.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 라포엠콘서트:La pre-primavera di La POEM-전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58360</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58360"/>
+        <updated>2023-12-19T06:13:45.698Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.20(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] XIA 2023 CONCERT Chapter 1 : Recreation 추가 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58357</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58340</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58340"/>
-        <updated>2023-12-15T09:10:39.600Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.22(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  2024 라포엠콘서트:La pre-primavera di La POEM-전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58360</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58360"/>
+        <updated>2023-12-19T06:13:52.397Z</updated>
+        <content type="html"><![CDATA[2023.12.20(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] XIA 2023 CONCERT Chapter 1 : Recreation 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58342"/>
         <updated>2023-12-18T00:47:39.704Z</updated>
         <content type="html"><![CDATA[2023.12.21(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58340</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58340"/>
-        <updated>2023-12-15T09:10:47.793Z</updated>
-        <content type="html"><![CDATA[2023.12.22(금) 05:00]]></content>
     </entry>
 </feed>
