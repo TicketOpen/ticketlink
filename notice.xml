@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-19T07:09:48.142Z</updated>
+    <updated>2023-12-19T08:13:49.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 가족뮤지컬 <백설공주> - 구리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58365</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58365"/>
+        <updated>2023-12-19T08:13:40.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.20(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 마티네 콘서트 in 모차르트 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58364</id>
@@ -69,6 +76,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.22(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  ​ALL 시즌7 결승전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58355</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58355"/>
+        <updated>2023-12-19T08:13:40.950Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.20(수) 08:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024년 특선 가족뮤지컬 <백설공주> - 인천​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58353</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58353"/>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58350"/>
         <updated>2023-12-19T00:46:08.657Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 미소다이어리 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58349</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58349"/>
-        <updated>2023-12-18T08:14:07.282Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.19(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58348</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58348"/>
-        <updated>2023-12-18T07:10:37.647Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.20(수) 00:00]]></content>
     </entry>
 </feed>
