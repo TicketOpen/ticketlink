@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-12-18T23:10:32.069Z</updated>
+    <updated>2023-12-19T00:46:15.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 원주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58352</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58352"/>
+        <updated>2023-12-19T00:46:14.630Z</updated>
+        <content type="html"><![CDATA[2023.12.21(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이스토리마술쇼 - 안양​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58351</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58351"/>
+        <updated>2023-12-19T00:46:14.630Z</updated>
+        <content type="html"><![CDATA[2023.12.22(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​우리 아빠가 최고야 - 충남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58350</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58350"/>
+        <updated>2023-12-19T00:46:14.630Z</updated>
+        <content type="html"><![CDATA[2023.12.21(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 미소다이어리 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58349</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58338"/>
         <updated>2023-12-15T08:13:50.687Z</updated>
         <content type="html"><![CDATA[2023.12.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​국민 코믹연극 <부처핸섬!> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58337</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58337"/>
-        <updated>2023-12-15T07:10:15.291Z</updated>
-        <content type="html"><![CDATA[2023.12.18(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <스토리오브마이라이프> 마지막​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58336</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58336"/>
-        <updated>2023-12-15T05:10:41.671Z</updated>
-        <content type="html"><![CDATA[2023.12.22(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <빨래> - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58335</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58335"/>
-        <updated>2023-12-15T03:11:27.287Z</updated>
-        <content type="html"><![CDATA[2023.12.19(화) 05:00]]></content>
     </entry>
 </feed>
