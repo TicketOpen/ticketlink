@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-19T04:13:01.895Z</updated>
+    <updated>2023-12-19T05:11:26.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] XIA 2023 CONCERT Chapter 1 : Recreation 추가 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58357</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58357"/>
+        <updated>2023-12-19T05:11:16.953Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오페라 클라이맥스​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58356</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58340"/>
         <updated>2023-12-15T09:10:39.600Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 서울​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58339</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58339"/>
-        <updated>2023-12-15T09:10:39.600Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 05:00]]></content>
     </entry>
 </feed>
