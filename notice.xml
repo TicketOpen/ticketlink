@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-20T05:08:41.675Z</updated>
+    <updated>2023-12-20T06:11:39.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) 4차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58372</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58372"/>
+        <updated>2023-12-20T06:11:29.786Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매] 뮤지컬 비방문 탈취작전 - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58369</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58356"/>
         <updated>2023-12-19T02:23:57.738Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​ALL 시즌7 결승전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58355</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58355"/>
-        <updated>2023-12-19T08:13:40.950Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.20(수) 08:00]]></content>
     </entry>
 </feed>
