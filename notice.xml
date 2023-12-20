@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-20T01:31:33.794Z</updated>
+    <updated>2023-12-20T02:09:08.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -41,7 +41,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 라포엠콘서트:La pre-primavera di La POEM-전주​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024 라포엠콘서트:La pre-primavera di La POEM-전주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58360</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58360"/>
         <updated>2023-12-19T06:13:45.698Z</updated>
