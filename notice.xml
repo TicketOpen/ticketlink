@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-20T06:11:39.097Z</updated>
+    <updated>2023-12-20T07:08:26.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​봄날음악회​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58373</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58373"/>
+        <updated>2023-12-20T07:08:20.259Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) 4차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58372</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58372"/>
         <updated>2023-12-20T06:11:29.786Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​마술사 최형배의 오리지널 과학마술콘서트 공룡편 - 고양​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58370</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58370"/>
+        <updated>2023-12-20T07:08:20.262Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매] 뮤지컬 비방문 탈취작전 - 대구​​ 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58358</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58358"/>
         <updated>2023-12-19T07:09:38.575Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] XIA 2023 CONCERT Chapter 1 : Recreation 추가 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58357</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58357"/>
-        <updated>2023-12-19T05:11:16.953Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.21(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라 클라이맥스​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58356</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58356"/>
-        <updated>2023-12-19T02:23:57.738Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.22(금) 05:00]]></content>
     </entry>
 </feed>
