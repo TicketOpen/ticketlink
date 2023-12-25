@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2023-12-25T04:13:22.040Z</updated>
+    <updated>2023-12-25T05:10:48.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58386"/>
         <updated>2023-12-25T00:46:09.646Z</updated>
         <content type="html"><![CDATA[2023.12.28(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <결투> 4차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58385</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58385"/>
+        <updated>2023-12-25T05:10:47.607Z</updated>
+        <content type="html"><![CDATA[2024.01.02(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 – 수원​​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58374"/>
         <updated>2023-12-20T10:09:25.948Z</updated>
         <content type="html"><![CDATA[2023.12.22(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​봄날음악회​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58373</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58373"/>
-        <updated>2023-12-20T07:08:26.246Z</updated>
-        <content type="html"><![CDATA[2023.12.21(목) 02:00]]></content>
     </entry>
 </feed>
