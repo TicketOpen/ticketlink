@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-26T07:09:55.156Z</updated>
+    <updated>2023-12-26T08:13:01.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 청주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58393</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58393"/>
+        <updated>2023-12-26T08:12:55.234Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​임동혁 피아노 리사이틀 <러시아니즘>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58392</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58379"/>
         <updated>2023-12-21T01:51:36.591Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.22(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛3  - 서울 금천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58378</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58378"/>
-        <updated>2023-12-20T11:07:40.775Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.26(화) 05:00]]></content>
     </entry>
 </feed>
