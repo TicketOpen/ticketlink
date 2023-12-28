@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-28T05:11:08.016Z</updated>
+    <updated>2023-12-28T06:13:15.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>http://www.ticketlink.co.kr/help/notice/58408</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58408"/>
         <updated>2023-12-28T05:10:59.889Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58407</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58407"/>
+        <updated>2023-12-28T06:13:07.156Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 02:00]]></content>
     </entry>
     <entry>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58392"/>
         <updated>2023-12-26T07:09:46.006Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.28(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 광명​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58391</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58391"/>
-        <updated>2023-12-26T06:13:13.298Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 00:00]]></content>
     </entry>
 </feed>
