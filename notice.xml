@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-28T07:09:49.195Z</updated>
+    <updated>2023-12-28T08:13:26.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -17,21 +17,21 @@
         <id>http://www.ticketlink.co.kr/help/notice/58408</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58408"/>
         <updated>2023-12-28T05:10:59.889Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 02:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58407</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58407"/>
         <updated>2023-12-28T06:13:07.156Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 02:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 - 광주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58406</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58406"/>
         <updated>2023-12-28T05:10:59.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 02:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 2024년도 예매수수료 변경 안내]]></title>
@@ -45,7 +45,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/58404</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58404"/>
         <updated>2023-12-28T07:09:38.894Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.03(수) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.03(수) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 <꼬마버스 타요-용감한 구조대 레스큐 타요> - 용인​ 티켓오픈 안내]]></title>
