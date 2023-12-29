@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-29T04:12:34.136Z</updated>
+    <updated>2023-12-29T05:10:16.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58414"/>
         <updated>2023-12-29T03:11:45.163Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <바톤콘서트> 라스트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58410</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58410"/>
+        <updated>2023-12-29T05:10:07.788Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​3rd GPD FORUM 예술뉴런 MUSICA With 권은비, 프라우드먼​ 티켓오픈 안내]]></title>
@@ -24,21 +31,21 @@
         <id>http://www.ticketlink.co.kr/help/notice/58408</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58408"/>
         <updated>2023-12-28T05:10:59.889Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58407</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58407"/>
         <updated>2023-12-28T06:13:07.156Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 - 광주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58406</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58406"/>
         <updated>2023-12-28T05:10:59.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 2024년도 예매수수료 변경 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58397"/>
         <updated>2023-12-27T01:47:54.626Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 부평 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58396</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58396"/>
-        <updated>2023-12-27T01:47:54.626Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.28(목) 00:00]]></content>
     </entry>
 </feed>
