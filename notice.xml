@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2023-12-29T06:13:40.101Z</updated>
+    <updated>2023-12-29T07:09:50.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,27 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58414"/>
         <updated>2023-12-29T03:11:45.163Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌2 - 부천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58413</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58413"/>
+        <updated>2023-12-29T07:09:41.789Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌2 - 의정부​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58412</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58412"/>
+        <updated>2023-12-29T07:09:41.792Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 부천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58411</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58411"/>
+        <updated>2023-12-29T07:09:41.796Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.04(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] <바톤콘서트> 라스트 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58401"/>
         <updated>2023-12-28T00:43:17.816Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라푼젤 - 당진​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58400</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58400"/>
-        <updated>2023-12-27T07:09:44.167Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.03(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 < 아가사 AGATHA > 10th Anniversary 4차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58399</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58399"/>
-        <updated>2023-12-27T08:12:44.235Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.02(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 천안 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58398</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58398"/>
-        <updated>2023-12-27T01:47:54.626Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.28(목) 00:00]]></content>
     </entry>
 </feed>
