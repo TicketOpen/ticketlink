@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-02T05:10:42.956Z</updated>
+    <updated>2024-01-02T06:13:27.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이마술쇼 - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58425</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58425"/>
+        <updated>2024-01-02T06:13:18.057Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 <백설공주> - 보령 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58424</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58424"/>
+        <updated>2024-01-02T06:13:18.058Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.04(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2023 Danny’s Day [카페 安 愛]​ 티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58423</id>
@@ -31,7 +45,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/58420</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58420"/>
         <updated>2024-01-02T01:53:14.590Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [MD] XIA 2023 CONCERT Chapter 1 : Recreation  MD 온라인 판매 오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58411"/>
         <updated>2023-12-29T07:09:41.796Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <바톤콘서트> 라스트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58410</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58410"/>
-        <updated>2023-12-29T05:10:07.788Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​3rd GPD FORUM 예술뉴런 MUSICA With 권은비, 프라우드먼​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58409</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58409"/>
-        <updated>2023-12-28T07:09:38.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.28(목) 11:00]]></content>
     </entry>
 </feed>
