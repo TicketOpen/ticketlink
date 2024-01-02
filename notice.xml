@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-02T00:44:37.445Z</updated>
+    <updated>2024-01-02T01:53:21.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 부활 단독콘서트 < Born Again > - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58421</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58421"/>
+        <updated>2024-01-02T01:53:14.588Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 부활 단독콘서트 < Born Again > - 창원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58420</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58420"/>
+        <updated>2024-01-02T01:53:14.590Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [MD] XIA 2023 CONCERT Chapter 1 : Recreation  MD 온라인 판매 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58419</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58407"/>
         <updated>2023-12-28T06:13:07.156Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 - 광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58406</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58406"/>
-        <updated>2023-12-28T05:10:59.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.29(금) 13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 2024년도 예매수수료 변경 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58405</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58405"/>
-        <updated>2023-12-28T07:09:38.891Z</updated>
-        <content type="html"><![CDATA[2023.12.28]]></content>
     </entry>
 </feed>
