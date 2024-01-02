@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-02T06:13:27.442Z</updated>
+    <updated>2024-01-02T07:10:47.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 광주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 어린이마술쇼 - 상주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58427</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58427"/>
+        <updated>2024-01-02T07:10:47.010Z</updated>
+        <content type="html"><![CDATA[2024.01.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이마술쇼 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58426</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58426"/>
+        <updated>2024-01-02T07:10:47.012Z</updated>
+        <content type="html"><![CDATA[2024.01.04(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이마술쇼 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58425</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58425"/>
         <updated>2024-01-02T06:13:26.763Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58413"/>
         <updated>2023-12-29T07:09:49.823Z</updated>
         <content type="html"><![CDATA[2024.01.02(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌2 - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58412</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58412"/>
-        <updated>2023-12-29T07:09:49.823Z</updated>
-        <content type="html"><![CDATA[2024.01.02(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 부천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58411</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58411"/>
-        <updated>2023-12-29T07:09:49.823Z</updated>
-        <content type="html"><![CDATA[2024.01.04(목) 05:00]]></content>
     </entry>
 </feed>
