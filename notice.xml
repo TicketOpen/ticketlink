@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-03T10:11:04.796Z</updated>
+    <updated>2024-01-03T11:08:59.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제> - 대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58445</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58445"/>
+        <updated>2024-01-03T11:08:49.715Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2023 - 2024 이솔로몬 전국투어 콘서트 - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58444</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58431"/>
         <updated>2024-01-03T05:10:14.065Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58430</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58430"/>
-        <updated>2024-01-03T00:45:58.670Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content>
     </entry>
 </feed>
