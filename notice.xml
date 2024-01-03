@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-03T09:11:25.324Z</updated>
+    <updated>2024-01-03T10:11:04.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 - 2024 이솔로몬 전국투어 콘서트 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58444</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58444"/>
+        <updated>2024-01-03T10:10:55.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58443</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58443"/>
+        <updated>2024-01-03T10:10:55.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 최현우 Answer - 군포​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58442</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58442"/>
+        <updated>2024-01-03T10:10:55.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58441</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58441"/>
+        <updated>2024-01-03T10:10:55.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 성남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58440</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58440"/>
+        <updated>2024-01-03T10:10:55.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 조희창의 [토요∙클래식∙살롱] - I  티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58439</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58430"/>
         <updated>2024-01-03T00:45:58.670Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 창원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58429</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58429"/>
-        <updated>2024-01-03T00:45:58.672Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이스토리마술쇼 - 서울관악​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58428</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58428"/>
-        <updated>2024-01-02T08:13:46.237Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이마술쇼 - 상주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58427</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58427"/>
-        <updated>2024-01-02T07:10:38.889Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이마술쇼 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58426</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58426"/>
-        <updated>2024-01-02T07:10:38.889Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이마술쇼 - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58425</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58425"/>
-        <updated>2024-01-02T06:13:18.057Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.04(목) 05:00]]></content>
     </entry>
 </feed>
