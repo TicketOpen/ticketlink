@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-03T04:12:44.768Z</updated>
+    <updated>2024-01-03T05:10:21.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024 가족버블콘서트 <일루젼버블쇼 시즌2> - 광주 티켓오픈 안내 (티켓링크)]]></title>
@@ -31,6 +31,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58432"/>
         <updated>2024-01-03T01:51:52.379Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 구미​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58431</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58431"/>
+        <updated>2024-01-03T05:10:14.065Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 부활 단독콘서트 < Born Again > - 창원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58420</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58420"/>
-        <updated>2024-01-02T01:53:14.590Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 06:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 가족버블콘서트 <일루젼버블쇼 시즌2> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58435</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58435"/>
@@ -136,6 +136,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58432"/>
         <updated>2024-01-03T01:52:00.286Z</updated>
         <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 구미​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58431</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58431"/>
+        <updated>2024-01-03T05:10:20.564Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58421"/>
         <updated>2024-01-02T01:53:21.348Z</updated>
         <content type="html"><![CDATA[2024.01.05(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부활 단독콘서트 < Born Again > - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58420</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58420"/>
-        <updated>2024-01-02T01:53:21.351Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 06:00]]></content>
     </entry>
 </feed>
