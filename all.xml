@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-03T00:46:06.329Z</updated>
+    <updated>2024-01-03T01:52:00.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58434</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58434"/>
+        <updated>2024-01-03T01:51:52.373Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58433</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58433"/>
+        <updated>2024-01-03T01:51:52.379Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 포항 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58432</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58432"/>
+        <updated>2024-01-03T01:51:52.379Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58430</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 충남도청​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58418</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58418"/>
-        <updated>2023-12-30T03:11:09.496Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2023.12.30(토) 02:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58434</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58434"/>
+        <updated>2024-01-03T01:52:00.284Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 안동​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58417</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58417"/>
-        <updated>2023-12-29T10:10:46.560Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58433</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58433"/>
+        <updated>2024-01-03T01:52:00.285Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 의정부​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58416</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58416"/>
-        <updated>2023-12-29T10:10:46.561Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58432</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58432"/>
+        <updated>2024-01-03T01:52:00.286Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58419"/>
         <updated>2023-12-30T05:10:08.579Z</updated>
         <content type="html"><![CDATA[2024.01.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 충남도청​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58418</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58418"/>
-        <updated>2023-12-30T03:11:16.174Z</updated>
-        <content type="html"><![CDATA[2023.12.30(토) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 안동​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58417</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58417"/>
-        <updated>2023-12-29T10:10:55.065Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 의정부​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58416</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58416"/>
-        <updated>2023-12-29T10:10:55.066Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 05:00]]></content>
     </entry>
 </feed>
