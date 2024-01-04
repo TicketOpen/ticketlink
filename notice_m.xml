@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-04T07:10:05.865Z</updated>
+    <updated>2024-01-04T08:13:34.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58454</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58454"/>
+        <updated>2024-01-04T08:13:34.087Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<대한민국뮤지컬페스티벌 - 제8회 한국뮤지컬어워즈> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58453</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58440"/>
         <updated>2024-01-03T10:11:04.057Z</updated>
         <content type="html"><![CDATA[2024.01.09(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 조희창의 [토요∙클래식∙살롱] - I  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58439</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58439"/>
-        <updated>2024-01-03T07:09:49.014Z</updated>
-        <content type="html"><![CDATA[2024.01.08(월) 01:00]]></content>
     </entry>
 </feed>
