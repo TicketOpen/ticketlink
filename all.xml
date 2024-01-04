@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-04T01:51:32.416Z</updated>
+    <updated>2024-01-04T02:23:32.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 여주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58449</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58449"/>
+        <updated>2024-01-04T02:23:23.607Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 평택 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58448</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58448"/>
+        <updated>2024-01-04T02:23:23.608Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58447</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 대전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58434</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58434"/>
-        <updated>2024-01-03T01:51:52.373Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 여주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58449</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58449"/>
+        <updated>2024-01-04T02:23:31.750Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58433</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58433"/>
-        <updated>2024-01-03T01:51:52.379Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 평택 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58448</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58448"/>
+        <updated>2024-01-04T02:23:31.750Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58435</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58435"/>
         <updated>2024-01-03T02:22:14.527Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58434</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58434"/>
-        <updated>2024-01-03T01:52:00.284Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58433</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58433"/>
-        <updated>2024-01-03T01:52:00.285Z</updated>
         <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
 </feed>
