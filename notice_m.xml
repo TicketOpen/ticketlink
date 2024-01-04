@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-04T02:23:32.334Z</updated>
+    <updated>2024-01-04T03:11:47.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 충주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58450</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58450"/>
+        <updated>2024-01-04T03:11:47.058Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 여주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58449</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58436"/>
         <updated>2024-01-03T07:09:49.020Z</updated>
         <content type="html"><![CDATA[2024.01.09(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족버블콘서트 <일루젼버블쇼 시즌2> - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58435</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58435"/>
-        <updated>2024-01-03T02:22:14.527Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
 </feed>
