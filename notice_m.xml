@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-04T05:10:42.976Z</updated>
+    <updated>2024-01-04T06:14:02.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<대한민국뮤지컬페스티벌 - 제8회 한국뮤지컬어워즈> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58453</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58453"/>
+        <updated>2024-01-04T06:14:01.650Z</updated>
+        <content type="html"><![CDATA[2024.01.08(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제> - 울산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58452</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58439</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58439"/>
         <updated>2024-01-03T07:09:49.014Z</updated>
-        <content type="html"><![CDATA[2024.01.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임동민 피아노 리사이틀 < Schubert >앵콜 - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58438</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58438"/>
-        <updated>2024-01-03T07:09:49.016Z</updated>
         <content type="html"><![CDATA[2024.01.08(월) 01:00]]></content>
     </entry>
 </feed>
