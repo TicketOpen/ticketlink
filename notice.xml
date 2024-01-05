@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-05T06:13:36.254Z</updated>
+    <updated>2024-01-05T07:09:48.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58472</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58472"/>
+        <updated>2024-01-05T07:09:39.873Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 구리​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58471</id>
@@ -27,6 +34,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 라비던스 x 크레즐 < SUDDENLY FESTIVAL > - 안산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58468</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58468"/>
+        <updated>2024-01-05T07:09:39.880Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 07:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사카모토 류이치 트리뷰트 콘서트 (RYUICHI SAKAMOTO TRIBUTE CONCERT) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58467</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58467"/>
@@ -34,14 +48,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 ViViD CONCERT #2 <설레는 그날> 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[<설레는 그날> #2 로이킴, 박창근, 범진 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58466</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58466"/>
         <updated>2024-01-05T05:10:46.066Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 ViViD CONCERT #1 <설레는 그날> 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[<설레는 그날> #1 B1A4, P1Harmony, AMPERS&ONE 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58465</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58465"/>
         <updated>2024-01-05T05:10:46.068Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58458"/>
         <updated>2024-01-05T01:52:36.755Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​미녀와 야수 - 안양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58457</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58457"/>
-        <updated>2024-01-05T01:52:36.756Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 광주앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58456</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58456"/>
-        <updated>2024-01-05T00:46:06.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 00:00]]></content>
     </entry>
 </feed>
