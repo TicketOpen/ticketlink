@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-04T23:10:45.092Z</updated>
+    <updated>2024-01-05T00:46:17.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 광주앵콜​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58456</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58456"/>
+        <updated>2024-01-05T00:46:06.888Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 부천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58455</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58455"/>
+        <updated>2024-01-05T00:46:06.888Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 1차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58454</id>
@@ -62,13 +76,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 과천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58446</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58446"/>
-        <updated>2024-01-04T01:51:22.802Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제> - 대전​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58445</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58445"/>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 안양​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58441</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58441"/>
-        <updated>2024-01-03T10:10:55.748Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 성남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58440</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58440"/>
         <updated>2024-01-03T10:10:55.748Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 02:00]]></content>
     </entry>
