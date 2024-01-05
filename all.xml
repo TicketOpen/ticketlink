@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-05T04:12:51.077Z</updated>
+    <updated>2024-01-05T05:10:55.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사카모토 류이치 트리뷰트 콘서트 (RYUICHI SAKAMOTO TRIBUTE CONCERT) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58467</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58467"/>
+        <updated>2024-01-05T05:10:46.061Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 ViViD CONCERT #2 <설레는 그날> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58466</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58466"/>
+        <updated>2024-01-05T05:10:46.066Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 ViViD CONCERT #1 <설레는 그날> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58465</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58465"/>
+        <updated>2024-01-05T05:10:46.068Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58464</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제> - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58452</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58452"/>
-        <updated>2024-01-04T05:10:35.405Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 00:00]]></content>
+        <title type="html"><![CDATA[사카모토 류이치 트리뷰트 콘서트 (RYUICHI SAKAMOTO TRIBUTE CONCERT) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58467</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58467"/>
+        <updated>2024-01-05T05:10:55.038Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공지] 시스템 임시점검(1/5 02:00 ~ 08:00)으로 인한 서비스 일시 중단 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58451</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58451"/>
-        <updated>2024-01-04T05:10:35.408Z</updated>
-        <content type="html"><![CDATA[2024.01.04]]></content>
+        <title type="html"><![CDATA[2024 ViViD CONCERT #2 <설레는 그날> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58466</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58466"/>
+        <updated>2024-01-05T05:10:55.038Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 충주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58450</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58450"/>
-        <updated>2024-01-04T03:11:38.689Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+        <title type="html"><![CDATA[2024 ViViD CONCERT #1 <설레는 그날> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58465</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58465"/>
+        <updated>2024-01-05T05:10:55.038Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58453"/>
         <updated>2024-01-04T19:08:35.750Z</updated>
         <content type="html"><![CDATA[2024.01.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <아기돼지삼형제> - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58452</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58452"/>
-        <updated>2024-01-04T19:08:35.751Z</updated>
-        <content type="html"><![CDATA[2024.01.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 시스템 임시점검(1/5 02:00 ~ 08:00)으로 인한 서비스 일시 중단 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58451</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58451"/>
-        <updated>2024-01-04T19:08:35.731Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/58451" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(1/5 02:00 ~ 08:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 충주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58450</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58450"/>
-        <updated>2024-01-04T19:08:35.752Z</updated>
-        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
 </feed>
