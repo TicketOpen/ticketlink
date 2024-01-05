@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-05T09:10:43.345Z</updated>
+    <updated>2024-01-05T10:11:43.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 서울 양천구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58473</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58473"/>
+        <updated>2024-01-05T10:11:35.105Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58472</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58459</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58459"/>
         <updated>2024-01-05T01:52:36.754Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 속초 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58458</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58458"/>
-        <updated>2024-01-05T01:52:36.755Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 00:00]]></content>
     </entry>
 </feed>
