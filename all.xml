@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-08T23:11:06.318Z</updated>
+    <updated>2024-01-09T00:47:04.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 성남 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58487</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58487"/>
+        <updated>2024-01-09T00:46:56.561Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 신비아파트 <붉은 눈의 저주> - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58486</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58486"/>
+        <updated>2024-01-09T00:46:56.564Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 신비아파트 <붉은 눈의 저주> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58485</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58485"/>
+        <updated>2024-01-09T00:46:56.568Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 381회 정기 연주회 ‘No.2’​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58484</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.08(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58472</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58472"/>
-        <updated>2024-01-05T07:09:39.873Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58487</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58487"/>
+        <updated>2024-01-09T00:47:04.328Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 구리​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58471</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58471"/>
-        <updated>2024-01-05T06:13:29.886Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 02:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 신비아파트 <붉은 눈의 저주> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58486</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58486"/>
+        <updated>2024-01-09T00:47:04.328Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이스토리마술쇼 - 화성누림 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58470</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58470"/>
-        <updated>2024-01-05T06:13:29.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 00:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 신비아파트 <붉은 눈의 저주> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58485</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58485"/>
+        <updated>2024-01-09T00:47:04.328Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 381회 정기 연주회 ‘No.2’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58473"/>
         <updated>2024-01-05T10:11:43.242Z</updated>
         <content type="html"><![CDATA[2024.01.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58472</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58472"/>
-        <updated>2024-01-05T07:09:48.269Z</updated>
-        <content type="html"><![CDATA[2024.01.09(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 구리​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58471</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58471"/>
-        <updated>2024-01-05T06:13:35.613Z</updated>
-        <content type="html"><![CDATA[2024.01.10(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이스토리마술쇼 - 화성누림 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58470</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58470"/>
-        <updated>2024-01-05T06:13:35.617Z</updated>
-        <content type="html"><![CDATA[2024.01.11(목) 00:00]]></content>
     </entry>
 </feed>
