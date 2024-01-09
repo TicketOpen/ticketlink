@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-09T03:11:51.865Z</updated>
+    <updated>2024-01-09T04:13:26.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소향 단독 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58490</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58490"/>
+        <updated>2024-01-09T04:13:26.068Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 하나은행 가상계좌 작업 안내(01/11)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58489</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58476"/>
         <updated>2024-01-08T03:11:50.800Z</updated>
         <content type="html"><![CDATA[2024.01.09(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 KIM SUNG KYU FAN MEETING [ㅅㄱ 2] : 사계 ONLINE LIVE STREAMING​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58475</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58475"/>
-        <updated>2024-01-08T03:11:50.803Z</updated>
-        <content type="html"><![CDATA[2024.01.09(화) 05:00]]></content>
     </entry>
 </feed>
