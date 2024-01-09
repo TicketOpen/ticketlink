@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-09T04:13:26.799Z</updated>
+    <updated>2024-01-09T05:10:54.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 <우리아빠가최고야> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58491</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58491"/>
+        <updated>2024-01-09T05:10:48.229Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소향 단독 콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58490</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58477"/>
         <updated>2024-01-08T05:10:26.464Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] (2024 롯데백화점 대구) 콧구멍을 후비면​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58476</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58476"/>
-        <updated>2024-01-08T03:11:41.719Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.09(화) 01:00]]></content>
     </entry>
 </feed>
