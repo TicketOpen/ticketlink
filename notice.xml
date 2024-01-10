@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-10T09:10:47.444Z</updated>
+    <updated>2024-01-10T10:11:32.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58515</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58515"/>
+        <updated>2024-01-10T10:11:23.133Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리아빠가최고야 - 과천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58514</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58514"/>
+        <updated>2024-01-10T10:11:23.133Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 군산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58513</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58513"/>
+        <updated>2024-01-10T10:11:23.136Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58512</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58512"/>
+        <updated>2024-01-10T10:11:23.138Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 용산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58511</id>
@@ -25,13 +53,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58509"/>
         <updated>2024-01-10T06:14:01.321Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​골든걸스 콘서트 - 청주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58508</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58508"/>
-        <updated>2024-01-10T05:10:24.106Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[책먹는여우 - 서울용산​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58499"/>
         <updated>2024-01-09T08:13:49.524Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송승환의 오리지널 난타 - 창원 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58498</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58498"/>
-        <updated>2024-01-09T07:11:56.494Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​Cinema Paradiso : 시네마천국 필름 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58497</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58497"/>
-        <updated>2024-01-09T07:11:56.496Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 FC 온라인 eK리그 챔피언십 시즌 1​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58496</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58496"/>
-        <updated>2024-01-09T06:13:47.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 05:00]]></content>
     </entry>
 </feed>
