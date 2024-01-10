@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-10T05:10:32.132Z</updated>
+    <updated>2024-01-10T06:14:09.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58510</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58510"/>
+        <updated>2024-01-10T06:14:08.913Z</updated>
+        <content type="html"><![CDATA[2024.01.19(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <아트> 1차​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58509</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58509"/>
+        <updated>2024-01-10T06:14:08.913Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​골든걸스 콘서트 - 청주​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58508</id>
@@ -32,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58505"/>
         <updated>2024-01-10T04:13:11.024Z</updated>
         <content type="html"><![CDATA[2024.01.12(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 배그 크루 킹덤​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58504</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58504"/>
+        <updated>2024-01-10T06:14:08.920Z</updated>
+        <content type="html"><![CDATA[2024.01.11(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 최현우 Answer - 대전​​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58496"/>
         <updated>2024-01-09T06:13:53.798Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  골든걸스 콘서트 - 인천​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58495</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58495"/>
-        <updated>2024-01-09T06:13:53.798Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​골든걸스 콘서트 - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58494</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58494"/>
-        <updated>2024-01-09T06:13:53.798Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 변진섭 전국투어 콘서트 : 변천사 - 구미​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58493</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58493"/>
-        <updated>2024-01-09T06:13:53.800Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 05:00]]></content>
     </entry>
 </feed>
