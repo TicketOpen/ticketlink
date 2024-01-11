@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-11T05:10:44.198Z</updated>
+    <updated>2024-01-11T06:14:29.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬<라푼젤> - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58522</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58522"/>
+        <updated>2024-01-11T06:14:29.193Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프린세스 스쿨 - 진주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58521</id>
@@ -32,13 +39,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58518"/>
         <updated>2024-01-11T02:25:58.394Z</updated>
         <content type="html"><![CDATA[2024.01.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아먹지> - 부산 신세계​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58517</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58517"/>
-        <updated>2024-01-11T00:47:54.062Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <메리셸리> 3차​ 티켓오픈 안내]]></title>
