@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-11T01:54:50.114Z</updated>
+    <updated>2024-01-11T02:25:58.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58519</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58519"/>
+        <updated>2024-01-11T02:25:50.241Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법천자문 <한자 마법 대모험> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58518</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58518"/>
+        <updated>2024-01-11T02:25:50.243Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아먹지> - 부산 신세계​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58517</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.11(목) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 최현우 Answer - 대전​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58503</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58503"/>
-        <updated>2024-01-10T05:10:24.109Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 05:00]]></content>
+        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58519</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58519"/>
+        <updated>2024-01-11T02:25:58.390Z</updated>
+        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[수원] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58502</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58502"/>
-        <updated>2024-01-10T05:10:24.113Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content>
+        <title type="html"><![CDATA[​가족뮤지컬 마법천자문 <한자 마법 대모험> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58518</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58518"/>
+        <updated>2024-01-11T02:25:58.394Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아먹지> - 부산 신세계​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58504"/>
         <updated>2024-01-10T06:14:08.920Z</updated>
         <content type="html"><![CDATA[2024.01.11(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 최현우 Answer - 대전​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58503</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58503"/>
-        <updated>2024-01-10T05:10:31.532Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수원] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58502"/>
-        <updated>2024-01-10T05:10:31.533Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 05:00]]></content>
     </entry>
 </feed>
