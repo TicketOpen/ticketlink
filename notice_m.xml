@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-11T06:14:29.839Z</updated>
+    <updated>2024-01-11T07:10:06.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족어린이공연 <버블버블쇼>-수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58523</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58523"/>
+        <updated>2024-01-11T07:10:06.308Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브 가족뮤지컬<라푼젤> - 부산​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58522</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58508"/>
         <updated>2024-01-11T00:47:54.070Z</updated>
         <content type="html"><![CDATA[2024.01.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 서울용산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58506</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58506"/>
-        <updated>2024-01-10T04:13:11.024Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
     </entry>
 </feed>
