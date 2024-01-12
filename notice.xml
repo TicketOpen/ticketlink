@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-12T06:14:24.809Z</updated>
+    <updated>2024-01-12T07:09:50.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬<프린세스공주> - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58542</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58542"/>
+        <updated>2024-01-12T07:09:40.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 성남 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58541</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58528</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58528"/>
         <updated>2024-01-12T00:48:04.901Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마까투리는 슈퍼맘 - 광주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58527</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58527"/>
-        <updated>2024-01-12T00:48:04.903Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
     </entry>
 </feed>
