@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-12T04:13:29.901Z</updated>
+    <updated>2024-01-12T05:10:55.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 구미 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58540</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58540"/>
+        <updated>2024-01-12T05:10:55.366Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58539</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58539"/>
+        <updated>2024-01-12T05:10:55.366Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58538</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58538"/>
+        <updated>2024-01-12T05:10:55.368Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG아트센터 서울 2024년 기획공연 시즌 CoMPAS 24​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58537</id>
@@ -25,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58534"/>
         <updated>2024-01-12T02:26:24.160Z</updated>
         <content type="html"><![CDATA[2024.01.15(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[댄스콘서트 희노애락 Season 3​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58533</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58533"/>
+        <updated>2024-01-12T05:10:55.373Z</updated>
+        <content type="html"><![CDATA[2024.01.17(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 오리지널 과학마술콘서트 공룡편 - 안산​​ 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58525"/>
         <updated>2024-01-11T09:10:45.868Z</updated>
         <content type="html"><![CDATA[2024.01.15(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] < WONDERLAND THEATRE 2024 > – 1/27 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58524</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58524"/>
-        <updated>2024-01-11T09:10:45.868Z</updated>
-        <content type="html"><![CDATA[2024.01.16(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족어린이공연 <버블버블쇼>-수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58523</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58523"/>
-        <updated>2024-01-11T07:10:06.308Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬<라푼젤> - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58522</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58522"/>
-        <updated>2024-01-11T06:14:29.193Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프린세스 스쿨 - 진주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58521</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58521"/>
-        <updated>2024-01-11T05:10:43.557Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 00:00]]></content>
     </entry>
 </feed>
