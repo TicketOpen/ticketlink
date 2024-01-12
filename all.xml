@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-11T23:10:39.696Z</updated>
+    <updated>2024-01-12T00:48:14.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌2 - 강릉​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58528</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58528"/>
+        <updated>2024-01-12T00:48:04.901Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마까투리는 슈퍼맘 - 광주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58527</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58527"/>
+        <updated>2024-01-12T00:48:04.903Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58526</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58526"/>
+        <updated>2024-01-12T00:48:04.908Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] < WONDERLAND THEATRE 2024 > – 1/28 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58525</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58512</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58512"/>
-        <updated>2024-01-10T10:11:23.138Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 05:00]]></content>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌2 - 강릉​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58528</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58528"/>
+        <updated>2024-01-12T00:48:13.509Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 용산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58511</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58511"/>
-        <updated>2024-01-10T08:13:33.201Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 05:00]]></content>
+        <title type="html"><![CDATA[엄마까투리는 슈퍼맘 - 광주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58527</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58527"/>
+        <updated>2024-01-12T00:48:13.509Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) 마지막 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58510</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58510"/>
-        <updated>2024-01-10T06:14:01.319Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58526</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58526"/>
+        <updated>2024-01-12T00:48:13.509Z</updated>
+        <content type="html"><![CDATA[2024.01.16(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] < WONDERLAND THEATRE 2024 > – 1/28 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58513"/>
         <updated>2024-01-10T10:11:31.672Z</updated>
         <content type="html"><![CDATA[2024.01.16(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58512</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58512"/>
-        <updated>2024-01-10T10:11:31.673Z</updated>
-        <content type="html"><![CDATA[2024.01.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 용산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58511</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58511"/>
-        <updated>2024-01-10T08:13:42.243Z</updated>
-        <content type="html"><![CDATA[2024.01.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical) 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58510</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58510"/>
-        <updated>2024-01-10T06:14:08.913Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 05:00]]></content>
     </entry>
 </feed>
