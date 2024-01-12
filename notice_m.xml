@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-12T05:10:55.996Z</updated>
+    <updated>2024-01-12T06:14:24.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58541</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58541"/>
+        <updated>2024-01-12T06:14:24.220Z</updated>
+        <content type="html"><![CDATA[2024.01.17(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 구미 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58540</id>
@@ -39,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58536"/>
         <updated>2024-01-12T04:13:29.336Z</updated>
         <content type="html"><![CDATA[2024.01.19(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2023 Danny’s Day [카페 安 愛] 추가 좌석​​ 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58535</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58535"/>
+        <updated>2024-01-12T06:14:24.232Z</updated>
+        <content type="html"><![CDATA[2024.01.15(월) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그림읽어주는베토벤 THE CONCERT <플란다스의개> - 울산 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58527"/>
         <updated>2024-01-12T00:48:13.509Z</updated>
         <content type="html"><![CDATA[2024.01.16(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 천안​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58526</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58526"/>
-        <updated>2024-01-12T00:48:13.509Z</updated>
-        <content type="html"><![CDATA[2024.01.16(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] < WONDERLAND THEATRE 2024 > – 1/28 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58525</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58525"/>
-        <updated>2024-01-11T09:10:45.868Z</updated>
-        <content type="html"><![CDATA[2024.01.15(월) 09:00]]></content>
     </entry>
 </feed>
