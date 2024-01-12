@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-12T01:55:08.574Z</updated>
+    <updated>2024-01-12T02:26:24.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그림읽어주는베토벤 THE CONCERT <플란다스의개> - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58534</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58534"/>
+        <updated>2024-01-12T02:26:15.946Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 오리지널 과학마술콘서트 공룡편 - 안산​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58532</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58519"/>
         <updated>2024-01-11T02:25:50.241Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 마법천자문 <한자 마법 대모험> - 고양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58518</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58518"/>
-        <updated>2024-01-11T02:25:50.243Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content>
     </entry>
 </feed>
