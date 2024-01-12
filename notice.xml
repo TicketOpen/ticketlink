@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-12T00:48:14.103Z</updated>
+    <updated>2024-01-12T01:55:08.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마술사 최형배의 오리지널 과학마술콘서트 공룡편 - 안산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58532</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58532"/>
+        <updated>2024-01-12T01:55:01.177Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코미디 연극 <딜리버리>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58531</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58531"/>
+        <updated>2024-01-12T01:55:01.179Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 ‘​백설공주’​ - 화성​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58530</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58530"/>
+        <updated>2024-01-12T01:55:01.180Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58529</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58529"/>
+        <updated>2024-01-12T01:55:01.181Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌2 - 강릉​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58528</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58518"/>
         <updated>2024-01-11T02:25:50.243Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <메리셸리> 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58516</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58516"/>
-        <updated>2024-01-11T01:54:43.769Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58515</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58515"/>
-        <updated>2024-01-10T10:11:23.133Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리아빠가최고야 - 과천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58514</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58514"/>
-        <updated>2024-01-10T10:11:23.133Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 군산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58513</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58513"/>
-        <updated>2024-01-10T10:11:23.136Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 06:00]]></content>
     </entry>
 </feed>
