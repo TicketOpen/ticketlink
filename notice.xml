@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-13T03:11:04.036Z</updated>
+    <updated>2024-01-13T04:12:46.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​그림읽어주는베토벤 THE CONCERT <플란다스의개>－부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58547</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58547"/>
+        <updated>2024-01-13T04:12:39.389Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.16(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양준일 전주콘서트 [리베카]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58546</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58532"/>
         <updated>2024-01-12T01:55:01.177Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코미디 연극 <딜리버리>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58531</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58531"/>
-        <updated>2024-01-12T01:55:01.179Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 01:00]]></content>
     </entry>
 </feed>
