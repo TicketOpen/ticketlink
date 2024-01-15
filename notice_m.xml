@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-15T04:13:55.876Z</updated>
+    <updated>2024-01-15T05:11:14.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <결투> 마지막​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58553</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58553"/>
+        <updated>2024-01-15T05:11:14.163Z</updated>
+        <content type="html"><![CDATA[2024.01.22(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 <어린이마술쇼> - 수원​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58551</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58537"/>
         <updated>2024-01-12T04:13:29.335Z</updated>
         <content type="html"><![CDATA[2024.01.12(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023-24 엠씨더맥스 이수 콘서트 '기행문' - 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58536</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58536"/>
-        <updated>2024-01-12T04:13:29.336Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 11:00]]></content>
     </entry>
 </feed>
