@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-16T07:10:15.842Z</updated>
+    <updated>2024-01-16T08:13:52.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신데렐라 - 평택 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58571</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58571"/>
+        <updated>2024-01-16T08:13:44.607Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 하모나이즈 콘서트 < The Show Choir > with 정선아&브래드 리틀 - 경주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58570</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58557"/>
         <updated>2024-01-15T10:12:16.827Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 가족어린이공연 <버블버블쇼> - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58556</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58556"/>
-        <updated>2024-01-15T10:12:16.828Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content>
     </entry>
 </feed>
