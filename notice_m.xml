@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-16T03:11:40.873Z</updated>
+    <updated>2024-01-16T04:13:15.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(2024) 어린이 버블 매직쇼 - 부산 신세계​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58567</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58567"/>
+        <updated>2024-01-16T04:13:14.390Z</updated>
+        <content type="html"><![CDATA[2024.01.17(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​골든걸스 콘서트 - 창원​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58565</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58552"/>
         <updated>2024-01-15T07:10:50.520Z</updated>
         <content type="html"><![CDATA[2024.01.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 <어린이마술쇼> - 수원​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58551</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58551"/>
-        <updated>2024-01-13T08:12:54.433Z</updated>
-        <content type="html"><![CDATA[2024.01.16(화) 00:00]]></content>
     </entry>
 </feed>
