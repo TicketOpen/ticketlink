@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-16T05:10:34.703Z</updated>
+    <updated>2024-01-16T06:14:22.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 하모나이즈 콘서트 < The Show Choir > with 정선아&브래드 리틀 - 경주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58570</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58570"/>
+        <updated>2024-01-16T06:14:14.542Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <이상한나라의앨리스> - 인천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58569</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58569"/>
+        <updated>2024-01-16T06:14:14.542Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <피터팬> - 울산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58568</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58568"/>
+        <updated>2024-01-16T06:14:14.548Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2024) 어린이 버블 매직쇼 - 부산 신세계​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58567</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<막심 벤게로프 바이올린 리사이틀>​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58555</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58555"/>
-        <updated>2024-01-15T06:14:58.553Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 하모나이즈 콘서트 < The Show Choir > with 정선아&브래드 리틀 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58570</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58570"/>
+        <updated>2024-01-16T06:14:21.466Z</updated>
+        <content type="html"><![CDATA[2024.01.22(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인 하우스 아티스트 첼리스트 한재민 <무반주 첼로 리사이틀>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58554</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58554"/>
-        <updated>2024-01-15T06:14:58.558Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 05:00]]></content>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <이상한나라의앨리스> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58569</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58569"/>
+        <updated>2024-01-16T06:14:21.467Z</updated>
+        <content type="html"><![CDATA[2024.01.17(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <결투> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58553</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58553"/>
-        <updated>2024-01-15T05:11:05.366Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 05:00]]></content>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <피터팬> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58568</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58568"/>
+        <updated>2024-01-16T06:14:21.468Z</updated>
+        <content type="html"><![CDATA[2024.01.18(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(2024) 어린이 버블 매직쇼 - 부산 신세계​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58556"/>
         <updated>2024-01-15T10:12:22.509Z</updated>
         <content type="html"><![CDATA[2024.01.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<막심 벤게로프 바이올린 리사이틀>​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58555</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58555"/>
-        <updated>2024-01-15T06:15:07.626Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인 하우스 아티스트 첼리스트 한재민 <무반주 첼로 리사이틀>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58554</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58554"/>
-        <updated>2024-01-15T06:15:07.626Z</updated>
-        <content type="html"><![CDATA[2024.01.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <결투> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58553</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58553"/>
-        <updated>2024-01-15T05:11:14.163Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 05:00]]></content>
     </entry>
 </feed>
