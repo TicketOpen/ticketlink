@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-16T04:13:15.021Z</updated>
+    <updated>2024-01-16T05:10:34.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58567"/>
         <updated>2024-01-16T04:13:03.072Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극<비클래스> 프리뷰​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58566</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58566"/>
+        <updated>2024-01-16T05:10:26.350Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​골든걸스 콘서트 - 창원​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58553"/>
         <updated>2024-01-15T05:11:05.366Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST: 전율 정동하X소향 - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58552</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58552"/>
-        <updated>2024-01-15T07:10:41.654Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content>
     </entry>
 </feed>
