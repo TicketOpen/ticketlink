@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-17T10:11:52.995Z</updated>
+    <updated>2024-01-17T11:09:11.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 제주​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58579</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58579"/>
+        <updated>2024-01-17T11:09:05.463Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <나의PS파트너> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58578</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58565"/>
         <updated>2024-01-16T01:54:25.350Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 부산앵콜 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58563</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58563"/>
-        <updated>2024-01-16T00:47:07.827Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 00:00]]></content>
     </entry>
 </feed>
