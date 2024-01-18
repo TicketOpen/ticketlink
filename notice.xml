@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-18T06:14:07.085Z</updated>
+    <updated>2024-01-18T07:10:50.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 무용여행舞游韩国 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58591</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58591"/>
+        <updated>2024-01-18T07:10:43.198Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 <어린이마술쇼> - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58590</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58590"/>
+        <updated>2024-01-18T07:10:43.198Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 라이브 가족뮤지컬 <피터팬> - 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58589</id>
@@ -55,6 +69,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 06:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​마술사 최형배의 오리지널 과학마술콘서트 공룡편 - 울산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58582</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58582"/>
+        <updated>2024-01-18T07:10:43.212Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​[단독판매]  티나게 놀자! (Teenager)-군산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58581</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58581"/>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58577"/>
         <updated>2024-01-17T08:14:23.723Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  현진영의 감금콘서트(3.1절특사)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58576</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58576"/>
-        <updated>2024-01-17T08:14:23.725Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로게이머와 1:1 컨설팅 FC ONLINE 원데이 클래스 <온라인> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58575</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58575"/>
-        <updated>2024-01-17T05:10:10.843Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어 육지까지> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58574</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58574"/>
-        <updated>2024-01-17T00:47:36.180Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content>
     </entry>
 </feed>
