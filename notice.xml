@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-18T04:12:38.239Z</updated>
+    <updated>2024-01-18T05:10:38.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[안양] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58587</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58587"/>
+        <updated>2024-01-18T05:10:30.891Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58586</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58586"/>
+        <updated>2024-01-18T05:10:30.896Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 [성남]​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58585</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58585"/>
+        <updated>2024-01-18T05:10:30.896Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​골든걸스 콘서트 [고양]​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58584</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58584"/>
+        <updated>2024-01-18T05:10:30.897Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손열음 스베틀린 루세브 듀오 리사이틀​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58583</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58572"/>
         <updated>2024-01-17T00:47:36.188Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 평택 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58571</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58571"/>
-        <updated>2024-01-16T08:13:44.607Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 하모나이즈 콘서트 < The Show Choir > with 정선아&브래드 리틀 - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58570</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58570"/>
-        <updated>2024-01-16T06:14:14.542Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <이상한나라의앨리스> - 인천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58569</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58569"/>
-        <updated>2024-01-16T06:14:14.542Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 <피터팬> - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58568</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58568"/>
-        <updated>2024-01-16T06:14:14.548Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 00:00]]></content>
     </entry>
 </feed>
