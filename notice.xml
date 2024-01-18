@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-18T08:13:34.796Z</updated>
+    <updated>2024-01-18T09:10:43.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 [대구]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58594</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58594"/>
+        <updated>2024-01-18T09:10:35.624Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 발렌타인 콘서트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58593</id>
@@ -94,7 +101,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/58581</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58581"/>
         <updated>2024-01-18T01:53:42.446Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 트롬본 앙상블 세븐포지션 제 3회 정기연주회 - 대구 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58580"/>
         <updated>2024-01-18T00:46:31.731Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 제주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58579</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58579"/>
-        <updated>2024-01-17T11:09:05.463Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.18(목) 00:00]]></content>
     </entry>
 </feed>
