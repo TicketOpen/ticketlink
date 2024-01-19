@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-19T09:10:30.871Z</updated>
+    <updated>2024-01-19T10:11:22.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 인천 티켓오픈 안내 (티켓링크)]]></title>
@@ -38,13 +38,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58603"/>
         <updated>2024-01-19T07:10:40.336Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블루스프링페스티벌2024 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58602</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58602"/>
-        <updated>2024-01-19T08:13:48.038Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알라딘과 자스민공주 - 대전​​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +103,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 제 35기 TBC 가요아카데미 (선착순 자유석 예매) ​​​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58592</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58592"/>
+        <updated>2024-01-19T10:11:16.888Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신데렐라 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58608</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58608"/>
@@ -143,13 +143,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58603"/>
         <updated>2024-01-19T07:10:45.828Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블루스프링페스티벌2024 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58602</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58602"/>
-        <updated>2024-01-19T08:13:54.362Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알라딘과 자스민공주 - 대전​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -213,5 +206,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58593"/>
         <updated>2024-01-18T08:13:34.084Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제 35기 TBC 가요아카데미 (선착순 자유석 예매) ​​​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58592</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58592"/>
+        <updated>2024-01-19T10:11:22.216Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 01:00]]></content>
     </entry>
 </feed>
