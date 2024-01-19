@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-19T06:14:10.676Z</updated>
+    <updated>2024-01-19T07:10:46.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꼬마버스타요 - 용감한 구조대 레스큐 타요 (서울 용산아트홀)​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58605</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58605"/>
+        <updated>2024-01-19T07:10:45.826Z</updated>
+        <content type="html"><![CDATA[2024.01.22(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​어린이마술쇼 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58604</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58604"/>
+        <updated>2024-01-19T07:10:45.828Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[70만 관객을 웃고울린 명품연극<염쟁이 유씨>제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58603</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58603"/>
+        <updated>2024-01-19T07:10:45.828Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알라딘과 자스민공주 - 대전​​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58601</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58590"/>
         <updated>2024-01-18T07:10:49.727Z</updated>
         <content type="html"><![CDATA[2024.01.22(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 라이브 가족뮤지컬 <피터팬> - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58589</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58589"/>
-        <updated>2024-01-18T06:14:06.363Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> -고양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58588</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58588"/>
-        <updated>2024-01-18T06:14:06.375Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안양] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58587</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58587"/>
-        <updated>2024-01-18T05:10:38.301Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 02:00]]></content>
     </entry>
 </feed>
