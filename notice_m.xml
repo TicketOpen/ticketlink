@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-22T04:14:04.610Z</updated>
+    <updated>2024-01-22T05:11:08.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 어린이 스토리 마술쇼 - 당진 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58614</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58614"/>
+        <updated>2024-01-22T05:11:08.122Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 I 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58613</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58612"/>
         <updated>2024-01-22T03:12:08.754Z</updated>
         <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<설레는 그날> #3 싱포골드​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58611</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58611"/>
+        <updated>2024-01-22T05:11:08.124Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58599</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58599"/>
         <updated>2024-01-19T05:10:19.767Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알라딘과 자스민공주 - 목포​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58598</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58598"/>
-        <updated>2024-01-19T05:10:19.768Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 - 익산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58597</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58597"/>
-        <updated>2024-01-19T04:13:41.750Z</updated>
         <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
     </entry>
 </feed>
