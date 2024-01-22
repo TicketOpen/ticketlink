@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-22T03:12:09.367Z</updated>
+    <updated>2024-01-22T04:14:04.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 I 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58613</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58613"/>
+        <updated>2024-01-22T04:13:56.414Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <신데렐라> - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58612</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 화성누림​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58596</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58596"/>
-        <updated>2024-01-19T04:13:36.392Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 I 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58613</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58613"/>
+        <updated>2024-01-22T04:14:04.016Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <신데렐라> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58597"/>
         <updated>2024-01-19T04:13:41.750Z</updated>
         <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 화성누림​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58596</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58596"/>
-        <updated>2024-01-19T04:13:41.750Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
     </entry>
 </feed>
