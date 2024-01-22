@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-22T00:50:22.041Z</updated>
+    <updated>2024-01-22T01:58:32.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58610</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58610"/>
+        <updated>2024-01-22T01:58:25.644Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <피터팬> - 안양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58609</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58609"/>
+        <updated>2024-01-22T01:58:25.647Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 인천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58608</id>
@@ -17,6 +31,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58607"/>
         <updated>2024-01-19T08:13:48.036Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 <2024 세종시즌> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58606</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58606"/>
+        <updated>2024-01-22T01:58:25.648Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꼬마버스타요 - 용감한 구조대 레스큐 타요 (서울 용산아트홀)​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 [대구]​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58594</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58594"/>
-        <updated>2024-01-18T09:10:35.624Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.19(금) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58610</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58610"/>
+        <updated>2024-01-22T01:58:32.180Z</updated>
+        <content type="html"><![CDATA[2024.01.25(목) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 발렌타인 콘서트 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58593</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58593"/>
-        <updated>2024-01-18T08:13:28.545Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제 35기 TBC 가요아카데미 (선착순 자유석 예매) ​​​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58592</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58592"/>
-        <updated>2024-01-19T10:11:16.888Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 01:00]]></content>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <피터팬> - 안양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58609</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58609"/>
+        <updated>2024-01-22T01:58:32.180Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +136,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58607"/>
         <updated>2024-01-19T08:13:54.356Z</updated>
         <content type="html"><![CDATA[2024.01.23(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 <2024 세종시즌> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58606</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58606"/>
+        <updated>2024-01-22T01:58:32.182Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꼬마버스타요 - 용감한 구조대 레스큐 타요 (서울 용산아트홀)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58595"/>
         <updated>2024-01-19T03:11:30.612Z</updated>
         <content type="html"><![CDATA[2024.01.23(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 [대구]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58594</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58594"/>
-        <updated>2024-01-18T09:10:42.703Z</updated>
-        <content type="html"><![CDATA[2024.01.19(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 발렌타인 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58593</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58593"/>
-        <updated>2024-01-18T08:13:34.084Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제 35기 TBC 가요아카데미 (선착순 자유석 예매) ​​​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58592</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58592"/>
-        <updated>2024-01-19T10:11:22.216Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 01:00]]></content>
     </entry>
 </feed>
