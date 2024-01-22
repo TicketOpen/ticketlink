@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-22T02:32:43.161Z</updated>
+    <updated>2024-01-22T03:12:09.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <신데렐라> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58612</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58612"/>
+        <updated>2024-01-22T03:12:01.724Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58610</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​Symphony Of The Drama​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58595</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58595"/>
-        <updated>2024-01-19T03:11:23.976Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 07:00]]></content>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <신데렐라> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58612</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58612"/>
+        <updated>2024-01-22T03:12:08.754Z</updated>
+        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58596"/>
         <updated>2024-01-19T04:13:41.750Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​Symphony Of The Drama​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58595</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58595"/>
-        <updated>2024-01-19T03:11:30.612Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 07:00]]></content>
     </entry>
 </feed>
