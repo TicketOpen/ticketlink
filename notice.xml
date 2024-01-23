@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-23T02:27:47.021Z</updated>
+    <updated>2024-01-23T03:11:35.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 창원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58621</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58621"/>
+        <updated>2024-01-23T03:11:28.834Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 <돼지책> - 고양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58620</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58607"/>
         <updated>2024-01-19T08:13:48.036Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 <2024 세종시즌> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58606</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58606"/>
-        <updated>2024-01-22T01:58:25.648Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 05:00]]></content>
     </entry>
 </feed>
