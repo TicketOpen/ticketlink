@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-23T04:13:12.568Z</updated>
+    <updated>2024-01-23T05:10:28.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 스타크래프트 츠캄옥션 결승전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58624</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58624"/>
+        <updated>2024-01-23T05:10:28.233Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58623</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58623"/>
+        <updated>2024-01-23T05:10:28.234Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58622</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58610"/>
         <updated>2024-01-22T01:58:32.180Z</updated>
         <content type="html"><![CDATA[2024.01.25(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 <피터팬> - 안양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58609</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58609"/>
-        <updated>2024-01-22T01:58:32.180Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58608</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58608"/>
-        <updated>2024-01-19T08:13:54.355Z</updated>
-        <content type="html"><![CDATA[2024.01.22(월) 01:00]]></content>
     </entry>
 </feed>
