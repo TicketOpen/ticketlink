@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-23T05:10:28.841Z</updated>
+    <updated>2024-01-23T06:14:32.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택북부​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58628</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58628"/>
+        <updated>2024-01-23T06:14:25.311Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)> 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58627</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58627"/>
+        <updated>2024-01-23T06:14:25.313Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.26(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이마술쇼 - 서울강남​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58626</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58626"/>
+        <updated>2024-01-23T06:14:25.313Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 계성초등학교 오케스트라 제1회 정기연주회​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58625</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58625"/>
+        <updated>2024-01-23T06:14:25.313Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 스타크래프트 츠캄옥션 결승전 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58624</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 I 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58613</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58613"/>
-        <updated>2024-01-22T04:13:56.414Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 08:00]]></content>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택북부​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58628</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58628"/>
+        <updated>2024-01-23T06:14:32.281Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <신데렐라> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58612</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58612"/>
-        <updated>2024-01-22T03:12:01.724Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 00:00]]></content>
+        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)> 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58627</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58627"/>
+        <updated>2024-01-23T06:14:32.283Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<설레는 그날> #3 싱포골드​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58611</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58611"/>
-        <updated>2024-01-22T05:11:02.374Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 09:00]]></content>
+        <title type="html"><![CDATA[어린이마술쇼 - 서울강남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58626</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58626"/>
+        <updated>2024-01-23T06:14:32.289Z</updated>
+        <content type="html"><![CDATA[2024.01.25(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58610</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58610"/>
-        <updated>2024-01-22T01:58:25.644Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​2024 계성초등학교 오케스트라 제1회 정기연주회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58625</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58625"/>
+        <updated>2024-01-23T06:14:32.290Z</updated>
+        <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 스타크래프트 츠캄옥션 결승전 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58614"/>
         <updated>2024-01-22T05:11:08.122Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 I 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58613</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58613"/>
-        <updated>2024-01-22T04:14:04.016Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <신데렐라> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58612</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58612"/>
-        <updated>2024-01-22T03:12:08.754Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<설레는 그날> #3 싱포골드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58611</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58611"/>
-        <updated>2024-01-22T05:11:08.124Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당 2024 포시즌] 글로벌 K-뮤지컬 <마리 퀴리> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58610</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58610"/>
-        <updated>2024-01-22T01:58:32.180Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 08:00]]></content>
     </entry>
 </feed>
