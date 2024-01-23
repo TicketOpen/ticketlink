@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-23T03:11:35.798Z</updated>
+    <updated>2024-01-23T04:13:12.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58622</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58622"/>
+        <updated>2024-01-23T04:13:06.321Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58621</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58608"/>
         <updated>2024-01-19T08:13:48.036Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <몽심> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58607</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58607"/>
-        <updated>2024-01-19T08:13:48.036Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.23(화) 01:00]]></content>
     </entry>
 </feed>
