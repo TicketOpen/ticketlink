@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-24T03:11:37.889Z</updated>
+    <updated>2024-01-24T04:13:22.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김영주 플루트 독주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58638</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58638"/>
+        <updated>2024-01-24T04:13:14.761Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58636</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58622</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58622"/>
-        <updated>2024-01-23T04:13:06.321Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 김영주 플루트 독주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58638</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58638"/>
+        <updated>2024-01-24T04:13:22.094Z</updated>
+        <content type="html"><![CDATA[2024.01.25(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58623"/>
         <updated>2024-01-23T05:10:28.234Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족마술콘서트 <매직오브아트시즌2> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58622</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58622"/>
-        <updated>2024-01-23T04:13:11.937Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 00:00]]></content>
     </entry>
 </feed>
