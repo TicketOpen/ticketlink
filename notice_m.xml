@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-23T23:10:38.426Z</updated>
+    <updated>2024-01-24T00:48:31.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58632</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58632"/>
+        <updated>2024-01-24T00:48:30.546Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 서울 (용산) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58631</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58631"/>
+        <updated>2024-01-24T00:48:30.550Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 평택 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58630</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58630"/>
+        <updated>2024-01-24T00:48:30.550Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 안양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58629</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58629"/>
+        <updated>2024-01-24T00:48:30.551Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택북부​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58628</id>
@@ -80,34 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58618</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58618"/>
         <updated>2024-01-22T07:10:31.455Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 용인 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58617</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58617"/>
-        <updated>2024-01-22T06:15:04.839Z</updated>
-        <content type="html"><![CDATA[2024.01.23(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 당진 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58616</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58616"/>
-        <updated>2024-01-22T06:15:04.839Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 장민호 전국투어 콘서트 ‘호시절(好時節):민호랜드［MIN-HO LAND］’ - 서울앵콜​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58615</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58615"/>
-        <updated>2024-01-22T06:15:04.839Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 어린이 스토리 마술쇼 - 당진 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58614</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58614"/>
-        <updated>2024-01-22T05:11:08.122Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
     </entry>
 </feed>
