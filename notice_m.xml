@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-24T04:13:22.684Z</updated>
+    <updated>2024-01-24T05:11:12.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” – 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58639</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58639"/>
+        <updated>2024-01-24T05:11:12.375Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김영주 플루트 독주회 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58638</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58638"/>
         <updated>2024-01-24T04:13:22.094Z</updated>
         <content type="html"><![CDATA[2024.01.25(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극<비클래스> 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58637</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58637"/>
+        <updated>2024-01-24T05:11:12.381Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 목포​ 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58625</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58625"/>
         <updated>2024-01-23T06:14:32.290Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 스타크래프트 츠캄옥션 결승전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58624</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58624"/>
-        <updated>2024-01-23T05:10:28.233Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58623</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58623"/>
-        <updated>2024-01-23T05:10:28.234Z</updated>
         <content type="html"><![CDATA[2024.01.24(수) 05:00]]></content>
     </entry>
 </feed>
