@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-24T00:48:31.156Z</updated>
+    <updated>2024-01-24T01:55:59.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58636</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58636"/>
+        <updated>2024-01-24T01:55:52.530Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.26(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 강릉​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58635</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58635"/>
+        <updated>2024-01-24T01:55:52.530Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.26(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <인어공주> - 울산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58634</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58634"/>
+        <updated>2024-01-24T01:55:52.534Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족 연형극 <소녀 순이> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58633</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58633"/>
+        <updated>2024-01-24T01:55:52.534Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.26(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 인천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58632</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 창원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58621</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58621"/>
-        <updated>2024-01-23T03:11:28.834Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 00:00]]></content>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58636</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58636"/>
+        <updated>2024-01-24T01:55:59.176Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 <돼지책> - 고양 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58620</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58620"/>
-        <updated>2024-01-23T01:56:17.097Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.25(목) 00:00]]></content>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 강릉​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58635</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58635"/>
+        <updated>2024-01-24T01:55:59.183Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 광주예술의전당 2024 포시즌] 안네 소피 무터 바이올린 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58619</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58619"/>
-        <updated>2024-01-22T07:10:25.112Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 02:00]]></content>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <인어공주> - 울산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58634</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58634"/>
+        <updated>2024-01-24T01:55:59.184Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알라딘과 자스민공주 - 원주​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58618</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58618"/>
-        <updated>2024-01-22T07:10:25.113Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.24(수) 00:00]]></content>
+        <title type="html"><![CDATA[가족 연형극 <소녀 순이> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58633</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58633"/>
+        <updated>2024-01-24T01:55:59.184Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58622"/>
         <updated>2024-01-23T04:13:11.937Z</updated>
         <content type="html"><![CDATA[2024.01.25(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최형배 마술사의 < MAGIC MOON > - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58621</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58621"/>
-        <updated>2024-01-23T03:11:35.166Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 <돼지책> - 고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58620</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58620"/>
-        <updated>2024-01-23T01:56:24.281Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주예술의전당 2024 포시즌] 안네 소피 무터 바이올린 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58619</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58619"/>
-        <updated>2024-01-22T07:10:31.455Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알라딘과 자스민공주 - 원주​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58618</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58618"/>
-        <updated>2024-01-22T07:10:31.455Z</updated>
-        <content type="html"><![CDATA[2024.01.24(수) 00:00]]></content>
     </entry>
 </feed>
