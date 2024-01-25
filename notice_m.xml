@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-25T13:14:08.700Z</updated>
+    <updated>2024-01-25T14:10:35.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <우리 아빠가 최고야> - 남양주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58649</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58649"/>
+        <updated>2024-01-25T14:10:34.459Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 오리지널과학마술콘서트 시즌1 - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58648</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58634"/>
         <updated>2024-01-24T01:55:59.184Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 가족 연형극 <소녀 순이> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58633</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58633"/>
-        <updated>2024-01-24T01:55:59.184Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 01:00]]></content>
     </entry>
 </feed>
