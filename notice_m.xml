@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-25T02:28:46.458Z</updated>
+    <updated>2024-01-25T03:11:39.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 <겨울이야기> - 남양주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58643</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58643"/>
+        <updated>2024-01-25T03:11:39.331Z</updated>
+        <content type="html"><![CDATA[2024.01.26(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <아트> 2차​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58642</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58629</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58629"/>
         <updated>2024-01-24T00:48:30.551Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 평택북부​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58628</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58628"/>
-        <updated>2024-01-23T06:14:32.281Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
     </entry>
 </feed>
