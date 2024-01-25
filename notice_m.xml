@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-25T00:48:26.767Z</updated>
+    <updated>2024-01-25T01:57:04.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 오산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58641</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58641"/>
+        <updated>2024-01-25T01:57:04.097Z</updated>
+        <content type="html"><![CDATA[2024.01.29(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 iKON FAN CONCERT : CURTAIN-CALL​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58640</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58627"/>
         <updated>2024-01-23T06:14:32.283Z</updated>
         <content type="html"><![CDATA[2024.01.26(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 서울강남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58626</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58626"/>
-        <updated>2024-01-23T06:14:32.289Z</updated>
-        <content type="html"><![CDATA[2024.01.25(목) 00:00]]></content>
     </entry>
 </feed>
