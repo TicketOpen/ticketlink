@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-25T01:57:04.709Z</updated>
+    <updated>2024-01-25T02:28:46.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <아트> 2차​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58642</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58642"/>
+        <updated>2024-01-25T02:28:45.860Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 오산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58641</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58628"/>
         <updated>2024-01-23T06:14:32.281Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직 미디어쇼 <폴리팝(두들팝ver.2)> 부산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58627</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58627"/>
-        <updated>2024-01-23T06:14:32.283Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 02:00]]></content>
     </entry>
 </feed>
