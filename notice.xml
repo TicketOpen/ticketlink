@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-25T05:10:29.924Z</updated>
+    <updated>2024-01-25T06:14:13.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58646</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58646"/>
+        <updated>2024-01-25T06:14:07.204Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족 뮤지컬 - 이상한 과자 가게 전천당 (천안) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58645</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58645"/>
+        <updated>2024-01-25T06:14:07.205Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.26(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58644</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58644"/>
+        <updated>2024-01-25T06:14:07.206Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가족뮤지컬 <겨울이야기> - 남양주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58643</id>
@@ -76,7 +97,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족 연형극 <소녀 순이> - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 가족 연형극 <소녀 순이> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58633</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58633"/>
         <updated>2024-01-24T01:55:52.534Z</updated>
@@ -87,27 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58632</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58632"/>
         <updated>2024-01-24T00:48:24.270Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 서울 (용산) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58631</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58631"/>
-        <updated>2024-01-24T00:48:24.271Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 평택 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58630</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58630"/>
-        <updated>2024-01-24T00:48:24.271Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58629</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58629"/>
-        <updated>2024-01-24T00:48:24.274Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.29(월) 00:00]]></content>
     </entry>
 </feed>
