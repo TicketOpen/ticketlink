@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-25T23:10:41.367Z</updated>
+    <updated>2024-01-26T00:43:59.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58648"/>
         <updated>2024-01-25T09:11:09.762Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 여수 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58647</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58647"/>
+        <updated>2024-01-26T00:43:59.090Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 광주 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58635"/>
         <updated>2024-01-24T01:55:59.183Z</updated>
         <content type="html"><![CDATA[2024.01.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <인어공주> - 울산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58634</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58634"/>
-        <updated>2024-01-24T01:55:59.184Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
     </entry>
 </feed>
