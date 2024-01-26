@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-26T09:11:17.336Z</updated>
+    <updated>2024-01-26T10:10:55.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연 일시/장소 변경] 골든걸스 콘서트 [대구]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58657</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58657"/>
+        <updated>2024-01-26T10:10:47.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.30(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 안산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58656</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58643"/>
         <updated>2024-01-25T03:11:33.677Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <아트> 2차​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58642</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58642"/>
-        <updated>2024-01-25T02:28:39.191Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 02:00]]></content>
     </entry>
 </feed>
