@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-27T07:09:25.397Z</updated>
+    <updated>2024-01-27T08:12:05.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[May’ｎ ASIA TOUR 2024 「Prismverse」 in Seou​l 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58658</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58658"/>
+        <updated>2024-01-27T08:12:05.373Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연 일시/장소 변경] 골든걸스 콘서트 [대구]​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58657</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58644"/>
         <updated>2024-01-25T06:14:12.858Z</updated>
         <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 <겨울이야기> - 남양주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58643</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58643"/>
-        <updated>2024-01-25T03:11:39.331Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 05:00]]></content>
     </entry>
 </feed>
