@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-29T04:12:28.598Z</updated>
+    <updated>2024-01-29T05:10:16.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58665</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58665"/>
+        <updated>2024-01-29T05:10:16.201Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [안동문화예술의전당 기획공연] 글로벌 K-뮤지컬 <마리 퀴리> ​ ​​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58664</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58664"/>
+        <updated>2024-01-29T05:10:16.202Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백설공주 - 서울 ​​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58663</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58663"/>
+        <updated>2024-01-29T05:10:16.203Z</updated>
+        <content type="html"><![CDATA[2024.02.01(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 이천​​ 티켓오픈 안내​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58662</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58662"/>
+        <updated>2024-01-29T05:10:16.205Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 백설공주 - 양주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58661</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58661"/>
+        <updated>2024-01-29T05:10:16.207Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 조광일 '광순응' 음감 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58660</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58660"/>
+        <updated>2024-01-29T05:10:16.208Z</updated>
+        <content type="html"><![CDATA[2024.01.30(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST: 전율 정동하X소향 - 고양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58659</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58659"/>
+        <updated>2024-01-29T05:10:16.211Z</updated>
+        <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[May’ｎ ASIA TOUR 2024 「Prismverse」 in Seou​l 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58658</id>
@@ -60,54 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58651"/>
         <updated>2024-01-26T01:44:41.412Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58650</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58650"/>
-        <updated>2024-01-26T01:44:41.412Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <우리 아빠가 최고야> - 남양주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58649</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58649"/>
-        <updated>2024-01-25T14:10:34.459Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마술사 최형배의 오리지널과학마술콘서트 시즌1 - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58648</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58648"/>
-        <updated>2024-01-25T09:11:09.762Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 여수 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58647</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58647"/>
-        <updated>2024-01-26T00:43:59.090Z</updated>
-        <content type="html"><![CDATA[2024.01.30(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58646</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58646"/>
-        <updated>2024-01-25T06:14:12.858Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족 뮤지컬 - 이상한 과자 가게 전천당 (천안) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58645</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58645"/>
-        <updated>2024-01-25T06:14:12.858Z</updated>
-        <content type="html"><![CDATA[2024.01.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 베스트셀러뮤지컬 <누가 내 머리에똥 쌌어?> - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58644</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58644"/>
-        <updated>2024-01-25T06:14:12.858Z</updated>
-        <content type="html"><![CDATA[2024.01.29(월) 00:00]]></content>
     </entry>
 </feed>
