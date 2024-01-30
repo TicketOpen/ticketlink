@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-30T08:12:53.328Z</updated>
+    <updated>2024-01-30T09:11:16.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[공지] 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내 (티켓링크)]]></title>
