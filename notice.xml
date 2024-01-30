@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-30T06:14:01.410Z</updated>
+    <updated>2024-01-30T07:10:42.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공지] 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58679</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58679"/>
+        <updated>2024-01-30T07:10:35.028Z</updated>
+        <content type="html"><![CDATA[2024.01.30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <메리셸리> 4차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58678</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58663"/>
         <updated>2024-01-29T05:10:09.375Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.01(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBS 친구들이 뭉쳤다! 이벤져스 라이브! - 이천​​ 티켓오픈 안내​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58662</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58662"/>
-        <updated>2024-01-29T05:10:09.376Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 00:00]]></content>
     </entry>
 </feed>
