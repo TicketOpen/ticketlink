@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-30T00:43:47.277Z</updated>
+    <updated>2024-01-30T01:42:38.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58674"/>
         <updated>2024-01-30T00:43:46.579Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[Live streaming+Replay]HEOYOUNGSAENG CONCERT IN SEOUL ~STAND BY ME Vol.2~​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58673</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58673"/>
+        <updated>2024-01-30T01:42:37.555Z</updated>
+        <content type="html"><![CDATA[2024.02.01(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 오르간 시리즈 I. 벤 판 우스텐 오르간 리사이틀​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58659"/>
         <updated>2024-01-29T05:10:16.211Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May’ｎ ASIA TOUR 2024 「Prismverse」 in Seou​l 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58658</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58658"/>
-        <updated>2024-01-27T08:12:05.373Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 11:00]]></content>
     </entry>
 </feed>
