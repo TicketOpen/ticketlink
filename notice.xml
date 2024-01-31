@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-31T05:10:59.360Z</updated>
+    <updated>2024-01-31T06:13:13.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -62,7 +62,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공지] 시스템 임시점검(2/1 01:00 ~ 03:00)으로 인한 서비스 일시 중단 안내]]></title>
+        <title type="html"><![CDATA[[공지] 시스템 임시점검(2/1 00:00 ~ 03:00)으로 인한 서비스 일시 중단 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58679</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58679"/>
         <updated>2024-01-30T07:10:35.028Z</updated>
