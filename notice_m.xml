@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-31T00:43:48.978Z</updated>
+    <updated>2024-01-31T01:43:24.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 성북 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58682</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58682"/>
+        <updated>2024-01-31T01:43:23.959Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학로 청소년 연극[사춘기메들리] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58681</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58681"/>
+        <updated>2024-01-31T01:43:23.959Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립교향악단 체임버 시리즈 II​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58680</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58666"/>
         <updated>2024-01-29T06:14:13.263Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58665</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58665"/>
-        <updated>2024-01-29T05:10:16.201Z</updated>
-        <content type="html"><![CDATA[2024.01.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백설공주 - 서울 ​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58663</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58663"/>
-        <updated>2024-01-29T05:10:16.203Z</updated>
-        <content type="html"><![CDATA[2024.02.01(목) 00:00]]></content>
     </entry>
 </feed>
