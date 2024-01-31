@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-01-31T04:12:15.165Z</updated>
+    <updated>2024-01-31T05:10:59.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58685"/>
         <updated>2024-01-31T04:12:14.578Z</updated>
         <content type="html"><![CDATA[2024.02.01(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김필 X 스윗소로우 < SUDDENLY FESTIVAL > - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58684</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58684"/>
+        <updated>2024-01-31T05:10:58.777Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라비던스 단독 콘서트 < SUDDENLY FESTIVAL > - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58683</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58683"/>
+        <updated>2024-01-31T05:10:58.777Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알라딘과 자스민공주 - 성북 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58673"/>
         <updated>2024-01-30T01:42:37.555Z</updated>
         <content type="html"><![CDATA[2024.02.01(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 오르간 시리즈 I. 벤 판 우스텐 오르간 리사이틀​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58672</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58672"/>
-        <updated>2024-01-30T00:43:46.579Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라이부르크 바로크 오케스트라 <마태 수난곡>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58671</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58671"/>
-        <updated>2024-01-30T00:43:46.579Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
     </entry>
 </feed>
