@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-31T09:10:12.385Z</updated>
+    <updated>2024-01-31T10:10:53.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 진주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58691</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58691"/>
+        <updated>2024-01-31T10:10:47.258Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 평택​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58690</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58677"/>
         <updated>2024-01-30T06:13:53.079Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​라떼 노래방​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58676</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58676"/>
-        <updated>2024-01-30T05:09:45.414Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 05:00]]></content>
     </entry>
 </feed>
