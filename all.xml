@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-31T03:11:03.609Z</updated>
+    <updated>2024-01-31T04:12:15.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58687</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58687"/>
+        <updated>2024-01-31T04:12:07.096Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.05(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58686</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58686"/>
+        <updated>2024-01-31T04:12:07.098Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창작뮤지컬 골든마스크 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58685</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58685"/>
+        <updated>2024-01-31T04:12:07.099Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.01(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알라딘과 자스민공주 - 성북 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58682</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 평택 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58670</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58670"/>
-        <updated>2024-01-29T09:10:51.381Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58687</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58687"/>
+        <updated>2024-01-31T04:12:14.576Z</updated>
+        <content type="html"><![CDATA[2024.01.05(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] OLLONE AT ALLONE Concert​ ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58667</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58667"/>
-        <updated>2024-01-29T09:10:51.381Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.01(목) 09:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58686</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58686"/>
+        <updated>2024-01-31T04:12:14.578Z</updated>
+        <content type="html"><![CDATA[2024.02.05(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먼데이키즈 콘서트 'The Real Voice' – 창원 ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58666</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58666"/>
-        <updated>2024-01-29T06:14:05.793Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 05:00]]></content>
+        <title type="html"><![CDATA[창작뮤지컬 골든마스크 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58685</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58685"/>
+        <updated>2024-01-31T04:12:14.578Z</updated>
+        <content type="html"><![CDATA[2024.02.01(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알라딘과 자스민공주 - 성북 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -191,27 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58671</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58671"/>
         <updated>2024-01-30T00:43:46.579Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 평택 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58670</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58670"/>
-        <updated>2024-01-29T09:10:56.942Z</updated>
-        <content type="html"><![CDATA[2024.01.31(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] OLLONE AT ALLONE Concert​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58667</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58667"/>
-        <updated>2024-01-29T09:10:56.942Z</updated>
-        <content type="html"><![CDATA[2024.02.01(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼데이키즈 콘서트 'The Real Voice' – 창원 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58666</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58666"/>
-        <updated>2024-01-29T06:14:13.263Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 05:00]]></content>
     </entry>
 </feed>
