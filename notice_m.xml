@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-01T05:09:45.159Z</updated>
+    <updated>2024-02-01T06:13:20.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 울산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58694</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58694"/>
+        <updated>2024-02-01T06:13:19.677Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58693</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58693"/>
+        <updated>2024-02-01T06:13:19.677Z</updated>
+        <content type="html"><![CDATA[2024.02.06(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설아 어디 가? 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58692</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58692"/>
         <updated>2024-02-01T00:45:57.352Z</updated>
         <content type="html"><![CDATA[2024.02.02(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 진주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58691</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58691"/>
+        <updated>2024-02-01T06:13:19.678Z</updated>
+        <content type="html"><![CDATA[2024.02.05(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 평택​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58680"/>
         <updated>2024-01-31T19:08:42.754Z</updated>
         <content type="html"><![CDATA[2024.01.31(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 시스템 임시점검(2/1 00:00 ~ 03:00)으로 인한 서비스 일시 중단 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58679</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58679"/>
-        <updated>2024-01-31T19:08:42.736Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/58679" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(2/1 00:00 ~ 03:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <메리셸리> 4차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58678</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58678"/>
-        <updated>2024-01-31T19:08:42.754Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​스카이민혁 First Concert 해방​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58677</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58677"/>
-        <updated>2024-02-01T05:09:44.574Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 11:00]]></content>
     </entry>
 </feed>
