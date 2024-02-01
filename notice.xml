@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-01-31T23:10:34.812Z</updated>
+    <updated>2024-02-01T00:45:57.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설아 어디 가? 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58692</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58692"/>
+        <updated>2024-02-01T00:45:51.917Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.02(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 진주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58691</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[창작뮤지컬 골든마스크 - 대구 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 창작뮤지컬 골든마스크 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58685</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58685"/>
         <updated>2024-01-31T04:12:07.099Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58678"/>
         <updated>2024-01-30T06:13:53.077Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​스카이민혁 First Concert 해방​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58677</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58677"/>
-        <updated>2024-01-30T06:13:53.079Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 11:00]]></content>
     </entry>
 </feed>
