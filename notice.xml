@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-01T08:12:37.293Z</updated>
+    <updated>2024-02-01T09:11:51.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하X소향 - 세종​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58695</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58695"/>
+        <updated>2024-02-01T09:11:45.380Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 울산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58694</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58681"/>
         <updated>2024-01-31T01:43:18.458Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.02(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립교향악단 체임버 시리즈 II​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58680</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58680"/>
-        <updated>2024-01-30T11:09:00.899Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.01.31(수) 08:00]]></content>
     </entry>
 </feed>
