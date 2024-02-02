@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-01T23:10:27.523Z</updated>
+    <updated>2024-02-02T00:44:06.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 골든걸스 파이널콘서트 - 서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58696</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58696"/>
+        <updated>2024-02-02T00:44:05.399Z</updated>
+        <content type="html"><![CDATA[2024.02.02(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​THE GREATEST : 전율 정동하X소향 - 세종​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58695</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58682</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58682"/>
         <updated>2024-01-31T19:08:42.749Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학로 청소년 연극[사춘기메들리] 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58681</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58681"/>
-        <updated>2024-01-31T19:08:42.753Z</updated>
         <content type="html"><![CDATA[2024.02.02(금) 00:00]]></content>
     </entry>
 </feed>
