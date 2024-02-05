@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-04T23:09:35.949Z</updated>
+    <updated>2024-02-05T00:44:48.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58708</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58708"/>
+        <updated>2024-02-05T00:44:42.254Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58707</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58707"/>
+        <updated>2024-02-05T00:44:42.255Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[겨울왕국 - 계룡​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58706</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.06(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58693</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58693"/>
-        <updated>2024-02-01T06:13:12.095Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.06(화) 00:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58708</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58708"/>
+        <updated>2024-02-05T00:44:47.769Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설아 어디 가? 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58692</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58692"/>
-        <updated>2024-02-01T00:45:51.917Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.02(금) 01:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58707</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58707"/>
+        <updated>2024-02-05T00:44:47.769Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[겨울왕국 - 계룡​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58694"/>
         <updated>2024-02-01T06:13:19.677Z</updated>
         <content type="html"><![CDATA[2024.02.06(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58693</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58693"/>
-        <updated>2024-02-01T06:13:19.677Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설아 어디 가? 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58692</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58692"/>
-        <updated>2024-02-01T00:45:57.352Z</updated>
-        <content type="html"><![CDATA[2024.02.02(금) 01:00]]></content>
     </entry>
 </feed>
