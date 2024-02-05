@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-05T07:10:58.657Z</updated>
+    <updated>2024-02-05T08:13:40.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” – 창원 추가 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58711</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58711"/>
+        <updated>2024-02-05T08:13:32.621Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 순천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58710</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58710"/>
+        <updated>2024-02-05T08:13:32.621Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가족뮤지컬 [파워레인져 - 다이노포스] - 부천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58709</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58697"/>
         <updated>2024-02-02T01:42:23.314Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 골든걸스 파이널콘서트 - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58696</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58696"/>
-        <updated>2024-02-02T00:43:58.908Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.02(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하X소향 - 세종​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58695</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58695"/>
-        <updated>2024-02-01T09:11:45.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 05:00]]></content>
     </entry>
 </feed>
