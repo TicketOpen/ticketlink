@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-05T08:13:40.645Z</updated>
+    <updated>2024-02-05T09:10:47.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <소프라노 조현진의 우리가 사랑한 샹송>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58713</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58713"/>
+        <updated>2024-02-05T09:10:39.658Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족 뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 (전주)​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58712</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58712"/>
+        <updated>2024-02-05T09:10:39.658Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” – 창원 추가 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58711</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.06(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 달서가족문화센터 [유레카극장] '일타강사가 전하는 가족 행복론'_전한길 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58698</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58698"/>
-        <updated>2024-02-02T01:42:23.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <소프라노 조현진의 우리가 사랑한 샹송>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58713</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58713"/>
+        <updated>2024-02-05T09:10:47.179Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸에르자부르타 웨이라 인 서울 [FUERZA BRUTA WAYRA IN SEOUL]​ 5차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58697</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58697"/>
-        <updated>2024-02-02T01:42:23.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.06(화) 01:00]]></content>
+        <title type="html"><![CDATA[가족 뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 (전주)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58712</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58712"/>
+        <updated>2024-02-05T09:10:47.182Z</updated>
+        <content type="html"><![CDATA[2024.02.07(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” – 창원 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58699</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58699"/>
         <updated>2024-02-02T01:42:30.966Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 달서가족문화센터 [유레카극장] '일타강사가 전하는 가족 행복론'_전한길 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58698</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58698"/>
-        <updated>2024-02-02T01:42:30.967Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸에르자부르타 웨이라 인 서울 [FUERZA BRUTA WAYRA IN SEOUL]​ 5차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58697</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58697"/>
-        <updated>2024-02-02T01:42:30.969Z</updated>
         <content type="html"><![CDATA[2024.02.06(화) 01:00]]></content>
     </entry>
 </feed>
