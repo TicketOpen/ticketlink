@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-06T04:11:38.026Z</updated>
+    <updated>2024-02-06T05:10:08.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 2am Concert "One Take" – 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58718</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58718"/>
+        <updated>2024-02-06T05:10:07.713Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아 먹지> - 부산 신세계​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58717</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58717"/>
+        <updated>2024-02-06T05:10:07.715Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 대구​​ 티켓오픈 안]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58716</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58716"/>
+        <updated>2024-02-06T05:10:07.716Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 재즈 피아노 페스티벌 2024 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58715</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58704"/>
         <updated>2024-02-02T08:12:54.415Z</updated>
         <content type="html"><![CDATA[2024.02.07(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Soundberry Theater 블라인드​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58703</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58703"/>
-        <updated>2024-02-02T09:12:00.044Z</updated>
-        <content type="html"><![CDATA[2024.02.06(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 성남​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58702</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58702"/>
-        <updated>2024-02-02T07:09:54.382Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 경기광주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58701</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58701"/>
-        <updated>2024-02-02T07:09:54.383Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 01:00]]></content>
     </entry>
 </feed>
