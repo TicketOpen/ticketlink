@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-06T08:13:11.137Z</updated>
+    <updated>2024-02-06T09:10:22.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이솔로몬 팬서트 봄맞이 청문회​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58720</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58720"/>
+        <updated>2024-02-06T09:10:14.280Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 전주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58719</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58706"/>
         <updated>2024-02-02T09:11:52.904Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.05(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제 4회 탱고브릿지 정기연주회 'Hola! Tango' - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58705</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58705"/>
-        <updated>2024-02-02T08:12:48.827Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.06(화) 01:00]]></content>
     </entry>
 </feed>
