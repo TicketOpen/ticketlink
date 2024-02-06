@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-06T06:13:41.276Z</updated>
+    <updated>2024-02-06T07:09:09.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 대구​​ 티켓오픈 안]]></title>
+        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58716</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58716"/>
         <updated>2024-02-06T05:10:00.865Z</updated>
