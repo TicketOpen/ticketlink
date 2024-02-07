@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-07T03:11:54.755Z</updated>
+    <updated>2024-02-07T04:12:29.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58724"/>
         <updated>2024-02-07T02:15:16.936Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.13(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58723</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58723"/>
+        <updated>2024-02-07T04:12:20.809Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <파워레인저 다이노포스 - 새로운 세계> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58722</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58722"/>
+        <updated>2024-02-07T04:12:20.809Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 2차​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58712"/>
         <updated>2024-02-05T09:10:39.658Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” – 창원 추가 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58711</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58711"/>
-        <updated>2024-02-05T08:13:32.621Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 순천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58710</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58710"/>
-        <updated>2024-02-05T08:13:32.621Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
     </entry>
 </feed>
