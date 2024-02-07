@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-07T00:42:01.030Z</updated>
+    <updated>2024-02-07T01:41:04.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58721</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58721"/>
+        <updated>2024-02-07T01:41:03.535Z</updated>
+        <content type="html"><![CDATA[2024.02.15(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이솔로몬 팬서트 봄맞이 청문회​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58720</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58707"/>
         <updated>2024-02-05T00:44:47.769Z</updated>
         <content type="html"><![CDATA[2024.02.07(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울왕국 - 계룡​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58706</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58706"/>
-        <updated>2024-02-02T09:12:00.041Z</updated>
-        <content type="html"><![CDATA[2024.02.05(월) 01:00]]></content>
     </entry>
 </feed>
