@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-07T01:41:04.122Z</updated>
+    <updated>2024-02-07T02:15:26.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58726</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58726"/>
+        <updated>2024-02-07T02:15:16.933Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 케니 지(Kenny G) 월드투어 내한공연 - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58725</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58725"/>
+        <updated>2024-02-07T02:15:16.935Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 조명섭 ‘달밤음악회’ 시즌2 - 전주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58724</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58724"/>
+        <updated>2024-02-07T02:15:16.936Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.13(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 2차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58721</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 [파워레인져 - 다이노포스] - 부천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58709</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58709"/>
-        <updated>2024-02-05T02:23:46.782Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
+        <title type="html"><![CDATA[2024 케니 지(Kenny G) 월드투어 내한공연 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58726</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58726"/>
+        <updated>2024-02-07T02:15:25.518Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58708</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58708"/>
-        <updated>2024-02-05T00:44:42.254Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
+        <title type="html"><![CDATA[2024 케니 지(Kenny G) 월드투어 내한공연 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58725</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58725"/>
+        <updated>2024-02-07T02:15:25.520Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58707</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58707"/>
-        <updated>2024-02-05T00:44:42.255Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.07(수) 00:00]]></content>
+        <title type="html"><![CDATA[2024 조명섭 ‘달밤음악회’ 시즌2 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58724</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58724"/>
+        <updated>2024-02-07T02:15:25.522Z</updated>
+        <content type="html"><![CDATA[2024.02.13(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -191,27 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58710</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58710"/>
         <updated>2024-02-05T08:13:39.758Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 [파워레인져 - 다이노포스] - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58709</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58709"/>
-        <updated>2024-02-05T02:23:52.315Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58708</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58708"/>
-        <updated>2024-02-05T00:44:47.769Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58707</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58707"/>
-        <updated>2024-02-05T00:44:47.769Z</updated>
         <content type="html"><![CDATA[2024.02.07(수) 00:00]]></content>
     </entry>
 </feed>
