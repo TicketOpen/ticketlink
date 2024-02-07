@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-07T08:12:37.015Z</updated>
+    <updated>2024-02-07T09:10:56.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제21회 대구펫쇼​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58731</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58731"/>
+        <updated>2024-02-07T09:10:49.548Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바딤 네셀로브스키 솔로 피아노 Odesa (대구) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58730</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58716</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58716"/>
-        <updated>2024-02-06T05:10:00.865Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 제21회 대구펫쇼​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58731</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58731"/>
+        <updated>2024-02-07T09:10:55.419Z</updated>
+        <content type="html"><![CDATA[2024.02.08(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바딤 네셀로브스키 솔로 피아노 Odesa (대구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58717"/>
         <updated>2024-02-06T05:10:07.715Z</updated>
         <content type="html"><![CDATA[2024.02.08(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 오빠시대 전국투어 콘서트 <다시, 젊은 그대로> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58716</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58716"/>
-        <updated>2024-02-06T05:10:07.716Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 05:00]]></content>
     </entry>
 </feed>
