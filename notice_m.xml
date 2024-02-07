@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-07T06:13:04.961Z</updated>
+    <updated>2024-02-07T07:09:41.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바딤 네셀로브스키 솔로 피아노 Odesa (대구) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58730</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58730"/>
+        <updated>2024-02-07T07:09:40.609Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베르트 반 덴 브링크 & 안준형 (세종)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58729</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58729"/>
+        <updated>2024-02-07T07:09:40.611Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베르트 반 덴 브링크 & 안준형 (대구)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58728</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58728"/>
+        <updated>2024-02-07T07:09:40.612Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매직버블쇼 - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58727</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58716"/>
         <updated>2024-02-06T05:10:07.716Z</updated>
         <content type="html"><![CDATA[2024.02.08(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 재즈 피아노 페스티벌 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58715</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58715"/>
-        <updated>2024-02-06T01:42:03.471Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 안성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58714</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58714"/>
-        <updated>2024-02-06T01:42:03.472Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 봉산문화회관 기획 <소프라노 조현진의 우리가 사랑한 샹송>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58713</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58713"/>
-        <updated>2024-02-05T09:10:47.179Z</updated>
-        <content type="html"><![CDATA[2024.02.07(수) 01:00]]></content>
     </entry>
 </feed>
