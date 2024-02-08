@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-08T02:15:46.655Z</updated>
+    <updated>2024-02-08T03:12:09.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 TEMPEST FAN CONCERT UNiEVERSITY 선예매 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58733</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58733"/>
+        <updated>2024-02-08T03:12:08.464Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 번개맨<전설의 시작> - 제주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58732</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58719"/>
         <updated>2024-02-06T06:13:40.703Z</updated>
         <content type="html"><![CDATA[2024.02.08(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 2am Concert “One Take” – 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58718</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58718"/>
-        <updated>2024-02-06T05:10:07.713Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 11:00]]></content>
     </entry>
 </feed>
