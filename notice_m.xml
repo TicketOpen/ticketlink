@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-08T06:14:11.626Z</updated>
+    <updated>2024-02-08T07:11:55.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너드커넥션 X D82 < SUDDENLY FESTIVAL > - 수원​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58738</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58738"/>
+        <updated>2024-02-08T07:11:54.711Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​데이브레이크 X 라쿠나 < SUDDENLY FESTIVAL > - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58737</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58737"/>
+        <updated>2024-02-08T07:11:54.711Z</updated>
+        <content type="html"><![CDATA[2024.02.14(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” - 서울 앵콜​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58736</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58724"/>
         <updated>2024-02-07T02:15:25.522Z</updated>
         <content type="html"><![CDATA[2024.02.13(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58723</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58723"/>
-        <updated>2024-02-07T04:12:28.956Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <파워레인저 다이노포스 - 새로운 세계> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58722</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58722"/>
-        <updated>2024-02-07T04:12:28.956Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 02:00]]></content>
     </entry>
 </feed>
