@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-08T00:42:41.971Z</updated>
+    <updated>2024-02-08T01:41:33.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -97,7 +97,7 @@
         <content type="html"><![CDATA[2024.02.08(목) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 2am Concert "One Take" – 부산​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024 2am Concert “One Take” – 부산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58718</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58718"/>
         <updated>2024-02-06T05:10:07.713Z</updated>
