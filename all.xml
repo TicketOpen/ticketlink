@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-08T03:12:09.156Z</updated>
+    <updated>2024-02-08T04:12:49.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 1차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58735</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58735"/>
+        <updated>2024-02-08T04:12:40.193Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.13(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <파워레인저 다이노포스 - 새로운 세계> - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58734</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58734"/>
+        <updated>2024-02-08T04:12:40.195Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.15(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 TEMPEST FAN CONCERT UNiEVERSITY 선예매 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58733</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.15(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 이솔로몬 팬서트 봄맞이 청문회​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58720</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58720"/>
-        <updated>2024-02-06T09:10:14.280Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 11:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58735</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58735"/>
+        <updated>2024-02-08T04:12:49.165Z</updated>
+        <content type="html"><![CDATA[2024.02.13(화) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58719</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58719"/>
-        <updated>2024-02-06T06:13:33.289Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.08(목) 03:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <파워레인저 다이노포스 - 새로운 세계> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58734</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58734"/>
+        <updated>2024-02-08T04:12:49.165Z</updated>
+        <content type="html"><![CDATA[2024.02.15(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 TEMPEST FAN CONCERT UNiEVERSITY 선예매 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58721"/>
         <updated>2024-02-07T01:41:03.535Z</updated>
         <content type="html"><![CDATA[2024.02.15(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이솔로몬 팬서트 봄맞이 청문회​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58720</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58720"/>
-        <updated>2024-02-06T09:10:21.509Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58719</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58719"/>
-        <updated>2024-02-06T06:13:40.703Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 03:00]]></content>
     </entry>
 </feed>
