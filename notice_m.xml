@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-08T01:41:33.000Z</updated>
+    <updated>2024-02-08T02:15:46.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 번개맨<전설의 시작> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58732</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58732"/>
+        <updated>2024-02-08T02:15:46.026Z</updated>
+        <content type="html"><![CDATA[2024.02.13(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제21회 대구펫쇼​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58731</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58718"/>
         <updated>2024-02-06T05:10:07.713Z</updated>
         <content type="html"><![CDATA[2024.02.08(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 햇님달님 <떡 하나 주면 안잡아 먹지> - 부산 신세계​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58717</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58717"/>
-        <updated>2024-02-06T05:10:07.715Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 00:00]]></content>
     </entry>
 </feed>
