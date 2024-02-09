@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-09T13:10:20.390Z</updated>
+    <updated>2024-02-09T14:09:28.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 제 137회 정기연주회 '새로운 30년, 그 서막(序幕)을 열다'​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58743</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58743"/>
+        <updated>2024-02-09T14:09:21.868Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <인연> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58742</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58729</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58729"/>
         <updated>2024-02-07T07:09:34.891Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베르트 반 덴 브링크 & 안준형 (대구)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58728</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58728"/>
-        <updated>2024-02-07T07:09:34.894Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 01:00]]></content>
     </entry>
 </feed>
