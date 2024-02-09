@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-09T10:10:48.517Z</updated>
+    <updated>2024-02-09T11:08:53.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <인연> - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58742</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58742"/>
+        <updated>2024-02-09T11:08:45.449Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 울산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58741</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58728</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58728"/>
         <updated>2024-02-07T07:09:34.894Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직버블쇼 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58727</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58727"/>
-        <updated>2024-02-07T06:12:56.718Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 01:00]]></content>
     </entry>
 </feed>
