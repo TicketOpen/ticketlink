@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-13T00:43:56.257Z</updated>
+    <updated>2024-02-13T01:42:37.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 슈만 - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58747</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58747"/>
+        <updated>2024-02-13T01:42:36.639Z</updated>
+        <content type="html"><![CDATA[2024.02.19(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번개맨 야호 뿡뿡이 EBS친구들 〈EBS-이벤져스 라이브〉 - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58746</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58732"/>
         <updated>2024-02-08T02:15:46.026Z</updated>
         <content type="html"><![CDATA[2024.02.13(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제21회 대구펫쇼​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58731</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58731"/>
-        <updated>2024-02-07T09:10:55.419Z</updated>
-        <content type="html"><![CDATA[2024.02.08(목) 05:00]]></content>
     </entry>
 </feed>
