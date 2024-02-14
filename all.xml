@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-14T05:11:34.262Z</updated>
+    <updated>2024-02-14T06:13:50.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미스트> 1차​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58754</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58754"/>
+        <updated>2024-02-14T06:13:41.977Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <아트> 3차​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58753</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58753"/>
+        <updated>2024-02-14T06:13:41.981Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​꾸러기음악회 <봄이 오는 소리> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58752</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58752"/>
         <updated>2024-02-14T03:11:55.353Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] YOON SAN-HA : SANiGHT Project #1 – 바램​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58751</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58751"/>
+        <updated>2024-02-14T06:13:41.981Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.15(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] MOTIV-ATION 변희상 장지후 FANCERT < In > 티켓 오픈 안내​ (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 수성아트피아 명품시리즈 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58739</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58739"/>
-        <updated>2024-02-08T08:12:49.605Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.15(목) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <미스트> 1차​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58754</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58754"/>
+        <updated>2024-02-14T06:13:49.569Z</updated>
+        <content type="html"><![CDATA[2024.02.16(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너드커넥션 X D82 < SUDDENLY FESTIVAL > - 수원​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58738</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58738"/>
-        <updated>2024-02-08T07:11:48.843Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​데이브레이크 X 라쿠나 < SUDDENLY FESTIVAL > - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58737</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58737"/>
-        <updated>2024-02-08T07:11:48.844Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 05:00]]></content>
+        <title type="html"><![CDATA[연극 <아트> 3차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58753</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58753"/>
+        <updated>2024-02-14T06:13:49.570Z</updated>
+        <content type="html"><![CDATA[2024.02.20(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​꾸러기음악회 <봄이 오는 소리> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58752"/>
         <updated>2024-02-14T03:12:03.046Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] YOON SAN-HA : SANiGHT Project #1 – 바램​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58751</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58751"/>
+        <updated>2024-02-14T06:13:49.575Z</updated>
+        <content type="html"><![CDATA[2024.02.15(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] MOTIV-ATION 변희상 장지후 FANCERT < In > 티켓 오픈 안내​ (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58740"/>
         <updated>2024-02-08T09:11:02.618Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 수성아트피아 명품시리즈 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58739</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58739"/>
-        <updated>2024-02-08T08:12:58.493Z</updated>
-        <content type="html"><![CDATA[2024.02.15(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너드커넥션 X D82 < SUDDENLY FESTIVAL > - 수원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58738</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58738"/>
-        <updated>2024-02-08T07:11:54.711Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​데이브레이크 X 라쿠나 < SUDDENLY FESTIVAL > - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58737</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58737"/>
-        <updated>2024-02-08T07:11:54.711Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 05:00]]></content>
     </entry>
 </feed>
