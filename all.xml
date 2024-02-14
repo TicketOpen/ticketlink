@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-14T02:16:39.169Z</updated>
+    <updated>2024-02-14T03:12:03.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​꾸러기음악회 <봄이 오는 소리> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58752</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58752"/>
+        <updated>2024-02-14T03:11:55.353Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] MOTIV-ATION 변희상 장지후 FANCERT < In > 티켓 오픈 안내​ (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58750</id>
@@ -19,7 +26,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.15(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] BEBE 1ST FAN METTING “BEBI DAY” 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] BEBE 1ST FAN MEETING “BEBI DAY” 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58748</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58748"/>
         <updated>2024-02-13T05:10:04.224Z</updated>
@@ -37,6 +44,13 @@
         <id>http://www.ticketlink.co.kr/help/notice/58746</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58746"/>
         <updated>2024-02-12T08:13:28.872Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  DSAC 시즌 콘서트 <인디 스테이션 : 김사월X한로로> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58745</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58745"/>
+        <updated>2024-02-14T03:11:55.357Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 05:00]]></content>
     </entry>
     <entry>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” - 서울 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58736</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58736"/>
-        <updated>2024-02-08T05:12:25.141Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.14(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 1차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58735</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58735"/>
-        <updated>2024-02-08T04:12:40.193Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.13(화) 04:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​꾸러기음악회 <봄이 오는 소리> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58752</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58752"/>
+        <updated>2024-02-14T03:12:03.046Z</updated>
+        <content type="html"><![CDATA[2024.02.16(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] MOTIV-ATION 변희상 장지후 FANCERT < In > 티켓 오픈 안내​ (티켓링크 모바일)]]></title>
@@ -124,7 +131,7 @@
         <content type="html"><![CDATA[2024.02.15(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] BEBE 1ST FAN METTING “BEBI DAY” 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] BEBE 1ST FAN MEETING “BEBI DAY” 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58748</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58748"/>
         <updated>2024-02-13T05:10:12.130Z</updated>
@@ -142,6 +149,13 @@
         <id>http://m.ticketlink.co.kr/help/notice/58746</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58746"/>
         <updated>2024-02-12T08:13:37.479Z</updated>
+        <content type="html"><![CDATA[2024.02.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  DSAC 시즌 콘서트 <인디 스테이션 : 김사월X한로로> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58745</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58745"/>
+        <updated>2024-02-14T03:12:03.054Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 05:00]]></content>
     </entry>
     <entry>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58737"/>
         <updated>2024-02-08T07:11:54.711Z</updated>
         <content type="html"><![CDATA[2024.02.14(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허용별 콘서트 : 보컬 전쟁 “The War of Vocalists” - 서울 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58736</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58736"/>
-        <updated>2024-02-08T05:12:31.232Z</updated>
-        <content type="html"><![CDATA[2024.02.14(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58735</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58735"/>
-        <updated>2024-02-08T04:12:49.165Z</updated>
-        <content type="html"><![CDATA[2024.02.13(화) 04:00]]></content>
     </entry>
 </feed>
