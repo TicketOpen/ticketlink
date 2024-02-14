@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-14T01:43:15.861Z</updated>
+    <updated>2024-02-14T02:16:39.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] MOTIV-ATION 변희상 장지후 FANCERT < In > 티켓 오픈 안내​]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58750</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58750"/>
+        <updated>2024-02-14T02:16:32.086Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이마술쇼 - 공주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58749</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58735"/>
         <updated>2024-02-08T04:12:40.193Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.13(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <파워레인저 다이노포스 - 새로운 세계> - 대전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58734</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58734"/>
-        <updated>2024-02-08T04:12:40.195Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.15(목) 02:00]]></content>
     </entry>
 </feed>
