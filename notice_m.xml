@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-15T01:43:01.436Z</updated>
+    <updated>2024-02-15T02:17:26.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이은결 〈MAGIC & ILLUSION〉 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58767</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58767"/>
+        <updated>2024-02-15T02:17:25.745Z</updated>
+        <content type="html"><![CDATA[2024.02.23(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서〉​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58766</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58753"/>
         <updated>2024-02-14T06:13:49.570Z</updated>
         <content type="html"><![CDATA[2024.02.20(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​꾸러기음악회 <봄이 오는 소리> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58752</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58752"/>
-        <updated>2024-02-14T03:12:03.046Z</updated>
-        <content type="html"><![CDATA[2024.02.16(금) 00:00]]></content>
     </entry>
 </feed>
