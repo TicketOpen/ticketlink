@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-14T23:10:31.672Z</updated>
+    <updated>2024-02-15T00:43:55.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김보경 클라리넷 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58765</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58765"/>
+        <updated>2024-02-15T00:43:54.341Z</updated>
+        <content type="html"><![CDATA[2024.02.15(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2024 대백프라자) 빨간모자와 늑대 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58764</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58764"/>
+        <updated>2024-02-15T00:43:54.341Z</updated>
+        <content type="html"><![CDATA[2024.02.16(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] (2024 대백프라자) 펀펀매직쇼​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58763</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58751"/>
         <updated>2024-02-14T06:13:49.575Z</updated>
         <content type="html"><![CDATA[2024.02.15(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] MOTIV-ATION 변희상 장지후 FANCERT < In > 티켓 오픈 안내​]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58750</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58750"/>
-        <updated>2024-02-14T02:16:38.457Z</updated>
-        <content type="html"><![CDATA[2024.02.16(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 공주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58749</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58749"/>
-        <updated>2024-02-13T09:10:19.582Z</updated>
-        <content type="html"><![CDATA[2024.02.15(목) 02:00]]></content>
     </entry>
 </feed>
