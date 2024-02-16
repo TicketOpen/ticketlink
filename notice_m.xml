@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-16T04:12:09.101Z</updated>
+    <updated>2024-02-16T05:10:54.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58788</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58788"/>
+        <updated>2024-02-16T05:10:54.032Z</updated>
+        <content type="html"><![CDATA[2024.02.22(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58787</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58787"/>
+        <updated>2024-02-16T05:10:54.032Z</updated>
+        <content type="html"><![CDATA[2024.02.22(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[성남] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58786</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58786"/>
+        <updated>2024-02-16T05:10:54.034Z</updated>
+        <content type="html"><![CDATA[2024.02.20(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] PAYCO 로그인 오류 조치 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58785</id>
@@ -87,27 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58774</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58774"/>
         <updated>2024-02-15T05:12:44.463Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 수성아트피아 마티네 Mini Album : track 9. 더블베이스 성민제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58773</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58773"/>
-        <updated>2024-02-15T05:12:44.464Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 수성아트피아 마티네 : track 7. 바이올린 임동민 & 피아노 일리야 라쉬코프스키 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58772</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58772"/>
-        <updated>2024-02-15T05:12:44.464Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 수성아트피아 마티네 Mini Album : track 5. 첼로 심준호 티켓오픈 안내 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58771</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58771"/>
-        <updated>2024-02-15T05:12:44.466Z</updated>
         <content type="html"><![CDATA[2024.02.22(목) 05:00]]></content>
     </entry>
 </feed>
