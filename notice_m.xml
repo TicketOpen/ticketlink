@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-16T07:10:14.281Z</updated>
+    <updated>2024-02-16T08:13:06.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공지] KB증권 전산작업으로 인한 결제서비스 일시중단 안내(02/18)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58791</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58791"/>
+        <updated>2024-02-16T08:13:05.813Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/58791" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> KB증권 전산작업으로 인한 결제서비스 일시중단 안내(02/18)</h3></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공지] 저축은행중앙회 전산작업으로 인한 결제서비스 일시중단 안내(02/17)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58790</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58790"/>
+        <updated>2024-02-16T08:13:05.815Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/58790" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 저축은행중앙회 전산작업으로 인한 결제서비스 일시중단 안내(02/17)</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] PMPS 2024 SEASON 0 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58789</id>
@@ -38,7 +52,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/58785</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58785"/>
         <updated>2024-02-16T02:16:33.844Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/58785" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] PAYCO 로그인 오류 조치 안내</h3></a>]]></content>
+        <content type="html"><![CDATA[<a href="/help/notice/58785" class="info_wrap"><strong class="label">기타</strong><h3 class="tit"><b>[공지]</b> PAYCO 로그인 오류 조치 안내</h3></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : “전율” 정동하X소향 - 광주 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58777"/>
         <updated>2024-02-15T08:14:29.080Z</updated>
         <content type="html"><![CDATA[2024.02.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 봄맞이 음악회 - 삼척​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58776</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58776"/>
-        <updated>2024-02-15T07:09:21.658Z</updated>
-        <content type="html"><![CDATA[2024.02.21(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 수성아트피아 마티네 Mini Album : track 12. 테너 김세일 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58775</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58775"/>
-        <updated>2024-02-15T05:12:44.461Z</updated>
-        <content type="html"><![CDATA[2024.02.22(목) 05:00]]></content>
     </entry>
 </feed>
