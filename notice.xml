@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-16T08:13:06.422Z</updated>
+    <updated>2024-02-16T09:10:35.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립합창단 제195회 정기연주회 「신춘음악회 ‘봄, 합창으로 노래하다’」​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58793</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58793"/>
+        <updated>2024-02-16T09:10:25.832Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Soundberry Theater 일반티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58792</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58792"/>
+        <updated>2024-02-16T09:10:25.833Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.19(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] KB증권 전산작업으로 인한 결제서비스 일시중단 안내(02/18)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58791</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58779"/>
         <updated>2024-02-16T00:42:27.454Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​코리아아르츠그룹 베스트 아티스트 시리즈 1 `The Best Sopranos`​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58778</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58778"/>
-        <updated>2024-02-15T08:14:20.247Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더클래식 30주년 콘서트 ‘1994’ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58777</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58777"/>
-        <updated>2024-02-15T08:14:20.249Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.16(금) 05:00]]></content>
     </entry>
 </feed>
