@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-18T23:09:57.911Z</updated>
+    <updated>2024-02-19T00:44:13.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[인피니티 플라잉 - 경주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58798</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58798"/>
+        <updated>2024-02-19T00:44:04.345Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 용인 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58797</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58797"/>
+        <updated>2024-02-19T00:44:04.345Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대구시민오케스트라 정기연주회 <봄날의 클래식 그리고..> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58796</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58796"/>
+        <updated>2024-02-19T00:44:04.346Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이마술쇼-김해 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58795</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58795"/>
+        <updated>2024-02-19T00:44:04.346Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그림이 오감를 만났을때 "감각주의" - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58794</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58794"/>
+        <updated>2024-02-19T00:44:04.347Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립합창단 제195회 정기연주회 「신춘음악회 ‘봄, 합창으로 노래하다’」​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58793</id>
@@ -75,39 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  (2024 롯데백화점 영등포) 벌룬매직쇼​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58783</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58783"/>
-        <updated>2024-02-16T01:42:12.324Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 00:00]]></content>
+        <title type="html"><![CDATA[인피니티 플라잉 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58798</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58798"/>
+        <updated>2024-02-19T00:44:13.241Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  (2024 롯데백화점 영등포) 아기돼지 삼형제​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58782</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58782"/>
-        <updated>2024-02-16T01:42:12.325Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58797</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58797"/>
+        <updated>2024-02-19T00:44:13.241Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​(2024 롯데백화점 영등포) 신데렐라​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58781</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58781"/>
-        <updated>2024-02-16T01:42:12.325Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 00:00]]></content>
+        <title type="html"><![CDATA[대구시민오케스트라 정기연주회 <봄날의 클래식 그리고..> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58796</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58796"/>
+        <updated>2024-02-19T00:44:13.246Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​(2024) 사과가 쿵! - 부산 신세계​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58780</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58780"/>
-        <updated>2024-02-16T00:42:27.454Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 00:00]]></content>
+        <title type="html"><![CDATA[어린이마술쇼-김해 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58795</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58795"/>
+        <updated>2024-02-19T00:44:13.247Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58779</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58779"/>
-        <updated>2024-02-16T00:42:27.454Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 00:00]]></content>
+        <title type="html"><![CDATA[그림이 오감를 만났을때 "감각주의" - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58794</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58794"/>
+        <updated>2024-02-19T00:44:13.247Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립합창단 제195회 정기연주회 「신춘음악회 ‘봄, 합창으로 노래하다’」​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58784"/>
         <updated>2024-02-16T00:42:34.815Z</updated>
         <content type="html"><![CDATA[2024.02.20(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  (2024 롯데백화점 영등포) 벌룬매직쇼​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58783</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58783"/>
-        <updated>2024-02-16T01:42:20.137Z</updated>
-        <content type="html"><![CDATA[2024.02.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  (2024 롯데백화점 영등포) 아기돼지 삼형제​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58782</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58782"/>
-        <updated>2024-02-16T01:42:20.137Z</updated>
-        <content type="html"><![CDATA[2024.02.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​(2024 롯데백화점 영등포) 신데렐라​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58781</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58781"/>
-        <updated>2024-02-16T01:42:20.138Z</updated>
-        <content type="html"><![CDATA[2024.02.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​(2024) 사과가 쿵! - 부산 신세계​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58780</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58780"/>
-        <updated>2024-02-16T00:42:34.821Z</updated>
-        <content type="html"><![CDATA[2024.02.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58779</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58779"/>
-        <updated>2024-02-16T00:42:34.826Z</updated>
-        <content type="html"><![CDATA[2024.02.20(화) 00:00]]></content>
     </entry>
 </feed>
