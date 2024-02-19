@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-19T06:14:04.793Z</updated>
+    <updated>2024-02-19T07:11:40.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​연극 “비평가 (El critico)” - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -24,6 +24,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58809"/>
         <updated>2024-02-19T05:11:18.642Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 춘천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58808</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58808"/>
+        <updated>2024-02-19T07:11:33.000Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 YB TOUR LIGHTS ; INFINITY  - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그림이 오감를 만났을때 "감각주의" - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58794</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58794"/>
-        <updated>2024-02-19T00:44:04.347Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매]  ​연극 “비평가 (El critico)” - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58811</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58811"/>
@@ -129,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58809"/>
         <updated>2024-02-19T05:11:25.756Z</updated>
         <content type="html"><![CDATA[2024.02.21(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 춘천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58808</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58808"/>
+        <updated>2024-02-19T07:11:40.309Z</updated>
+        <content type="html"><![CDATA[2024.02.21(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 YB TOUR LIGHTS ; INFINITY  - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58795"/>
         <updated>2024-02-19T00:44:13.247Z</updated>
         <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림이 오감를 만났을때 "감각주의" - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58794</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58794"/>
-        <updated>2024-02-19T00:44:13.247Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 01:00]]></content>
     </entry>
 </feed>
