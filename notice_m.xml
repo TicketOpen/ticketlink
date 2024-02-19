@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-19T07:11:40.899Z</updated>
+    <updated>2024-02-19T08:13:48.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[2024.02.21(수) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 GSL 시즌1​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58807</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58807"/>
+        <updated>2024-02-19T08:13:47.582Z</updated>
+        <content type="html"><![CDATA[2024.02.23(금) 08:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 YB TOUR LIGHTS ; INFINITY  - 원주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58806</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58806"/>
@@ -46,6 +53,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58805"/>
         <updated>2024-02-19T05:11:25.774Z</updated>
         <content type="html"><![CDATA[2024.02.23(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 스카페스티벌<스핀오프> 얼리버드 한정수량 할인예매​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58804</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58804"/>
+        <updated>2024-02-19T08:13:47.587Z</updated>
+        <content type="html"><![CDATA[2024.02.22(목) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조희창의[토요∙클래식∙살롱] - ll 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58797</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58797"/>
         <updated>2024-02-19T00:44:13.241Z</updated>
-        <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구시민오케스트라 정기연주회 <봄날의 클래식 그리고..> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58796</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58796"/>
-        <updated>2024-02-19T00:44:13.246Z</updated>
-        <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술쇼-김해 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58795</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58795"/>
-        <updated>2024-02-19T00:44:13.247Z</updated>
         <content type="html"><![CDATA[2024.02.21(수) 00:00]]></content>
     </entry>
 </feed>
