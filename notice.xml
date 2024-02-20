@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-20T05:11:16.731Z</updated>
+    <updated>2024-02-20T06:13:59.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​피아노 배틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58818</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58818"/>
+        <updated>2024-02-20T06:13:51.304Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] BEBE 1ST FAN MEETING “BEBI DAY” 추가 회차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58817</id>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피아노 배틀​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[피아노 배틀 - 대전​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58809</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58809"/>
         <updated>2024-02-19T05:11:18.642Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58804"/>
         <updated>2024-02-19T08:13:41.806Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조희창의[토요∙클래식∙살롱] - ll 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58803</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58803"/>
-        <updated>2024-02-19T05:11:18.648Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
     </entry>
 </feed>
