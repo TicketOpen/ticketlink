@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-20T02:15:00.477Z</updated>
+    <updated>2024-02-20T03:11:21.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시발레단 창단 사전 공연 <봄의 제전> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58816</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58816"/>
+        <updated>2024-02-20T03:11:12.934Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROCK SPRING 2024 - 나른한 봄날의 신나는 Rock Party! -​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58815</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58815"/>
+        <updated>2024-02-20T03:11:12.943Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 부산앵콜​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58814</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58802"/>
         <updated>2024-02-19T05:11:18.650Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 레인보우 버블젬<흩어진 버블젬을 찾아라!> - 구로 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58801</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58801"/>
-        <updated>2024-02-19T05:11:18.651Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 안성 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58800</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58800"/>
-        <updated>2024-02-19T04:12:17.852Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.23(금) 02:00]]></content>
     </entry>
 </feed>
