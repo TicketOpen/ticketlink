@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-21T06:13:40.349Z</updated>
+    <updated>2024-02-21T07:10:07.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58833"/>
         <updated>2024-02-21T06:13:32.186Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FC 모바일 - 명가의 탄생​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58832</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58832"/>
+        <updated>2024-02-21T07:09:57.987Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김영임의 소리 ‘효’ 대공연 - 성남​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58820"/>
         <updated>2024-02-20T08:13:05.169Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​지브리 페스티벌​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58819</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58819"/>
-        <updated>2024-02-20T08:13:05.179Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 07:00]]></content>
     </entry>
 </feed>
