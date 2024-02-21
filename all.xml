@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-21T04:12:32.220Z</updated>
+    <updated>2024-02-21T05:09:54.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE) 1차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58830</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58830"/>
+        <updated>2024-02-21T05:09:47.942Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제15회 대구꽃박람회 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58829</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROCK SPRING 2024 - 나른한 봄날의 신나는 Rock Party! -​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58815</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58815"/>
-        <updated>2024-02-20T03:11:12.943Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 03:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE) 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58830</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58830"/>
+        <updated>2024-02-21T05:09:53.879Z</updated>
+        <content type="html"><![CDATA[2024.02.26(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제15회 대구꽃박람회 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58816"/>
         <updated>2024-02-20T03:11:20.657Z</updated>
         <content type="html"><![CDATA[2024.02.21(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCK SPRING 2024 - 나른한 봄날의 신나는 Rock Party! -​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58815</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58815"/>
-        <updated>2024-02-20T03:11:20.661Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 03:00]]></content>
     </entry>
 </feed>
