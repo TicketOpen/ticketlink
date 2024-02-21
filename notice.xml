@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-20T23:09:39.387Z</updated>
+    <updated>2024-02-21T00:44:10.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제15회 대구꽃박람회 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58829</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58829"/>
+        <updated>2024-02-21T00:44:03.549Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 안양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58828</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58828"/>
+        <updated>2024-02-21T00:44:03.553Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.23(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 대전앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58827</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58827"/>
+        <updated>2024-02-21T00:44:03.555Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.23(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 버블 매직쇼 - 순천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58826</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58826"/>
+        <updated>2024-02-21T00:44:03.555Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.23(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  이찬구와 함께하는 푸치니 오페라 <라보엠> - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58825</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58825"/>
+        <updated>2024-02-21T00:44:03.555Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 어린이마술쇼 - 목포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58824</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58824"/>
+        <updated>2024-02-21T00:44:03.556Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라푼젤 - 화성누림​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58823</id>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58815"/>
         <updated>2024-02-20T03:11:12.943Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 부산앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58814</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58814"/>
-        <updated>2024-02-20T02:14:51.419Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 광주앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58813</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58813"/>
-        <updated>2024-02-20T02:14:51.428Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.20(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 인천앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58812</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58812"/>
-        <updated>2024-02-20T01:41:17.162Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.22(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​연극 “비평가 (El critico)” - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58811</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58811"/>
-        <updated>2024-02-19T06:13:56.201Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 382회 정기연주회 ‘Klimax’ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58810</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58810"/>
-        <updated>2024-02-19T05:11:18.641Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아노 배틀 - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58809</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58809"/>
-        <updated>2024-02-19T05:11:18.642Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.21(수) 05:00]]></content>
     </entry>
 </feed>
