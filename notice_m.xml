@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-22T08:13:32.388Z</updated>
+    <updated>2024-02-22T09:11:13.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대전] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58841</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58841"/>
+        <updated>2024-02-22T09:11:12.821Z</updated>
+        <content type="html"><![CDATA[2024.02.26(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <누가 내 머리에 똥 쌌어?> - 양산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58840</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58827"/>
         <updated>2024-02-21T00:44:09.541Z</updated>
         <content type="html"><![CDATA[2024.02.23(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 버블 매직쇼 - 순천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58826</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58826"/>
-        <updated>2024-02-21T00:44:09.542Z</updated>
-        <content type="html"><![CDATA[2024.02.23(금) 05:00]]></content>
     </entry>
 </feed>
