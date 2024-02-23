@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-23T06:13:59.586Z</updated>
+    <updated>2024-02-23T07:11:07.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[서울시향과 함께하는 키즈 콘서트 ‘클래식 음악여행’​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58855</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58855"/>
+        <updated>2024-02-23T07:10:59.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 서울시향 퇴근길 콘서트 ‘영화보다 빛나는 영화음악’​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58854</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58854"/>
+        <updated>2024-02-23T07:10:59.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번개맨 야호 뿡뿡이 EBS친구들 〈EBS-이벤져스 라이브〉 - 구리​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58853</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <누가 내 머리에 똥 쌌어?> - 양산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58840</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58840"/>
-        <updated>2024-02-22T07:10:13.699Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
+        <title type="html"><![CDATA[서울시향과 함께하는 키즈 콘서트 ‘클래식 음악여행’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58855</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58855"/>
+        <updated>2024-02-23T07:11:07.301Z</updated>
+        <content type="html"><![CDATA[2024.02.27(화) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 안성​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58839</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58839"/>
-        <updated>2024-02-22T05:10:04.331Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 01:00]]></content>
+        <title type="html"><![CDATA[2024 서울시향 퇴근길 콘서트 ‘영화보다 빛나는 영화음악’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58854</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58854"/>
+        <updated>2024-02-23T07:11:07.301Z</updated>
+        <content type="html"><![CDATA[2024.02.27(화) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[번개맨 야호 뿡뿡이 EBS친구들 〈EBS-이벤져스 라이브〉 - 구리​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58841"/>
         <updated>2024-02-22T09:11:12.821Z</updated>
         <content type="html"><![CDATA[2024.02.26(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <누가 내 머리에 똥 쌌어?> - 양산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58840</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58840"/>
-        <updated>2024-02-22T07:10:22.469Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 안성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58839</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58839"/>
-        <updated>2024-02-22T05:10:10.871Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 01:00]]></content>
     </entry>
 </feed>
