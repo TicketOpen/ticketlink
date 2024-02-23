@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-23T05:11:34.491Z</updated>
+    <updated>2024-02-23T06:13:59.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[번개맨 야호 뿡뿡이 EBS친구들 〈EBS-이벤져스 라이브〉 - 구리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58853</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58853"/>
+        <updated>2024-02-23T06:13:51.304Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.29(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 부천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58852</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58852"/>
+        <updated>2024-02-23T06:13:51.305Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.28(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 대구 티켓오픈 안내​]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58851</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58851"/>
+        <updated>2024-02-23T06:13:51.306Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.28(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <파워레인저 다이노포스 - 새로운 세계> - 천안​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58850</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58839"/>
         <updated>2024-02-22T05:10:04.331Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 여행 서비스 점검 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58838</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58838"/>
-        <updated>2024-02-22T02:15:47.149Z</updated>
-        <content type="html"><![CDATA[2024.02.22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 김해​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58837</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58837"/>
-        <updated>2024-02-22T05:10:04.332Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 여주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58836</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58836"/>
-        <updated>2024-02-22T01:41:55.940Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 01:00]]></content>
     </entry>
 </feed>
