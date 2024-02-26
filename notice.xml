@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-26T00:44:39.078Z</updated>
+    <updated>2024-02-26T01:44:06.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58861</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58861"/>
+        <updated>2024-02-26T01:43:58.004Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.29(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58860</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58860"/>
+        <updated>2024-02-26T01:43:58.009Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.29(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECO Friend X ifland Music Festival: Better Together 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58859</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58847"/>
         <updated>2024-02-23T03:10:46.530Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  젊은 예술가 리사이틀 시리즈 <피아니스트 윤유정> - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58846</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58846"/>
-        <updated>2024-02-23T00:42:36.321Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  해설이 있는 음악회 <웨이브라스> - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58845</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58845"/>
-        <updated>2024-02-23T00:42:36.321Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 05:00]]></content>
     </entry>
 </feed>
