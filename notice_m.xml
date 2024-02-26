@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-26T09:11:32.134Z</updated>
+    <updated>2024-02-26T10:11:33.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮌헨 소년 합창단​ - 의정부 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58869</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58869"/>
+        <updated>2024-02-26T10:11:32.934Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮌헨 소년 합창단​ - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58868</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58868"/>
+        <updated>2024-02-26T10:11:32.936Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮌헨 소년 합창단​ - 구미 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58867</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58867"/>
+        <updated>2024-02-26T10:11:32.936Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮌헨 소년 합창단​ - 순천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58866</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58866"/>
+        <updated>2024-02-26T10:11:32.936Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮌헨 소년 합창단​ - 목포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58865</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58865"/>
+        <updated>2024-02-26T10:11:32.936Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮌헨 소년 합창단 - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58864</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58864"/>
+        <updated>2024-02-26T10:11:32.936Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립교향악단 체임버 시리즈 Ⅲ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58862</id>
@@ -67,47 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58854"/>
         <updated>2024-02-23T07:11:07.301Z</updated>
         <content type="html"><![CDATA[2024.02.27(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번개맨 야호 뿡뿡이 EBS친구들 〈EBS-이벤져스 라이브〉 - 구리​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58853</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58853"/>
-        <updated>2024-02-23T06:13:58.982Z</updated>
-        <content type="html"><![CDATA[2024.02.29(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 부천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58852</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58852"/>
-        <updated>2024-02-23T06:13:58.984Z</updated>
-        <content type="html"><![CDATA[2024.02.28(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 대구 티켓오픈 안내​]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58851</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58851"/>
-        <updated>2024-02-23T06:13:58.986Z</updated>
-        <content type="html"><![CDATA[2024.02.28(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <파워레인저 다이노포스 - 새로운 세계> - 천안​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58850</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58850"/>
-        <updated>2024-02-23T05:11:33.861Z</updated>
-        <content type="html"><![CDATA[2024.02.28(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​메트로폴리탄 오페라 오케스트라​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58849</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58849"/>
-        <updated>2024-02-23T05:11:33.862Z</updated>
-        <content type="html"><![CDATA[2024.02.29(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​‘바다콘서트’ 버블버블 인어공주 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58848</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58848"/>
-        <updated>2024-02-23T03:10:52.798Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 00:00]]></content>
     </entry>
 </feed>
