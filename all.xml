@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-27T01:41:11.673Z</updated>
+    <updated>2024-02-27T02:15:18.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​알렉산더 말로페예프 피아노 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58871</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58871"/>
+        <updated>2024-02-27T02:15:08.675Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 김해 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58870</id>
@@ -54,6 +61,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 어린이날 특별 서울 공연​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58863</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58863"/>
+        <updated>2024-02-27T02:15:08.688Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립교향악단 체임버 시리즈 Ⅲ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58862</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58862"/>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마비노기 자라섬재즈 빅밴드 Live​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58856</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58856"/>
-        <updated>2024-02-23T08:13:10.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시향과 함께하는 키즈 콘서트 ‘클래식 음악여행’​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58855</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58855"/>
-        <updated>2024-02-23T07:10:59.166Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 04:00]]></content>
+        <title type="html"><![CDATA[​알렉산더 말로페예프 피아노 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58871</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58871"/>
+        <updated>2024-02-27T02:15:17.512Z</updated>
+        <content type="html"><![CDATA[2024.02.27(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 김해 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -159,6 +166,13 @@
         <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 어린이날 특별 서울 공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58863</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58863"/>
+        <updated>2024-02-27T02:15:17.524Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립교향악단 체임버 시리즈 Ⅲ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58862</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58862"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58857"/>
         <updated>2024-02-23T08:13:19.423Z</updated>
         <content type="html"><![CDATA[2024.02.26(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마비노기 자라섬재즈 빅밴드 Live​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58856</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58856"/>
-        <updated>2024-02-23T08:13:19.425Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시향과 함께하는 키즈 콘서트 ‘클래식 음악여행’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58855</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58855"/>
-        <updated>2024-02-23T07:11:07.301Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 04:00]]></content>
     </entry>
 </feed>
