@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-27T04:13:02.554Z</updated>
+    <updated>2024-02-27T05:11:14.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 전상근 단독 콘서트 <하루 끝> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58874</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58874"/>
+        <updated>2024-02-27T05:11:06.401Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 안산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58873</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58873"/>
+        <updated>2024-02-27T05:11:06.403Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 수원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58872</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58872"/>
+        <updated>2024-02-27T05:11:06.405Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​알렉산더 말로페예프 피아노 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58871</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.29(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECO Friend X ifland Music Festival: Better Together 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58859</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58859"/>
-        <updated>2024-02-24T09:08:57.154Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 09:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 전상근 단독 콘서트 <하루 끝> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58874</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58874"/>
+        <updated>2024-02-27T05:11:13.848Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 특선 가족뮤지컬 <인어공주> - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58858</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58858"/>
-        <updated>2024-02-24T01:38:37.754Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 00:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58873</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58873"/>
+        <updated>2024-02-27T05:11:13.848Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[남양주​] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58857</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58857"/>
-        <updated>2024-02-23T08:13:10.183Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.26(월) 01:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58872</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58872"/>
+        <updated>2024-02-27T05:11:13.852Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​알렉산더 말로페예프 피아노 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58860"/>
         <updated>2024-02-26T01:44:05.923Z</updated>
         <content type="html"><![CDATA[2024.02.29(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECO Friend X ifland Music Festival: Better Together 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58859</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58859"/>
-        <updated>2024-02-24T09:09:05.285Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 특선 가족뮤지컬 <인어공주> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58858</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58858"/>
-        <updated>2024-02-24T01:38:46.424Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[남양주​] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58857</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58857"/>
-        <updated>2024-02-23T08:13:19.423Z</updated>
-        <content type="html"><![CDATA[2024.02.26(월) 01:00]]></content>
     </entry>
 </feed>
