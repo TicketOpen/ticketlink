@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-28T05:10:59.047Z</updated>
+    <updated>2024-02-28T06:13:04.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 '판소리 감상회'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58896</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58896"/>
+        <updated>2024-02-28T06:13:03.719Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] UNMIXED : LOWELL STRAIGHT 1st CONCERT​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58895</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58894"/>
         <updated>2024-02-28T05:10:58.457Z</updated>
         <content type="html"><![CDATA[2024.03.05(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미스트> 2차​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58893</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58893"/>
+        <updated>2024-02-28T06:13:03.722Z</updated>
+        <content type="html"><![CDATA[2024.03.04(월) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[경산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58881"/>
         <updated>2024-02-27T06:13:03.901Z</updated>
         <content type="html"><![CDATA[2024.02.28(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58879</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58879"/>
-        <updated>2024-02-27T06:13:03.906Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 안양​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58878</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58878"/>
-        <updated>2024-02-27T06:13:03.907Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 02:00]]></content>
     </entry>
 </feed>
