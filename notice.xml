@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-27T23:10:54.277Z</updated>
+    <updated>2024-02-28T00:43:04.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 강릉​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58887</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58887"/>
+        <updated>2024-02-28T00:42:56.236Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​인어공주 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58886</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58886"/>
+        <updated>2024-02-28T00:42:56.236Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 마법천자문 <한자 마법 대모험> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58885</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58885"/>
+        <updated>2024-02-28T00:42:56.237Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 아빠가 최고야 - 서울꿈빛​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58883</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58871"/>
         <updated>2024-02-27T02:15:08.675Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.02.27(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 김해 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58870</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58870"/>
-        <updated>2024-02-27T00:42:37.077Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.02.29(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮌헨 소년 합창단​ - 의정부 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58869</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58869"/>
-        <updated>2024-02-26T10:11:27.160Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮌헨 소년 합창단​ - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58868</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58868"/>
-        <updated>2024-02-26T10:11:27.163Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
     </entry>
 </feed>
