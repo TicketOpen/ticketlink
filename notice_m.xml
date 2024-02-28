@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-02-28T00:43:04.556Z</updated>
+    <updated>2024-02-28T01:43:19.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[경산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58892</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58892"/>
+        <updated>2024-02-28T01:43:19.103Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도깨비가족마술쇼 - 거제​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58891</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58891"/>
+        <updated>2024-02-28T01:43:19.103Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 이천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58890</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58890"/>
+        <updated>2024-02-28T01:43:19.106Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿈꾸는 안데르센​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58889</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58889"/>
+        <updated>2024-02-28T01:43:19.106Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​국립국악원 「태평이여 오라!」 - 포항​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58888</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58888"/>
+        <updated>2024-02-28T01:43:19.106Z</updated>
+        <content type="html"><![CDATA[2024.03.08(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 강릉​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58887</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58876"/>
         <updated>2024-02-27T06:13:03.908Z</updated>
         <content type="html"><![CDATA[2024.03.04(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 창원​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58875</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58875"/>
-        <updated>2024-02-27T06:13:03.909Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 전상근 단독 콘서트 <하루 끝> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58874</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58874"/>
-        <updated>2024-02-27T05:11:13.848Z</updated>
-        <content type="html"><![CDATA[2024.03.05(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58873</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58873"/>
-        <updated>2024-02-27T05:11:13.848Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58872</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58872"/>
-        <updated>2024-02-27T05:11:13.852Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​알렉산더 말로페예프 피아노 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58871</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58871"/>
-        <updated>2024-02-27T02:15:17.512Z</updated>
-        <content type="html"><![CDATA[2024.02.27(화) 06:00]]></content>
     </entry>
 </feed>
