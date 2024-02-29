@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-02-29T07:11:42.343Z</updated>
+    <updated>2024-02-29T08:13:17.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​첼리스트 허정인 베토벤 첼로 전곡 음반 발매 기념 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58907</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58907"/>
+        <updated>2024-02-29T08:13:09.167Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 인소연 피아노 독주회 - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58906</id>
@@ -18,6 +25,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58905"/>
         <updated>2024-02-29T06:14:12.713Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <친정엄마> 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58904</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58904"/>
+        <updated>2024-02-29T08:13:09.169Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <친정엄마> 부산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58903</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58903"/>
+        <updated>2024-02-29T08:13:09.169Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 금호영재콘서트​​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58893"/>
         <updated>2024-02-28T06:12:55.604Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58892</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58892"/>
-        <updated>2024-02-28T01:43:12.772Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비가족마술쇼 - 거제​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58891</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58891"/>
-        <updated>2024-02-28T01:43:12.774Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 이천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58890</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58890"/>
-        <updated>2024-02-28T01:43:12.776Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
     </entry>
 </feed>
