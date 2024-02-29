@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-29T05:12:07.707Z</updated>
+    <updated>2024-02-29T06:14:20.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 인소연 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58906</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58906"/>
+        <updated>2024-02-29T06:14:12.711Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58905</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58905"/>
+        <updated>2024-02-29T06:14:12.713Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 금호영재콘서트​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58902</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​국립국악원 「태평이여 오라!」 - 포항​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58888</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58888"/>
-        <updated>2024-02-28T01:43:12.776Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.08(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 인소연 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58906</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58906"/>
+        <updated>2024-02-29T06:14:20.280Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 강릉​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58887</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58887"/>
-        <updated>2024-02-28T00:42:56.236Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58905</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58905"/>
+        <updated>2024-02-29T06:14:20.280Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 금호영재콘서트​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58889</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58889"/>
         <updated>2024-02-28T01:43:19.106Z</updated>
-        <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​국립국악원 「태평이여 오라!」 - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58888</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58888"/>
-        <updated>2024-02-28T01:43:19.106Z</updated>
-        <content type="html"><![CDATA[2024.03.08(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 강릉​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58887</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58887"/>
-        <updated>2024-02-28T00:43:03.934Z</updated>
         <content type="html"><![CDATA[2024.03.05(화) 00:00]]></content>
     </entry>
 </feed>
