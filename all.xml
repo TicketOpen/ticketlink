@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-02T06:14:18.896Z</updated>
+    <updated>2024-03-02T07:08:29.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈엄마까투리는 슈퍼맘〉 - 목포 티켓오픈 안내 (티켓링크)]]></title>
@@ -47,7 +47,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 서울 (구로아트밸리)​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58905</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58905"/>
         <updated>2024-02-29T06:14:12.713Z</updated>
@@ -152,7 +152,7 @@
         <content type="html"><![CDATA[2024.03.07(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 서울 (구로아트밸리)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58905</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58905"/>
         <updated>2024-02-29T06:14:20.280Z</updated>
