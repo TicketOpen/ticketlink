@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-02T00:42:19.788Z</updated>
+    <updated>2024-03-02T01:40:00.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈엄마까투리는 슈퍼맘〉 - 목포 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58912</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58912"/>
+        <updated>2024-03-02T01:39:53.192Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 여수 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58911</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58911"/>
+        <updated>2024-03-02T01:39:53.192Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 안산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58910</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58910"/>
+        <updated>2024-03-02T01:39:53.192Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌2 - 과천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58909</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58909"/>
+        <updated>2024-03-02T01:39:53.194Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​첼리스트 허정인 베토벤 첼로 전곡 음반 발매 기념 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58907</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 '판소리 감상회'​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58896</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58896"/>
-        <updated>2024-02-28T06:12:55.603Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 01:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 〈엄마까투리는 슈퍼맘〉 - 목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58912</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58912"/>
+        <updated>2024-03-02T01:39:59.893Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] UNMIXED : LOWELL STRAIGHT 1st CONCERT​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58895</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58895"/>
-        <updated>2024-02-28T05:10:50.829Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 09:00]]></content>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58911</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58911"/>
+        <updated>2024-03-02T01:39:59.894Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 3차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58894</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58894"/>
-        <updated>2024-02-28T05:10:50.831Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 07:00]]></content>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58910</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58910"/>
+        <updated>2024-03-02T01:39:59.894Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <미스트> 2차​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58893</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58893"/>
-        <updated>2024-02-28T06:12:55.604Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 04:00]]></content>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌2 - 과천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58909</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58909"/>
+        <updated>2024-03-02T01:39:59.894Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​첼리스트 허정인 베토벤 첼로 전곡 음반 발매 기념 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58897"/>
         <updated>2024-02-29T00:43:06.744Z</updated>
         <content type="html"><![CDATA[2024.03.06(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 '판소리 감상회'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58896</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58896"/>
-        <updated>2024-02-28T06:13:03.719Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] UNMIXED : LOWELL STRAIGHT 1st CONCERT​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58895</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58895"/>
-        <updated>2024-02-28T05:10:58.457Z</updated>
-        <content type="html"><![CDATA[2024.03.06(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58894</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58894"/>
-        <updated>2024-02-28T05:10:58.457Z</updated>
-        <content type="html"><![CDATA[2024.03.05(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미스트> 2차​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58893</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58893"/>
-        <updated>2024-02-28T06:13:03.722Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 04:00]]></content>
     </entry>
 </feed>
