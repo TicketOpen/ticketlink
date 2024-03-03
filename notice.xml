@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-03T22:08:44.576Z</updated>
+    <updated>2024-03-03T23:09:41.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58909"/>
         <updated>2024-03-02T01:39:53.194Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 대구앵콜​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58908</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58908"/>
+        <updated>2024-03-03T23:09:33.724Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​첼리스트 허정인 베토벤 첼로 전곡 음반 발매 기념 리사이틀​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58898"/>
         <updated>2024-02-29T05:11:59.837Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​스릴러 연극 <701호>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58897</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58897"/>
-        <updated>2024-02-29T00:42:58.163Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 01:00]]></content>
     </entry>
 </feed>
