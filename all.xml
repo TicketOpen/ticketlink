@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-04T04:40:17.364Z</updated>
+    <updated>2024-03-04T05:44:15.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58931</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58931"/>
+        <updated>2024-03-04T05:44:06.886Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 383회 정기연주회 ‘교향악축제 프리뷰; Babi Yar’​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58930</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58930"/>
         <updated>2024-03-04T03:01:31.849Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58929</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58929"/>
+        <updated>2024-03-04T05:44:06.887Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] UNMIXED : LOWELL STRAIGHT 1st CONCERT 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,46 +82,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈엄마까투리는 슈퍼맘〉 - 목포 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58912</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58912"/>
-        <updated>2024-03-02T01:39:53.192Z</updated>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 세종 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58920</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58920"/>
+        <updated>2024-03-04T05:44:06.906Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 여수 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58911</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58911"/>
-        <updated>2024-03-02T01:39:53.192Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 서울 연세대 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58919</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58919"/>
+        <updated>2024-03-04T05:44:06.908Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 안산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58910</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58910"/>
-        <updated>2024-03-02T01:39:53.192Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 과천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58918</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58918"/>
+        <updated>2024-03-04T05:44:06.909Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌2 - 과천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58909</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58909"/>
-        <updated>2024-03-02T01:39:53.194Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 광주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58917</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58917"/>
+        <updated>2024-03-04T05:44:06.910Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 대구앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58908</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58908"/>
-        <updated>2024-03-03T23:09:33.724Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​첼리스트 허정인 베토벤 첼로 전곡 음반 발매 기념 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58907</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58907"/>
-        <updated>2024-02-29T08:13:09.167Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.04(월) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58931</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58931"/>
+        <updated>2024-03-04T05:44:15.375Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 383회 정기연주회 ‘교향악축제 프리뷰; Babi Yar’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58930"/>
         <updated>2024-03-04T03:01:39.283Z</updated>
         <content type="html"><![CDATA[2024.03.06(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58929</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58929"/>
+        <updated>2024-03-04T05:44:15.378Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] UNMIXED : LOWELL STRAIGHT 1st CONCERT 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -173,45 +187,31 @@
         <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈엄마까투리는 슈퍼맘〉 - 목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58912</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58912"/>
-        <updated>2024-03-02T01:39:59.893Z</updated>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 세종 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58920</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58920"/>
+        <updated>2024-03-04T05:44:15.386Z</updated>
         <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58911</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58911"/>
-        <updated>2024-03-02T01:39:59.894Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 서울 연세대 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58919</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58919"/>
+        <updated>2024-03-04T05:44:15.389Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58910</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58910"/>
-        <updated>2024-03-02T01:39:59.894Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 과천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58918</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58918"/>
+        <updated>2024-03-04T05:44:15.391Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트〉 시즌2 - 과천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58909</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58909"/>
-        <updated>2024-03-02T01:39:59.894Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 대구앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58908</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58908"/>
-        <updated>2024-03-03T23:09:41.284Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​첼리스트 허정인 베토벤 첼로 전곡 음반 발매 기념 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58907</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58907"/>
-        <updated>2024-02-29T08:13:16.506Z</updated>
-        <content type="html"><![CDATA[2024.03.04(월) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58917</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58917"/>
+        <updated>2024-03-04T05:44:15.392Z</updated>
+        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
     </entry>
 </feed>
