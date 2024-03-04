@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-04T05:44:15.959Z</updated>
+    <updated>2024-03-04T06:58:44.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[얼리버드] 스튜디오 지브리 애니메이션의 거장 타카하타 이사오전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58932</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58932"/>
+        <updated>2024-03-04T06:58:37.395Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58931</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/58918</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58918"/>
         <updated>2024-03-04T05:44:06.909Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58917</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58917"/>
-        <updated>2024-03-04T05:44:06.910Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 02:00]]></content>
     </entry>
 </feed>
