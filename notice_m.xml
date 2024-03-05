@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-05T04:13:03.417Z</updated>
+    <updated>2024-03-05T05:10:18.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <아트> 4차​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58941</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58941"/>
+        <updated>2024-03-05T05:10:18.027Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58940</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58940"/>
+        <updated>2024-03-05T05:10:18.028Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 울산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58939</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58939"/>
+        <updated>2024-03-05T05:10:18.030Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58938</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58938"/>
+        <updated>2024-03-05T05:10:18.032Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58937</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58937"/>
+        <updated>2024-03-05T05:10:18.034Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 고양 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58936</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58936"/>
+        <updated>2024-03-05T05:10:18.036Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58935</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58935"/>
+        <updated>2024-03-05T05:10:18.039Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 우리은행 전산 작업으로 인한 가상계좌 서비스 일시중단 안내(03/10)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58934</id>
@@ -60,54 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58927"/>
         <updated>2024-03-04T01:59:31.683Z</updated>
         <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 서울 성북​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58926</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58926"/>
-        <updated>2024-03-04T01:59:31.683Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 서울 강동​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58925</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58925"/>
-        <updated>2024-03-04T01:59:31.684Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 인천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58924</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58924"/>
-        <updated>2024-03-04T01:59:31.684Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58923</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58923"/>
-        <updated>2024-03-04T01:59:31.687Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 파주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58922</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58922"/>
-        <updated>2024-03-04T01:59:31.690Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 마법여우 주비 “반딧불을 구하라” - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58921</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58921"/>
-        <updated>2024-03-04T01:59:31.691Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어쿠스틱카페 내한공연 with 스튜디오 지브리 - 세종 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58920</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58920"/>
-        <updated>2024-03-04T05:44:15.386Z</updated>
-        <content type="html"><![CDATA[2024.03.06(수) 02:00]]></content>
     </entry>
 </feed>
