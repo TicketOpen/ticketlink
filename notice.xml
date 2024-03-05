@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-05T08:13:54.349Z</updated>
+    <updated>2024-03-05T09:10:28.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <2024강원특별자치도립무용단 앵콜 기획공연 “무의무아”>-춘천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58945</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58945"/>
+        <updated>2024-03-05T09:10:19.660Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <친정엄마> 부산​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58944</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58930"/>
         <updated>2024-03-04T03:01:31.849Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 최현우 Answer - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58929</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58929"/>
-        <updated>2024-03-04T05:44:06.887Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 05:00]]></content>
     </entry>
 </feed>
