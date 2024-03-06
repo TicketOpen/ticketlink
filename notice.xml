@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-06T01:42:23.462Z</updated>
+    <updated>2024-03-06T02:15:57.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 순천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58952</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58952"/>
+        <updated>2024-03-06T02:15:49.592Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​김정민 전국투어 콘서트 : LIVE STAR - 안양​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58951</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 창원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58937</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58937"/>
-        <updated>2024-03-05T05:10:10.717Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 고양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58936</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58936"/>
         <updated>2024-03-05T05:10:10.717Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 02:00]]></content>
     </entry>
