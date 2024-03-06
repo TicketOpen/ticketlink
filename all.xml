@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-06T02:15:57.505Z</updated>
+    <updated>2024-03-06T03:11:10.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <라푼젤> - 목포 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58954</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58954"/>
+        <updated>2024-03-06T03:11:03.692Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  (2024 롯데백화점 대구) 어린이날 특집 <버블매직쇼> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58953</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58953"/>
+        <updated>2024-03-06T03:11:03.695Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 순천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58952</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 대전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58938</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58938"/>
-        <updated>2024-03-05T05:10:10.717Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 02:00]]></content>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <라푼젤> - 목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58954</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58954"/>
+        <updated>2024-03-06T03:11:09.355Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 창원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58937</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58937"/>
-        <updated>2024-03-05T05:10:10.717Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 02:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  (2024 롯데백화점 대구) 어린이날 특집 <버블매직쇼> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58953</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58953"/>
+        <updated>2024-03-06T03:11:09.355Z</updated>
+        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 순천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/58939</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58939"/>
         <updated>2024-03-05T05:10:18.030Z</updated>
-        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58938</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58938"/>
-        <updated>2024-03-05T05:10:18.032Z</updated>
-        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58937</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58937"/>
-        <updated>2024-03-05T05:10:18.034Z</updated>
         <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
     </entry>
 </feed>
