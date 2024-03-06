@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-05T23:09:51.546Z</updated>
+    <updated>2024-03-06T00:43:24.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 베스트셀러 가족뮤지컬 <누가 내 머리에 똥 쌌어?> - 서울 용산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58950</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58950"/>
+        <updated>2024-03-06T00:43:15.446Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 당진​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58949</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58935"/>
         <updated>2024-03-05T05:10:10.717Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 우리은행 전산 작업으로 인한 가상계좌 서비스 일시중단 안내(03/10)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58934</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58934"/>
-        <updated>2024-03-05T01:42:04.228Z</updated>
-        <content type="html"><![CDATA[2024.03.05]]></content>
     </entry>
 </feed>
