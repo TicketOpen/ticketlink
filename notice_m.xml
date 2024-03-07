@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-07T06:13:49.680Z</updated>
+    <updated>2024-03-07T07:08:56.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정명훈 ＆ 도쿄 필하모닉 오케스트라 (협연:조성진)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58965</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58965"/>
+        <updated>2024-03-07T07:08:55.743Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58964</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58964"/>
+        <updated>2024-03-07T07:08:55.743Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] B1A4 13th Anniversary FAN CONCERT < 13ANA=DAY > 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58963</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58963"/>
+        <updated>2024-03-07T07:08:55.747Z</updated>
+        <content type="html"><![CDATA[2024.03.22(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영임의 소리 '효' 대공연 - 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58962</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58962"/>
+        <updated>2024-03-07T07:08:55.755Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 레인보우 버블젬 <흩어진 버블젬을 찾아라!> - 창원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58961</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58951"/>
         <updated>2024-03-06T01:42:22.820Z</updated>
         <content type="html"><![CDATA[2024.03.11(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 베스트셀러 가족뮤지컬 <누가 내 머리에 똥 쌌어?> - 서울 용산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58950</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58950"/>
-        <updated>2024-03-06T00:43:23.683Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 당진​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58949</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58949"/>
-        <updated>2024-03-05T11:11:08.770Z</updated>
-        <content type="html"><![CDATA[2024.03.11(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오리지널 과학마술콘서트 -원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58948</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58948"/>
-        <updated>2024-03-05T11:11:08.770Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 평택북부​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58947</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58947"/>
-        <updated>2024-03-05T11:11:08.771Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
     </entry>
 </feed>
