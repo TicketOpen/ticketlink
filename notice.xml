@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-07T04:11:44.856Z</updated>
+    <updated>2024-03-07T05:09:58.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 레인보우 버블젬 <흩어진 버블젬을 찾아라!> - 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58961</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58961"/>
+        <updated>2024-03-07T05:09:49.677Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​쇼헤븐 (show heaven) 김원준 조성모 콘서트 - 목포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58960</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58960"/>
+        <updated>2024-03-07T05:09:49.679Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 경기 광주​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58959</id>
@@ -18,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58958"/>
         <updated>2024-03-07T03:09:47.609Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.08(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 유니버셜 슈퍼스타 어워즈 (2024 Universal Superstar Awards)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58957</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58957"/>
+        <updated>2024-03-07T05:09:49.684Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.11(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 안양 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58947"/>
         <updated>2024-03-05T11:11:02.819Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아기돼지삼형제 - 서울양천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58946</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58946"/>
-        <updated>2024-03-05T11:11:02.821Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <2024강원특별자치도립무용단 앵콜 기획공연 “무의무아”>-춘천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58945</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58945"/>
-        <updated>2024-03-05T09:10:19.660Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <친정엄마> 부산​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58944</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58944"/>
-        <updated>2024-03-05T08:13:47.642Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.06(수) 05:00]]></content>
     </entry>
 </feed>
