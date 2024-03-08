@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-08T04:12:22.179Z</updated>
+    <updated>2024-03-08T05:11:33.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블루스프링페스티벌2024 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58967</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58967"/>
+        <updated>2024-03-08T05:11:32.872Z</updated>
+        <content type="html"><![CDATA[2024.03.12(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 최현우 Answer - 용인​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58966</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58966"/>
+        <updated>2024-03-08T05:11:32.872Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정명훈 ＆ 도쿄 필하모닉 오케스트라 (협연:조성진)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58965</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58953"/>
         <updated>2024-03-06T03:11:09.355Z</updated>
         <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 순천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58952</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58952"/>
-        <updated>2024-03-06T02:15:56.899Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​김정민 전국투어 콘서트 : LIVE STAR - 안양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58951</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58951"/>
-        <updated>2024-03-06T01:42:22.820Z</updated>
-        <content type="html"><![CDATA[2024.03.11(월) 06:00]]></content>
     </entry>
 </feed>
