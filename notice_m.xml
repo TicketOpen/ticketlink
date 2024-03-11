@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-11T00:44:27.315Z</updated>
+    <updated>2024-03-11T01:42:46.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58970"/>
         <updated>2024-03-11T00:44:26.714Z</updated>
         <content type="html"><![CDATA[2024.03.19(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024 김연자 디너쇼​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58969</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58969"/>
+        <updated>2024-03-11T01:42:45.321Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024 장윤정 디너쇼​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58968</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58968"/>
+        <updated>2024-03-11T01:42:45.322Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[블루스프링페스티벌2024 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58956"/>
         <updated>2024-03-07T00:35:37.819Z</updated>
         <content type="html"><![CDATA[2024.03.11(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <백설공주> - 군산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58955</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58955"/>
-        <updated>2024-03-06T05:10:02.456Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <라푼젤> - 목포 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58954</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58954"/>
-        <updated>2024-03-06T03:11:09.355Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
     </entry>
 </feed>
