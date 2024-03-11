@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-10T23:10:17.712Z</updated>
+    <updated>2024-03-11T00:44:27.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] THE VOCALIST 2024 신춘콘서트 <소향X정인X고유진> - 고령​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58970</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58970"/>
+        <updated>2024-03-11T00:44:26.714Z</updated>
+        <content type="html"><![CDATA[2024.03.19(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블루스프링페스티벌2024 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58967</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <라푼젤> - 목포 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58954</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58954"/>
-        <updated>2024-03-06T03:11:09.355Z</updated>
-        <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  (2024 롯데백화점 대구) 어린이날 특집 <버블매직쇼> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58953</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58953"/>
         <updated>2024-03-06T03:11:09.355Z</updated>
         <content type="html"><![CDATA[2024.03.07(목) 00:00]]></content>
     </entry>
