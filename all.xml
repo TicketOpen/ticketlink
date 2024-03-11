@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-11T02:17:47.063Z</updated>
+    <updated>2024-03-11T03:12:12.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[강진 디너쇼 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58977</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58977"/>
+        <updated>2024-03-11T03:12:03.167Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58976</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58976"/>
+        <updated>2024-03-11T03:12:03.168Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58974</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58974"/>
+        <updated>2024-03-11T03:12:03.172Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58973</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58973"/>
+        <updated>2024-03-11T03:12:03.172Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘을 나는 피터팬 - 세종시​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58972</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58972"/>
+        <updated>2024-03-11T03:12:03.172Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.13(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모두 뮤직 페스타 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58971</id>
@@ -19,7 +54,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.19(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[서울] 2024 김연자 디너쇼​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[서울] 2024 김연자 50주년 디너쇼​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58969</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58969"/>
         <updated>2024-03-11T01:42:39.604Z</updated>
@@ -75,39 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 레인보우 버블젬 <흩어진 버블젬을 찾아라!> - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58961</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58961"/>
-        <updated>2024-03-07T05:09:49.677Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 05:00]]></content>
+        <title type="html"><![CDATA[강진 디너쇼 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58977</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58977"/>
+        <updated>2024-03-11T03:12:12.021Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​쇼헤븐 (show heaven) 김원준 조성모 콘서트 - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58960</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58960"/>
-        <updated>2024-03-07T05:09:49.679Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 00:00]]></content>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58976</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58976"/>
+        <updated>2024-03-11T03:12:12.023Z</updated>
+        <content type="html"><![CDATA[2024.03.15(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 경기 광주​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58959</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58959"/>
-        <updated>2024-03-07T03:09:47.605Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.08(금) 00:00]]></content>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58974</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58974"/>
+        <updated>2024-03-11T03:12:12.023Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58958</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58958"/>
-        <updated>2024-03-07T03:09:47.609Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.08(금) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58973</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58973"/>
+        <updated>2024-03-11T03:12:12.024Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 유니버셜 슈퍼스타 어워즈 (2024 Universal Superstar Awards)​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58957</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58957"/>
-        <updated>2024-03-07T05:09:49.684Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.11(월) 11:00]]></content>
+        <title type="html"><![CDATA[하늘을 나는 피터팬 - 세종시​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58972</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58972"/>
+        <updated>2024-03-11T03:12:12.026Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모두 뮤직 페스타 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -124,7 +159,7 @@
         <content type="html"><![CDATA[2024.03.19(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[서울] 2024 김연자 디너쇼​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[서울] 2024 김연자 50주년 디너쇼​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58969</id>
         <link href="http://m.ticketlink.co.kr/help/notice/58969"/>
         <updated>2024-03-11T01:42:45.321Z</updated>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58962"/>
         <updated>2024-03-07T07:08:55.755Z</updated>
         <content type="html"><![CDATA[2024.03.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 레인보우 버블젬 <흩어진 버블젬을 찾아라!> - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58961</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58961"/>
-        <updated>2024-03-07T05:09:57.932Z</updated>
-        <content type="html"><![CDATA[2024.03.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​쇼헤븐 (show heaven) 김원준 조성모 콘서트 - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58960</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58960"/>
-        <updated>2024-03-07T05:09:57.932Z</updated>
-        <content type="html"><![CDATA[2024.03.12(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 경기 광주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58959</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58959"/>
-        <updated>2024-03-07T03:09:53.803Z</updated>
-        <content type="html"><![CDATA[2024.03.08(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58958</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58958"/>
-        <updated>2024-03-07T03:09:53.803Z</updated>
-        <content type="html"><![CDATA[2024.03.08(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 유니버셜 슈퍼스타 어워즈 (2024 Universal Superstar Awards)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58957</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58957"/>
-        <updated>2024-03-07T05:09:57.935Z</updated>
-        <content type="html"><![CDATA[2024.03.11(월) 11:00]]></content>
     </entry>
 </feed>
