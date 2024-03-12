@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-12T04:14:17.679Z</updated>
+    <updated>2024-03-12T05:11:47.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 사천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58993</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58993"/>
+        <updated>2024-03-12T05:11:41.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 하남​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58992</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58992"/>
+        <updated>2024-03-12T05:11:41.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] B T N J G  양준일 단독 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58991</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58991"/>
+        <updated>2024-03-12T05:11:41.707Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​연극 <아직은 가벼운 것 같아, 버틸만해> - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58990</id>
@@ -24,6 +45,27 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58988"/>
         <updated>2024-03-12T01:41:32.956Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 레인보우 버블젬<흩어진 버블젬을 찾아라!> - 울산​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58987</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58987"/>
+        <updated>2024-03-12T05:11:41.712Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 레인보우 버블젬<흩어진 버블젬을 찾아라!> - 구미​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58986</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58986"/>
+        <updated>2024-03-12T05:11:41.712Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈이상한 과자 가게 전천당〉 - 천옥원, 소원과자 대결전 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58985</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58985"/>
+        <updated>2024-03-12T05:11:41.713Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 대전앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,46 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] Gaudi Mosaic Workshop - NFT KOREA FESTIVAL 2024​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58978</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58978"/>
-        <updated>2024-03-11T06:13:02.767Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.09(토) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 사천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58993</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58993"/>
+        <updated>2024-03-12T05:11:47.008Z</updated>
+        <content type="html"><![CDATA[2024.03.15(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강진 디너쇼 ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58977</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58977"/>
-        <updated>2024-03-11T03:12:03.167Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 01:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 하남​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58992</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58992"/>
+        <updated>2024-03-12T05:11:47.009Z</updated>
+        <content type="html"><![CDATA[2024.03.15(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58976</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58976"/>
-        <updated>2024-03-11T03:12:03.168Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정명훈 & 도쿄필하모닉 내한공연​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58975</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58975"/>
-        <updated>2024-03-11T04:13:28.144Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58974</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58974"/>
-        <updated>2024-03-11T03:12:03.172Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58973</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58973"/>
-        <updated>2024-03-11T03:12:03.172Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] B T N J G  양준일 단독 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58991</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58991"/>
+        <updated>2024-03-12T05:11:47.010Z</updated>
+        <content type="html"><![CDATA[2024.03.15(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​연극 <아직은 가벼운 것 같아, 버틸만해> - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -129,6 +150,27 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58988"/>
         <updated>2024-03-12T01:41:40.138Z</updated>
         <content type="html"><![CDATA[2024.03.12(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 레인보우 버블젬<흩어진 버블젬을 찾아라!> - 울산​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58987</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58987"/>
+        <updated>2024-03-12T05:11:47.017Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 레인보우 버블젬<흩어진 버블젬을 찾아라!> - 구미​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58986</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58986"/>
+        <updated>2024-03-12T05:11:47.017Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬〈이상한 과자 가게 전천당〉 - 천옥원, 소원과자 대결전 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58985</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58985"/>
+        <updated>2024-03-12T05:11:47.019Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 대전앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -171,47 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58979"/>
         <updated>2024-03-11T06:13:11.461Z</updated>
         <content type="html"><![CDATA[2024.03.15(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Gaudi Mosaic Workshop - NFT KOREA FESTIVAL 2024​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58978</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58978"/>
-        <updated>2024-03-11T06:13:11.461Z</updated>
-        <content type="html"><![CDATA[2024.03.09(토) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강진 디너쇼 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58977</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58977"/>
-        <updated>2024-03-11T03:12:12.021Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58976</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58976"/>
-        <updated>2024-03-11T03:12:12.023Z</updated>
-        <content type="html"><![CDATA[2024.03.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정명훈 & 도쿄필하모닉 내한공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58975</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58975"/>
-        <updated>2024-03-11T04:13:33.516Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58974</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58974"/>
-        <updated>2024-03-11T03:12:12.023Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58973</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58973"/>
-        <updated>2024-03-11T03:12:12.024Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 02:00]]></content>
     </entry>
 </feed>
