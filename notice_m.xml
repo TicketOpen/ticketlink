@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-12T02:15:40.724Z</updated>
+    <updated>2024-03-12T03:12:42.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​연극 <아직은 가벼운 것 같아, 버틸만해> - 서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58990</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58990"/>
+        <updated>2024-03-12T03:12:41.483Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 일클라씨코 다섯번째 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58989</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58989"/>
+        <updated>2024-03-12T03:12:41.483Z</updated>
+        <content type="html"><![CDATA[2024.03.13(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​구희원 바이올린 독주회​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58988</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58973"/>
         <updated>2024-03-11T03:12:12.024Z</updated>
         <content type="html"><![CDATA[2024.03.14(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하늘을 나는 피터팬 - 세종시​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58972</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58972"/>
-        <updated>2024-03-11T03:12:12.026Z</updated>
-        <content type="html"><![CDATA[2024.03.13(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두 뮤직 페스타 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58971</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58971"/>
-        <updated>2024-03-11T02:17:46.472Z</updated>
-        <content type="html"><![CDATA[2024.03.12(화) 02:00]]></content>
     </entry>
 </feed>
