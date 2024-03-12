@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-12T07:10:35.401Z</updated>
+    <updated>2024-03-12T08:13:03.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  모차르트 vs 베토벤 - 울산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58998</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58998"/>
+        <updated>2024-03-12T08:12:53.741Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.20(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <로보카폴리 - 잡아라! 황금트로피!> - 전주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58997</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58997"/>
+        <updated>2024-03-12T08:12:53.741Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  FC 온라인 - 2024 뿌챔스​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/58996</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/58996"/>
+        <updated>2024-03-12T08:12:53.742Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌2 - 수원 ​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/58995</id>
         <link href="http://www.ticketlink.co.kr/help/notice/58995"/>
         <updated>2024-03-12T07:10:27.884Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 07:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 우리아이의 자신감을 키우는 마술쇼 <아이캔두잇> - 대구 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/58984"/>
         <updated>2024-03-12T00:42:36.919Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 울산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58983</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58983"/>
-        <updated>2024-03-12T00:42:36.920Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 무브 : 이무진 X 데이브레이크 - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58982</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58982"/>
-        <updated>2024-03-11T07:10:26.885Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 익산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/58981</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/58981"/>
-        <updated>2024-03-11T07:10:26.886Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.12(화) 00:00]]></content>
     </entry>
 </feed>
