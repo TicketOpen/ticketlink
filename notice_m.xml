@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-12T23:11:22.836Z</updated>
+    <updated>2024-03-13T00:44:42.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인형극 혹부리영감 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/58999</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/58999"/>
+        <updated>2024-03-13T00:44:41.481Z</updated>
+        <content type="html"><![CDATA[2024.03.14(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  모차르트 vs 베토벤 - 울산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/58998</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58985"/>
         <updated>2024-03-12T05:11:47.019Z</updated>
         <content type="html"><![CDATA[2024.03.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 대전앵콜​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58984</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58984"/>
-        <updated>2024-03-12T00:42:45.222Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 00:00]]></content>
     </entry>
 </feed>
