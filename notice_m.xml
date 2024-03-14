@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-14T01:42:30.396Z</updated>
+    <updated>2024-03-14T02:16:14.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​키즈 앤 패밀리 뮤직 쇼  < SAMAJAM >광주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59012</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59012"/>
+        <updated>2024-03-14T02:16:13.518Z</updated>
+        <content type="html"><![CDATA[2024.03.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 경주​​ 티켓오픈 안내​]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59011</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/58998"/>
         <updated>2024-03-12T08:13:02.397Z</updated>
         <content type="html"><![CDATA[2024.03.20(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <로보카폴리 - 잡아라! 황금트로피!> - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/58997</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/58997"/>
-        <updated>2024-03-12T08:13:02.397Z</updated>
-        <content type="html"><![CDATA[2024.03.15(금) 01:00]]></content>
     </entry>
 </feed>
