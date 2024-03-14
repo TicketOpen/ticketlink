@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-14T07:12:47.703Z</updated>
+    <updated>2024-03-14T08:12:56.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59018</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59018"/>
+        <updated>2024-03-14T08:12:56.302Z</updated>
+        <content type="html"><![CDATA[2024.03.19(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄의 소리 with KBS Symphony Orchestra​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59017</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59017"/>
+        <updated>2024-03-14T08:12:56.302Z</updated>
+        <content type="html"><![CDATA[2024.03.19(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립합창단] 기획연주회 Ⅰ·Ⅱ·Ⅲ 천원의 행복 「합창을 화합의 장으로, 합창을 화합의 도구로」​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59016</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59003"/>
         <updated>2024-03-13T03:12:23.974Z</updated>
         <content type="html"><![CDATA[2024.03.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE) 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59002</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59002"/>
-        <updated>2024-03-13T05:10:52.638Z</updated>
-        <content type="html"><![CDATA[2024.03.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 다움앙상블 5th Concert - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59001</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59001"/>
-        <updated>2024-03-13T03:12:23.976Z</updated>
-        <content type="html"><![CDATA[2024.03.15(금) 00:00]]></content>
     </entry>
 </feed>
