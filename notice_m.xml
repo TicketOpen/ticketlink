@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-14T08:12:56.923Z</updated>
+    <updated>2024-03-14T09:10:38.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​가족뮤지컬 <엄마까투리는 슈퍼맘> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59019</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59019"/>
+        <updated>2024-03-14T09:10:37.492Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59018</id>
@@ -25,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59016"/>
         <updated>2024-03-14T07:12:46.937Z</updated>
         <content type="html"><![CDATA[2024.03.15(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​2024 DAWON FAN MEETING : Chemistry​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59015</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59015"/>
+        <updated>2024-03-14T09:10:37.498Z</updated>
+        <content type="html"><![CDATA[2024.03.19(화) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최백호 - 부산에 가면​​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59005"/>
         <updated>2024-03-13T05:10:52.631Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 과천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59004</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59004"/>
-        <updated>2024-03-13T05:10:52.635Z</updated>
-        <content type="html"><![CDATA[2024.03.15(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인형극 방귀쟁이 며느리 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59003</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59003"/>
-        <updated>2024-03-13T03:12:23.974Z</updated>
-        <content type="html"><![CDATA[2024.03.14(목) 01:00]]></content>
     </entry>
 </feed>
