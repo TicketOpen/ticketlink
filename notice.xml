@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-15T01:44:14.783Z</updated>
+    <updated>2024-03-15T02:17:08.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 너드커넥션 ‘봄의 사운드’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59020</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59020"/>
+        <updated>2024-03-15T02:16:59.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​가족뮤지컬 <엄마까투리는 슈퍼맘> - 제주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59019</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 원주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59006</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59006"/>
-        <updated>2024-03-13T05:10:45.970Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 인천​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59005</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59005"/>
         <updated>2024-03-13T05:10:45.970Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 00:00]]></content>
     </entry>
