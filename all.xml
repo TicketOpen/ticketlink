@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-15T02:17:08.974Z</updated>
+    <updated>2024-03-15T03:12:29.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] LiSA LiVE is Smile Always〜ASiA TOUR 2024〜 in Seoul 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59021</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59021"/>
+        <updated>2024-03-15T03:12:20.134Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.25(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 너드커넥션 ‘봄의 사운드’ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59020</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59006</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59006"/>
-        <updated>2024-03-13T05:10:45.970Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] LiSA LiVE is Smile Always〜ASiA TOUR 2024〜 in Seoul 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59021</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59021"/>
+        <updated>2024-03-15T03:12:29.165Z</updated>
+        <content type="html"><![CDATA[2024.03.25(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 너드커넥션 ‘봄의 사운드’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59007"/>
         <updated>2024-03-13T05:10:52.623Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59006</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59006"/>
-        <updated>2024-03-13T05:10:52.631Z</updated>
-        <content type="html"><![CDATA[2024.03.18(월) 00:00]]></content>
     </entry>
 </feed>
