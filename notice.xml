@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-15T06:15:29.240Z</updated>
+    <updated>2024-03-15T07:10:31.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 마법천자문 <한자 마법 대모험> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59023</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59023"/>
+        <updated>2024-03-15T07:10:23.575Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.19(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 골든걸스 콘서트 - 수원 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59022</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59009"/>
         <updated>2024-03-13T06:13:33.378Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59008</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59008"/>
-        <updated>2024-03-13T06:13:33.378Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.15(금) 02:00]]></content>
     </entry>
 </feed>
