@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-16T12:18:39.369Z</updated>
+    <updated>2024-03-16T13:11:45.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공지] 시스템 임시점검(3/17 01:00 ~ 07:00)으로 인한 서비스 일시 중단 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59029</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59029"/>
+        <updated>2024-03-16T13:11:44.304Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/59029" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(3/17 01:00 ~ 07:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가야금 명인 이지영 초청연주회 <화천월지> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59028</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59015"/>
         <updated>2024-03-14T09:10:37.498Z</updated>
         <content type="html"><![CDATA[2024.03.19(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최백호 - 부산에 가면​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59014</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59014"/>
-        <updated>2024-03-14T07:12:46.938Z</updated>
-        <content type="html"><![CDATA[2024.03.21(목) 01:00]]></content>
     </entry>
 </feed>
