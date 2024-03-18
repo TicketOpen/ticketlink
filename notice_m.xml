@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-18T05:12:20.888Z</updated>
+    <updated>2024-03-18T06:13:58.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈달 샤베트〉 - 용인 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59034</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59034"/>
+        <updated>2024-03-18T06:13:58.372Z</updated>
+        <content type="html"><![CDATA[2024.03.21(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Premiun talk show <정동화의 레드카펫>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59033</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59020"/>
         <updated>2024-03-16T23:10:20.238Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​가족뮤지컬 <엄마까투리는 슈퍼맘> - 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59019</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59019"/>
-        <updated>2024-03-16T23:10:20.239Z</updated>
-        <content type="html"><![CDATA[2024.03.18(월) 00:00]]></content>
     </entry>
 </feed>
