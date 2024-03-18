@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-18T00:44:39.100Z</updated>
+    <updated>2024-03-18T01:42:59.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WONDERLAND PICNIC 2024 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59031</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59031"/>
+        <updated>2024-03-18T01:42:58.990Z</updated>
+        <content type="html"><![CDATA[2024.03.18(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] LG트윈스 3월 24일(일) 경기 선예매 매수 초과구매 이슈에 대한 사과문]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59030</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59017"/>
         <updated>2024-03-16T23:10:20.241Z</updated>
         <content type="html"><![CDATA[2024.03.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립합창단] 기획연주회 Ⅰ·Ⅱ·Ⅲ 천원의 행복 「합창을 화합의 장으로, 합창을 화합의 도구로」​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59016</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59016"/>
-        <updated>2024-03-16T23:10:20.242Z</updated>
-        <content type="html"><![CDATA[2024.03.15(금) 06:00]]></content>
     </entry>
 </feed>
