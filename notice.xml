@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-18T04:12:12.636Z</updated>
+    <updated>2024-03-18T05:12:20.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Premiun talk show <정동화의 레드카펫>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59033</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59033"/>
+        <updated>2024-03-18T05:12:12.307Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.25(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 디즈니 인 콘서트​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59032</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59019"/>
         <updated>2024-03-14T09:10:31.706Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.18(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59018</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59018"/>
-        <updated>2024-03-14T08:12:48.804Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.19(화) 05:00]]></content>
     </entry>
 </feed>
