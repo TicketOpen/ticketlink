@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-18T02:16:59.190Z</updated>
+    <updated>2024-03-18T03:11:57.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 디즈니 인 콘서트​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59032</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59032"/>
+        <updated>2024-03-18T03:11:49.952Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.19(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WONDERLAND PICNIC 2024 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59031</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59018</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59018"/>
         <updated>2024-03-14T08:12:48.804Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.19(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄의 소리 with KBS Symphony Orchestra​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59017</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59017"/>
-        <updated>2024-03-14T08:12:48.805Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.19(화) 05:00]]></content>
     </entry>
 </feed>
