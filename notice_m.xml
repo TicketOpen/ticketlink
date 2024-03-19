@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-19T01:42:34.088Z</updated>
+    <updated>2024-03-19T02:16:42.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 서울​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59044</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59044"/>
+        <updated>2024-03-19T02:16:41.551Z</updated>
+        <content type="html"><![CDATA[2024.03.21(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59043</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59043"/>
+        <updated>2024-03-19T02:16:41.553Z</updated>
+        <content type="html"><![CDATA[2024.03.21(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​Novel-Con <황태자비로 데뷔합니다> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59042</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59042"/>
+        <updated>2024-03-19T02:16:41.554Z</updated>
+        <content type="html"><![CDATA[2024.03.22(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled 시즌Ⅱ, 봄 >​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59041</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59030"/>
         <updated>2024-03-17T01:47:02.581Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/59030" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[공지]</b> LG트윈스 3월 24일(일) 경기 선예매 매수 초과구매 이슈에 대한 사과문</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 시스템 임시점검(3/17 01:00 ~ 07:00)으로 인한 서비스 일시 중단 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59029</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59029"/>
-        <updated>2024-03-16T23:10:20.229Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59029" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 시스템 임시점검(3/17 01:00 ~ 07:00)으로 인한 서비스 일시 중단 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가야금 명인 이지영 초청연주회 <화천월지> - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59028</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59028"/>
-        <updated>2024-03-16T23:10:20.231Z</updated>
-        <content type="html"><![CDATA[2024.03.20(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59027</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59027"/>
-        <updated>2024-03-16T23:10:20.237Z</updated>
-        <content type="html"><![CDATA[2024.03.20(수) 02:00]]></content>
     </entry>
 </feed>
