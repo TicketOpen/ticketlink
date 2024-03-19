@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-19T02:16:42.170Z</updated>
+    <updated>2024-03-19T03:11:43.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 Ⅳ​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59045</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59045"/>
+        <updated>2024-03-19T03:11:42.445Z</updated>
+        <content type="html"><![CDATA[2024.03.20(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 서울​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59044</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59031"/>
         <updated>2024-03-18T01:42:58.990Z</updated>
         <content type="html"><![CDATA[2024.03.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] LG트윈스 3월 24일(일) 경기 선예매 매수 초과구매 이슈에 대한 사과문]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59030</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59030"/>
-        <updated>2024-03-17T01:47:02.581Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59030" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[공지]</b> LG트윈스 3월 24일(일) 경기 선예매 매수 초과구매 이슈에 대한 사과문</h3></a>]]></content>
     </entry>
 </feed>
