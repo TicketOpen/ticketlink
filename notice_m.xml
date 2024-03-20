@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-20T00:43:41.845Z</updated>
+    <updated>2024-03-20T01:42:08.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 4차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59050</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59050"/>
+        <updated>2024-03-20T01:42:07.785Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 광주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59049</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59036"/>
         <updated>2024-03-18T07:11:06.037Z</updated>
         <content type="html"><![CDATA[2024.03.21(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] SEUNG HO's FANMEET-UP in OSAKA 2024 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59035</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59035"/>
-        <updated>2024-03-18T07:11:06.038Z</updated>
-        <content type="html"><![CDATA[2024.03.19(화) 05:00]]></content>
     </entry>
 </feed>
