@@ -2,14 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-22T07:11:00.480Z</updated>
+    <updated>2024-03-22T08:13:43.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59065</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59065"/>
-        <updated>2024-03-22T07:10:53.108Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 11:00]]></content>
+        <title type="html"><![CDATA[도깨비가족마술쇼-양양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59074</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59074"/>
+        <updated>2024-03-22T08:13:35.424Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공주들의 바다콘서트 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59073</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59073"/>
+        <updated>2024-03-22T08:13:35.425Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59072</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59072"/>
+        <updated>2024-03-22T08:13:35.425Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 강릉 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59071</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59071"/>
+        <updated>2024-03-22T08:13:35.428Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59070</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59070"/>
+        <updated>2024-03-22T08:13:35.428Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 양산 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59069</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59069"/>
+        <updated>2024-03-22T08:13:35.429Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 경주 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59068</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59068"/>
+        <updated>2024-03-22T08:13:35.430Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[대구] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59067</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59067"/>
+        <updated>2024-03-22T08:13:35.431Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[목포] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59066</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59066"/>
+        <updated>2024-03-22T08:13:35.433Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 울산​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -26,7 +82,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.29(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] Kim Nam Joo 2024 Fanmeeting  in Seoul​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59062</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59062"/>
         <updated>2024-03-22T07:10:53.109Z</updated>
@@ -40,7 +96,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​어쿠스틱 신드롬​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[어쿠스틱 신드롬 : 몽니, 포르테 디 콰트로, 오은철 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59060</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59060"/>
         <updated>2024-03-22T06:13:03.937Z</updated>
@@ -54,67 +110,67 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.25(월) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘놀판-부천한마당’ 박애리X남상일X팝핀현준 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59058</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59058"/>
-        <updated>2024-03-21T07:10:24.300Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 03:00]]></content>
+        <title type="html"><![CDATA[도깨비가족마술쇼-양양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59074</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59074"/>
+        <updated>2024-03-22T08:13:42.561Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 청주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59057</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59057"/>
-        <updated>2024-03-21T07:10:24.302Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 02:00]]></content>
+        <title type="html"><![CDATA[공주들의 바다콘서트 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59073</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59073"/>
+        <updated>2024-03-22T08:13:42.561Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024년 경복궁 별빛야행 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59056</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59056"/>
-        <updated>2024-03-21T08:12:53.145Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.22(금) 05:00]]></content>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59072</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59072"/>
+        <updated>2024-03-22T08:13:42.562Z</updated>
+        <content type="html"><![CDATA[2024.03.27(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 제주​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59055</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59055"/>
-        <updated>2024-03-22T00:43:21.694Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.25(월) 00:00]]></content>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 강릉 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59071</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59071"/>
+        <updated>2024-03-22T08:13:42.563Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[울산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59054</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59054"/>
-        <updated>2024-03-21T00:44:46.709Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.22(금) 05:00]]></content>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59070</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59070"/>
+        <updated>2024-03-22T08:13:42.565Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2024 - 얼리버드​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59053</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59053"/>
-        <updated>2024-03-20T09:11:29.880Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.21(목) 09:00]]></content>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 양산 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59069</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59069"/>
+        <updated>2024-03-22T08:13:42.568Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <소, 공녀 少, 工女> - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59052</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59052"/>
-        <updated>2024-03-20T05:10:42.950Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.21(목) 00:00]]></content>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 경주 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59068</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59068"/>
+        <updated>2024-03-22T08:13:42.569Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 어버이날 <남진 디너쇼> with 조정민 (서울)​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59051</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59051"/>
-        <updated>2024-03-20T05:10:42.952Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 04:00]]></content>
+        <title type="html"><![CDATA[​[대구] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59067</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59067"/>
+        <updated>2024-03-22T08:13:42.570Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59065</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59065"/>
-        <updated>2024-03-22T07:10:59.894Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 11:00]]></content>
+        <title type="html"><![CDATA[​[목포] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59066</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59066"/>
+        <updated>2024-03-22T08:13:42.572Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 울산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -131,7 +187,7 @@
         <content type="html"><![CDATA[2024.03.29(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] Kim Nam Joo 2024 Fanmeeting  in Seoul​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59062</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59062"/>
         <updated>2024-03-22T07:10:59.898Z</updated>
@@ -145,7 +201,7 @@
         <content type="html"><![CDATA[2024.03.27(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​어쿠스틱 신드롬​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[어쿠스틱 신드롬 : 몽니, 포르테 디 콰트로, 오은철 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59060</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59060"/>
         <updated>2024-03-22T06:13:09.530Z</updated>
@@ -157,61 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59059"/>
         <updated>2024-03-22T03:11:30.700Z</updated>
         <content type="html"><![CDATA[2024.03.25(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘놀판-부천한마당’ 박애리X남상일X팝핀현준 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59058</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59058"/>
-        <updated>2024-03-21T07:10:32.573Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59057</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59057"/>
-        <updated>2024-03-21T07:10:32.573Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024년 경복궁 별빛야행 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59056</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59056"/>
-        <updated>2024-03-21T08:13:00.282Z</updated>
-        <content type="html"><![CDATA[2024.03.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 제주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59055</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59055"/>
-        <updated>2024-03-22T00:43:30.286Z</updated>
-        <content type="html"><![CDATA[2024.03.25(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59054</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59054"/>
-        <updated>2024-03-21T00:44:53.474Z</updated>
-        <content type="html"><![CDATA[2024.03.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2024 - 얼리버드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59053</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59053"/>
-        <updated>2024-03-20T09:11:36.183Z</updated>
-        <content type="html"><![CDATA[2024.03.21(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <소, 공녀 少, 工女> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59052</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59052"/>
-        <updated>2024-03-20T05:10:51.323Z</updated>
-        <content type="html"><![CDATA[2024.03.21(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 어버이날 <남진 디너쇼> with 조정민 (서울)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59051</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59051"/>
-        <updated>2024-03-20T05:10:51.324Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 04:00]]></content>
     </entry>
 </feed>
