@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-22T02:16:32.188Z</updated>
+    <updated>2024-03-22T03:11:31.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너，내 동료가 돼라！－재패니메이션 OST 콘서트－​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59059</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59059"/>
+        <updated>2024-03-22T03:11:22.600Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.25(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘놀판-부천한마당’ 박애리X남상일X팝핀현준 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59058</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59045"/>
         <updated>2024-03-19T03:11:35.463Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.20(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 서울​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59044</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59044"/>
-        <updated>2024-03-19T02:16:33.629Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.21(목) 06:00]]></content>
     </entry>
 </feed>
