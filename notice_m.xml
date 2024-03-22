@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-22T06:13:10.211Z</updated>
+    <updated>2024-03-22T07:11:00.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59065</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59065"/>
+        <updated>2024-03-22T07:10:59.894Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 울산​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59064</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59063"/>
         <updated>2024-03-22T05:10:50.527Z</updated>
         <content type="html"><![CDATA[2024.03.29(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Kim Nam Joo 2024 Fanmeeting  in Seoul​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59062</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59062"/>
+        <updated>2024-03-22T07:10:59.898Z</updated>
+        <content type="html"><![CDATA[2024.03.26(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 신비아파트 <붉은 눈의 저주> - 군포​ 티켓오픈 안내]]></title>
@@ -90,24 +104,10 @@
         <content type="html"><![CDATA[2024.03.21(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 남진 어버이날 디너쇼 with 조정민 - 서울​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2024 어버이날 <남진 디너쇼> with 조정민 (서울)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59051</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59051"/>
         <updated>2024-03-20T05:10:51.324Z</updated>
         <content type="html"><![CDATA[2024.03.26(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 4차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59050</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59050"/>
-        <updated>2024-03-20T01:42:07.785Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59049</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59049"/>
-        <updated>2024-03-19T10:11:08.636Z</updated>
-        <content type="html"><![CDATA[2024.03.26(화) 05:00]]></content>
     </entry>
 </feed>
