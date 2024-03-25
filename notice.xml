@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-25T03:13:00.560Z</updated>
+    <updated>2024-03-25T04:13:09.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​에스펜 에릭센 트리오 2024 투어 (대구)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59090</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59090"/>
+        <updated>2024-03-25T04:13:01.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​에스펜 에릭센 트리오 2024 투어 (전주)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59089</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59089"/>
+        <updated>2024-03-25T04:13:01.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​에스펜 에릭센 트리오 2024 투어 (서울)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59088</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59088"/>
+        <updated>2024-03-25T04:13:01.750Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​에스펜 에릭센 트리오 2024 투어 (세종시)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59087</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59087"/>
+        <updated>2024-03-25T04:13:01.750Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 DAWON FAN MEETING : Chemistry 추가 회차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59085</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59074"/>
         <updated>2024-03-22T08:13:35.424Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공주들의 바다콘서트 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59073</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59073"/>
-        <updated>2024-03-22T08:13:35.425Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59072</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59072"/>
-        <updated>2024-03-22T08:13:35.425Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알라딘과 자스민공주 - 강릉 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59071</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59071"/>
-        <updated>2024-03-22T08:13:35.428Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 대구 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59070</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59070"/>
-        <updated>2024-03-22T08:13:35.428Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.26(화) 00:00]]></content>
     </entry>
 </feed>
