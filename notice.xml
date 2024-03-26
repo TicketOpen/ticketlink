@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-26T08:12:58.685Z</updated>
+    <updated>2024-03-26T09:11:05.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PEAK FESTIVAL 2024 일반​티켓 오픈안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59105</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59105"/>
+        <updated>2024-03-26T09:10:57.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 스카 페스티벌 - 창원 < Back to the 90's Fever >​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59104</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59091"/>
         <updated>2024-03-25T09:10:47.827Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​에스펜 에릭센 트리오 2024 투어 (대구)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59090</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59090"/>
-        <updated>2024-03-25T04:13:01.748Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
     </entry>
 </feed>
