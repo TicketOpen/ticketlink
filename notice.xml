@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-26T04:13:20.316Z</updated>
+    <updated>2024-03-26T05:11:23.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59101"/>
         <updated>2024-03-26T03:12:23.715Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​CHUN JI's Request LIVE in OSAKA 2024​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59100</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59100"/>
+        <updated>2024-03-26T05:11:17.329Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[창원] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59099</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59099"/>
+        <updated>2024-03-26T05:11:17.331Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <아트>  5차(마지막) ​티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59087"/>
         <updated>2024-03-25T04:13:01.750Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 김종국 콘서트 "봄이 왔나 봐"​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59086</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59086"/>
-        <updated>2024-03-25T05:11:23.695Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 DAWON FAN MEETING : Chemistry 추가 회차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59085</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59085"/>
-        <updated>2024-03-25T03:12:53.332Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 11:00]]></content>
     </entry>
 </feed>
