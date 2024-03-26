@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-26T06:15:36.708Z</updated>
+    <updated>2024-03-26T07:09:48.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 키즈 콘서트 'Flying Symphony' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59103</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59103"/>
+        <updated>2024-03-26T07:09:38.679Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창원] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59102</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59089</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59089"/>
         <updated>2024-03-25T04:13:01.748Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​에스펜 에릭센 트리오 2024 투어 (서울)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59088</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59088"/>
-        <updated>2024-03-25T04:13:01.750Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
     </entry>
 </feed>
