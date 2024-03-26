@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-26T07:09:48.635Z</updated>
+    <updated>2024-03-26T08:12:58.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 스카 페스티벌 - 창원 < Back to the 90's Fever >​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59104</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59104"/>
+        <updated>2024-03-26T08:12:58.081Z</updated>
+        <content type="html"><![CDATA[2024.03.28(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 키즈 콘서트 'Flying Symphony' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59103</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59090</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59090"/>
         <updated>2024-03-25T04:13:08.943Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​에스펜 에릭센 트리오 2024 투어 (전주)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59089</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59089"/>
-        <updated>2024-03-25T04:13:08.944Z</updated>
         <content type="html"><![CDATA[2024.03.28(목) 01:00]]></content>
     </entry>
 </feed>
