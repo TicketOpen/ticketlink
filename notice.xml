@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-25T23:09:50.090Z</updated>
+    <updated>2024-03-26T00:45:21.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 스윗스로우 제주 단독 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59097</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59097"/>
+        <updated>2024-03-26T00:45:13.618Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 삼척문화예술회관 개관 30주년 기념 명작 시리즈 연극<갈매기>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59096</id>
@@ -25,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59094"/>
         <updated>2024-03-25T07:10:15.431Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[슈퍼 얼리버드 오픈] 리얼 뱅크시< REAL BANKSY - Banksy is NOWHERE > 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59093</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59093"/>
+        <updated>2024-03-26T00:45:13.627Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​야노스 슈타커 탄생 100주년 기념 첼로 페스티벌 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59083"/>
         <updated>2024-03-25T01:45:04.022Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공주들의 바다콘서트 - 과천 ​​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59082</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59082"/>
-        <updated>2024-03-25T01:45:04.023Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 전주​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59081</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59081"/>
-        <updated>2024-03-25T01:45:04.023Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 05:00]]></content>
     </entry>
 </feed>
