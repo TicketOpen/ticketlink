@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-27T00:45:08.004Z</updated>
+    <updated>2024-03-27T01:44:44.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매직버블쇼 - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59106</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59106"/>
+        <updated>2024-03-27T01:44:38.248Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PEAK FESTIVAL 2024 일반​티켓 오픈안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59105</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59092"/>
         <updated>2024-03-25T06:13:58.515Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.29(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> 프리뷰​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59091</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59091"/>
-        <updated>2024-03-25T09:10:47.827Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 05:00]]></content>
     </entry>
 </feed>
