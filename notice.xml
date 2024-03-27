@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-27T03:11:29.769Z</updated>
+    <updated>2024-03-27T04:15:25.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​정명훈 & 도쿄 필하모닉 오케스트라 (피아노 조성진)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59111</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59111"/>
+        <updated>2024-03-27T04:15:17.878Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주오페라단 창단 42주년 기념 광주오페라단의 3색 Opera Gala Concert ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59110</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59097"/>
         <updated>2024-03-26T00:45:13.618Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 삼척문화예술회관 개관 30주년 기념 명작 시리즈 연극<갈매기>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59096</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59096"/>
-        <updated>2024-03-25T09:10:47.826Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 05:00]]></content>
     </entry>
 </feed>
