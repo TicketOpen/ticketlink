@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-27T05:12:14.618Z</updated>
+    <updated>2024-03-27T06:15:07.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 심방무곡 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59114</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59114"/>
+        <updated>2024-03-27T06:14:58.704Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  대구경북 지역민과 함께하는 부모교육 iM-Talk 콘서트 명사 초청 특강 Part1. 양재진 원장​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59113</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.09(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 베스트 슬립과 함께하는 수면콘서트 <베스트 드림 콘서트>​ ​티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  베스트슬립과 함께하는 수면콘서트 <베스트드림콘서트>​ ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59112</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59112"/>
         <updated>2024-03-27T05:12:05.302Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59100"/>
         <updated>2024-03-26T05:11:17.329Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59099</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59099"/>
-        <updated>2024-03-26T05:11:17.331Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 05:00]]></content>
     </entry>
 </feed>
