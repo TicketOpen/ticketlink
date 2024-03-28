@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-28T06:15:09.638Z</updated>
+    <updated>2024-03-28T07:11:46.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  Kim Nam Joo 2024 Fanmeeting < BAD JOO’S > in Seoul​ 추가 회차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59127</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59127"/>
+        <updated>2024-03-28T07:11:45.524Z</updated>
+        <content type="html"><![CDATA[2024.03.29(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마루한필하모닉오케스트라 제7회 정기연주회​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59126</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59113"/>
         <updated>2024-03-27T05:12:14.045Z</updated>
         <content type="html"><![CDATA[2024.04.09(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  베스트슬립과 함께하는 수면콘서트 <베스트드림콘서트>​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59112</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59112"/>
-        <updated>2024-03-27T05:12:14.046Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 01:00]]></content>
     </entry>
 </feed>
