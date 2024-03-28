@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-28T01:44:42.344Z</updated>
+    <updated>2024-03-28T02:22:09.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 김해​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59124</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59124"/>
+        <updated>2024-03-28T02:22:08.883Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 조희창의 '작곡가 집중탐구' - 경주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59123</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59110"/>
         <updated>2024-03-27T03:11:29.111Z</updated>
         <content type="html"><![CDATA[2024.03.28(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니티아트 빛의 산책 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59109</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59109"/>
-        <updated>2024-03-27T03:11:29.111Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
     </entry>
 </feed>
