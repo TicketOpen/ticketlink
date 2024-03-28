@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-03-28T04:13:32.576Z</updated>
+    <updated>2024-03-28T05:12:18.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패밀리 서커스 <이상한 나라의 앨리스> 오리지널 내한공연​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59125</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59125"/>
+        <updated>2024-03-28T05:12:11.626Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 김해​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59124</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59111"/>
         <updated>2024-03-27T04:15:17.878Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  광주오페라단 창단 42주년 기념 광주오페라단의 3색 Opera Gala Concert ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59110</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59110"/>
-        <updated>2024-03-27T03:11:22.955Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 00:00]]></content>
     </entry>
 </feed>
