@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-28T00:44:04.455Z</updated>
+    <updated>2024-03-28T01:44:42.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 조희창의 '작곡가 집중탐구' - 경주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59123</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59123"/>
+        <updated>2024-03-28T01:44:34.417Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 전효진의 '은빛 발레리나' - 경주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59122</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59122"/>
+        <updated>2024-03-28T01:44:34.417Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 박파랑의 '클래식 서양 미술사' - 경주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59121</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59121"/>
+        <updated>2024-03-28T01:44:34.417Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인피니티 플라잉 - 경주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59120</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59120"/>
+        <updated>2024-03-28T01:44:34.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​본격! 트리플콤비 <코미디연극 내안의 그녀 - 대구>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59119</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59119"/>
+        <updated>2024-03-28T01:44:34.419Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 인어공주 - 수원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59118</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59118"/>
+        <updated>2024-03-28T01:44:34.420Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이마술쇼 - 오산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59117</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59117"/>
+        <updated>2024-03-28T01:44:34.422Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59116</id>
@@ -61,53 +110,53 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 아트매직쇼 - 김천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59108</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59108"/>
-        <updated>2024-03-27T02:16:47.272Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 조희창의 '작곡가 집중탐구' - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59123</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59123"/>
+        <updated>2024-03-28T01:44:41.693Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024년 창덕궁 달빛기행 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59107</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59107"/>
-        <updated>2024-03-27T02:16:47.272Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 07:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 전효진의 '은빛 발레리나' - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59122</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59122"/>
+        <updated>2024-03-28T01:44:41.693Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매직버블쇼 - 울산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59106</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59106"/>
-        <updated>2024-03-27T01:44:38.248Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 박파랑의 '클래식 서양 미술사' - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59121</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59121"/>
+        <updated>2024-03-28T01:44:41.694Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2024 일반​티켓 오픈안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59105</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59105"/>
-        <updated>2024-03-26T09:10:57.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 09:00]]></content>
+        <title type="html"><![CDATA[인피니티 플라잉 - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59120</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59120"/>
+        <updated>2024-03-28T01:44:41.695Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 스카 페스티벌 - 창원 < Back to the 90's Fever >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59104</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59104"/>
-        <updated>2024-03-26T08:12:49.394Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 04:00]]></content>
+        <title type="html"><![CDATA[​본격! 트리플콤비 <코미디연극 내안의 그녀 - 대구>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59119</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59119"/>
+        <updated>2024-03-28T01:44:41.696Z</updated>
+        <content type="html"><![CDATA[2024.03.28(목) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 키즈 콘서트 'Flying Symphony' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59103</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59103"/>
-        <updated>2024-03-26T07:09:38.679Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 08:00]]></content>
+        <title type="html"><![CDATA[2024 가족뮤지컬 인어공주 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59118</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59118"/>
+        <updated>2024-03-28T01:44:41.697Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[창원] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59102</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59102"/>
-        <updated>2024-03-26T06:15:29.247Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.27(수) 01:00]]></content>
+        <title type="html"><![CDATA[어린이마술쇼 - 오산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59117</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59117"/>
+        <updated>2024-03-28T01:44:41.700Z</updated>
+        <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -164,54 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59109"/>
         <updated>2024-03-27T03:11:29.111Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아트매직쇼 - 김천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59108</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59108"/>
-        <updated>2024-03-27T02:16:54.936Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024년 창덕궁 달빛기행 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59107</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59107"/>
-        <updated>2024-03-27T02:16:54.936Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직버블쇼 - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59106</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59106"/>
-        <updated>2024-03-27T01:44:43.791Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2024 일반​티켓 오픈안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59105</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59105"/>
-        <updated>2024-03-26T09:11:04.975Z</updated>
-        <content type="html"><![CDATA[2024.03.27(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 스카 페스티벌 - 창원 < Back to the 90's Fever >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59104</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59104"/>
-        <updated>2024-03-26T08:12:58.081Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 키즈 콘서트 'Flying Symphony' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59103</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59103"/>
-        <updated>2024-03-26T07:09:47.971Z</updated>
-        <content type="html"><![CDATA[2024.03.27(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원] 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59102</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59102"/>
-        <updated>2024-03-26T06:15:36.000Z</updated>
-        <content type="html"><![CDATA[2024.03.27(수) 01:00]]></content>
     </entry>
 </feed>
