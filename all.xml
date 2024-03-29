@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-29T04:14:42.666Z</updated>
+    <updated>2024-03-29T05:11:01.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 군포 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59134</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59134"/>
+        <updated>2024-03-29T05:10:55.650Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.04(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59133</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59133"/>
+        <updated>2024-03-29T05:10:55.653Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 부천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59132</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59132"/>
+        <updated>2024-03-29T05:10:55.653Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 창원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59131</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59131"/>
+        <updated>2024-03-29T05:10:55.653Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주시립극단 제22회 정기공연 ‘거대한 뿌리’​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59130</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​본격! 트리플콤비 <코미디연극 내안의 그녀 - 대구>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59119</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59119"/>
-        <updated>2024-03-28T01:44:34.419Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.28(목) 04:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 군포 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59134</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59134"/>
+        <updated>2024-03-29T05:11:01.250Z</updated>
+        <content type="html"><![CDATA[2024.04.04(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 인어공주 - 수원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59118</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59118"/>
-        <updated>2024-03-28T01:44:34.420Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59133</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59133"/>
+        <updated>2024-03-29T05:11:01.251Z</updated>
+        <content type="html"><![CDATA[2024.03.05(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 오산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59117</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59117"/>
-        <updated>2024-03-28T01:44:34.422Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 00:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59132</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59132"/>
+        <updated>2024-03-29T05:11:01.251Z</updated>
+        <content type="html"><![CDATA[2024.04.03(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59116</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59116"/>
-        <updated>2024-03-27T10:12:08.385Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.01(월) 05:00]]></content>
+        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59131</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59131"/>
+        <updated>2024-03-29T05:11:01.251Z</updated>
+        <content type="html"><![CDATA[2024.04.02(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광주시립극단 제22회 정기공연 ‘거대한 뿌리’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59120"/>
         <updated>2024-03-28T01:44:41.695Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​본격! 트리플콤비 <코미디연극 내안의 그녀 - 대구>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59119</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59119"/>
-        <updated>2024-03-28T01:44:41.696Z</updated>
-        <content type="html"><![CDATA[2024.03.28(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 인어공주 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59118</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59118"/>
-        <updated>2024-03-28T01:44:41.697Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 오산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59117</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59117"/>
-        <updated>2024-03-28T01:44:41.700Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59116</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59116"/>
-        <updated>2024-03-27T10:12:15.811Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 05:00]]></content>
     </entry>
 </feed>
