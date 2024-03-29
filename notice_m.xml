@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-29T05:11:01.921Z</updated>
+    <updated>2024-03-29T06:13:31.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 춘천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59135</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59135"/>
+        <updated>2024-03-29T06:13:31.162Z</updated>
+        <content type="html"><![CDATA[2024.04.08(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 고고킹의 귀환> - 군포 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59134</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59121"/>
         <updated>2024-03-28T01:44:41.694Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니티 플라잉 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59120</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59120"/>
-        <updated>2024-03-28T01:44:41.695Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 00:00]]></content>
     </entry>
 </feed>
