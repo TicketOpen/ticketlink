@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-29T07:11:04.176Z</updated>
+    <updated>2024-03-29T08:13:21.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024 크레즐 단독 콘서트 - 청주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59136</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59136"/>
-        <updated>2024-03-29T07:10:55.441Z</updated>
+        <updated>2024-03-29T08:13:14.528Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 09:00]]></content>
     </entry>
     <entry>
@@ -113,7 +113,7 @@
         <title type="html"><![CDATA[2024 크레즐 단독 콘서트 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59136</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59136"/>
-        <updated>2024-03-29T07:11:03.540Z</updated>
+        <updated>2024-03-29T08:13:20.932Z</updated>
         <content type="html"><![CDATA[2024.04.02(화) 09:00]]></content>
     </entry>
     <entry>
