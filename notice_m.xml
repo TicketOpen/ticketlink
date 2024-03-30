@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-30T02:14:25.445Z</updated>
+    <updated>2024-03-30T03:15:09.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 PWS: Phase 1 그랜드 파이널​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59138</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59138"/>
+        <updated>2024-03-30T03:15:09.214Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[얼리버드] 르 스페이스 ( Le Space INSPIRE )​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59137</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59124"/>
         <updated>2024-03-28T02:22:08.883Z</updated>
         <content type="html"><![CDATA[2024.04.01(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 조희창의 '작곡가 집중탐구' - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59123</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59123"/>
-        <updated>2024-03-28T01:44:41.693Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 01:00]]></content>
     </entry>
 </feed>
