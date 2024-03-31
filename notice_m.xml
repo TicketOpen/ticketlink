@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-03-31T07:11:34.414Z</updated>
+    <updated>2024-03-31T08:14:42.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김유진 김영미 듀오 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59141</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59141"/>
+        <updated>2024-03-31T08:14:41.597Z</updated>
+        <content type="html"><![CDATA[2024.04.02(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 원주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59140</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59140"/>
+        <updated>2024-03-31T08:14:41.601Z</updated>
+        <content type="html"><![CDATA[2024.04.02(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 라면 - 아산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59139</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59139"/>
+        <updated>2024-03-31T08:14:41.602Z</updated>
+        <content type="html"><![CDATA[2024.04.02(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 PWS: Phase 1 그랜드 파이널​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59138</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59127"/>
         <updated>2024-03-28T07:11:45.524Z</updated>
         <content type="html"><![CDATA[2024.03.29(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마루한필하모닉오케스트라 제7회 정기연주회​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59126</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59126"/>
-        <updated>2024-03-28T06:15:08.907Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리 서커스 <이상한 나라의 앨리스> 오리지널 내한공연​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59125</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59125"/>
-        <updated>2024-03-28T05:12:18.099Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 김해​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59124</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59124"/>
-        <updated>2024-03-28T02:22:08.883Z</updated>
-        <content type="html"><![CDATA[2024.04.01(월) 02:00]]></content>
     </entry>
 </feed>
