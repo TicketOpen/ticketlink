@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-01T06:15:22.979Z</updated>
+    <updated>2024-04-01T07:11:58.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[월드탱고챔피언내한공연 < What is Tango > - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59151</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59151"/>
+        <updated>2024-04-01T07:11:57.765Z</updated>
+        <content type="html"><![CDATA[2024.04.03(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> 1차​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59149</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59136"/>
         <updated>2024-03-29T08:13:20.932Z</updated>
         <content type="html"><![CDATA[2024.04.02(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 춘천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59135</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59135"/>
-        <updated>2024-03-29T06:13:31.162Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 05:00]]></content>
     </entry>
 </feed>
