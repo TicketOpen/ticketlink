@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-01T04:12:46.056Z</updated>
+    <updated>2024-04-01T05:11:08.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] M.O.N.T - Rocking Spring​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59147</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59147"/>
+        <updated>2024-04-01T05:10:59.867Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Jay Chang - Rocking Spring​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59146</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59146"/>
+        <updated>2024-04-01T05:10:59.867Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김태우 2024 T-PARTY < ROOM 512 >​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59145</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59145"/>
+        <updated>2024-04-01T05:10:59.868Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59144</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.05(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 부천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59132</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59132"/>
-        <updated>2024-03-29T05:10:55.653Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] M.O.N.T - Rocking Spring​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59147</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59147"/>
+        <updated>2024-04-01T05:11:07.750Z</updated>
+        <content type="html"><![CDATA[2024.04.03(수) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 창원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59131</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59131"/>
-        <updated>2024-03-29T05:10:55.653Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] Jay Chang - Rocking Spring​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59146</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59146"/>
+        <updated>2024-04-01T05:11:07.750Z</updated>
+        <content type="html"><![CDATA[2024.04.03(수) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광주시립극단 제22회 정기공연 ‘거대한 뿌리’​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59130</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59130"/>
-        <updated>2024-03-29T03:10:48.536Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.03.29(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 김태우 2024 T-PARTY < ROOM 512 >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59145</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59145"/>
+        <updated>2024-04-01T05:11:07.750Z</updated>
+        <content type="html"><![CDATA[2024.04.11(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59133"/>
         <updated>2024-03-29T05:11:01.251Z</updated>
         <content type="html"><![CDATA[2024.03.05(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59132</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59132"/>
-        <updated>2024-03-29T05:11:01.251Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 <슈퍼스타 뽀로로 드림콘서트> 시즌 2 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59131</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59131"/>
-        <updated>2024-03-29T05:11:01.251Z</updated>
-        <content type="html"><![CDATA[2024.04.02(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시립극단 제22회 정기공연 ‘거대한 뿌리’​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59130</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59130"/>
-        <updated>2024-03-29T03:10:55.199Z</updated>
-        <content type="html"><![CDATA[2024.03.29(금) 01:00]]></content>
     </entry>
 </feed>
