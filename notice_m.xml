@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-01T07:11:58.507Z</updated>
+    <updated>2024-04-01T08:14:52.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[2024.04.02(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앤서니브라운의 뮤지컬<우리가족>​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  앤서니브라운의 뮤지컬<우리가족>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59143</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59143"/>
         <updated>2024-04-01T02:26:01.558Z</updated>
