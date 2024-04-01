@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-01T02:26:02.143Z</updated>
+    <updated>2024-04-01T03:11:45.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 부산 티켓오픈 안내 (티켓링크)]]></title>
@@ -17,6 +17,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59143"/>
         <updated>2024-04-01T02:25:53.607Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 VERIVERY FANMEETING TOUR GO ON​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59142</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59142"/>
+        <updated>2024-04-01T03:11:38.534Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.15(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김유진 김영미 듀오 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.03.29(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 동해​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59129</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59129"/>
-        <updated>2024-03-29T03:10:48.536Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59144</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59144"/>
@@ -122,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59143"/>
         <updated>2024-04-01T02:26:01.558Z</updated>
         <content type="html"><![CDATA[2024.04.03(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 VERIVERY FANMEETING TOUR GO ON​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59142</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59142"/>
+        <updated>2024-04-01T03:11:45.308Z</updated>
+        <content type="html"><![CDATA[2024.04.15(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김유진 김영미 듀오 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59130"/>
         <updated>2024-03-29T03:10:55.199Z</updated>
         <content type="html"><![CDATA[2024.03.29(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 신비아파트 <붉은 눈의 저주> - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59129</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59129"/>
-        <updated>2024-03-29T03:10:55.201Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
     </entry>
 </feed>
