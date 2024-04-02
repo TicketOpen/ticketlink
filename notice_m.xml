@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-02T06:14:06.988Z</updated>
+    <updated>2024-04-02T07:11:56.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 탭댄스쇼 <올 댓 리듬> - 울산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59160</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59160"/>
+        <updated>2024-04-02T07:11:56.246Z</updated>
+        <content type="html"><![CDATA[2024.04.11(목) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 경복궁 생과방 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59158</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59157"/>
         <updated>2024-04-02T03:12:47.260Z</updated>
         <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 뮤직 파라디소 콘서트 - 청주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59156</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59156"/>
+        <updated>2024-04-02T07:11:56.246Z</updated>
+        <content type="html"><![CDATA[2024.04.04(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌 4 - 서울​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59145"/>
         <updated>2024-04-01T05:11:07.750Z</updated>
         <content type="html"><![CDATA[2024.04.11(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창완밴드 전국투어 <개구쟁이> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59144</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59144"/>
-        <updated>2024-04-01T02:26:01.558Z</updated>
-        <content type="html"><![CDATA[2024.04.02(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  앤서니브라운의 뮤지컬<우리가족>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59143</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59143"/>
-        <updated>2024-04-01T02:26:01.558Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 01:00]]></content>
     </entry>
 </feed>
