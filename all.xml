@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-02T02:20:32.872Z</updated>
+    <updated>2024-04-02T03:12:47.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 경복궁 생과방 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59158</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59158"/>
+        <updated>2024-04-02T03:12:41.633Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​알리X유채훈 콘서트:Are You Ready​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59157</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59157"/>
+        <updated>2024-04-02T03:12:41.641Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 바다 콘서트 (BADA SPRING CONCERT) - 경주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59153</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 원주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59140</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59140"/>
-        <updated>2024-03-31T08:14:33.767Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 경복궁 생과방 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59158</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59158"/>
+        <updated>2024-04-02T03:12:47.260Z</updated>
+        <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 라면 - 아산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59139</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59139"/>
-        <updated>2024-03-31T08:14:33.767Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​알리X유채훈 콘서트:Are You Ready​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59157</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59157"/>
+        <updated>2024-04-02T03:12:47.260Z</updated>
+        <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 바다 콘서트 (BADA SPRING CONCERT) - 경주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59141</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59141"/>
         <updated>2024-03-31T08:14:41.597Z</updated>
-        <content type="html"><![CDATA[2024.04.02(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59140</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59140"/>
-        <updated>2024-03-31T08:14:41.601Z</updated>
-        <content type="html"><![CDATA[2024.04.02(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 라면 - 아산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59139</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59139"/>
-        <updated>2024-03-31T08:14:41.602Z</updated>
         <content type="html"><![CDATA[2024.04.02(화) 01:00]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-02T02:20:32.876Z</updated>
+    <updated>2024-04-02T03:12:47.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 경복궁 생과방 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59158</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59158"/>
+        <updated>2024-04-02T03:12:41.633Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​알리X유채훈 콘서트:Are You Ready​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59157</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59157"/>
+        <updated>2024-04-02T03:12:41.641Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.03(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 바다 콘서트 (BADA SPRING CONCERT) - 경주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59153</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59141</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59141"/>
         <updated>2024-03-31T08:14:33.763Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 원주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59140</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59140"/>
-        <updated>2024-03-31T08:14:33.767Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 라면 - 아산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59139</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59139"/>
-        <updated>2024-03-31T08:14:33.767Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.02(화) 01:00]]></content>
     </entry>
 </feed>
