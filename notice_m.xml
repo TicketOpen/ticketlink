@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-02T01:52:21.191Z</updated>
+    <updated>2024-04-02T02:20:32.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59151"/>
         <updated>2024-04-01T07:11:57.765Z</updated>
         <content type="html"><![CDATA[2024.04.03(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 1번째 직관 DAY 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59150</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59150"/>
+        <updated>2024-04-02T02:20:32.288Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/59150" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2024시즌 &lt;최강야구&gt; 1번째 직관 DAY 티켓오픈 안내</h3></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> 1차​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59139"/>
         <updated>2024-03-31T08:14:41.602Z</updated>
         <content type="html"><![CDATA[2024.04.02(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 PWS: Phase 1 그랜드 파이널​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59138</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59138"/>
-        <updated>2024-03-30T03:15:09.214Z</updated>
-        <content type="html"><![CDATA[2024.04.05(금) 05:00]]></content>
     </entry>
 </feed>
