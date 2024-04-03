@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-03T05:10:44.910Z</updated>
+    <updated>2024-04-03T06:13:15.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​포켓몬 애니메이션 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59168</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59168"/>
+        <updated>2024-04-03T06:13:15.008Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024년 금난새x뉴월드챔버오케스트라 콘서트 ‘​가족을 담다’​ 티켓 오픈 안내​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59167</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59154"/>
         <updated>2024-04-02T04:12:59.634Z</updated>
         <content type="html"><![CDATA[2024.04.05(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 바다 콘서트 (BADA SPRING CONCERT) - 경주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59153</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59153"/>
-        <updated>2024-04-01T10:12:10.238Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
     </entry>
 </feed>
