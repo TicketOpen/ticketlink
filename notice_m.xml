@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-03T00:43:31.811Z</updated>
+    <updated>2024-04-03T01:44:29.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024년 밤의 석조전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59163</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59163"/>
+        <updated>2024-04-03T01:44:27.852Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 청주​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59162</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59149"/>
         <updated>2024-04-01T06:15:22.290Z</updated>
         <content type="html"><![CDATA[2024.04.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 손영훈 첼로 독주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59148</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59148"/>
-        <updated>2024-04-01T06:15:22.290Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
     </entry>
 </feed>
