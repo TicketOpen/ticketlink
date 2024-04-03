@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-03T02:18:21.104Z</updated>
+    <updated>2024-04-03T03:12:10.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 중국진출 한국 프리뷰 공연 / 뮤지컬<제시카>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59164</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59164"/>
+        <updated>2024-04-03T03:12:09.879Z</updated>
+        <content type="html"><![CDATA[2024.04.04(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024년 밤의 석조전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59163</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59150"/>
         <updated>2024-04-02T02:20:32.288Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/59150" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2024시즌 &lt;최강야구&gt; 1번째 직관 DAY 티켓오픈 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> 1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59149</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59149"/>
-        <updated>2024-04-01T06:15:22.290Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 05:00]]></content>
     </entry>
 </feed>
