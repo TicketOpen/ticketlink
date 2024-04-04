@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-04T02:19:13.625Z</updated>
+    <updated>2024-04-04T03:12:43.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 최현우 Answer - 의정부​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59174</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59174"/>
+        <updated>2024-04-04T03:12:43.189Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 클래식 & 락 심포니 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59173</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59160"/>
         <updated>2024-04-02T07:11:56.246Z</updated>
         <content type="html"><![CDATA[2024.04.11(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 스카 페스티벌 - 창원 < HIPHOP Super-Swag >​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59159</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59159"/>
-        <updated>2024-04-02T08:13:51.703Z</updated>
-        <content type="html"><![CDATA[2024.04.04(목) 08:00]]></content>
     </entry>
 </feed>
