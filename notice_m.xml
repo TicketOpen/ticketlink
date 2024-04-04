@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-03T23:10:12.961Z</updated>
+    <updated>2024-04-04T00:45:29.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 클래식 & 락 심포니 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59173</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59173"/>
+        <updated>2024-04-04T00:45:28.403Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 에프게니 미하일로프 초청 연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59172</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59172"/>
+        <updated>2024-04-04T00:45:28.406Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동하 크라우드 워크 (Crowd Work) in 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59171</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59171"/>
+        <updated>2024-04-04T00:45:28.408Z</updated>
+        <content type="html"><![CDATA[2024.04.05(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원더매직의 <오리지널 과학마술콘서트 시즌2>-수원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59170</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59159"/>
         <updated>2024-04-02T08:13:51.703Z</updated>
         <content type="html"><![CDATA[2024.04.04(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 경복궁 생과방 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59158</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59158"/>
-        <updated>2024-04-02T03:12:47.260Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​알리X유채훈 콘서트:Are You Ready​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59157</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59157"/>
-        <updated>2024-04-02T03:12:47.260Z</updated>
-        <content type="html"><![CDATA[2024.04.03(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 뮤직 파라디소 콘서트 - 청주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59156</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59156"/>
-        <updated>2024-04-02T07:11:56.246Z</updated>
-        <content type="html"><![CDATA[2024.04.04(목) 09:00]]></content>
     </entry>
 </feed>
