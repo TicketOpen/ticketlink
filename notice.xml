@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-05T00:44:25.805Z</updated>
+    <updated>2024-04-05T01:43:57.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 글림의 두 번째 콘서트 < gleaming >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59181</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59181"/>
+        <updated>2024-04-05T01:43:51.136Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.08(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 안동 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59180</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59180"/>
+        <updated>2024-04-05T01:43:51.136Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 평택 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59179</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59179"/>
+        <updated>2024-04-05T01:43:51.138Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공포 연극[괴담: 위험한 해시태그] 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59178</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59167"/>
         <updated>2024-04-03T05:10:36.227Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.05(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 일 테노레 (IL TENORE) 마지막 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59166</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59166"/>
-        <updated>2024-04-03T05:10:36.228Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뷰티풀칠드런스데이 with 뷰티풀데이​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59165</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59165"/>
-        <updated>2024-04-03T05:10:36.228Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 중국진출 한국 프리뷰 공연 / 뮤지컬<제시카>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59164</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59164"/>
-        <updated>2024-04-03T03:12:01.687Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.04(목) 02:00]]></content>
     </entry>
 </feed>
