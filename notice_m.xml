@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-06T07:10:13.986Z</updated>
+    <updated>2024-04-06T08:12:47.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘가족뮤지컬 토장군을 찾아라!’ - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59185</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59185"/>
+        <updated>2024-04-06T08:12:47.318Z</updated>
+        <content type="html"><![CDATA[2024.04.08(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 빛의 환타지 발레로 보는 동화 <늑대와 빨간두건> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59184</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59171"/>
         <updated>2024-04-04T00:45:28.408Z</updated>
         <content type="html"><![CDATA[2024.04.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원더매직의 <오리지널 과학마술콘서트 시즌2>-수원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59170</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59170"/>
-        <updated>2024-04-03T08:13:21.704Z</updated>
-        <content type="html"><![CDATA[2024.04.04(목) 05:00]]></content>
     </entry>
 </feed>
