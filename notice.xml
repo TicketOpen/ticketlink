@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-06T08:12:47.924Z</updated>
+    <updated>2024-04-06T09:10:55.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인어스 앙상블 마스터피스 시리즈 ‘인어스 하우스콘서트’ - 성재창 토크 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59186</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59186"/>
+        <updated>2024-04-06T09:10:47.729Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.08(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가족뮤지컬 토장군을 찾아라!’ - 부산​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59185</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59172</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59172"/>
         <updated>2024-04-04T00:45:20.335Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동하 크라우드 워크 (Crowd Work) in 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59171</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59171"/>
-        <updated>2024-04-04T00:45:20.338Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.05(금) 01:00]]></content>
     </entry>
 </feed>
