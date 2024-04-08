@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-08T00:45:25.478Z</updated>
+    <updated>2024-04-08T01:45:58.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​김용임 신유의 <콘서트롯> - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59188</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59188"/>
+        <updated>2024-04-08T01:45:49.465Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.12(금) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS 뮤지컬 <이벤져스> - 부산앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59187</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59187"/>
+        <updated>2024-04-08T01:45:49.465Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.08(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인어스 앙상블 마스터피스 시리즈 ‘인어스 하우스콘서트’ - 성재창 토크 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59186</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.05(금) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 클래식 & 락 심포니 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59173</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59173"/>
-        <updated>2024-04-04T00:45:20.332Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.05(금) 01:00]]></content>
+        <title type="html"><![CDATA[​김용임 신유의 <콘서트롯> - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59188</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59188"/>
+        <updated>2024-04-08T01:45:57.762Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 에프게니 미하일로프 초청 연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59172</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59172"/>
-        <updated>2024-04-04T00:45:20.335Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.05(금) 01:00]]></content>
+        <title type="html"><![CDATA[EBS 뮤지컬 <이벤져스> - 부산앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59187</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59187"/>
+        <updated>2024-04-08T01:45:57.764Z</updated>
+        <content type="html"><![CDATA[2024.04.08(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인어스 앙상블 마스터피스 시리즈 ‘인어스 하우스콘서트’ - 성재창 토크 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59174"/>
         <updated>2024-04-04T03:12:43.189Z</updated>
         <content type="html"><![CDATA[2024.04.05(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 클래식 & 락 심포니 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59173</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59173"/>
-        <updated>2024-04-04T00:45:28.403Z</updated>
-        <content type="html"><![CDATA[2024.04.05(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 에프게니 미하일로프 초청 연주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59172</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59172"/>
-        <updated>2024-04-04T00:45:28.406Z</updated>
-        <content type="html"><![CDATA[2024.04.05(금) 01:00]]></content>
     </entry>
 </feed>
