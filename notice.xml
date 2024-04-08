@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-08T04:13:16.229Z</updated>
+    <updated>2024-04-08T05:11:22.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 차주완 생일팬미팅 ; 찻잔​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59193</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59193"/>
+        <updated>2024-04-08T05:11:15.769Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 노을 콘서트 < Café 유월 > 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59192</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59192"/>
+        <updated>2024-04-08T05:11:15.769Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 성남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59191</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59191"/>
+        <updated>2024-04-08T05:11:15.769Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.12(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 특선 가족뮤지컬 <라푼젤> - 보령 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59190</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59190"/>
         <updated>2024-04-08T02:20:29.807Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.09(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 DO HANSE FAN MEETING: Rock SEpirit​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59189</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59189"/>
+        <updated>2024-04-08T05:11:15.775Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​김용임 신유의 <콘서트롯> - 청주​ 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59179"/>
         <updated>2024-04-05T01:43:51.138Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공포 연극[괴담: 위험한 해시태그] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59178</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59178"/>
-        <updated>2024-04-05T00:44:17.771Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.09(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] PITTA 강형호 콘서트: New Normal Life - 서울​ ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59177</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59177"/>
-        <updated>2024-04-04T07:10:09.554Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알라딘과 요술램프 - 군산​​ ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59176</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59176"/>
-        <updated>2024-04-04T06:13:32.719Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.09(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 NAMJOO's FANMEET-UP TOUR in JAPAN OSAKA​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59175</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59175"/>
-        <updated>2024-04-04T06:13:32.719Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.06(토) 03:00]]></content>
     </entry>
 </feed>
