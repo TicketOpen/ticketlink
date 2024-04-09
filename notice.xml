@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-09T04:14:06.601Z</updated>
+    <updated>2024-04-09T05:10:28.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거미 소극장 콘서트 [Hidden Track]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59201</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59201"/>
+        <updated>2024-04-09T05:10:20.257Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.16(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 대전​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59200</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59187"/>
         <updated>2024-04-08T01:45:49.465Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인어스 앙상블 마스터피스 시리즈 ‘인어스 하우스콘서트’ - 성재창 토크 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59186</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59186"/>
-        <updated>2024-04-06T09:10:47.729Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.08(월) 01:00]]></content>
     </entry>
 </feed>
