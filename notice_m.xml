@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-09T00:44:23.835Z</updated>
+    <updated>2024-04-09T01:44:23.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​알라딘과 요술램프 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59199</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59199"/>
+        <updated>2024-04-09T01:44:22.400Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​코믹 뮤지컬 < 5! 해피맨 >​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59198</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59198"/>
+        <updated>2024-04-09T01:44:22.400Z</updated>
+        <content type="html"><![CDATA[2024.04.19(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59197</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59197"/>
+        <updated>2024-04-09T01:44:22.401Z</updated>
+        <content type="html"><![CDATA[2024.04.11(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 최현우 Answer - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59196</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59196"/>
+        <updated>2024-04-09T01:44:22.402Z</updated>
+        <content type="html"><![CDATA[2024.04.11(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <미스트> 4차​​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59195</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59185"/>
         <updated>2024-04-06T08:12:47.318Z</updated>
         <content type="html"><![CDATA[2024.04.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 빛의 환타지 발레로 보는 동화 <늑대와 빨간두건> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59184</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59184"/>
-        <updated>2024-04-05T08:12:53.284Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-전주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59183</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59183"/>
-        <updated>2024-04-05T08:12:53.286Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59182</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59182"/>
-        <updated>2024-04-05T05:10:50.209Z</updated>
-        <content type="html"><![CDATA[2024.04.09(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 글림의 두 번째 콘서트 < gleaming >​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59181</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59181"/>
-        <updated>2024-04-05T01:43:56.652Z</updated>
-        <content type="html"><![CDATA[2024.04.08(월) 02:00]]></content>
     </entry>
 </feed>
