@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-11T00:44:50.284Z</updated>
+    <updated>2024-04-11T01:46:04.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 러브콘서트 타임캡슐 - 서울​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59204</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59204"/>
+        <updated>2024-04-11T01:45:57.169Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.12(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 원주​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59203</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.09(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 DO HANSE FAN MEETING: Rock SEpirit​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59189</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59189"/>
-        <updated>2024-04-08T05:11:15.775Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.11(목) 09:00]]></content>
+        <title type="html"><![CDATA[2024 러브콘서트 타임캡슐 - 서울​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59204</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59204"/>
+        <updated>2024-04-11T01:46:03.456Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 원주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59190"/>
         <updated>2024-04-08T02:20:38.008Z</updated>
         <content type="html"><![CDATA[2024.04.09(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 DO HANSE FAN MEETING: Rock SEpirit​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59189</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59189"/>
-        <updated>2024-04-08T05:11:21.605Z</updated>
-        <content type="html"><![CDATA[2024.04.11(목) 09:00]]></content>
     </entry>
 </feed>
