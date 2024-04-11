@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-11T05:11:31.910Z</updated>
+    <updated>2024-04-11T06:14:00.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[2024 러브콘서트 타임캡슐 - 서울​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59205</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59205"/>
+        <updated>2024-04-11T06:13:51.509Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.12(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 서울​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59204</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59204"/>
         <updated>2024-04-11T01:45:57.169Z</updated>
@@ -103,14 +110,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.12(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 특선 가족뮤지컬 <라푼젤> - 보령 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59190</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59190"/>
-        <updated>2024-04-08T02:20:29.807Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.09(화) 01:00]]></content>
+        <title type="html"><![CDATA[디즈니 인 콘서트-군산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59205</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59205"/>
+        <updated>2024-04-11T06:14:00.133Z</updated>
+        <content type="html"><![CDATA[2024.04.12(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 러브콘서트 타임캡슐 - 서울​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 서울​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59204</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59204"/>
         <updated>2024-04-11T01:46:03.456Z</updated>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59191"/>
         <updated>2024-04-09T04:14:05.972Z</updated>
         <content type="html"><![CDATA[2024.04.12(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 특선 가족뮤지컬 <라푼젤> - 보령 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59190</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59190"/>
-        <updated>2024-04-08T02:20:38.008Z</updated>
-        <content type="html"><![CDATA[2024.04.09(화) 01:00]]></content>
     </entry>
 </feed>
