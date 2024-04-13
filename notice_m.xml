@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-13T07:11:26.539Z</updated>
+    <updated>2024-04-13T08:10:14.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 조희창의 [토요 클래식 살롱] - Ⅲ (경주) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59224</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59224"/>
+        <updated>2024-04-13T08:10:14.219Z</updated>
+        <content type="html"><![CDATA[2024.04.22(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 오버워치2 멸망전 - 인비테이셔널 결승전​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59223</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59206"/>
         <updated>2024-04-11T09:11:49.016Z</updated>
         <content type="html"><![CDATA[2024.04.17(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 디즈니 인 콘서트-군산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59205</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59205"/>
-        <updated>2024-04-13T06:11:07.621Z</updated>
-        <content type="html"><![CDATA[2024.04.12(금) 05:00]]></content>
     </entry>
 </feed>
