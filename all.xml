@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-15T04:27:16.777Z</updated>
+    <updated>2024-04-15T05:09:48.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 송민준 단독 콘서트 <챕터2> - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59232</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59232"/>
+        <updated>2024-04-15T05:09:42.199Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59231</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.16(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매튜 본의 ‘로미오와 줄리엣’-부산 티켓오픈! 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59214</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59214"/>
-        <updated>2024-04-12T02:22:00.475Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​2024 송민준 단독 콘서트 <챕터2> - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59232</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59232"/>
+        <updated>2024-04-15T05:09:48.328Z</updated>
+        <content type="html"><![CDATA[2024.04.17(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59215"/>
         <updated>2024-04-12T00:45:00.035Z</updated>
         <content type="html"><![CDATA[2024.04.16(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매튜 본의 ‘로미오와 줄리엣’-부산 티켓오픈! 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59214</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59214"/>
-        <updated>2024-04-12T02:22:07.832Z</updated>
-        <content type="html"><![CDATA[2024.04.24(수) 05:00]]></content>
     </entry>
 </feed>
