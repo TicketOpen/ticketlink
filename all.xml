@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-15T08:11:22.279Z</updated>
+    <updated>2024-04-15T09:10:20.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 마포​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59239</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59239"/>
+        <updated>2024-04-15T09:10:11.961Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​알라딘과 요술램프 - 울산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59238</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.22(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 오버워치2 멸망전 - 인비테이셔널 결승전​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59223</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59223"/>
-        <updated>2024-04-12T10:11:33.155Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.15(월) 08:00]]></content>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 마포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59239</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59239"/>
+        <updated>2024-04-15T09:10:20.047Z</updated>
+        <content type="html"><![CDATA[2024.04.18(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​알라딘과 요술램프 - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59224"/>
         <updated>2024-04-13T08:10:14.219Z</updated>
         <content type="html"><![CDATA[2024.04.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 오버워치2 멸망전 - 인비테이셔널 결승전​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59223</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59223"/>
-        <updated>2024-04-12T10:11:38.681Z</updated>
-        <content type="html"><![CDATA[2024.04.15(월) 08:00]]></content>
     </entry>
 </feed>
