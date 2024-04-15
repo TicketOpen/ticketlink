@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-14T23:33:46.000Z</updated>
+    <updated>2024-04-15T03:11:43.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 순천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59231</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59231"/>
+        <updated>2024-04-15T03:11:36.832Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <달 샤베트> - 천안​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59230</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59230"/>
+        <updated>2024-04-15T03:11:36.833Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하X소향 - 마산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59229</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59229"/>
+        <updated>2024-04-15T03:11:36.833Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 안산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59228</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59228"/>
+        <updated>2024-04-15T03:11:36.834Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59227</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59227"/>
+        <updated>2024-04-15T03:11:36.837Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <양희경의 달콤한 클래식> - 칠곡군 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59226</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59226"/>
+        <updated>2024-04-15T03:11:36.838Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.15(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛3 〈바다넘어육지까지〉 - 창원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59225</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59225"/>
+        <updated>2024-04-15T03:11:36.840Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 조희창의 [토요 클래식 살롱] - Ⅲ (경주) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59224</id>
@@ -34,7 +83,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.16(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[< SPRING BREEZE in CAMPUS > 티켓 오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-서울​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59217</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59217"/>
+        <updated>2024-04-15T03:11:36.847Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.22(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] < SPRING BREEZE in CAMPUS > 티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59216</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59216"/>
         <updated>2024-04-12T02:22:00.471Z</updated>
@@ -53,61 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59214"/>
         <updated>2024-04-12T02:22:00.475Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Konomi Suzuki Asia Tour 2024 in Seoul​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59213</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59213"/>
-        <updated>2024-04-11T09:11:43.244Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.12(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비가족마술쇼 - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59212</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59212"/>
-        <updated>2024-04-11T08:13:27.260Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비가족마술쇼 - 양천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59211</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59211"/>
-        <updated>2024-04-11T08:13:27.260Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 강원도립극단 정기공연 <가객(歌客) 박인환>​ ​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59210</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59210"/>
-        <updated>2024-04-11T08:13:27.261Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 노원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59209</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59209"/>
-        <updated>2024-04-11T08:13:27.261Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 양산 ​​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59208</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59208"/>
-        <updated>2024-04-11T08:13:27.264Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.15(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 박창근 콘서트 [박창근장르] - 전주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59207</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59207"/>
-        <updated>2024-04-11T09:11:43.249Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 박창근 콘서트 [박창근장르] - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59206</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59206"/>
-        <updated>2024-04-11T09:11:43.250Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 10:00]]></content>
     </entry>
 </feed>
