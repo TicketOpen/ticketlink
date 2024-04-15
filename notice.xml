@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-15T05:09:48.949Z</updated>
+    <updated>2024-04-15T06:14:39.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​월드 유니온 오케스트라 슈퍼클래식:존윌리엄스 스타워즈​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59234</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59234"/>
+        <updated>2024-04-15T06:14:31.793Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.16(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 송민준 단독 콘서트 <챕터2> - 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59232</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59216"/>
         <updated>2024-04-12T02:22:00.471Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 아기돼지 삼형제 - 부산 신세계 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59215</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59215"/>
-        <updated>2024-04-12T00:44:52.388Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.16(화) 00:00]]></content>
     </entry>
 </feed>
