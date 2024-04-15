@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-15T06:14:39.609Z</updated>
+    <updated>2024-04-15T07:09:02.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 정수민 쇼케이스 ‘be like YOU’​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59236</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59236"/>
+        <updated>2024-04-15T07:08:55.443Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​월드 유니온 오케스트라 슈퍼클래식:존윌리엄스 스타워즈​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59234</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59217"/>
         <updated>2024-04-15T03:11:36.847Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.22(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] < SPRING BREEZE in CAMPUS > 티켓 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59216</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59216"/>
-        <updated>2024-04-12T02:22:00.471Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 05:00]]></content>
     </entry>
 </feed>
