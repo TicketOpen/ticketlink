@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-16T06:13:26.603Z</updated>
+    <updated>2024-04-16T07:12:52.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59247</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59247"/>
+        <updated>2024-04-16T07:12:44.603Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59246</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59246"/>
+        <updated>2024-04-16T07:12:44.605Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 384회 정기연주회 ‘鎭魂’ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59245</id>
@@ -31,6 +45,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59242"/>
         <updated>2024-04-16T03:12:12.748Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 1차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59241</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59241"/>
+        <updated>2024-04-16T07:12:44.610Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Diaf 2024(대구국제아트페어)​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59231</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59231"/>
-        <updated>2024-04-15T03:11:36.832Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59247</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59247"/>
+        <updated>2024-04-16T07:12:52.031Z</updated>
+        <content type="html"><![CDATA[2024.04.23(화) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 <달 샤베트> - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59230</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59230"/>
-        <updated>2024-04-15T03:11:36.833Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하X소향 - 마산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59229</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59229"/>
-        <updated>2024-04-15T03:11:36.833Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59246</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59246"/>
+        <updated>2024-04-16T07:12:52.032Z</updated>
+        <content type="html"><![CDATA[2024.04.19(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 384회 정기연주회 ‘鎭魂’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -136,6 +150,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59242"/>
         <updated>2024-04-16T03:12:20.949Z</updated>
         <content type="html"><![CDATA[2024.04.19(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 1차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59241</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59241"/>
+        <updated>2024-04-16T07:12:52.056Z</updated>
+        <content type="html"><![CDATA[2024.04.23(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Diaf 2024(대구국제아트페어)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59232"/>
         <updated>2024-04-15T19:09:28.273Z</updated>
         <content type="html"><![CDATA[2024.04.17(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59231</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59231"/>
-        <updated>2024-04-15T19:09:28.275Z</updated>
-        <content type="html"><![CDATA[2024.04.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <달 샤베트> - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59230</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59230"/>
-        <updated>2024-04-15T19:09:28.276Z</updated>
-        <content type="html"><![CDATA[2024.04.18(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 전율 정동하X소향 - 마산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59229</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59229"/>
-        <updated>2024-04-15T19:09:28.278Z</updated>
-        <content type="html"><![CDATA[2024.04.17(수) 05:00]]></content>
     </entry>
 </feed>
