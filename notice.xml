@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-16T04:12:56.136Z</updated>
+    <updated>2024-04-16T05:11:30.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아기돼지삼형제(늑대숲 또옹돼지 원정대) - 경기 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59244</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59244"/>
+        <updated>2024-04-16T05:11:21.714Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 안양​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59243</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59228"/>
         <updated>2024-04-15T03:11:36.834Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <마리 앙투아네트> 10주년 기념공연 마지막 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59227</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59227"/>
-        <updated>2024-04-15T03:11:36.837Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 02:00]]></content>
     </entry>
 </feed>
