@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-16T05:11:30.658Z</updated>
+    <updated>2024-04-16T06:13:26.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 384회 정기연주회 ‘鎭魂’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59245</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59245"/>
+        <updated>2024-04-16T06:13:18.222Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아기돼지삼형제(늑대숲 또옹돼지 원정대) - 경기 고양 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59244</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59229"/>
         <updated>2024-04-15T03:11:36.833Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 안산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59228</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59228"/>
-        <updated>2024-04-15T03:11:36.834Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 02:00]]></content>
     </entry>
 </feed>
