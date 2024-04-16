@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-16T09:11:26.245Z</updated>
+    <updated>2024-04-16T10:12:37.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <장수탕 선녀님> - 포항​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59248</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59248"/>
+        <updated>2024-04-16T10:12:36.835Z</updated>
+        <content type="html"><![CDATA[2024.04.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <더 라스트맨> 마지막​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59247</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59234"/>
         <updated>2024-04-15T19:09:28.272Z</updated>
         <content type="html"><![CDATA[2024.04.16(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 송민준 단독 콘서트 <챕터2> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59232</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59232"/>
-        <updated>2024-04-15T19:09:28.273Z</updated>
-        <content type="html"><![CDATA[2024.04.17(수) 11:00]]></content>
     </entry>
 </feed>
