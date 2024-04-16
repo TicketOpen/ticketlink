@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-16T02:18:32.430Z</updated>
+    <updated>2024-04-16T03:12:21.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59243</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59243"/>
+        <updated>2024-04-16T03:12:12.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59242</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59242"/>
+        <updated>2024-04-16T03:12:12.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Diaf 2024(대구국제아트페어)​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59240</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] <양희경의 달콤한 클래식> - 칠곡군 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59226</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59226"/>
-        <updated>2024-04-15T03:11:36.838Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.15(월) 02:00]]></content>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59243</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59243"/>
+        <updated>2024-04-16T03:12:20.949Z</updated>
+        <content type="html"><![CDATA[2024.04.19(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛3 〈바다넘어육지까지〉 - 창원 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59225</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59225"/>
-        <updated>2024-04-15T03:11:36.840Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 01:00]]></content>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59242</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59242"/>
+        <updated>2024-04-16T03:12:20.949Z</updated>
+        <content type="html"><![CDATA[2024.04.19(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Diaf 2024(대구국제아트페어)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59227"/>
         <updated>2024-04-15T19:09:28.281Z</updated>
         <content type="html"><![CDATA[2024.04.23(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <양희경의 달콤한 클래식> - 칠곡군 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59226</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59226"/>
-        <updated>2024-04-15T19:09:28.283Z</updated>
-        <content type="html"><![CDATA[2024.04.15(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛3 〈바다넘어육지까지〉 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59225</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59225"/>
-        <updated>2024-04-15T19:09:28.284Z</updated>
-        <content type="html"><![CDATA[2024.04.18(목) 01:00]]></content>
     </entry>
 </feed>
