@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-18T08:14:36.991Z</updated>
+    <updated>2024-04-18T09:11:27.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[의정부] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59267</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59267"/>
+        <updated>2024-04-18T09:11:19.639Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아람 로열 클래식 2 - 고잉홈프로젝트 X 손열음 <베토벤 전곡 시리즈 S>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59266</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59266"/>
+        <updated>2024-04-18T09:11:19.640Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아람 로열 클래식 1 - 오케스트라 드 챔버 드 파리 with  선우예권​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59265</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59265"/>
+        <updated>2024-04-18T09:11:19.640Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬<이상한 과자 가게 전천당> -  고양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59264</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59264"/>
+        <updated>2024-04-18T09:11:19.641Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 명작 극장 <라푼젤> - 서울 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59263</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59253"/>
         <updated>2024-04-17T08:13:17.453Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59252</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59252"/>
-        <updated>2024-04-17T05:11:25.874Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 “데뷔 50주년” 김연자 광주 콘서트 “아모르 파티”​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59251</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59251"/>
-        <updated>2024-04-17T05:11:25.874Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  FC 프로 마스터즈 2024(FC 온라인)​ 티켓오픈 안내​​]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59250</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59250"/>
-        <updated>2024-04-17T01:44:21.740Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  FC 프로 마스터즈 2024(FC 모바일)​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59249</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59249"/>
-        <updated>2024-04-17T01:44:21.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.17(수) 05:00]]></content>
     </entry>
 </feed>
