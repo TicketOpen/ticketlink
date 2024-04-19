@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-19T05:11:00.839Z</updated>
+    <updated>2024-04-19T06:14:34.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대전 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59280</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59280"/>
+        <updated>2024-04-19T06:14:33.896Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59279</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59279"/>
+        <updated>2024-04-19T06:14:33.896Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 천안  티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59278</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59278"/>
+        <updated>2024-04-19T06:14:33.897Z</updated>
+        <content type="html"><![CDATA[2024.04.25(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 군산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59277</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59277"/>
+        <updated>2024-04-19T06:14:33.898Z</updated>
+        <content type="html"><![CDATA[2024.04.25(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59276</id>
@@ -80,34 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59266</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59266"/>
         <updated>2024-04-18T09:11:26.758Z</updated>
-        <content type="html"><![CDATA[2024.04.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아람 로열 클래식 1 - 오케스트라 드 챔버 드 파리 with  선우예권​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59265</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59265"/>
-        <updated>2024-04-18T09:11:26.759Z</updated>
-        <content type="html"><![CDATA[2024.04.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<이상한 과자 가게 전천당> -  고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59264</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59264"/>
-        <updated>2024-04-18T09:11:26.759Z</updated>
-        <content type="html"><![CDATA[2024.04.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 명작 극장 <라푼젤> - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59263</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59263"/>
-        <updated>2024-04-18T07:11:16.178Z</updated>
-        <content type="html"><![CDATA[2024.04.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <프린세스 스쿨> - 구미 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59262</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59262"/>
-        <updated>2024-04-18T07:11:16.179Z</updated>
         <content type="html"><![CDATA[2024.04.19(금) 05:00]]></content>
     </entry>
 </feed>
