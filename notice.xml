@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-19T00:44:53.016Z</updated>
+    <updated>2024-04-19T01:45:57.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​다시 부르는 거리의 노래들​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59272</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59272"/>
+        <updated>2024-04-19T01:45:49.959Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 김해​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59271</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59258"/>
         <updated>2024-04-18T01:43:57.848Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이마술쇼 - 해남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59257</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59257"/>
-        <updated>2024-04-18T01:43:57.849Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.22(월) 00:00]]></content>
     </entry>
 </feed>
