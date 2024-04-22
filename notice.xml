@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-22T05:11:28.714Z</updated>
+    <updated>2024-04-22T06:14:14.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 전주브랜드공연 “오만방자 전라감사 길들이기”(금요일) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59286</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59286"/>
+        <updated>2024-04-22T06:14:07.986Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.29(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 정은지 팬미팅 <은지의 책방> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59285</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59272"/>
         <updated>2024-04-19T01:45:49.959Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.19(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 김해​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59271</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59271"/>
-        <updated>2024-04-19T00:44:45.363Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 05:00]]></content>
     </entry>
 </feed>
