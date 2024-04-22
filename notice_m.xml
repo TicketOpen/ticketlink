@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-22T08:14:27.119Z</updated>
+    <updated>2024-04-22T09:11:57.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 진해​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59289</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59289"/>
+        <updated>2024-04-22T09:11:57.082Z</updated>
+        <content type="html"><![CDATA[2024.04.23(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주예술의전당] 어린이 소리극 <벨벳 토끼>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59288</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59275"/>
         <updated>2024-04-19T03:11:28.310Z</updated>
         <content type="html"><![CDATA[2024.04.19(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 이제훈 팬미팅 [ Jehoon's Favorite ]​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59274</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59274"/>
-        <updated>2024-04-19T05:11:00.271Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 11:00]]></content>
     </entry>
 </feed>
