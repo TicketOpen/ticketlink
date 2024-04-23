@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-23T05:10:39.356Z</updated>
+    <updated>2024-04-23T06:14:07.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시카고> 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59293</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59293"/>
+        <updated>2024-04-23T06:13:59.191Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59292</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59279"/>
         <updated>2024-04-19T06:14:25.527Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 천안  티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59278</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59278"/>
-        <updated>2024-04-19T06:14:25.532Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.25(목) 06:00]]></content>
     </entry>
 </feed>
