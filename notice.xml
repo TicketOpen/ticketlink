@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-24T06:15:51.103Z</updated>
+    <updated>2024-04-24T07:10:10.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​The Age of Rock : 전인권밴드 X 부활​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59310</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59310"/>
+        <updated>2024-04-24T07:10:00.353Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.25(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 낭만콘서트 웃는 날 좋은 날 코미디 쇼 - 동해​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59309</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 안동​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59296</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59296"/>
-        <updated>2024-04-23T07:10:04.091Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59295</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59295"/>
         <updated>2024-04-23T07:10:04.091Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 00:00]]></content>
     </entry>
