@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-24T05:12:17.010Z</updated>
+    <updated>2024-04-24T06:15:51.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 낭만콘서트 웃는 날 좋은 날 코미디 쇼 - 동해​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59309</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59309"/>
+        <updated>2024-04-24T06:15:43.744Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​토에이 애니메이션 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59308</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59308"/>
+        <updated>2024-04-24T06:15:43.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.25(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 첼리스트 송영훈의 보이는 클래식 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59307</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59307"/>
+        <updated>2024-04-24T06:15:43.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [유레카극장] '내 자녀 부자만들기 프로젝트'_ 존 리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59306</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59306"/>
+        <updated>2024-04-24T06:15:43.756Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​김신록 1st Fan Meeting [오월의 신록]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59305</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59295"/>
         <updated>2024-04-23T07:10:04.091Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 서울 강동 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59294</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59294"/>
-        <updated>2024-04-23T07:10:04.094Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시카고> 2차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59293</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59293"/>
-        <updated>2024-04-23T06:13:59.191Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59292</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59292"/>
-        <updated>2024-04-23T05:10:31.730Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 악극 가시나무 새 - 동해 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59291</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59291"/>
-        <updated>2024-04-23T05:10:31.731Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
     </entry>
 </feed>
