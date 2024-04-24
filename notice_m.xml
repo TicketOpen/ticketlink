@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-24T02:20:54.146Z</updated>
+    <updated>2024-04-24T03:12:38.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 넌 특별하단다​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59302</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59302"/>
+        <updated>2024-04-24T03:12:38.143Z</updated>
+        <content type="html"><![CDATA[2024.04.25(목) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 넌 특별하단다​ (교육가족)​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59301</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59301"/>
+        <updated>2024-04-24T03:12:38.144Z</updated>
+        <content type="html"><![CDATA[2024.04.24(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> – 서울​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59300</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59288"/>
         <updated>2024-04-22T07:10:45.520Z</updated>
         <content type="html"><![CDATA[2024.04.23(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 전주브랜드공연 “오만방자 전라감사 길들이기”(토요일) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59287</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59287"/>
-        <updated>2024-04-22T07:10:45.520Z</updated>
-        <content type="html"><![CDATA[2024.04.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 전주브랜드공연 “오만방자 전라감사 길들이기”(금요일) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59286</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59286"/>
-        <updated>2024-04-22T06:14:13.924Z</updated>
-        <content type="html"><![CDATA[2024.04.29(월) 01:00]]></content>
     </entry>
 </feed>
