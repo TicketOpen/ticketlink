@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-24T04:12:37.816Z</updated>
+    <updated>2024-04-24T05:12:17.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​김신록 1st Fan Meeting [오월의 신록]​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59305</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59305"/>
+        <updated>2024-04-24T05:12:08.388Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 오르간 시리즈 II. 이민준 오르간 리사이틀​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59304</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59304"/>
+        <updated>2024-04-24T05:12:08.389Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​인 하우스 아티스트 한재민 <트리오 리사이틀>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59303</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59303"/>
+        <updated>2024-04-24T05:12:08.390Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 넌 특별하단다​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59302</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59290</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59290"/>
-        <updated>2024-04-22T10:12:43.575Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​김신록 1st Fan Meeting [오월의 신록]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59305</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59305"/>
+        <updated>2024-04-24T05:12:16.431Z</updated>
+        <content type="html"><![CDATA[2024.04.26(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 진해​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59289</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59289"/>
-        <updated>2024-04-22T09:11:49.293Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 02:00]]></content>
+        <title type="html"><![CDATA[​2024 오르간 시리즈 II. 이민준 오르간 리사이틀​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59304</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59304"/>
+        <updated>2024-04-24T05:12:16.432Z</updated>
+        <content type="html"><![CDATA[2024.04.26(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 어린이 소리극 <벨벳 토끼>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59288</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59288"/>
-        <updated>2024-04-22T07:10:37.129Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.23(화) 07:00]]></content>
+        <title type="html"><![CDATA[​인 하우스 아티스트 한재민 <트리오 리사이틀>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59303</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59303"/>
+        <updated>2024-04-24T05:12:16.433Z</updated>
+        <content type="html"><![CDATA[2024.04.26(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 넌 특별하단다​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59291"/>
         <updated>2024-04-23T05:10:38.793Z</updated>
         <content type="html"><![CDATA[2024.04.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59290</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59290"/>
-        <updated>2024-04-22T10:12:49.502Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 마술쇼 - 진해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59289</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59289"/>
-        <updated>2024-04-22T09:11:57.082Z</updated>
-        <content type="html"><![CDATA[2024.04.23(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 어린이 소리극 <벨벳 토끼>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59288</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59288"/>
-        <updated>2024-04-22T07:10:45.520Z</updated>
-        <content type="html"><![CDATA[2024.04.23(화) 07:00]]></content>
     </entry>
 </feed>
