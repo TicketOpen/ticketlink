@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-25T08:13:39.666Z</updated>
+    <updated>2024-04-25T09:11:01.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59315</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59315"/>
+        <updated>2024-04-25T09:10:53.318Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 치유와 평화를 위한 평화음악회 in 청주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59314</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59300"/>
         <updated>2024-04-24T02:20:45.340Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 창작뮤지컬 <원효와 요석> - 경산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59299</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59299"/>
-        <updated>2024-04-23T08:13:30.759Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 03:00]]></content>
     </entry>
 </feed>
