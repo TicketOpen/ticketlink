@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-26T02:21:06.363Z</updated>
+    <updated>2024-04-26T03:12:42.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024년 특선가족뮤지컬 <피터팬> - 양산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59317</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59317"/>
+        <updated>2024-04-26T03:12:41.790Z</updated>
+        <content type="html"><![CDATA[2024.04.29(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원특별자치도립국악관현악단<제30회 정기연주회> - 춘천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59316</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59302"/>
         <updated>2024-04-24T03:12:38.143Z</updated>
         <content type="html"><![CDATA[2024.04.25(목) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 넌 특별하단다​ (교육가족)​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59301</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59301"/>
-        <updated>2024-04-24T03:12:38.144Z</updated>
-        <content type="html"><![CDATA[2024.04.24(수) 12:00]]></content>
     </entry>
 </feed>
