@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-26T08:13:55.769Z</updated>
+    <updated>2024-04-26T09:11:41.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59323"/>
         <updated>2024-04-26T06:14:46.129Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 박창근 콘서트 [박창근장르] - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59322</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59322"/>
+        <updated>2024-04-26T09:11:40.611Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <새벽의 입구에서> 프리뷰​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59309"/>
         <updated>2024-04-24T06:15:50.354Z</updated>
         <content type="html"><![CDATA[2024.04.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​토에이 애니메이션 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59308</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59308"/>
-        <updated>2024-04-24T06:15:50.359Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 06:00]]></content>
     </entry>
 </feed>
