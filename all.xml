@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-26T05:10:44.632Z</updated>
+    <updated>2024-04-26T06:14:46.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미스트> 마지막​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59323</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59323"/>
+        <updated>2024-04-26T06:14:36.845Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59320</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59320"/>
+        <updated>2024-04-26T06:14:36.846Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 PIT-A-PAT < Tab in you > in Seoul​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59318</id>
@@ -44,7 +58,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/59312</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59312"/>
         <updated>2024-04-24T11:09:46.113Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.29(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  제17회 서유니 가야금 독주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 오르간 시리즈 II. 이민준 오르간 리사이틀​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59304</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59304"/>
-        <updated>2024-04-24T05:12:08.389Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <미스트> 마지막​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59323</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59323"/>
+        <updated>2024-04-26T06:14:46.129Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​인 하우스 아티스트 한재민 <트리오 리사이틀>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59303</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59303"/>
-        <updated>2024-04-24T05:12:08.390Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.26(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59320</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59320"/>
+        <updated>2024-04-26T06:14:46.130Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 PIT-A-PAT < Tab in you > in Seoul​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -149,7 +163,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/59312</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59312"/>
         <updated>2024-04-24T11:09:54.309Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 05:00]]></content>
+        <content type="html"><![CDATA[2024.04.29(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  제17회 서유니 가야금 독주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59305"/>
         <updated>2024-04-24T05:12:16.431Z</updated>
         <content type="html"><![CDATA[2024.04.26(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 오르간 시리즈 II. 이민준 오르간 리사이틀​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59304</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59304"/>
-        <updated>2024-04-24T05:12:16.432Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​인 하우스 아티스트 한재민 <트리오 리사이틀>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59303</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59303"/>
-        <updated>2024-04-24T05:12:16.433Z</updated>
-        <content type="html"><![CDATA[2024.04.26(금) 05:00]]></content>
     </entry>
 </feed>
