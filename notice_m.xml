@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-26T04:13:07.012Z</updated>
+    <updated>2024-04-26T05:10:44.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 PIT-A-PAT < Tab in you > in Seoul​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59318</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59318"/>
+        <updated>2024-04-26T05:10:44.056Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024년 특선가족뮤지컬 <피터팬> - 양산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59317</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59303"/>
         <updated>2024-04-24T05:12:16.433Z</updated>
         <content type="html"><![CDATA[2024.04.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 넌 특별하단다​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59302</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59302"/>
-        <updated>2024-04-24T03:12:38.143Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 12:00]]></content>
     </entry>
 </feed>
