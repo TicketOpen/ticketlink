@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-25T23:10:55.695Z</updated>
+    <updated>2024-04-26T00:45:32.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[강원특별자치도립국악관현악단<제30회 정기연주회> - 춘천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59316</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59316"/>
+        <updated>2024-04-26T00:45:23.799Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59315</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.24(수) 12:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> – 서울​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59300</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59300"/>
-        <updated>2024-04-24T02:20:45.340Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 02:00]]></content>
+        <title type="html"><![CDATA[강원특별자치도립국악관현악단<제30회 정기연주회> - 춘천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59316</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59316"/>
+        <updated>2024-04-26T00:45:31.771Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59301"/>
         <updated>2024-04-24T03:12:38.144Z</updated>
         <content type="html"><![CDATA[2024.04.24(수) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> – 서울​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59300</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59300"/>
-        <updated>2024-04-24T02:20:53.577Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 02:00]]></content>
     </entry>
 </feed>
