@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-26T07:11:42.074Z</updated>
+    <updated>2024-04-26T08:13:55.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 <일리아드> 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59325</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59325"/>
+        <updated>2024-04-26T08:13:47.894Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.03(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 브랜든 콰르텟-광주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59324</id>
@@ -17,6 +24,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59323"/>
         <updated>2024-04-26T06:14:36.845Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <새벽의 입구에서> 프리뷰​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59321</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59321"/>
+        <updated>2024-04-26T08:13:47.900Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.03(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.25(목) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 첼리스트 송영훈의 보이는 클래식 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59307</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59307"/>
-        <updated>2024-04-24T06:15:43.748Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [유레카극장] '내 자녀 부자만들기 프로젝트'_ 존 리​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59306</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59306"/>
-        <updated>2024-04-24T06:15:43.756Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 01:00]]></content>
+        <title type="html"><![CDATA[연극 <일리아드> 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59325</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59325"/>
+        <updated>2024-04-26T08:13:55.142Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 브랜든 콰르텟-광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59323"/>
         <updated>2024-04-26T06:14:46.129Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <새벽의 입구에서> 프리뷰​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59321</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59321"/>
+        <updated>2024-04-26T08:13:55.154Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59308"/>
         <updated>2024-04-24T06:15:50.359Z</updated>
         <content type="html"><![CDATA[2024.04.25(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 첼리스트 송영훈의 보이는 클래식 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59307</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59307"/>
-        <updated>2024-04-24T06:15:50.359Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [유레카극장] '내 자녀 부자만들기 프로젝트'_ 존 리​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59306</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59306"/>
-        <updated>2024-04-24T06:15:50.361Z</updated>
-        <content type="html"><![CDATA[2024.05.07(화) 01:00]]></content>
     </entry>
 </feed>
