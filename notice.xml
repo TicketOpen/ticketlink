@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-27T11:08:32.520Z</updated>
+    <updated>2024-04-27T12:16:19.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59326</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59326"/>
-        <updated>2024-04-27T08:12:59.810Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 05:00]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <일리아드> 1차​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59325</id>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59311"/>
         <updated>2024-04-24T08:14:29.094Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.25(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​The Age of Rock : 전인권밴드 X 부활​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59310</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59310"/>
+        <updated>2024-04-27T12:16:11.675Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.25(목) 05:00]]></content>
     </entry>
 </feed>
