@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-04-29T00:46:35.895Z</updated>
+    <updated>2024-04-29T01:51:26.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 아트매직쇼 - 제주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59327</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59327"/>
+        <updated>2024-04-29T01:51:26.158Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> 3차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59326</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59326"/>
+        <updated>2024-04-29T01:51:26.161Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <일리아드> 1차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59325</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59312"/>
         <updated>2024-04-24T11:09:54.309Z</updated>
         <content type="html"><![CDATA[2024.04.29(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  제17회 서유니 가야금 독주회 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59311</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59311"/>
-        <updated>2024-04-24T08:14:37.565Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​The Age of Rock : 전인권밴드 X 부활​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59310</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59310"/>
-        <updated>2024-04-27T12:16:18.791Z</updated>
-        <content type="html"><![CDATA[2024.04.25(목) 05:00]]></content>
     </entry>
 </feed>
