@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-29T11:10:56.283Z</updated>
+    <updated>2024-04-29T12:19:24.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 국가무형무형유산 태평무 기획공연 '명불허전'​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59340</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59340"/>
+        <updated>2024-04-29T12:19:16.208Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 봉산공연창작소 <무용 ‘시간의 흐름속에 –수건 휘날리며’> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59339</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.03(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 브랜든 콰르텟-광주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59324</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59324"/>
-        <updated>2024-04-26T07:11:35.700Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 국가무형무형유산 태평무 기획공연 '명불허전'​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59340</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59340"/>
+        <updated>2024-04-29T12:19:23.702Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 봉산공연창작소 <무용 ‘시간의 흐름속에 –수건 휘날리며’> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59325"/>
         <updated>2024-04-26T08:13:55.142Z</updated>
         <content type="html"><![CDATA[2024.05.03(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 브랜든 콰르텟-광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59324</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59324"/>
-        <updated>2024-04-26T07:11:41.418Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 02:00]]></content>
     </entry>
 </feed>
