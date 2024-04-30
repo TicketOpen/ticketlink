@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-04-30T06:14:01.456Z</updated>
+    <updated>2024-04-30T07:11:19.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59350</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59350"/>
+        <updated>2024-04-30T07:11:10.673Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  DSAC 아트 페스티벌 < 피아노 위크 in 2024 > - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59349</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59335"/>
         <updated>2024-04-29T05:12:52.843Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [MD] XIA 2024 ENCORE CONCERT Chapter 1 : Recreation MD ​온라인 판매​ 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59334</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59334"/>
-        <updated>2024-04-30T05:10:58.356Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 09:00]]></content>
     </entry>
 </feed>
