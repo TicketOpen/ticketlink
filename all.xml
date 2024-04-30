@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-30T08:13:55.262Z</updated>
+    <updated>2024-04-30T09:12:24.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 조성진 피아노 리사이틀​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59352</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59352"/>
+        <updated>2024-04-30T09:12:17.210Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.03(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WASBE D-50 기념 공연] 2024 Gwangju WASBE Festival Wind Orchestra​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59351</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59351"/>
+        <updated>2024-04-30T09:12:17.211Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.02(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59350</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 봉산공연창작소 <연극 미도다방 블루스 - 대구> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59337</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59337"/>
-        <updated>2024-04-29T06:14:31.493Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 조성진 피아노 리사이틀​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59352</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59352"/>
+        <updated>2024-04-30T09:12:23.886Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 강원도립극단 정기공연 <가객(歌客) 박인환> -동해​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59335</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59335"/>
-        <updated>2024-04-29T05:12:52.843Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 05:00]]></content>
+        <title type="html"><![CDATA[[WASBE D-50 기념 공연] 2024 Gwangju WASBE Festival Wind Orchestra​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59351</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59351"/>
+        <updated>2024-04-30T09:12:23.887Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59338"/>
         <updated>2024-04-29T06:14:37.087Z</updated>
         <content type="html"><![CDATA[2024.04.30(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 봉산공연창작소 <연극 미도다방 블루스 - 대구> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59337</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59337"/>
-        <updated>2024-04-29T06:14:37.087Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 강원도립극단 정기공연 <가객(歌客) 박인환> -동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59335</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59335"/>
-        <updated>2024-04-29T05:13:00.771Z</updated>
-        <content type="html"><![CDATA[2024.05.07(화) 05:00]]></content>
     </entry>
 </feed>
