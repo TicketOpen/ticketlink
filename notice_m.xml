@@ -2,7 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-01T06:16:02.091Z</updated>
+    <updated>2024-05-01T07:13:14.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://m.ticketlink.co.kr/help/favicon.ico</icon>
+    <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 조성진 피아노 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59352</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59352"/>
+        <updated>2024-05-01T07:13:14.133Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WASBE D-50 기념 공연] 2024 Gwangju WASBE Festival Wind Orchestra​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59351</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59351"/>
+        <updated>2024-05-01T07:13:14.133Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59350</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59350"/>
+        <updated>2024-05-01T07:13:14.133Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  DSAC 아트 페스티벌 < 피아노 위크 in 2024 > - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59349</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59349"/>
+        <updated>2024-05-01T07:13:14.135Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​송영주 퀸텟 < JAZZ MEETS OPERA >​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59348</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59348"/>
+        <updated>2024-05-01T07:13:14.135Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 CHUNJI FANMEETING in Seoul​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59347</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59347"/>
+        <updated>2024-05-01T07:13:14.139Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 FC 온라인 eK리그 챔피언십 시즌 2 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59346</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59346"/>
+        <updated>2024-05-01T07:13:14.140Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59345</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59345"/>
+        <updated>2024-05-01T07:13:14.140Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 강원도립극단 정기공연 <가객(歌客) 박인환> -춘천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59344</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59344"/>
+        <updated>2024-05-01T07:13:14.141Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 적재 팬미팅 <학부모총회>​ 선예매 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59343</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59343"/>
+        <updated>2024-05-01T07:13:14.141Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> – 서울앵콜​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59342</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59342"/>
+        <updated>2024-05-01T07:13:14.145Z</updated>
+        <content type="html"><![CDATA[2024.05.22(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임윤찬 피아노 리사이틀(부천) ​​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59341</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59341"/>
+        <updated>2024-05-01T07:13:14.151Z</updated>
+        <content type="html"><![CDATA[2024.05.09(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 국가무형무형유산 태평무 기획공연 '명불허전'​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59340</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59340"/>
+        <updated>2024-05-01T07:13:14.151Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 봉산공연창작소 <무용 ‘시간의 흐름속에 –수건 휘날리며’> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59339</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59339"/>
+        <updated>2024-05-01T07:13:14.151Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 봉산공연창작소 <연극 ‘거기, 푸른 담쟁이 동산’> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59338</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59338"/>
+        <updated>2024-05-01T07:13:14.154Z</updated>
+        <content type="html"><![CDATA[2024.04.30(화) 08:00]]></content>
+    </entry>
 </feed>
