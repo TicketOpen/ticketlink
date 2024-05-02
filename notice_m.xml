@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-02T08:14:10.583Z</updated>
+    <updated>2024-05-02T09:11:53.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이와 함께하는 뮤지컬 콘서트 With You​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59359</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59359"/>
+        <updated>2024-05-02T09:11:53.123Z</updated>
+        <content type="html"><![CDATA[2024.05.02(목) 23:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤찬 피아노 리사이틀(롯데콘서트홀)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59358</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59345"/>
         <updated>2024-05-01T07:13:14.140Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 강원도립극단 정기공연 <가객(歌客) 박인환> -춘천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59344</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59344"/>
-        <updated>2024-05-01T07:13:14.141Z</updated>
-        <content type="html"><![CDATA[2024.05.07(화) 05:00]]></content>
     </entry>
 </feed>
