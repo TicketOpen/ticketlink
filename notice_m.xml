@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-02T10:12:05.819Z</updated>
+    <updated>2024-05-02T11:09:32.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라이브가족뮤지컬 <프린세스공주> - 양산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59360</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59360"/>
+        <updated>2024-05-02T11:09:31.493Z</updated>
+        <content type="html"><![CDATA[2024.05.03(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이와 함께하는 뮤지컬 콘서트 With You​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59359</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59346"/>
         <updated>2024-05-01T07:13:14.140Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59345</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59345"/>
-        <updated>2024-05-01T07:13:14.140Z</updated>
-        <content type="html"><![CDATA[2024.05.02(목) 11:00]]></content>
     </entry>
 </feed>
