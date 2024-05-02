@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-02T04:13:23.375Z</updated>
+    <updated>2024-05-02T05:11:48.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 짙은 여름 콘서트 <꿈꾸는 여름>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59355</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59355"/>
+        <updated>2024-05-02T05:11:40.427Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.09(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 고양앵콜​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59354</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59341"/>
         <updated>2024-04-30T01:47:54.947Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.09(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 국가무형무형유산 태평무 기획공연 '명불허전'​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59340</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59340"/>
-        <updated>2024-04-29T12:19:16.208Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.04.30(화) 01:00]]></content>
     </entry>
 </feed>
