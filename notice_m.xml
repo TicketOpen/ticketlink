@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-01T23:11:44.880Z</updated>
+    <updated>2024-05-02T00:44:59.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 고양앵콜​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59354</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59354"/>
+        <updated>2024-05-02T00:44:58.494Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 블루아카이브 2.5 페스티벌 상품 미노출 관련 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59353</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59340"/>
         <updated>2024-05-01T07:13:14.151Z</updated>
         <content type="html"><![CDATA[2024.04.30(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 봉산공연창작소 <무용 ‘시간의 흐름속에 –수건 휘날리며’> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59339</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59339"/>
-        <updated>2024-05-01T07:13:14.151Z</updated>
-        <content type="html"><![CDATA[2024.04.30(화) 08:00]]></content>
     </entry>
 </feed>
