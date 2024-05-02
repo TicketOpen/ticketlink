@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-02T07:11:37.957Z</updated>
+    <updated>2024-05-02T08:14:10.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤찬 피아노 리사이틀(롯데콘서트홀)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59358</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59358"/>
+        <updated>2024-05-02T08:14:02.271Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마리아킴 Misty Blue (대구)​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59357</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59344"/>
         <updated>2024-04-30T03:11:26.615Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 적재 팬미팅 <학부모총회>​ 선예매 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59343</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59343"/>
-        <updated>2024-04-30T05:10:58.342Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 11:00]]></content>
     </entry>
 </feed>
