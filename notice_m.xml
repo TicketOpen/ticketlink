@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-03T04:15:01.367Z</updated>
+    <updated>2024-05-03T05:11:00.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[< EUNIOA > 크로스오버 콘서트 in 퀸​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59366</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59366"/>
+        <updated>2024-05-03T05:10:59.984Z</updated>
+        <content type="html"><![CDATA[2024.05.08(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여행스케치 35th 콘서트 <다~모여라~~>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59365</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59365"/>
+        <updated>2024-05-03T05:10:59.990Z</updated>
+        <content type="html"><![CDATA[2024.05.08(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59364</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59352"/>
         <updated>2024-05-02T22:11:24.422Z</updated>
         <content type="html"><![CDATA[2024.05.03(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WASBE D-50 기념 공연] 2024 Gwangju WASBE Festival Wind Orchestra​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59351</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59351"/>
-        <updated>2024-05-02T22:11:24.424Z</updated>
-        <content type="html"><![CDATA[2024.05.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기전 별빛누빔-전주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59350</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59350"/>
-        <updated>2024-05-02T22:11:24.426Z</updated>
-        <content type="html"><![CDATA[2024.05.02(목) 00:00]]></content>
     </entry>
 </feed>
