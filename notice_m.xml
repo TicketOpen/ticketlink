@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-03T08:13:33.840Z</updated>
+    <updated>2024-05-03T09:11:58.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 포항​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59372</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59372"/>
+        <updated>2024-05-03T09:11:58.128Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024년 가족뮤지컬 인어공주 - 부산 기장​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59371</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[2024.05.10(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만나필하모닉 오케스트라 "봄 정기 연주회"​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 만나필하모닉 봄 정기연주회 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59367</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59367"/>
         <updated>2024-05-03T06:14:42.333Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59358"/>
         <updated>2024-05-02T22:11:24.417Z</updated>
         <content type="html"><![CDATA[2024.05.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마리아킴 Misty Blue (대구)​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59357</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59357"/>
-        <updated>2024-05-02T22:11:24.417Z</updated>
-        <content type="html"><![CDATA[2024.05.08(수) 01:00]]></content>
     </entry>
 </feed>
