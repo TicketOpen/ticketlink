@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-03T02:24:32.419Z</updated>
+    <updated>2024-05-03T03:13:03.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59364</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59364"/>
+        <updated>2024-05-03T03:13:02.566Z</updated>
+        <content type="html"><![CDATA[2024.05.09(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 광주앵콜​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59363</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59350"/>
         <updated>2024-05-02T22:11:24.426Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  DSAC 아트 페스티벌 < 피아노 위크 in 2024 > - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59349</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59349"/>
-        <updated>2024-05-02T22:11:24.428Z</updated>
-        <content type="html"><![CDATA[2024.05.02(목) 05:00]]></content>
     </entry>
 </feed>
