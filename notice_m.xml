@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-03T05:11:00.596Z</updated>
+    <updated>2024-05-03T06:14:42.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만나필하모닉 오케스트라 "봄 정기 연주회"​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59367</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59367"/>
+        <updated>2024-05-03T06:14:42.333Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[< EUNIOA > 크로스오버 콘서트 in 퀸​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59366</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59353"/>
         <updated>2024-05-02T22:11:24.414Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/59353" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] 블루아카이브 2.5 페스티벌 상품 미노출 관련 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 조성진 피아노 리사이틀​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59352</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59352"/>
-        <updated>2024-05-02T22:11:24.422Z</updated>
-        <content type="html"><![CDATA[2024.05.03(금) 01:00]]></content>
     </entry>
 </feed>
