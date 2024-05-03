@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-03T13:12:22.977Z</updated>
+    <updated>2024-05-03T14:10:59.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공지] 블루 아카이브 2.5주년 페스티벌 미인증 예매자 취소 및 재오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59373</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59373"/>
+        <updated>2024-05-03T14:10:59.246Z</updated>
+        <content type="html"><![CDATA[<a href="/help/notice/59373" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] 블루 아카이브 2.5주년 페스티벌 미인증 예매자 취소 및 재오픈 안내</h3></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 포항​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59372</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59359"/>
         <updated>2024-05-02T22:11:24.417Z</updated>
         <content type="html"><![CDATA[2024.05.02(목) 23:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤찬 피아노 리사이틀(롯데콘서트홀)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59358</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59358"/>
-        <updated>2024-05-02T22:11:24.417Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 05:00]]></content>
     </entry>
 </feed>
