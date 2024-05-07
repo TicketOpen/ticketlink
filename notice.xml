@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-07T07:16:15.578Z</updated>
+    <updated>2024-05-07T08:13:40.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 유키 구라모토 내한 25주년 기념 콘서트 - 부산(교직원)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59380</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59380"/>
+        <updated>2024-05-07T08:13:33.184Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.09(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 시네마 & 클래식 _ 영화음악 OST 콘서트 (6월)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59379</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59379"/>
+        <updated>2024-05-07T08:13:33.184Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.08(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​인어스 앙상블 마스터피스 시리즈 ‘인어스 하우스콘서트’ - 조성현 토크 콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59378</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59366"/>
         <updated>2024-05-03T05:10:51.629Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.08(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행스케치 35th 콘서트 <다~모여라~~>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59365</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59365"/>
-        <updated>2024-05-03T05:10:51.631Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.08(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Something About Us 2024 A-FUZZ X Chihiro Yamazaki​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59364</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59364"/>
-        <updated>2024-05-03T03:12:55.225Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.09(목) 03:00]]></content>
     </entry>
 </feed>
