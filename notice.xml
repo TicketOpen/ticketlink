@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-07T01:52:37.098Z</updated>
+    <updated>2024-05-07T02:28:26.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 2번째 직관 DAY 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59376</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59376"/>
+        <updated>2024-05-07T02:28:18.874Z</updated>
+        <content type="html"><![CDATA[2024.05.07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC기획공연 11시 음악산책 '강석우, 삶이라는 꽃' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59375</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59362</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59362"/>
         <updated>2024-05-03T00:49:25.173Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.03(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​지브리 영화음악 콘서트 2024 서울 (6.5)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59361</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59361"/>
-        <updated>2024-05-03T00:49:25.178Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.03(금) 02:00]]></content>
     </entry>
 </feed>
