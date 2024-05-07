@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-06T23:10:36.021Z</updated>
+    <updated>2024-05-07T00:46:33.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GAC기획공연 11시 음악산책 '강석우, 삶이라는 꽃' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59375</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59375"/>
+        <updated>2024-05-07T00:46:32.835Z</updated>
+        <content type="html"><![CDATA[2024.05.07(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서버 장애 발생(5/1)에 대한 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59374</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59361"/>
         <updated>2024-05-03T00:49:33.229Z</updated>
         <content type="html"><![CDATA[2024.05.03(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이브가족뮤지컬 <프린세스공주> - 양산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59360</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59360"/>
-        <updated>2024-05-02T22:11:24.414Z</updated>
-        <content type="html"><![CDATA[2024.05.03(금) 01:00]]></content>
     </entry>
 </feed>
