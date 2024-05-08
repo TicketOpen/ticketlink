@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-08T04:11:13.582Z</updated>
+    <updated>2024-05-08T05:11:25.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59383"/>
         <updated>2024-05-08T02:12:07.856Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/59383" class="info_wrap"><strong class="label">시스템</strong><h3 class="tit"><b>[공지]</b> 광주은행 전산작업으로 인한 결제서비스 일시중단 안내(05/12)</h3></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  차우민 1st Fan Meeting < Written By > 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59382</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59382"/>
+        <updated>2024-05-08T05:11:24.310Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[대전] 2024 뮤지컬 왕자대전​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59381</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59381"/>
+        <updated>2024-05-08T05:11:24.310Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 유키 구라모토 내한 25주년 기념 콘서트 - 부산(교직원)​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59373"/>
         <updated>2024-05-03T14:10:59.246Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/59373" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] 블루 아카이브 2.5주년 페스티벌 미인증 예매자 취소 및 재오픈 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 포항​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59372</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59372"/>
-        <updated>2024-05-03T09:11:58.128Z</updated>
-        <content type="html"><![CDATA[2024.05.07(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024년 가족뮤지컬 인어공주 - 부산 기장​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59371</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59371"/>
-        <updated>2024-05-03T08:13:33.122Z</updated>
-        <content type="html"><![CDATA[2024.05.07(화) 00:00]]></content>
     </entry>
 </feed>
