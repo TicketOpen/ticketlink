@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-08T06:13:07.432Z</updated>
+    <updated>2024-05-08T07:12:41.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[패밀리 아이스쇼 <피터팬 온 아이스> 오리지널 내한공연​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59391</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59391"/>
+        <updated>2024-05-08T07:12:34.003Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.16(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 대덕문화전당 패밀리 페스타 Ⅲ _ <연희도깨비> in 대구​​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59390</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.09(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 2번째 직관 DAY 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59376</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59376"/>
-        <updated>2024-05-07T02:28:18.874Z</updated>
-        <content type="html"><![CDATA[2024.05.07]]></content>
+        <title type="html"><![CDATA[패밀리 아이스쇼 <피터팬 온 아이스> 오리지널 내한공연​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59391</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59391"/>
+        <updated>2024-05-08T07:12:40.244Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 대덕문화전당 패밀리 페스타 Ⅲ _ <연희도깨비> in 대구​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59377"/>
         <updated>2024-05-07T04:14:09.369Z</updated>
         <content type="html"><![CDATA[2024.05.09(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 2번째 직관 DAY 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59376</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59376"/>
-        <updated>2024-05-07T02:28:26.139Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59376" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2024시즌 &lt;최강야구&gt; 2번째 직관 DAY 티켓오픈 안내</h3></a>]]></content>
     </entry>
 </feed>
