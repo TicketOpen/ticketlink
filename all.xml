@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-08T05:11:25.032Z</updated>
+    <updated>2024-05-08T06:13:07.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 대덕문화전당 패밀리 페스타 Ⅲ _ <연희도깨비> in 대구​​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59390</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59390"/>
+        <updated>2024-05-08T06:13:00.920Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 보이는라디오 퇴근길 모닝쇼 - 대구​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59389</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59389"/>
+        <updated>2024-05-08T06:13:00.920Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] (2024 롯데백화점 대구) 피터팬 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59388</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59388"/>
+        <updated>2024-05-08T06:13:00.921Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 심수봉 전국투어 콘서트 : 꽃길 - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59387</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[2024.05.07]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] GAC기획공연 11시 음악산책 '강석우, 삶이라는 꽃' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59375</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59375"/>
-        <updated>2024-05-07T00:46:25.220Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 대덕문화전당 패밀리 페스타 Ⅲ _ <연희도깨비> in 대구​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59390</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59390"/>
+        <updated>2024-05-08T06:13:06.730Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서버 장애 발생(5/1)에 대한 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59374</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59374"/>
-        <updated>2024-05-05T05:10:29.446Z</updated>
-        <content type="html"><![CDATA[2024.05.05]]></content>
+        <title type="html"><![CDATA[[단독판매] 보이는라디오 퇴근길 모닝쇼 - 대구​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59389</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59389"/>
+        <updated>2024-05-08T06:13:06.740Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공지] 블루 아카이브 2.5주년 페스티벌 미인증 예매자 취소 및 재오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59373</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59373"/>
-        <updated>2024-05-03T14:10:52.089Z</updated>
-        <content type="html"><![CDATA[2024.05.03]]></content>
+        <title type="html"><![CDATA[[단독판매] (2024 롯데백화점 대구) 피터팬 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59388</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59388"/>
+        <updated>2024-05-08T06:13:06.742Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2024 심수봉 전국투어 콘서트 : 꽃길 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59376"/>
         <updated>2024-05-07T02:28:26.139Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/59376" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[단독판매]</b> 2024시즌 &lt;최강야구&gt; 2번째 직관 DAY 티켓오픈 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] GAC기획공연 11시 음악산책 '강석우, 삶이라는 꽃' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59375</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59375"/>
-        <updated>2024-05-07T00:46:32.835Z</updated>
-        <content type="html"><![CDATA[2024.05.07(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서버 장애 발생(5/1)에 대한 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59374</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59374"/>
-        <updated>2024-05-05T05:10:36.777Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59374" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit">서버 장애 발생(5/1)에 대한 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공지] 블루 아카이브 2.5주년 페스티벌 미인증 예매자 취소 및 재오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59373</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59373"/>
-        <updated>2024-05-03T14:10:59.246Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59373" class="info_wrap"><strong class="label">기타</strong><h3 class="tit">[공지] 블루 아카이브 2.5주년 페스티벌 미인증 예매자 취소 및 재오픈 안내</h3></a>]]></content>
     </entry>
 </feed>
