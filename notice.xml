@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-08T02:12:08.405Z</updated>
+    <updated>2024-05-08T03:12:34.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 심수봉 전국투어 콘서트 : 꽃길 - 원주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59387</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59387"/>
+        <updated>2024-05-08T03:12:27.049Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.09(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 파워풀 K-트로트 페스티벌​ 2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59386</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59386"/>
         <updated>2024-05-08T02:11:59.785Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 임윤찬 피아노 리사이틀​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59385</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59385"/>
+        <updated>2024-05-08T03:12:27.049Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.09(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 우리은행 전산작업으로 인한 결제서비스 일시중단 안내(05/12)]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59371"/>
         <updated>2024-05-03T08:13:27.446Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024 대백프라자) 백설공주 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59370</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59370"/>
-        <updated>2024-05-03T08:13:27.449Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.08(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 '천변만화(千變萬化)'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59369</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59369"/>
-        <updated>2024-05-03T08:13:27.449Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.07(화) 01:00]]></content>
     </entry>
 </feed>
