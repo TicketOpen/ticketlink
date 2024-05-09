@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-09T10:12:53.361Z</updated>
+    <updated>2024-05-09T11:09:52.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 팬앤스타 ICON 콘서트 WITH GHOST9​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59412</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59412"/>
+        <updated>2024-05-09T11:09:52.103Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 예산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59411</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59395"/>
         <updated>2024-05-09T05:11:42.621Z</updated>
         <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59394</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59394"/>
-        <updated>2024-05-09T01:53:35.361Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 10:00]]></content>
     </entry>
 </feed>

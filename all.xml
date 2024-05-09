@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-09T10:12:53.358Z</updated>
+    <updated>2024-05-09T11:09:52.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 팬앤스타 ICON 콘서트 WITH GHOST9​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59412</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59412"/>
+        <updated>2024-05-09T11:09:45.757Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 예산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59411</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.16(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59394</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59394"/>
-        <updated>2024-05-09T01:53:26.300Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 10:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 팬앤스타 ICON 콘서트 WITH GHOST9​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59412</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59412"/>
+        <updated>2024-05-09T11:09:52.103Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 예산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59395"/>
         <updated>2024-05-09T05:11:42.621Z</updated>
         <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59394</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59394"/>
-        <updated>2024-05-09T01:53:35.361Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 10:00]]></content>
     </entry>
 </feed>
