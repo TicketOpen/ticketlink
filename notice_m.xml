@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-09T07:12:19.843Z</updated>
+    <updated>2024-05-09T08:14:46.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 대구세계안무축제 - < Kasper Ravnhoj 즉흥워크숍 >​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59408</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59408"/>
+        <updated>2024-05-09T08:14:46.216Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 대구세계안무축제 - < Arthur Bernard-Bazin > 현대무용 워크숍​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59407</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59407"/>
+        <updated>2024-05-09T08:14:46.219Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 1차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59405</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59405"/>
+        <updated>2024-05-09T08:14:46.219Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 안양​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59404</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59392"/>
         <updated>2024-05-08T08:12:13.406Z</updated>
         <content type="html"><![CDATA[2024.05.09(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패밀리 아이스쇼 <피터팬 온 아이스> 오리지널 내한공연​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59391</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59391"/>
-        <updated>2024-05-08T07:12:40.244Z</updated>
-        <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 대덕문화전당 패밀리 페스타 Ⅲ _ <연희도깨비> in 대구​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59390</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59390"/>
-        <updated>2024-05-08T06:13:06.730Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 보이는라디오 퇴근길 모닝쇼 - 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59389</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59389"/>
-        <updated>2024-05-08T06:13:06.740Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 01:00]]></content>
     </entry>
 </feed>
