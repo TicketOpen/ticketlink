@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-09T00:46:54.794Z</updated>
+    <updated>2024-05-09T01:53:36.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 DOYOUNG CONCERT [ Dear Youth, ] 추가 회차​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59394</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59394"/>
+        <updated>2024-05-09T01:53:35.361Z</updated>
+        <content type="html"><![CDATA[2024.05.10(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] SC1 vs SC2 슈퍼매치 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59393</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59380"/>
         <updated>2024-05-07T08:13:39.793Z</updated>
         <content type="html"><![CDATA[2024.05.09(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 시네마 & 클래식 _ 영화음악 OST 콘서트 (6월)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59379</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59379"/>
-        <updated>2024-05-07T08:13:39.793Z</updated>
-        <content type="html"><![CDATA[2024.05.08(수) 08:00]]></content>
     </entry>
 </feed>
