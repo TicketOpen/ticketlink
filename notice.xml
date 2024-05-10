@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-10T04:13:12.406Z</updated>
+    <updated>2024-05-10T05:10:53.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게임음악회 <카트라이더>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59418</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59418"/>
+        <updated>2024-05-10T05:10:45.314Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PITTA 강형호 콘서트: New Normal Life - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59417</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59417"/>
+        <updated>2024-05-10T05:10:45.315Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59416</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59416"/>
+        <updated>2024-05-10T05:10:45.316Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2024 이승철 전국투어 콘서트 “Rock'n All” – 서울​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59415</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59415"/>
+        <updated>2024-05-10T05:10:45.317Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59414</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59414"/>
+        <updated>2024-05-10T05:10:45.319Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 팬앤스타 ICON 콘서트 WITH GHOST9​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59412</id>
@@ -69,45 +104,10 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백설공주 - 남양주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59401</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59401"/>
-        <updated>2024-05-09T06:14:32.102Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김석모의 프라이빗 아뜰리에 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59400</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59400"/>
-        <updated>2024-05-09T07:12:11.147Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​보이체크 멘탈리티​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59399</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59399"/>
-        <updated>2024-05-09T05:11:34.833Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​날씨의 아이 공식 필름콘서트 _ 서울 앙코르​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59398</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59398"/>
-        <updated>2024-05-09T05:11:34.835Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파리 오페라 발레 에투알 갈라 2024​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59397</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59397"/>
-        <updated>2024-05-09T05:11:34.835Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59396</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59396"/>
-        <updated>2024-05-09T06:14:32.103Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 07:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  출산돌봄 힐링토크콘서트 <신애라의 신박한 육아> - 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59402</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59402"/>
+        <updated>2024-05-10T05:10:45.345Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.16(목) 01:00]]></content>
     </entry>
 </feed>
