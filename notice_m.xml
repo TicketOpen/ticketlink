@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-10T08:14:03.963Z</updated>
+    <updated>2024-05-10T09:12:07.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 존노&박현수 <향수> - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59421</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59421"/>
+        <updated>2024-05-10T09:12:06.823Z</updated>
+        <content type="html"><![CDATA[2024.05.13(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 부산교육가족예술축제​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59420</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59405"/>
         <updated>2024-05-09T08:14:46.219Z</updated>
         <content type="html"><![CDATA[2024.05.16(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 안양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59404</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59404"/>
-        <updated>2024-05-09T07:12:19.270Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 05:00]]></content>
     </entry>
 </feed>
