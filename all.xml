@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-11T05:10:53.572Z</updated>
+    <updated>2024-05-11T06:13:12.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 02 - 노사연 단독콘서트​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59424</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59424"/>
+        <updated>2024-05-11T06:13:05.176Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 01 - 015B 단독콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59423</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59423"/>
+        <updated>2024-05-11T06:13:05.179Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페인터즈​ 6월 회차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59422</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.20(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 대구세계안무축제 - < Kasper Ravnhoj 즉흥워크숍 >​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59408</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59408"/>
-        <updated>2024-05-09T08:14:40.814Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 05:00]]></content>
+        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 02 - 노사연 단독콘서트​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59424</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59424"/>
+        <updated>2024-05-11T06:13:12.032Z</updated>
+        <content type="html"><![CDATA[2024.05.13(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 대구세계안무축제 - < Arthur Bernard-Bazin > 현대무용 워크숍​​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59407</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59407"/>
-        <updated>2024-05-09T08:14:40.815Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 05:00]]></content>
+        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 01 - 015B 단독콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59423</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59423"/>
+        <updated>2024-05-11T06:13:12.032Z</updated>
+        <content type="html"><![CDATA[2024.05.13(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페인터즈​ 6월 회차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59409"/>
         <updated>2024-05-10T00:46:47.216Z</updated>
         <content type="html"><![CDATA[2024.05.20(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 대구세계안무축제 - < Kasper Ravnhoj 즉흥워크숍 >​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59408</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59408"/>
-        <updated>2024-05-09T08:14:46.216Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 대구세계안무축제 - < Arthur Bernard-Bazin > 현대무용 워크숍​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59407</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59407"/>
-        <updated>2024-05-09T08:14:46.219Z</updated>
-        <content type="html"><![CDATA[2024.05.10(금) 05:00]]></content>
     </entry>
 </feed>
