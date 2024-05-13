@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-13T06:14:45.900Z</updated>
+    <updated>2024-05-13T07:11:33.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[PITTA 강형호 콘서트: New Normal Life - 부산​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  ​DSAC 아트 페스티벌 <레몬 뮤직 페스티벌 in 달서> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59431</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59431"/>
+        <updated>2024-05-13T07:11:27.593Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​극단 온누리 창작극 <우종은 백수다> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59430</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59430"/>
+        <updated>2024-05-13T07:11:27.600Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오픈일시변경] PITTA 강형호 콘서트: New Normal Life - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59429</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59429"/>
         <updated>2024-05-13T06:14:38.086Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59415"/>
         <updated>2024-05-10T05:10:45.317Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 창원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59414</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59414"/>
-        <updated>2024-05-10T05:10:45.319Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 팬앤스타 ICON 콘서트 WITH GHOST9​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59412</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59412"/>
-        <updated>2024-05-09T11:09:45.757Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 11:00]]></content>
     </entry>
 </feed>
