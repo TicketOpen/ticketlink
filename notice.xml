@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-13T22:11:05.327Z</updated>
+    <updated>2024-05-13T23:11:05.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극<청혼 소동> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59432</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59432"/>
+        <updated>2024-05-13T23:10:57.630Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​DSAC 아트 페스티벌 <레몬 뮤직 페스티벌 in 달서> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59431</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59416"/>
         <updated>2024-05-10T05:10:45.316Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2024 이승철 전국투어 콘서트 “Rock'n All” – 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59415</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59415"/>
-        <updated>2024-05-10T05:10:45.317Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 06:00]]></content>
     </entry>
 </feed>
