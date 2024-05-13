@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-13T05:13:09.177Z</updated>
+    <updated>2024-05-13T06:14:45.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PITTA 강형호 콘서트: New Normal Life - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59429</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59429"/>
+        <updated>2024-05-13T06:14:38.086Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.27(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 쉬어매드니스 - 의성​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59428</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59428"/>
+        <updated>2024-05-13T06:14:38.089Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  삼척문화예술회관 개관 30주년 기념 삼척시민과 함께하는 어!울림 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59426</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59426"/>
+        <updated>2024-05-13T06:14:38.089Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​ESSENTIAL​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59425</id>
@@ -62,13 +83,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PITTA 강형호 콘서트: New Normal Life - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59417</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59417"/>
-        <updated>2024-05-10T05:10:45.315Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 07:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-창원​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59416</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59416"/>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59412"/>
         <updated>2024-05-09T11:09:45.757Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 예산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59411</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59411"/>
-        <updated>2024-05-09T09:12:04.310Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <제 10층> - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59410</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59410"/>
-        <updated>2024-05-09T09:12:04.310Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.10(금) 00:00]]></content>
     </entry>
 </feed>
