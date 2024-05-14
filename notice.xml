@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-14T03:13:00.226Z</updated>
+    <updated>2024-05-14T04:12:35.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬<수박수영장>_서울​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59434</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59434"/>
+        <updated>2024-05-14T04:12:28.243Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.24(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 원주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59433</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59419"/>
         <updated>2024-05-10T08:13:55.606Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임음악회 <카트라이더>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59418</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59418"/>
-        <updated>2024-05-10T05:10:45.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.13(월) 05:00]]></content>
     </entry>
 </feed>
