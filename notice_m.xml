@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-14T09:12:08.279Z</updated>
+    <updated>2024-05-14T10:13:46.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59438"/>
         <updated>2024-05-14T06:16:25.486Z</updated>
         <content type="html"><![CDATA[2024.05.20(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59437</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59437"/>
+        <updated>2024-05-14T10:13:45.840Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 서영은 25주년 기념 콘서트 [6월의 선물]​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59428"/>
         <updated>2024-05-13T06:14:45.308Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  삼척문화예술회관 개관 30주년 기념 삼척시민과 함께하는 어!울림 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59426</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59426"/>
-        <updated>2024-05-14T09:12:07.732Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 05:00]]></content>
     </entry>
 </feed>
