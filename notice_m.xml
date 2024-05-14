@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-14T05:11:31.277Z</updated>
+    <updated>2024-05-14T06:16:26.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EBS뮤지컬<이벤져스 라이브>_서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59439</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59439"/>
+        <updated>2024-05-14T06:16:25.486Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 서울 (소월아트홀)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59438</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59438"/>
+        <updated>2024-05-14T06:16:25.486Z</updated>
+        <content type="html"><![CDATA[2024.05.20(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59437</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59437"/>
+        <updated>2024-05-14T06:16:25.489Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 서영은 25주년 기념 콘서트 [6월의 선물]​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59436</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59436"/>
+        <updated>2024-05-14T06:16:25.489Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2024) 팥죽할멈과 호랑이 - 부산 신세계​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59435</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59435"/>
+        <updated>2024-05-14T06:16:25.491Z</updated>
+        <content type="html"><![CDATA[2024.05.17(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬<수박수영장>_서울​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59434</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59424"/>
         <updated>2024-05-11T06:13:12.032Z</updated>
         <content type="html"><![CDATA[2024.05.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 01 - 015B 단독콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59423</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59423"/>
-        <updated>2024-05-11T06:13:12.032Z</updated>
-        <content type="html"><![CDATA[2024.05.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페인터즈​ 6월 회차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59422</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59422"/>
-        <updated>2024-05-10T12:19:00.143Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 존노&박현수 <향수> - 경주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59421</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59421"/>
-        <updated>2024-05-10T09:12:06.823Z</updated>
-        <content type="html"><![CDATA[2024.05.13(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 부산교육가족예술축제​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59420</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59420"/>
-        <updated>2024-05-10T08:14:03.369Z</updated>
-        <content type="html"><![CDATA[2024.05.14(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 인천펜타포트 락 페스티벌 마니아​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59419</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59419"/>
-        <updated>2024-05-10T08:14:03.370Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 05:00]]></content>
     </entry>
 </feed>
