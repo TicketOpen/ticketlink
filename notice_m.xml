@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-14T07:11:33.387Z</updated>
+    <updated>2024-05-14T08:15:00.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  광주시립소년소녀합창단 제142회 정기공연 <모차르트 레퀴엠>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59443</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59443"/>
+        <updated>2024-05-14T08:14:59.398Z</updated>
+        <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬〈이상한 과자 가게 전천당〉 - 천옥원, 소원과자 대결전 - 진주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59441</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59428"/>
         <updated>2024-05-13T06:14:45.308Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  삼척문화예술회관 개관 30주년 기념 삼척시민과 함께하는 어!울림 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59426</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59426"/>
-        <updated>2024-05-13T06:14:45.308Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 05:00]]></content>
     </entry>
 </feed>
