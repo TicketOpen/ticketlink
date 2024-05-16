@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-16T06:12:46.564Z</updated>
+    <updated>2024-05-16T07:09:16.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보이면 들리는 한국 드라마OST 마티네 콘서트 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59448</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59448"/>
+        <updated>2024-05-16T07:09:09.124Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2023뮤지컬<일라이> 공연실황 녹화 중계​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59447</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59433"/>
         <updated>2024-05-14T03:12:51.043Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극<청혼 소동> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59432</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59432"/>
-        <updated>2024-05-13T23:10:57.630Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.14(화) 01:00]]></content>
     </entry>
 </feed>
