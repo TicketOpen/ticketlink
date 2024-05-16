@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-16T08:11:54.260Z</updated>
+    <updated>2024-05-16T09:10:37.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -46,13 +46,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59443"/>
         <updated>2024-05-14T08:14:59.398Z</updated>
         <content type="html"><![CDATA[2024.05.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 진주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59441</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59441"/>
-        <updated>2024-05-14T07:11:32.805Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 창원 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59433"/>
         <updated>2024-05-14T03:12:59.541Z</updated>
         <content type="html"><![CDATA[2024.05.17(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극<청혼 소동> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59432</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59432"/>
+        <updated>2024-05-16T09:10:37.270Z</updated>
+        <content type="html"><![CDATA[2024.05.14(화) 01:00]]></content>
     </entry>
 </feed>
