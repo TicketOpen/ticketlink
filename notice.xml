@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-16T07:09:16.371Z</updated>
+    <updated>2024-05-16T08:11:54.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.16(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬〈이상한 과자 가게 전천당〉 - 천옥원, 소원과자 대결전 - 진주 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬<이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 진주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59441</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59441"/>
         <updated>2024-05-14T07:11:24.348Z</updated>
