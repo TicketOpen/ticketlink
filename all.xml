@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-17T07:11:25.616Z</updated>
+    <updated>2024-05-17T08:14:16.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  발레 <세비야의 이발사> - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59462</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59462"/>
+        <updated>2024-05-17T08:14:08.552Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.21(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 가족뮤지컬 <겨울이야기> - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59461</id>
@@ -54,6 +61,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.22(수) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[라떼 노래방​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59454</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59454"/>
+        <updated>2024-05-17T08:14:08.568Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.22(수) 04:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PITTA 강형호 콘서트: New Normal Life - 수원​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59453</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59453"/>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2023뮤지컬<일라이> 공연실황 녹화 중계​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59447</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59447"/>
-        <updated>2024-05-16T06:12:39.502Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오즈의 마법사 - 충주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59446</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59446"/>
-        <updated>2024-05-16T04:11:13.103Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 01:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  발레 <세비야의 이발사> - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59462</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59462"/>
+        <updated>2024-05-17T08:14:15.914Z</updated>
+        <content type="html"><![CDATA[2024.05.21(화) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2024 가족뮤지컬 <겨울이야기> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -159,6 +166,13 @@
         <content type="html"><![CDATA[2024.05.22(수) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[라떼 노래방​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59454</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59454"/>
+        <updated>2024-05-17T08:14:15.925Z</updated>
+        <content type="html"><![CDATA[2024.05.22(수) 04:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PITTA 강형호 콘서트: New Normal Life - 수원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59453</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59453"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59448"/>
         <updated>2024-05-16T07:09:15.713Z</updated>
         <content type="html"><![CDATA[2024.05.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2023뮤지컬<일라이> 공연실황 녹화 중계​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59447</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59447"/>
-        <updated>2024-05-16T06:12:45.861Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오즈의 마법사 - 충주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59446</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59446"/>
-        <updated>2024-05-16T04:11:21.166Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 01:00]]></content>
     </entry>
 </feed>
