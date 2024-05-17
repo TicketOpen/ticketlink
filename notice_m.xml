@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-17T00:47:29.470Z</updated>
+    <updated>2024-05-17T01:52:50.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​코믹 뮤지컬 < 5! 해피맨 >​ 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59450</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59450"/>
+        <updated>2024-05-17T01:52:49.482Z</updated>
+        <content type="html"><![CDATA[2024.05.22(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  바리톤 권성준 귀국독창회 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59449</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59434"/>
         <updated>2024-05-14T04:12:35.223Z</updated>
         <content type="html"><![CDATA[2024.05.24(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59433</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59433"/>
-        <updated>2024-05-14T03:12:59.541Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 05:00]]></content>
     </entry>
 </feed>
