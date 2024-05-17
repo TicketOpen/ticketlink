@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-17T05:12:05.798Z</updated>
+    <updated>2024-05-17T06:15:20.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> 4차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59459</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59459"/>
+        <updated>2024-05-17T06:15:14.310Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.20(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤니크챔버오케스트라 제2회 정기연주회 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59458</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59458"/>
+        <updated>2024-05-17T06:15:14.311Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.20(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 연극 <사랑에 빠지기 D-100> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59457</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59457"/>
+        <updated>2024-05-17T06:15:14.312Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.21(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 울산조선해양축제 - 나이트런 일산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59456</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59456"/>
+        <updated>2024-05-17T06:15:14.313Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.21(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산앵콜] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59455</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59455"/>
+        <updated>2024-05-17T06:15:14.314Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.22(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 강릉 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59451</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59440"/>
         <updated>2024-05-14T07:11:24.350Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBS뮤지컬<이벤져스 라이브>_서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59439</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59439"/>
-        <updated>2024-05-14T06:16:19.268Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 서울 (소월아트홀)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59438</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59438"/>
-        <updated>2024-05-14T06:16:19.270Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.20(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬＇Live Show＇<무지개 물고기> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59437</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59437"/>
-        <updated>2024-05-14T06:16:19.271Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 서영은 25주년 기념 콘서트 [6월의 선물]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59436</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59436"/>
-        <updated>2024-05-14T06:16:19.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.16(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 팥죽할멈과 호랑이 - 부산 신세계​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59435</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59435"/>
-        <updated>2024-05-14T06:16:19.274Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.17(금) 00:00]]></content>
     </entry>
 </feed>
