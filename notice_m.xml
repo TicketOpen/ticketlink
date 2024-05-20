@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-20T04:14:11.827Z</updated>
+    <updated>2024-05-20T05:13:01.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발레리노 신승우와 함께하는 SALON DE BALLET -  김해 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59463</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59463"/>
+        <updated>2024-05-20T05:13:01.378Z</updated>
+        <content type="html"><![CDATA[2024.05.23(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  발레 <세비야의 이발사> - 원주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59462</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59449"/>
         <updated>2024-05-17T00:47:28.788Z</updated>
         <content type="html"><![CDATA[2024.05.21(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이면 들리는 한국 드라마OST 마티네 콘서트 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59448</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59448"/>
-        <updated>2024-05-16T07:09:15.713Z</updated>
-        <content type="html"><![CDATA[2024.05.17(금) 05:00]]></content>
     </entry>
 </feed>
