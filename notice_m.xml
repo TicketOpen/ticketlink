@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-20T07:12:07.730Z</updated>
+    <updated>2024-05-20T08:14:48.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 허회경 단독 콘서트 < 그 무엇도 어떤 것도 None >​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59467</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59467"/>
+        <updated>2024-05-20T08:14:48.405Z</updated>
+        <content type="html"><![CDATA[2024.05.23(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​DSAC 브랜드 콘서트 < Playlist : Untitled 시즌Ⅱ, 여름 > - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59466</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59466"/>
+        <updated>2024-05-20T08:14:48.408Z</updated>
+        <content type="html"><![CDATA[2024.05.22(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 가족뮤지컬 <신데렐라> - 목포​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59465</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59453"/>
         <updated>2024-05-17T07:11:25.065Z</updated>
         <content type="html"><![CDATA[2024.05.29(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 안양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59452</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59452"/>
-        <updated>2024-05-17T07:11:25.066Z</updated>
-        <content type="html"><![CDATA[2024.05.21(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 강릉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59451</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59451"/>
-        <updated>2024-05-17T05:12:05.206Z</updated>
-        <content type="html"><![CDATA[2024.05.22(수) 05:00]]></content>
     </entry>
 </feed>
