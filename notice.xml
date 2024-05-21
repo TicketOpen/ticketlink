@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-21T01:53:05.474Z</updated>
+    <updated>2024-05-21T02:24:53.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​버라이어티 개그쇼 <쇼그맨> - 울진​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59470</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59470"/>
+        <updated>2024-05-21T02:24:45.975Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.10(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59469</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59469"/>
+        <updated>2024-05-21T02:24:45.975Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.24(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59468</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59468"/>
+        <updated>2024-05-21T02:24:45.975Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.23(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 허회경 단독 콘서트 < 그 무엇도 어떤 것도 None >​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59467</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59456"/>
         <updated>2024-05-17T06:15:14.313Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.21(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산앵콜] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59455</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59455"/>
-        <updated>2024-05-17T06:15:14.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.22(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라떼 노래방​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59454</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59454"/>
-        <updated>2024-05-17T08:14:08.568Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.22(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PITTA 강형호 콘서트: New Normal Life - 수원​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59453</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59453"/>
-        <updated>2024-05-17T07:11:17.122Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.29(수) 07:00]]></content>
     </entry>
 </feed>
