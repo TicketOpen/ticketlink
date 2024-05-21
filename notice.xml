@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-21T02:24:53.196Z</updated>
+    <updated>2024-05-21T03:12:43.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​국립국악원 <관현악-축제> - 울진​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59471</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59471"/>
+        <updated>2024-05-21T03:12:36.750Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.27(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​버라이어티 개그쇼 <쇼그맨> - 울진​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59470</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59457"/>
         <updated>2024-05-17T06:15:14.312Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.21(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 울산조선해양축제 - 나이트런 일산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59456</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59456"/>
-        <updated>2024-05-17T06:15:14.313Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.21(화) 01:00]]></content>
     </entry>
 </feed>
