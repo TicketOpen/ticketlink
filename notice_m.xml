@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-21T22:10:19.618Z</updated>
+    <updated>2024-05-21T23:12:17.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 385회 정기연주회 '헌정' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59477</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59477"/>
+        <updated>2024-05-21T23:12:16.596Z</updated>
+        <content type="html"><![CDATA[2024.05.22(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 서울 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59476</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59463"/>
         <updated>2024-05-20T05:13:01.378Z</updated>
         <content type="html"><![CDATA[2024.05.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  발레 <세비야의 이발사> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59462</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59462"/>
-        <updated>2024-05-17T08:14:15.914Z</updated>
-        <content type="html"><![CDATA[2024.05.21(화) 08:00]]></content>
     </entry>
 </feed>
