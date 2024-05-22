@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-22T07:11:05.119Z</updated>
+    <updated>2024-05-22T08:14:32.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[원주시립교향악단과 함께하는 오페라 <사랑의 묘약>​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 원주시립교향악단과 함께하는 오페라 <사랑의 묘약>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59488</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59488"/>
         <updated>2024-05-22T07:11:04.436Z</updated>
+        <content type="html"><![CDATA[2024.05.28(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  천안 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59487</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59487"/>
+        <updated>2024-05-22T08:14:32.228Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 00:00]]></content>
     </entry>
     <entry>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59472"/>
         <updated>2024-05-21T06:15:27.327Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​국립국악원 <관현악-축제> - 울진​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59471</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59471"/>
-        <updated>2024-05-21T03:12:42.447Z</updated>
-        <content type="html"><![CDATA[2024.05.27(월) 01:00]]></content>
     </entry>
 </feed>
