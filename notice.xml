@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-22T01:54:09.036Z</updated>
+    <updated>2024-05-22T02:25:27.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <맥베스> 2차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59478</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59478"/>
+        <updated>2024-05-22T02:25:19.021Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 385회 정기연주회 '헌정' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59477</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59463"/>
         <updated>2024-05-20T05:12:54.645Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.23(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  발레 <세비야의 이발사> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59462</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59462"/>
-        <updated>2024-05-22T01:53:59.567Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.21(화) 08:00]]></content>
     </entry>
 </feed>
