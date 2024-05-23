@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-23T08:14:03.413Z</updated>
+    <updated>2024-05-23T09:13:02.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] <경로당폰팅사건> - 칠곡군​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -54,7 +54,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 최현우 아판타시아 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2024 최현우 아판타시아 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59486</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59486"/>
         <updated>2024-05-22T07:10:58.097Z</updated>
@@ -159,7 +159,7 @@
         <content type="html"><![CDATA[2024.05.28(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 최현우 아판타시아 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2024 최현우 아판타시아 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59486</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59486"/>
         <updated>2024-05-22T07:11:04.442Z</updated>
