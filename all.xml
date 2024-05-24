@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-24T03:12:53.965Z</updated>
+    <updated>2024-05-24T04:14:53.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[박인희 앵콜 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -17,6 +17,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59500"/>
         <updated>2024-05-24T01:54:09.247Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.27(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 조선의 사랑꾼 원혁 첫 단독콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59499</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59499"/>
+        <updated>2024-05-24T04:14:44.975Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.30(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 청주 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.24(금) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 인천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59485</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59485"/>
-        <updated>2024-05-22T07:10:58.100Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.23(목) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[박인희 앵콜 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59501</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59501"/>
@@ -122,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59500"/>
         <updated>2024-05-24T01:54:16.619Z</updated>
         <content type="html"><![CDATA[2024.05.27(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 조선의 사랑꾼 원혁 첫 단독콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59499</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59499"/>
+        <updated>2024-05-24T04:14:53.019Z</updated>
+        <content type="html"><![CDATA[2024.05.30(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59486"/>
         <updated>2024-05-22T07:11:04.442Z</updated>
         <content type="html"><![CDATA[2024.05.24(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 인천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59485</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59485"/>
-        <updated>2024-05-22T07:11:04.442Z</updated>
-        <content type="html"><![CDATA[2024.05.23(목) 00:00]]></content>
     </entry>
 </feed>
