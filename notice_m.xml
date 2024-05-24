@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-24T01:54:17.200Z</updated>
+    <updated>2024-05-24T02:25:43.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[2024.05.30(목) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마비노기 20주년 오케스트라 콘서트 - 별을 위하여​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[마비노기 20주년 오케스트라 콘서트 : 별을 위하여​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59491</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59491"/>
         <updated>2024-05-23T04:13:17.902Z</updated>
