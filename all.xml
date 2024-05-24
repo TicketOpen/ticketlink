@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-24T06:15:42.005Z</updated>
+    <updated>2024-05-24T07:10:57.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59503"/>
         <updated>2024-05-24T06:15:33.574Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 수원​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59502</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59502"/>
+        <updated>2024-05-24T07:10:49.257Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박인희 앵콜 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +96,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.24(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 청주​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> 바다넘어 육지까지 - 청주​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59490</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59490"/>
         <updated>2024-05-23T01:53:08.608Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> 바다넘어 육지까지 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59489</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59489"/>
         <updated>2024-05-23T01:53:08.608Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 원주시립교향악단과 함께하는 오페라 <사랑의 묘약>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59488</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59488"/>
-        <updated>2024-05-22T07:10:58.097Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +115,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59503"/>
         <updated>2024-05-24T06:15:41.418Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 수원​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59502</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59502"/>
+        <updated>2024-05-24T07:10:57.051Z</updated>
+        <content type="html"><![CDATA[2024.05.28(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박인희 앵콜 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -194,24 +201,17 @@
         <content type="html"><![CDATA[2024.05.24(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 청주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> 바다넘어 육지까지 - 청주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59490</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59490"/>
         <updated>2024-05-23T01:53:15.853Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  육지수호 대작전 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> 바다넘어 육지까지 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59489</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59489"/>
         <updated>2024-05-23T01:53:15.853Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 원주시립교향악단과 함께하는 오페라 <사랑의 묘약>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59488</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59488"/>
-        <updated>2024-05-22T07:11:04.436Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 00:00]]></content>
     </entry>
 </feed>
