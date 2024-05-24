@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-24T02:25:43.997Z</updated>
+    <updated>2024-05-24T03:12:53.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박인희 앵콜 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59501</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59501"/>
+        <updated>2024-05-24T03:12:53.373Z</updated>
+        <content type="html"><![CDATA[2024.05.24(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​광주시립국악관현악단 제 138회 정기연주회 ‘청소년 협연의 밤’​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59500</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59485"/>
         <updated>2024-05-22T07:11:04.442Z</updated>
         <content type="html"><![CDATA[2024.05.23(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 울산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59484</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59484"/>
-        <updated>2024-05-22T05:12:36.751Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 02:00]]></content>
     </entry>
 </feed>
