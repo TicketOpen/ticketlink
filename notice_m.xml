@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-27T06:16:24.405Z</updated>
+    <updated>2024-05-27T07:12:19.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 마비노기 20주년 오케스트라 콘서트 : 별을 위하여​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59508</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59508"/>
+        <updated>2024-05-27T07:12:18.953Z</updated>
+        <content type="html"><![CDATA[2024.05.29(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​오리지널 왕가위 영화음악 심포니 콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59507</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59493"/>
         <updated>2024-05-23T07:10:40.627Z</updated>
         <content type="html"><![CDATA[2024.05.27(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시카고> 3차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59492</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59492"/>
-        <updated>2024-05-23T06:15:49.929Z</updated>
-        <content type="html"><![CDATA[2024.05.30(목) 06:00]]></content>
     </entry>
 </feed>
