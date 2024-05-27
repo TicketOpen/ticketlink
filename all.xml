@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-27T05:11:52.629Z</updated>
+    <updated>2024-05-27T06:16:24.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​오리지널 왕가위 영화음악 심포니 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59507</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59507"/>
+        <updated>2024-05-27T06:16:16.084Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <일리아드> 2차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59506</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.30(목) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마비노기 20주년 오케스트라 콘서트 : 별을 위하여​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59491</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59491"/>
-        <updated>2024-05-23T04:13:09.758Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.24(금) 05:00]]></content>
+        <title type="html"><![CDATA[​오리지널 왕가위 영화음악 심포니 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59507</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59507"/>
+        <updated>2024-05-27T06:16:23.818Z</updated>
+        <content type="html"><![CDATA[2024.05.28(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <일리아드> 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59492"/>
         <updated>2024-05-23T06:15:49.929Z</updated>
         <content type="html"><![CDATA[2024.05.30(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마비노기 20주년 오케스트라 콘서트 : 별을 위하여​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59491</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59491"/>
-        <updated>2024-05-23T04:13:17.902Z</updated>
-        <content type="html"><![CDATA[2024.05.24(금) 05:00]]></content>
     </entry>
 </feed>
