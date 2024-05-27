@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-27T08:14:48.392Z</updated>
+    <updated>2024-05-27T09:12:17.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 KIMHYUNJOONG CONCERT 'THE LAST DANCE'​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59510</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59510"/>
+        <updated>2024-05-27T09:12:08.033Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.03(월) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 포항​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59509</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 특선 가족뮤지컬 <라푼젤> - 서울 구로 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59494</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59494"/>
-        <updated>2024-05-24T01:54:09.252Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.28(화) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 KIMHYUNJOONG CONCERT 'THE LAST DANCE'​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59510</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59510"/>
+        <updated>2024-05-27T09:12:16.874Z</updated>
+        <content type="html"><![CDATA[2024.06.03(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59496</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59496"/>
         <updated>2024-05-24T05:11:29.070Z</updated>
-        <content type="html"><![CDATA[2024.05.28(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선 가족뮤지컬 <라푼젤> - 서울 구로 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59494</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59494"/>
-        <updated>2024-05-24T01:54:16.631Z</updated>
         <content type="html"><![CDATA[2024.05.28(화) 00:00]]></content>
     </entry>
 </feed>
