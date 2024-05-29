@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-29T05:12:39.340Z</updated>
+    <updated>2024-05-29T06:15:02.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 가족 뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 (제주)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59530</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59530"/>
+        <updated>2024-05-29T06:15:01.398Z</updated>
+        <content type="html"><![CDATA[2024.05.31(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 가족 뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 (대구)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59529</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59529"/>
+        <updated>2024-05-29T06:15:01.400Z</updated>
+        <content type="html"><![CDATA[2024.05.31(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 - 천안​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59528</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59515"/>
         <updated>2024-05-28T07:11:25.822Z</updated>
         <content type="html"><![CDATA[2024.05.31(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아람 로열 클래식 4 - 사라 장 바이올린 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59514</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59514"/>
-        <updated>2024-05-28T07:11:25.822Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아람 로열 클래식 3 - 르노 카퓌송 & 스위스 로잔 챔버 오케스트라 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59513</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59513"/>
-        <updated>2024-05-28T07:11:25.829Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 05:00]]></content>
     </entry>
 </feed>
