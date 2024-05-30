@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-05-30T08:14:58.866Z</updated>
+    <updated>2024-05-30T09:13:08.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마술사 최형배의 <오리지널과학마술콘서트 시즌1>-오산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59536</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59536"/>
+        <updated>2024-05-30T09:12:59.728Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.03(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 3번째 직관 DAY 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59535</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59522"/>
         <updated>2024-05-29T04:15:15.044Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.05.31(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59521</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59521"/>
-        <updated>2024-05-29T05:12:31.676Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.31(금) 02:00]]></content>
     </entry>
 </feed>
