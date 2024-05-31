@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-31T09:13:13.871Z</updated>
+    <updated>2024-05-31T10:12:07.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 <절대영도> - 부산​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59549</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59549"/>
+        <updated>2024-05-31T10:11:58.375Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.03(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 천안​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59548</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59548"/>
+        <updated>2024-05-31T10:11:58.376Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 2차​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59546</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유니버설발레단 <잠자는 숲속의 미녀> - 경주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59532</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59532"/>
-        <updated>2024-05-30T01:56:22.680Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.03(월) 01:00]]></content>
+        <title type="html"><![CDATA[연극 <절대영도> - 부산​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59549</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59549"/>
+        <updated>2024-05-31T10:12:07.109Z</updated>
+        <content type="html"><![CDATA[2024.06.03(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아기돼지 삼형제 [늑대숲 또옹돼지 원정대] - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59531</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59531"/>
-        <updated>2024-05-29T09:13:25.744Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.30(목) 03:00]]></content>
+        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 천안​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59548</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59548"/>
+        <updated>2024-05-31T10:12:07.112Z</updated>
+        <content type="html"><![CDATA[2024.06.07(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 2차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59533"/>
         <updated>2024-05-30T04:16:23.074Z</updated>
         <content type="html"><![CDATA[2024.06.04(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니버설발레단 <잠자는 숲속의 미녀> - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59532</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59532"/>
-        <updated>2024-05-30T01:56:31.558Z</updated>
-        <content type="html"><![CDATA[2024.06.03(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아기돼지 삼형제 [늑대숲 또옹돼지 원정대] - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59531</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59531"/>
-        <updated>2024-05-29T09:13:34.225Z</updated>
-        <content type="html"><![CDATA[2024.05.30(목) 03:00]]></content>
     </entry>
 </feed>
