@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-31T07:10:26.847Z</updated>
+    <updated>2024-05-31T08:14:20.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 2차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59546</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59546"/>
+        <updated>2024-05-31T08:14:19.733Z</updated>
+        <content type="html"><![CDATA[2024.06.07(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[캠핑권] 2024 인천펜타포트 락 페스티벌 X KB국민카드 스타샵​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59545</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59545"/>
+        <updated>2024-05-31T08:14:19.734Z</updated>
+        <content type="html"><![CDATA[2024.06.07(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 인천펜타포트 락 페스티벌 X KB국민카드 스타샵 - 레귤러 티켓​ 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59543</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59543"/>
+        <updated>2024-05-31T08:14:19.736Z</updated>
+        <content type="html"><![CDATA[2024.06.07(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 대구치맥페스티벌 <프리미엄 사전예약존> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59542</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59531"/>
         <updated>2024-05-29T09:13:34.225Z</updated>
         <content type="html"><![CDATA[2024.05.30(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 가족 뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 (제주)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59530</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59530"/>
-        <updated>2024-05-29T06:15:01.398Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 가족 뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 (대구)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59529</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59529"/>
-        <updated>2024-05-29T06:15:01.400Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 어린이 뮤지컬 <바다탐험대 옥토넛 시즌3>  바다넘어 육지까지 - 천안​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59528</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59528"/>
-        <updated>2024-05-29T05:12:38.734Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 02:00]]></content>
     </entry>
 </feed>
