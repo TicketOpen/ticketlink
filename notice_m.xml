@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-31T01:55:58.530Z</updated>
+    <updated>2024-05-31T02:27:58.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오즈의 마법사 - 목포 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59538</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59538"/>
+        <updated>2024-05-31T02:27:57.719Z</updated>
+        <content type="html"><![CDATA[2024.06.04(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 <오리지널과학마술콘서트 시즌1>-오산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59536</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59523"/>
         <updated>2024-05-29T04:15:22.308Z</updated>
         <content type="html"><![CDATA[2024.05.31(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  벌룬매직쇼 - 대구 (2024 롯데백화점 대구) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59522</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59522"/>
-        <updated>2024-05-29T04:15:22.310Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 00:00]]></content>
     </entry>
 </feed>
