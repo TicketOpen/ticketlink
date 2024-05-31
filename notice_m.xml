@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-05-31T05:14:05.045Z</updated>
+    <updated>2024-05-31T06:15:48.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <오페라 갈라 콘서트> - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59540</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59540"/>
+        <updated>2024-05-31T06:15:47.744Z</updated>
+        <content type="html"><![CDATA[2024.06.04(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커트 로젠윈클 The Next Step Band​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59539</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59526"/>
         <updated>2024-05-29T05:12:38.735Z</updated>
         <content type="html"><![CDATA[2024.06.03(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59525</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59525"/>
-        <updated>2024-05-29T05:12:38.736Z</updated>
-        <content type="html"><![CDATA[2024.05.31(금) 02:00]]></content>
     </entry>
 </feed>
