@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-03T01:57:36.653Z</updated>
+    <updated>2024-06-03T02:30:03.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​지브리 영화음악 콘서트 2024 서울 (8월)​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59555</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59555"/>
+        <updated>2024-06-03T02:29:54.764Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​너의 이름은. 공식 필름콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59554</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] <오페라 갈라 콘서트> - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59540</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59540"/>
-        <updated>2024-05-31T06:15:39.893Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 05:00]]></content>
+        <title type="html"><![CDATA[​지브리 영화음악 콘서트 2024 서울 (8월)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59555</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59555"/>
+        <updated>2024-06-03T02:30:03.278Z</updated>
+        <content type="html"><![CDATA[2024.06.04(화) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​너의 이름은. 공식 필름콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59541"/>
         <updated>2024-06-02T21:10:47.526Z</updated>
         <content type="html"><![CDATA[2024.06.05(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <오페라 갈라 콘서트> - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59540</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59540"/>
-        <updated>2024-06-02T21:10:47.527Z</updated>
-        <content type="html"><![CDATA[2024.06.04(화) 05:00]]></content>
     </entry>
 </feed>

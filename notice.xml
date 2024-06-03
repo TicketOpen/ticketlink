@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-03T01:57:36.794Z</updated>
+    <updated>2024-06-03T02:30:03.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​지브리 영화음악 콘서트 2024 서울 (8월)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59555</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59555"/>
+        <updated>2024-06-03T02:29:54.764Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​너의 이름은. 공식 필름콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59554</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59541"/>
         <updated>2024-05-31T07:10:17.508Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <오페라 갈라 콘서트> - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59540</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59540"/>
-        <updated>2024-05-31T06:15:39.893Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 05:00]]></content>
     </entry>
 </feed>
