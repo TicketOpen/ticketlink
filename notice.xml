@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-03T00:50:47.271Z</updated>
+    <updated>2024-06-03T01:57:36.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​너의 이름은. 공식 필름콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59554</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59554"/>
+        <updated>2024-06-03T01:57:30.240Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59553</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59540"/>
         <updated>2024-05-31T06:15:39.893Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커트 로젠윈클 The Next Step Band​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59539</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59539"/>
-        <updated>2024-05-31T05:13:57.399Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 01:00]]></content>
     </entry>
 </feed>
