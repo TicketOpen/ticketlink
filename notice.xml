@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-02T23:10:56.070Z</updated>
+    <updated>2024-06-03T00:50:47.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59553</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59553"/>
+        <updated>2024-06-03T00:50:39.603Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59552</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59552"/>
+        <updated>2024-06-03T00:50:39.603Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 제주​​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59551</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59551"/>
+        <updated>2024-06-03T00:50:39.612Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 번개맨 <전설의 시작> - 구미​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59550</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59550"/>
+        <updated>2024-06-03T00:50:39.612Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <절대영도> - 부산​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59549</id>
@@ -41,6 +69,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59544</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59544"/>
+        <updated>2024-06-03T00:50:39.618Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​2024 인천펜타포트 락 페스티벌 X KB국민카드 스타샵 - 레귤러 티켓​ 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59543</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59543"/>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59539"/>
         <updated>2024-05-31T05:13:57.399Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오즈의 마법사 - 목포 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59538</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59538"/>
-        <updated>2024-05-31T02:27:51.416Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크레디아 클래식 클럽 2024 멜로디​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59537</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59537"/>
-        <updated>2024-05-31T04:14:57.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마술사 최형배의 <오리지널과학마술콘서트 시즌1>-오산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59536</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59536"/>
-        <updated>2024-05-30T09:12:59.728Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.03(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 3번째 직관 DAY 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59535</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59535"/>
-        <updated>2024-05-30T08:14:51.315Z</updated>
-        <content type="html"><![CDATA[2024.05.30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매] 대구경북 지역민과 함께하는 부모교육 iM-Talk 콘서트 명사 초청 특강 Part3. 박지헌​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59534</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59534"/>
-        <updated>2024-05-30T05:10:40.229Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.05.31(금) 05:00]]></content>
     </entry>
 </feed>
