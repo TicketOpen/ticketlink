@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-04T11:10:52.856Z</updated>
+    <updated>2024-06-04T12:20:04.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 HUH JIWON 1st FANMEETING : Won & Only​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59577</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59577"/>
+        <updated>2024-06-04T12:19:55.608Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카운터테너 이동규 리사이틀 ​​티켓오픈 연기 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59575</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  인어공주 - 서울 (2024 롯데백화점 영등포) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59561</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59561"/>
-        <updated>2024-06-03T06:15:25.829Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.05(수) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 HUH JIWON 1st FANMEETING : Won & Only​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59577</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59577"/>
+        <updated>2024-06-04T12:20:03.651Z</updated>
+        <content type="html"><![CDATA[2024.06.07(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카운터테너 이동규 리사이틀 ​​티켓오픈 연기 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59562</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59562"/>
         <updated>2024-06-03T09:12:21.651Z</updated>
-        <content type="html"><![CDATA[2024.06.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  인어공주 - 서울 (2024 롯데백화점 영등포) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59561</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59561"/>
-        <updated>2024-06-03T06:15:33.635Z</updated>
         <content type="html"><![CDATA[2024.06.05(수) 00:00]]></content>
     </entry>
 </feed>
