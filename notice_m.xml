@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-04T04:13:15.556Z</updated>
+    <updated>2024-06-04T05:13:33.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카운터테너 이동규 리사이틀 ​​티켓오픈 연기 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59575</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59575"/>
+        <updated>2024-06-04T05:13:32.371Z</updated>
+        <content type="html"><![CDATA[2024.06.11(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> LAST​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59574</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59574"/>
+        <updated>2024-06-04T05:13:32.371Z</updated>
+        <content type="html"><![CDATA[2024.06.10(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 캣 - 화성시​  티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59573</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59573"/>
         <updated>2024-06-04T03:13:49.124Z</updated>
         <content type="html"><![CDATA[2024.06.10(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​윤딴딴 투어 콘서트 [딴딴한여름 2024] : 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59572</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59572"/>
+        <updated>2024-06-04T05:13:32.374Z</updated>
+        <content type="html"><![CDATA[2024.06.12(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 별이 빛나는 포항 <언덕을 넘어서 가자> 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59561"/>
         <updated>2024-06-03T06:15:33.635Z</updated>
         <content type="html"><![CDATA[2024.06.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  버블매직쇼 - 서울 (2024 롯데백화점 영등포)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59560</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59560"/>
-        <updated>2024-06-03T06:15:33.635Z</updated>
-        <content type="html"><![CDATA[2024.06.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  2024 뮤직 토크쇼 “​니엘의 샤한 밤”​ Ep.4 & Ep.5​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59559</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59559"/>
-        <updated>2024-06-03T03:13:21.149Z</updated>
-        <content type="html"><![CDATA[2024.06.05(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 거제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59558</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59558"/>
-        <updated>2024-06-03T03:13:21.151Z</updated>
-        <content type="html"><![CDATA[2024.06.07(금) 00:00]]></content>
     </entry>
 </feed>
