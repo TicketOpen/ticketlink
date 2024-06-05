@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-05T07:10:46.775Z</updated>
+    <updated>2024-06-05T08:13:54.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] MUSICAL ICE SHOW < THE LUNA > 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59586</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59586"/>
+        <updated>2024-06-05T08:13:45.866Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 tripleS FAN-CON  (트리플에스) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59585</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59585"/>
+        <updated>2024-06-05T08:13:45.866Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬<이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 진주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59584</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59572"/>
         <updated>2024-06-04T05:13:24.219Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 별이 빛나는 포항 <언덕을 넘어서 가자> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59571</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59571"/>
-        <updated>2024-06-04T01:56:22.823Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박파랑의 '클래식 서양 미술사' - 경주 (특별 추가강의) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59570</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59570"/>
-        <updated>2024-06-04T01:56:22.823Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 01:00]]></content>
     </entry>
 </feed>
