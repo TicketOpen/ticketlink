@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-05T02:28:08.937Z</updated>
+    <updated>2024-06-05T03:14:19.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -27,11 +27,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  ​LILPACON : Going Out​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59578</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59578"/>
+        <updated>2024-06-05T03:14:12.521Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 11:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 2024 HUH JIWON 1st FANMEETING : Won & Only​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59577</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59577"/>
         <updated>2024-06-04T12:19:55.608Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 마비노기 20주년 판타지 파티 입장권 + 웰컴 기프트 추가 예매 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59576</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59576"/>
+        <updated>2024-06-05T03:14:12.523Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카운터테너 이동규 리사이틀 ​​티켓오픈 연기 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59567"/>
         <updated>2024-06-04T01:56:22.827Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.10(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 해설이 있는 음악회Ⅲ  - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59566</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59566"/>
-        <updated>2024-06-04T00:49:47.743Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <달 샤베트> - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59565</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59565"/>
-        <updated>2024-06-04T00:49:47.743Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 05:00]]></content>
     </entry>
 </feed>
