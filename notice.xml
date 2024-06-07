@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-07T02:31:59.946Z</updated>
+    <updated>2024-06-07T03:13:30.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] QM 개미 단독 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59590</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59590"/>
+        <updated>2024-06-07T03:13:23.457Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 키즈 음악글램핑 <동물의 사육제>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59589</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 이영현&박민혜 “SUMMER VOICE” - 제주​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 이영현 & 박민혜 “ MUSE BY YOU ” - 제주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59587</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59587"/>
         <updated>2024-06-05T09:13:46.444Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59576"/>
         <updated>2024-06-05T03:14:12.523Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카운터테너 이동규 리사이틀 ​​티켓오픈 연기 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59575</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59575"/>
-        <updated>2024-06-04T05:13:24.214Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 05:00]]></content>
     </entry>
 </feed>
