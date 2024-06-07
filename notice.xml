@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-07T00:51:53.741Z</updated>
+    <updated>2024-06-07T01:58:26.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 키즈 음악글램핑 <동물의 사육제>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59589</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59589"/>
+        <updated>2024-06-07T01:58:18.723Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김민희 플루트 독주회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59588</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59575"/>
         <updated>2024-06-04T05:13:24.214Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <협객외전> LAST​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59574</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59574"/>
-        <updated>2024-06-04T05:13:24.218Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.10(월) 05:00]]></content>
     </entry>
 </feed>
