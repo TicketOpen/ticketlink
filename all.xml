@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-07T08:14:29.696Z</updated>
+    <updated>2024-06-07T09:12:12.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당] 어린이 뮤지컬 <목 짧은 기린 지피>​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59602"/>
         <updated>2024-06-07T08:14:20.811Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.10(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 24 얼리버드 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59601</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59601"/>
+        <updated>2024-06-07T09:12:03.459Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.10(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 갈라 콘서트 SPECIAL MUSOC VIDEO (2024 LOTTE OST Festival) 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59582</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59582"/>
-        <updated>2024-06-07T06:16:17.764Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당] 어린이 뮤지컬 <목 짧은 기린 지피>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59602</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59602"/>
         <updated>2024-06-07T08:14:29.077Z</updated>
         <content type="html"><![CDATA[2024.06.10(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 24 얼리버드 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59601</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59601"/>
+        <updated>2024-06-07T09:12:12.416Z</updated>
+        <content type="html"><![CDATA[2024.06.10(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 갈라 콘서트 SPECIAL MUSOC VIDEO (2024 LOTTE OST Festival) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59583</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59583"/>
         <updated>2024-06-07T06:16:26.040Z</updated>
-        <content type="html"><![CDATA[2024.06.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59582</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59582"/>
-        <updated>2024-06-07T06:16:26.041Z</updated>
         <content type="html"><![CDATA[2024.06.07(금) 01:00]]></content>
     </entry>
 </feed>
