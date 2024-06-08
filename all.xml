@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-08T00:49:13.847Z</updated>
+    <updated>2024-06-08T01:55:42.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 모두페스티벌 <똑, 똑, 똑> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59607</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59607"/>
+        <updated>2024-06-08T01:55:35.819Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당] 어린이 뮤지컬 <목 짧은 기린 지피>​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59602</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 성남 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59583</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59583"/>
-        <updated>2024-06-07T06:16:17.762Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 모두페스티벌 <똑, 똑, 똑> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59607</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59607"/>
+        <updated>2024-06-08T01:55:42.245Z</updated>
+        <content type="html"><![CDATA[2024.06.11(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당] 어린이 뮤지컬 <목 짧은 기린 지피>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59584"/>
         <updated>2024-06-05T06:15:35.899Z</updated>
         <content type="html"><![CDATA[2024.06.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59583</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59583"/>
-        <updated>2024-06-07T06:16:26.040Z</updated>
-        <content type="html"><![CDATA[2024.06.07(금) 01:00]]></content>
     </entry>
 </feed>
