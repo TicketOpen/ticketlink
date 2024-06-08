@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-08T07:11:27.619Z</updated>
+    <updated>2024-06-08T08:12:56.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 버튜버 샤메이 첫 단독 콘서트 誕生(탄생) 7월 13일 개최! 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59611</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59611"/>
+        <updated>2024-06-08T08:12:49.651Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 가족뮤지컬 <겨울이야기> - 광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59610</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 이영현 & 박민혜 “MUSE BY YOU” - 제주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59587</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59587"/>
-        <updated>2024-06-05T09:13:46.444Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.07(금) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 버튜버 샤메이 첫 단독 콘서트 誕生(탄생) 7월 13일 개최! 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59611</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59611"/>
+        <updated>2024-06-08T08:12:55.404Z</updated>
+        <content type="html"><![CDATA[2024.06.13(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 가족뮤지컬 <겨울이야기> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59588"/>
         <updated>2024-06-07T00:51:52.982Z</updated>
         <content type="html"><![CDATA[2024.06.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이영현 & 박민혜 “MUSE BY YOU” - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59587</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59587"/>
-        <updated>2024-06-05T09:13:54.776Z</updated>
-        <content type="html"><![CDATA[2024.06.07(금) 08:00]]></content>
     </entry>
 </feed>
