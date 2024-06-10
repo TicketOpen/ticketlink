@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-10T02:35:51.640Z</updated>
+    <updated>2024-06-10T03:12:59.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  윤전일 Dance Emotion <사랑에 미치다> - 울진​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59616</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59616"/>
+        <updated>2024-06-10T03:12:58.675Z</updated>
+        <content type="html"><![CDATA[2024.06.17(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <인어공주> - 서울 서대문 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59615</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59602"/>
         <updated>2024-06-07T08:14:29.077Z</updated>
         <content type="html"><![CDATA[2024.06.10(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundberry Festa' 24 얼리버드 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59601</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59601"/>
-        <updated>2024-06-07T09:12:12.416Z</updated>
-        <content type="html"><![CDATA[2024.06.10(월) 09:00]]></content>
     </entry>
 </feed>
