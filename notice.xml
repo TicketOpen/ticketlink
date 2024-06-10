@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-10T07:11:28.925Z</updated>
+    <updated>2024-06-10T08:17:01.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이예준 첼로 리사이틀 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59619</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59619"/>
+        <updated>2024-06-10T08:16:49.051Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice and Melody: The Melodies of America - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59618</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59618"/>
+        <updated>2024-06-10T08:16:49.051Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 평택​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59617</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59605</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59605"/>
         <updated>2024-06-10T01:59:50.359Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  '신이 내린 손가락' 막심 므라비차 메가밴드 내한 공연 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59604</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59604"/>
-        <updated>2024-06-10T01:59:50.361Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] '신이 내린 손가락' 막심 므라비차 메가밴드 내한 공연 - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59603</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59603"/>
-        <updated>2024-06-10T01:59:50.362Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 01:00]]></content>
     </entry>
 </feed>
