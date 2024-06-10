@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-10T05:12:14.989Z</updated>
+    <updated>2024-06-10T06:17:03.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 평택​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59617</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59617"/>
+        <updated>2024-06-10T06:16:54.147Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  윤전일 Dance Emotion <사랑에 미치다> - 울진​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59616</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59603"/>
         <updated>2024-06-10T01:59:50.362Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주예술의전당] 어린이 뮤지컬 <목 짧은 기린 지피>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59602</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59602"/>
-        <updated>2024-06-07T08:14:20.811Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.10(월) 07:00]]></content>
     </entry>
 </feed>
