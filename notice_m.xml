@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-10T08:17:01.712Z</updated>
+    <updated>2024-06-10T09:13:48.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <유진과 유진> 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59621</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59621"/>
+        <updated>2024-06-10T09:13:48.257Z</updated>
+        <content type="html"><![CDATA[2024.06.14(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 이예준 첼로 리사이틀 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59619</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59606</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59606"/>
         <updated>2024-06-10T01:59:57.908Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] '신이 내린 손가락' 막심 므라비차 메가밴드 내한 공연 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59605</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59605"/>
-        <updated>2024-06-10T01:59:57.914Z</updated>
         <content type="html"><![CDATA[2024.08.06(화) 01:00]]></content>
     </entry>
 </feed>
