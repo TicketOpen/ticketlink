@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-11T09:13:25.148Z</updated>
+    <updated>2024-06-11T10:12:59.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59635</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59635"/>
+        <updated>2024-06-11T10:12:53.007Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.17(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 디 첼리스텐 앙상블 제15회 정기연주회 - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59633</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59618"/>
         <updated>2024-06-10T08:16:49.051Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 평택​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59617</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59617"/>
-        <updated>2024-06-10T06:16:54.147Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 00:00]]></content>
     </entry>
 </feed>
