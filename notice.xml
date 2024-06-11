@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-11T07:11:28.460Z</updated>
+    <updated>2024-06-11T08:16:10.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 디 첼리스텐 앙상블 제15회 정기연주회 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59633</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59633"/>
+        <updated>2024-06-11T08:16:03.352Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 도깨비교방 II - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59632</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59632"/>
+        <updated>2024-06-11T08:16:03.352Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 정태춘,박은옥 콘서트 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59631</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59631"/>
+        <updated>2024-06-11T08:16:03.353Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 하모나이즈콘서트 < School of Choir >​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59629</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59617"/>
         <updated>2024-06-10T06:16:54.147Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  윤전일 Dance Emotion <사랑에 미치다> - 울진​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59616</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59616"/>
-        <updated>2024-06-10T03:12:52.011Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.17(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <인어공주> - 서울 서대문 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59615</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59615"/>
-        <updated>2024-06-10T02:35:43.217Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​공룡애니멀쇼 - 구미​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59614</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59614"/>
-        <updated>2024-06-10T02:35:43.222Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 00:00]]></content>
     </entry>
 </feed>
