@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-11T04:13:45.968Z</updated>
+    <updated>2024-06-11T05:12:14.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 충주​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59625"/>
         <updated>2024-06-11T02:31:11.030Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​윤딴딴 투어 콘서트 [딴딴한여름 2024] : 제주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59624</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59624"/>
+        <updated>2024-06-11T05:12:06.171Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.14(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[서울앵콜] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 모두페스티벌 <우리는 꿈을 위해 달려간다. 돈키호테처럼> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59609</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59609"/>
-        <updated>2024-06-08T02:27:30.482Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.11(화) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 충주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59625</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59625"/>
         <updated>2024-06-11T02:31:17.813Z</updated>
         <content type="html"><![CDATA[2024.06.13(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​윤딴딴 투어 콘서트 [딴딴한여름 2024] : 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59624</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59624"/>
+        <updated>2024-06-11T05:12:13.806Z</updated>
+        <content type="html"><![CDATA[2024.06.14(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[서울앵콜] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59610"/>
         <updated>2024-06-08T04:14:09.001Z</updated>
         <content type="html"><![CDATA[2024.06.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 모두페스티벌 <우리는 꿈을 위해 달려간다. 돈키호테처럼> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59609</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59609"/>
-        <updated>2024-06-08T02:27:37.621Z</updated>
-        <content type="html"><![CDATA[2024.06.11(화) 01:00]]></content>
     </entry>
 </feed>
