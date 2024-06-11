@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-11T05:12:14.362Z</updated>
+    <updated>2024-06-11T06:15:35.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬<이카이노 바이크> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59628</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59628"/>
+        <updated>2024-06-11T06:15:35.392Z</updated>
+        <content type="html"><![CDATA[2024.06.13(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬<미스타호야> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59627</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59627"/>
+        <updated>2024-06-11T06:15:35.392Z</updated>
+        <content type="html"><![CDATA[2024.06.13(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <절대영도> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59626</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59626"/>
+        <updated>2024-06-11T06:15:35.394Z</updated>
+        <content type="html"><![CDATA[2024.06.13(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 충주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59625</id>
@@ -87,27 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59613</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59613"/>
         <updated>2024-06-10T01:59:57.904Z</updated>
-        <content type="html"><![CDATA[2024.06.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 변진섭 전국투어 콘서트 : 변천사 - 평택​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59612</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59612"/>
-        <updated>2024-06-10T01:59:57.904Z</updated>
-        <content type="html"><![CDATA[2024.06.12(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 버튜버 샤메이 첫 단독 콘서트 誕生(탄생) 7월 13일 개최! 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59611</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59611"/>
-        <updated>2024-06-08T08:12:55.404Z</updated>
-        <content type="html"><![CDATA[2024.06.13(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 가족뮤지컬 <겨울이야기> - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59610</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59610"/>
-        <updated>2024-06-08T04:14:09.001Z</updated>
         <content type="html"><![CDATA[2024.06.11(화) 00:00]]></content>
     </entry>
 </feed>
