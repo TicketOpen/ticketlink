@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-11T23:11:15.595Z</updated>
+    <updated>2024-06-12T00:51:15.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 서울 구로​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59636</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59636"/>
+        <updated>2024-06-12T00:51:07.644Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59635</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voice and Melody: The Melodies of America - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59618</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59618"/>
-        <updated>2024-06-10T08:16:49.051Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 01:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <백설공주> - 서울 구로​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59636</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59636"/>
+        <updated>2024-06-12T00:51:14.865Z</updated>
+        <content type="html"><![CDATA[2024.06.13(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59619</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59619"/>
         <updated>2024-06-10T08:17:01.120Z</updated>
-        <content type="html"><![CDATA[2024.06.12(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voice and Melody: The Melodies of America - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59618</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59618"/>
-        <updated>2024-06-10T08:17:01.124Z</updated>
         <content type="html"><![CDATA[2024.06.12(수) 01:00]]></content>
     </entry>
 </feed>
