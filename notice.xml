@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-12T03:13:11.625Z</updated>
+    <updated>2024-06-12T04:14:08.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59635"/>
         <updated>2024-06-11T10:12:53.007Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.17(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59634</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59634"/>
+        <updated>2024-06-12T04:14:00.421Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 디 첼리스텐 앙상블 제15회 정기연주회 - 부산​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59622"/>
         <updated>2024-06-11T00:50:14.324Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <유진과 유진> 1차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59621</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59621"/>
-        <updated>2024-06-10T09:13:40.297Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.14(금) 07:00]]></content>
     </entry>
 </feed>
