@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-12T02:31:58.650Z</updated>
+    <updated>2024-06-12T03:13:11.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59631"/>
         <updated>2024-06-11T08:16:03.353Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 콘서트 뮤지컬 <트루스토리> 1차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59630</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59630"/>
+        <updated>2024-06-12T03:13:02.998Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.18(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 울산광역시학생교육문화회관 기획공연 - 하모나이즈콘서트 < School of Choir >​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59621"/>
         <updated>2024-06-10T09:13:40.297Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.14(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이예준 첼로 리사이틀 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59619</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59619"/>
-        <updated>2024-06-10T08:16:49.051Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.12(수) 01:00]]></content>
     </entry>
 </feed>
