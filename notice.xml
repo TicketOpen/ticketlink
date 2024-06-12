@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-12T07:11:05.756Z</updated>
+    <updated>2024-06-12T08:14:38.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <각인> - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59642</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59642"/>
+        <updated>2024-06-12T08:14:30.309Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <인어공주> - 전주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59641</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59628</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59628"/>
         <updated>2024-06-11T06:15:26.440Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<미스타호야> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59627</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59627"/>
-        <updated>2024-06-11T06:15:26.443Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 01:00]]></content>
     </entry>
 </feed>
