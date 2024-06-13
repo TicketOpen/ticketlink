@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-12T23:11:40.076Z</updated>
+    <updated>2024-06-13T00:49:48.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 - 김해 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59647</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59647"/>
+        <updated>2024-06-13T00:49:48.047Z</updated>
+        <content type="html"><![CDATA[2024.06.17(월) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59646</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59646"/>
+        <updated>2024-06-13T00:49:48.054Z</updated>
+        <content type="html"><![CDATA[2024.06.18(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59645</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59645"/>
+        <updated>2024-06-13T00:49:48.054Z</updated>
+        <content type="html"><![CDATA[2024.06.18(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린미 뮤지컬 <피터팬> - 구미​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59644</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59633"/>
         <updated>2024-06-11T08:16:09.841Z</updated>
         <content type="html"><![CDATA[2024.06.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 도깨비교방 II - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59632</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59632"/>
-        <updated>2024-06-11T08:16:09.843Z</updated>
-        <content type="html"><![CDATA[2024.06.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 정태춘,박은옥 콘서트 - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59631</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59631"/>
-        <updated>2024-06-11T08:16:09.843Z</updated>
-        <content type="html"><![CDATA[2024.06.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 콘서트 뮤지컬 <트루스토리> 1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59630</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59630"/>
-        <updated>2024-06-12T03:13:11.020Z</updated>
-        <content type="html"><![CDATA[2024.06.18(화) 05:00]]></content>
     </entry>
 </feed>
