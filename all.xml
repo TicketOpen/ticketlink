@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-14T00:50:11.911Z</updated>
+    <updated>2024-06-14T01:57:32.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[김태균 쇼(SHOW) - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59657</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59657"/>
+        <updated>2024-06-14T01:57:22.839Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.18(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김태균 쇼(SHOW) - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59656</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59656"/>
+        <updated>2024-06-14T01:57:22.843Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.18(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 대구치맥페스티벌 <프리미엄 사전예약존> 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59655</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <각인> - 서울​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59642</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59642"/>
-        <updated>2024-06-12T08:14:30.309Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 01:00]]></content>
+        <title type="html"><![CDATA[김태균 쇼(SHOW) - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59657</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59657"/>
+        <updated>2024-06-14T01:57:31.455Z</updated>
+        <content type="html"><![CDATA[2024.06.18(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <인어공주> - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59641</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59641"/>
-        <updated>2024-06-12T07:10:57.248Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.13(목) 00:00]]></content>
+        <title type="html"><![CDATA[김태균 쇼(SHOW) - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59656</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59656"/>
+        <updated>2024-06-14T01:57:31.458Z</updated>
+        <content type="html"><![CDATA[2024.06.18(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 대구치맥페스티벌 <프리미엄 사전예약존> 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59643"/>
         <updated>2024-06-12T09:12:46.415Z</updated>
         <content type="html"><![CDATA[2024.06.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <각인> - 서울​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59642</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59642"/>
-        <updated>2024-06-12T08:14:37.871Z</updated>
-        <content type="html"><![CDATA[2024.06.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <인어공주> - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59641</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59641"/>
-        <updated>2024-06-12T07:11:05.162Z</updated>
-        <content type="html"><![CDATA[2024.06.13(목) 00:00]]></content>
     </entry>
 </feed>
