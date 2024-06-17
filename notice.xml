@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-17T02:00:37.928Z</updated>
+    <updated>2024-06-17T02:38:37.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​이야기로 만나는 춤의 정원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59664</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59664"/>
+        <updated>2024-06-17T02:38:30.159Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.19(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​공룡애니멀쇼 - 김천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59662</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59649"/>
         <updated>2024-06-13T01:57:22.867Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.14(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​코믹 뮤지컬 < 5! 해피맨 >​ 마지막 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59648</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59648"/>
-        <updated>2024-06-13T01:57:22.869Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.17(월) 01:00]]></content>
     </entry>
 </feed>
