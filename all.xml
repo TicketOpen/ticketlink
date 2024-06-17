@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-17T08:15:40.868Z</updated>
+    <updated>2024-06-17T09:13:32.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 서울 강남​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59671</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59671"/>
+        <updated>2024-06-17T09:13:25.892Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 치유와 평화를 위한 평화음악회 in 군산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59670</id>
@@ -17,13 +24,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59669"/>
         <updated>2024-06-17T07:11:29.862Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비가족마술쇼 - 일산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59668</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59668"/>
-        <updated>2024-06-17T06:17:29.141Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이마술쇼 - 경기 광주 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.18(화) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 서울 강남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59671</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59671"/>
+        <updated>2024-06-17T09:13:31.938Z</updated>
+        <content type="html"><![CDATA[2024.06.24(월) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 치유와 평화를 위한 평화음악회 in 군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59670</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59670"/>
@@ -122,13 +129,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59669"/>
         <updated>2024-06-17T07:11:38.228Z</updated>
         <content type="html"><![CDATA[2024.06.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비가족마술쇼 - 일산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59668</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59668"/>
-        <updated>2024-06-17T06:17:35.376Z</updated>
-        <content type="html"><![CDATA[2024.06.20(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이마술쇼 - 경기 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
