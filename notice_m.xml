@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-18T08:16:00.351Z</updated>
+    <updated>2024-06-18T09:12:28.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 <겨울왕국> - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59684</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59684"/>
+        <updated>2024-06-18T09:12:27.875Z</updated>
+        <content type="html"><![CDATA[2024.06.20(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선 가족뮤지컬 <라푼젤> - 수원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59683</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59670"/>
         <updated>2024-06-17T08:15:40.285Z</updated>
         <content type="html"><![CDATA[2024.06.20(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제35회 퍼포먼스 뮤지콘 작곡발표회 - 침묵, 그 너머 II - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59669</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59669"/>
-        <updated>2024-06-17T07:11:38.228Z</updated>
-        <content type="html"><![CDATA[2024.06.20(목) 01:00]]></content>
     </entry>
 </feed>
