@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-18T05:12:18.824Z</updated>
+    <updated>2024-06-18T06:15:27.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] GSO 오티움 콘서트 Ⅲ ‘Romantic’​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59678</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59678"/>
+        <updated>2024-06-18T06:15:27.008Z</updated>
+        <content type="html"><![CDATA[2024.06.19(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미> 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59677</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59677"/>
+        <updated>2024-06-18T06:15:27.012Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤딴딴 투어 콘서트 [딴딴한여름 2024] : 부산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59676</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59663"/>
         <updated>2024-06-17T03:13:57.307Z</updated>
         <content type="html"><![CDATA[2024.06.18(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​공룡애니멀쇼 - 김천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59662</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59662"/>
-        <updated>2024-06-15T01:56:47.507Z</updated>
-        <content type="html"><![CDATA[2024.06.19(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 신곡발매기념 콘서트 “Rock’n All” - 인천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59661</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59661"/>
-        <updated>2024-06-14T08:14:08.090Z</updated>
-        <content type="html"><![CDATA[2024.06.18(화) 05:00]]></content>
     </entry>
 </feed>
