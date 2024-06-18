@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-18T07:11:41.114Z</updated>
+    <updated>2024-06-18T08:16:00.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선 가족뮤지컬 <라푼젤> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59683</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59683"/>
+        <updated>2024-06-18T08:15:52.331Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.19(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프레드 허쉬 솔로 피아노 2024 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59682</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59669"/>
         <updated>2024-06-17T07:11:29.862Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 경기 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59667</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59667"/>
-        <updated>2024-06-17T06:17:29.142Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 00:00]]></content>
     </entry>
 </feed>
