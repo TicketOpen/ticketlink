@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-18T03:13:37.425Z</updated>
+    <updated>2024-06-18T04:13:48.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 24 티켓 오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59675</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59675"/>
+        <updated>2024-06-18T04:13:41.081Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.18(화) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59674</id>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59660"/>
         <updated>2024-06-14T05:11:15.299Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 김창완밴드 전국투어 <개구쟁이> - 양산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59659</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59659"/>
-        <updated>2024-06-14T03:12:38.496Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.17(월) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Soundberry Festa' 24 티켓 오픈 안내 (티켓링크 모바일)]]></title>
