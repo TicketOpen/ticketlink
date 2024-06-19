@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-19T22:12:06.610Z</updated>
+    <updated>2024-06-19T23:11:49.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 여수 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59695</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59695"/>
+        <updated>2024-06-19T23:11:41.238Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 대구관악합주단 초청연주회 < Bands Around the World >​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59694</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59681</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59681"/>
         <updated>2024-06-18T07:11:32.064Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 극단열전 - 조지 버나드 쇼 <피그말리온>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59680</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59680"/>
-        <updated>2024-06-18T07:11:32.065Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 05:00]]></content>
     </entry>
 </feed>
