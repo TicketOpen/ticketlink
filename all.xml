@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-19T02:33:01.362Z</updated>
+    <updated>2024-06-19T03:12:49.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 KIM SUNG KYU CONCERT [LV3 : Let's Vacay]​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59687</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59687"/>
+        <updated>2024-06-19T03:12:41.866Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 심수봉 전국투어 콘서트 : 꽃길 - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59686</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  조희창의 [토요 클래식 살롱] - Ⅳ (경주)​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59672</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59672"/>
-        <updated>2024-06-18T02:31:30.172Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 KIM SUNG KYU CONCERT [LV3 : Let's Vacay]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59687</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59687"/>
+        <updated>2024-06-19T03:12:48.843Z</updated>
+        <content type="html"><![CDATA[2024.07.01(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2024 심수봉 전국투어 콘서트 : 꽃길 - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59673"/>
         <updated>2024-06-18T03:13:36.876Z</updated>
         <content type="html"><![CDATA[2024.06.24(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  조희창의 [토요 클래식 살롱] - Ⅳ (경주)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59672</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59672"/>
-        <updated>2024-06-18T02:31:37.440Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 01:00]]></content>
     </entry>
 </feed>
