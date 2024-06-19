@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-19T05:12:23.945Z</updated>
+    <updated>2024-06-19T06:16:42.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​(사)서울윈드오케스트라 창단 50주년 기념 음악회 시리즈 1​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59693</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59693"/>
+        <updated>2024-06-19T06:16:41.448Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 극단열전 - 조지 버나드 쇼 <무기와 인간>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59692</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59692"/>
+        <updated>2024-06-19T06:16:41.471Z</updated>
+        <content type="html"><![CDATA[2024.06.20(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] LILPACON : Going Out - SOOPER CONCERT 시야제한석 추가​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59691</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59691"/>
+        <updated>2024-06-19T06:16:41.471Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 마술쇼 -경산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59690</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59690"/>
+        <updated>2024-06-19T06:16:41.471Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [대구] 2024 목소리 높여, 그분께 PAX 찬양콘서트 “NEW WORSHIP” 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59689</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59679"/>
         <updated>2024-06-18T07:11:40.524Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] GSO 오티움 콘서트 Ⅲ ‘Romantic’​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59678</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59678"/>
-        <updated>2024-06-18T06:15:27.008Z</updated>
-        <content type="html"><![CDATA[2024.06.19(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <사의찬미> 2차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59677</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59677"/>
-        <updated>2024-06-18T06:15:27.012Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤딴딴 투어 콘서트 [딴딴한여름 2024] : 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59676</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59676"/>
-        <updated>2024-06-18T05:12:18.225Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soundberry Festa' 24 티켓 오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59675</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59675"/>
-        <updated>2024-06-18T03:13:36.876Z</updated>
-        <content type="html"><![CDATA[2024.06.18(화) 09:00]]></content>
     </entry>
 </feed>
