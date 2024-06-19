@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-19T04:13:58.402Z</updated>
+    <updated>2024-06-19T05:12:23.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [대구] 2024 목소리 높여, 그분께 PAX 찬양콘서트 “NEW WORSHIP” 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59689</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59689"/>
+        <updated>2024-06-19T05:12:16.400Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 남진 콘서트 <음악중심> - 안녕 부천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59688</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59688"/>
+        <updated>2024-06-19T05:12:16.403Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 KIM SUNG KYU CONCERT [LV3 : Let's Vacay]​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59687</id>
@@ -47,14 +61,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 극단열전 <한여름 밤의 꿈> 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 극단열전 - 윌리엄 셰익스피어 <한여름밤의 꿈> 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59681</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59681"/>
         <updated>2024-06-18T07:11:32.064Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 극단열전 <피그말리온>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 극단열전 - 조지 버나드 쇼 <피그말리온>​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59680</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59680"/>
         <updated>2024-06-18T07:11:32.065Z</updated>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.18(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59674</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59674"/>
-        <updated>2024-06-18T03:13:28.381Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [대구] 2024 목소리 높여, 그분께 PAX 찬양콘서트 “NEW WORSHIP” 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59689</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59689"/>
+        <updated>2024-06-19T05:12:23.386Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 ARTMS World Tour < Moonshot > in Seoul​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59673</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59673"/>
-        <updated>2024-06-18T03:13:28.382Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 11:00]]></content>
+        <title type="html"><![CDATA[​2024 남진 콘서트 <음악중심> - 안녕 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59688</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59688"/>
+        <updated>2024-06-19T05:12:23.386Z</updated>
+        <content type="html"><![CDATA[2024.06.21(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 KIM SUNG KYU CONCERT [LV3 : Let's Vacay]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -152,14 +166,14 @@
         <content type="html"><![CDATA[2024.06.21(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 극단열전 <한여름 밤의 꿈> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 극단열전 - 윌리엄 셰익스피어 <한여름밤의 꿈> 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59681</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59681"/>
         <updated>2024-06-18T07:11:40.524Z</updated>
         <content type="html"><![CDATA[2024.06.20(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 극단열전 <피그말리온>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 극단열전 - 조지 버나드 쇼 <피그말리온>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59680</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59680"/>
         <updated>2024-06-18T07:11:40.524Z</updated>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59675"/>
         <updated>2024-06-18T03:13:36.876Z</updated>
         <content type="html"><![CDATA[2024.06.18(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 진주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59674</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59674"/>
-        <updated>2024-06-18T03:13:36.876Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 ARTMS World Tour < Moonshot > in Seoul​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59673</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59673"/>
-        <updated>2024-06-18T03:13:36.876Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 11:00]]></content>
     </entry>
 </feed>
