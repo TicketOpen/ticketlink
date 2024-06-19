@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-19T00:51:17.288Z</updated>
+    <updated>2024-06-19T01:58:52.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 심수봉 전국투어 콘서트 : 꽃길 - 김해​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59686</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59686"/>
+        <updated>2024-06-19T01:58:46.588Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킬링맥벌스 (Killing Mac Verse)​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59685</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59672"/>
         <updated>2024-06-18T02:31:30.172Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​공룡애니멀쇼 - 서울 강남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59671</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59671"/>
-        <updated>2024-06-17T09:13:25.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 00:00]]></content>
     </entry>
 </feed>
