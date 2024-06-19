@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-19T07:11:29.975Z</updated>
+    <updated>2024-06-19T08:14:38.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 대구관악합주단 초청연주회 < Bands Around the World >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59694</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59694"/>
+        <updated>2024-06-19T08:14:30.875Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​(사)서울윈드오케스트라 창단 50주년 기념 음악회 시리즈 1​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59693</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59680"/>
         <updated>2024-06-18T07:11:32.065Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59679</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59679"/>
-        <updated>2024-06-18T07:11:32.077Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 02:00]]></content>
     </entry>
 </feed>
