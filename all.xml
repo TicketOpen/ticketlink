@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T09:13:07.182Z</updated>
+    <updated>2024-06-20T10:12:08.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[백설공주 - 안양​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59708</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59708"/>
+        <updated>2024-06-20T10:12:00.031Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.26(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Voci d'Amici (Friends of Voices) 보치 다미치 - 대구​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59707</id>
@@ -96,18 +103,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 대구관악합주단 초청연주회 < Bands Around the World >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59694</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59694"/>
-        <updated>2024-06-19T08:14:30.875Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[​(사)서울윈드오케스트라 창단 50주년 기념 음악회 시리즈 1​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59693</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59693"/>
         <updated>2024-06-19T06:16:35.629Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백설공주 - 안양​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59708</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59708"/>
+        <updated>2024-06-20T10:12:08.301Z</updated>
+        <content type="html"><![CDATA[2024.06.26(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Voci d'Amici (Friends of Voices) 보치 다미치 - 대구​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,13 +206,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59695"/>
         <updated>2024-06-19T23:11:48.826Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구관악합주단 초청연주회 < Bands Around the World >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59694</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59694"/>
-        <updated>2024-06-19T08:14:38.137Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​(사)서울윈드오케스트라 창단 50주년 기념 음악회 시리즈 1​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
