@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-20T08:15:19.354Z</updated>
+    <updated>2024-06-20T09:13:07.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Voci d'Amici (Friends of Voices) 보치 다미치 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59707</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59707"/>
+        <updated>2024-06-20T09:12:59.559Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 크레디아 파크콘서트 - 손열음 랩소디인블루​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59706</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59693"/>
         <updated>2024-06-19T06:16:35.629Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 극단열전 - 조지 버나드 쇼 <무기와 인간>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59692</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59692"/>
-        <updated>2024-06-19T06:16:35.632Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 05:00]]></content>
     </entry>
 </feed>
