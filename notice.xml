@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-20T04:13:11.453Z</updated>
+    <updated>2024-06-20T05:11:22.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인형극 콩쥐팥쥐 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59699</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59699"/>
+        <updated>2024-06-20T05:11:15.881Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024시즌 <최강야구> 4번째 직관 DAY 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59698</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59698"/>
+        <updated>2024-06-20T05:11:15.881Z</updated>
+        <content type="html"><![CDATA[2024.06.20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 평택 (남부) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59697</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59685"/>
         <updated>2024-06-18T12:20:31.284Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <겨울왕국> - 서울​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59684</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59684"/>
-        <updated>2024-06-18T09:12:19.091Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선 가족뮤지컬 <라푼젤> - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59683</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59683"/>
-        <updated>2024-06-18T08:15:52.331Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.19(수) 00:00]]></content>
     </entry>
 </feed>
