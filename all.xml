@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T23:13:29.223Z</updated>
+    <updated>2024-06-21T00:50:03.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  매직버블쇼 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59710</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59710"/>
+        <updated>2024-06-21T00:49:56.347Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  우리 아빠가 최고야 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59709</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59709"/>
+        <updated>2024-06-21T00:49:56.348Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백설공주 - 안양​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59708</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 여수 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59695</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59695"/>
-        <updated>2024-06-19T23:11:41.238Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 00:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  매직버블쇼 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59710</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59710"/>
+        <updated>2024-06-21T00:50:02.408Z</updated>
+        <content type="html"><![CDATA[2024.06.25(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​(사)서울윈드오케스트라 창단 50주년 기념 음악회 시리즈 1​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59693</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59693"/>
-        <updated>2024-06-19T06:16:35.629Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 02:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  우리 아빠가 최고야 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59709</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59709"/>
+        <updated>2024-06-21T00:50:02.408Z</updated>
+        <content type="html"><![CDATA[2024.06.25(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백설공주 - 안양​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59696"/>
         <updated>2024-06-20T03:12:36.811Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 여수 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59695</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59695"/>
-        <updated>2024-06-19T23:11:48.826Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​(사)서울윈드오케스트라 창단 50주년 기념 음악회 시리즈 1​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59693</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59693"/>
-        <updated>2024-06-19T06:16:41.448Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 02:00]]></content>
     </entry>
 </feed>
