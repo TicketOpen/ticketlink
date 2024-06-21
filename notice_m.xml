@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-21T07:12:05.484Z</updated>
+    <updated>2024-06-21T08:15:09.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59716</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59716"/>
+        <updated>2024-06-21T08:15:08.502Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시카고> 4차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59714</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[뮤지컬 (이상한 과자 가게 전천당) - 천옥원, 소원과자 대결전 - 과천​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59701</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59701"/>
-        <updated>2024-06-20T06:15:45.097Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬<이상한 과자 가게 전천당> -  춘천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59700</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59700"/>
         <updated>2024-06-20T06:15:45.097Z</updated>
         <content type="html"><![CDATA[2024.06.21(금) 05:00]]></content>
     </entry>
