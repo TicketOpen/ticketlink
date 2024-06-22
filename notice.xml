@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-22T05:12:12.284Z</updated>
+    <updated>2024-06-22T06:15:42.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 SURL ‘ringringring’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59718</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59718"/>
+        <updated>2024-06-22T06:15:33.569Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59716</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59702"/>
         <updated>2024-06-20T06:15:37.954Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 (이상한 과자 가게 전천당) - 천옥원, 소원과자 대결전 - 과천​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59701</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59701"/>
-        <updated>2024-06-20T06:15:37.954Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.21(금) 05:00]]></content>
     </entry>
 </feed>
