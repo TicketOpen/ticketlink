@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-24T06:16:16.163Z</updated>
+    <updated>2024-06-24T07:12:38.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 영천​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,6 +68,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다- (부산)​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59722</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59722"/>
+        <updated>2024-06-24T07:12:30.756Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 03:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립합창단] 제196회 정기연주회 <여름밤의 휴식>​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59721</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59721"/>
@@ -101,13 +108,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59717"/>
         <updated>2024-06-24T01:59:29.277Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59716</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59716"/>
-        <updated>2024-06-24T06:16:09.469Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 영천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -173,6 +173,13 @@
         <content type="html"><![CDATA[2024.06.27(목) 03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다- (부산)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59722</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59722"/>
+        <updated>2024-06-24T07:12:38.237Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 03:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립합창단] 제196회 정기연주회 <여름밤의 휴식>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59721</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59721"/>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59717"/>
         <updated>2024-06-24T01:59:36.021Z</updated>
         <content type="html"><![CDATA[2024.06.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59716</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59716"/>
-        <updated>2024-06-24T06:16:15.425Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 06:00]]></content>
     </entry>
 </feed>
