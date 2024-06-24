@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-24T03:13:20.797Z</updated>
+    <updated>2024-06-24T04:13:51.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Summer Jazzbreak 2024​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59723</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59723"/>
+        <updated>2024-06-24T04:13:50.496Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다- (부산)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59722</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59722"/>
+        <updated>2024-06-24T04:13:50.499Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립합창단] 제196회 정기연주회 <여름밤의 휴식>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59721</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59709"/>
         <updated>2024-06-21T00:50:02.408Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백설공주 - 안양​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59708</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59708"/>
-        <updated>2024-06-20T10:12:08.301Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] Voci d'Amici (Friends of Voices) 보치 다미치 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59707</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59707"/>
-        <updated>2024-06-20T09:13:06.504Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 01:00]]></content>
     </entry>
 </feed>
