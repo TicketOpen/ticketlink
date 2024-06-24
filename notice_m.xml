@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-24T09:14:46.122Z</updated>
+    <updated>2024-06-24T10:13:03.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 서울 도봉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59732</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59732"/>
+        <updated>2024-06-24T10:13:02.389Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 영천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59731</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59718"/>
         <updated>2024-06-22T06:15:41.870Z</updated>
         <content type="html"><![CDATA[2024.06.27(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 최현우 Answer - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59717</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59717"/>
-        <updated>2024-06-24T01:59:36.021Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 05:00]]></content>
     </entry>
 </feed>
