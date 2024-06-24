@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-24T00:52:34.898Z</updated>
+    <updated>2024-06-24T01:59:36.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[2024.06.27(목) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 최현우 Answer - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59717</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59717"/>
+        <updated>2024-06-24T01:59:36.021Z</updated>
+        <content type="html"><![CDATA[2024.06.26(수) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59716</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59716"/>
         <updated>2024-06-21T08:15:08.502Z</updated>
         <content type="html"><![CDATA[2024.06.27(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <앤서니브라운의 고릴라>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59715</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59715"/>
+        <updated>2024-06-24T01:59:36.021Z</updated>
+        <content type="html"><![CDATA[2024.06.25(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시카고> 4차 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59704"/>
         <updated>2024-06-20T08:15:18.712Z</updated>
         <content type="html"><![CDATA[2024.06.25(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 이천​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59703</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59703"/>
-        <updated>2024-06-20T08:15:18.712Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인형극 헨젤과 그레텔 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59702</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59702"/>
-        <updated>2024-06-20T06:15:45.097Z</updated>
-        <content type="html"><![CDATA[2024.06.21(금) 01:00]]></content>
     </entry>
 </feed>
