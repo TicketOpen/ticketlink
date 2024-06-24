@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-24T04:13:51.099Z</updated>
+    <updated>2024-06-24T05:11:57.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 영천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59731</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59731"/>
+        <updated>2024-06-24T05:11:48.524Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 평택서부​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59730</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59730"/>
+        <updated>2024-06-24T05:11:48.524Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 밀양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59729</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59729"/>
+        <updated>2024-06-24T05:11:48.526Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 구로 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59728</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59728"/>
+        <updated>2024-06-24T05:11:48.526Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 노원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59727</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59727"/>
+        <updated>2024-06-24T05:11:48.532Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 과천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59726</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59726"/>
+        <updated>2024-06-24T05:11:48.532Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 김해 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59725</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59725"/>
+        <updated>2024-06-24T05:11:48.533Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 전주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59724</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59724"/>
+        <updated>2024-06-24T05:11:48.534Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Jazzbreak 2024​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59723</id>
@@ -54,60 +110,60 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.26(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59716</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59716"/>
-        <updated>2024-06-21T08:15:02.049Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 06:00]]></content>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 영천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59731</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59731"/>
+        <updated>2024-06-24T05:11:56.546Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <앤서니브라운의 고릴라>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59715</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59715"/>
-        <updated>2024-06-24T01:59:29.279Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 01:00]]></content>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 평택서부​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59730</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59730"/>
+        <updated>2024-06-24T05:11:56.565Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <시카고> 4차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59714</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59714"/>
-        <updated>2024-06-21T07:11:57.338Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 06:00]]></content>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 밀양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59729</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59729"/>
+        <updated>2024-06-24T05:11:56.570Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59713</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59713"/>
-        <updated>2024-06-21T06:16:06.813Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.26(수) 01:00]]></content>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 구로 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59728</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59728"/>
+        <updated>2024-06-24T05:11:56.570Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59712</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59712"/>
-        <updated>2024-06-21T03:13:17.859Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.24(월) 05:00]]></content>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 노원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59727</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59727"/>
+        <updated>2024-06-24T05:11:56.570Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59711</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59711"/>
-        <updated>2024-06-21T01:56:16.865Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.26(수) 00:00]]></content>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 과천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59726</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59726"/>
+        <updated>2024-06-24T05:11:56.571Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  매직버블쇼 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59710</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59710"/>
-        <updated>2024-06-21T00:49:56.347Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 00:00]]></content>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 김해 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59725</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59725"/>
+        <updated>2024-06-24T05:11:56.571Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  우리 아빠가 최고야 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59709</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59709"/>
-        <updated>2024-06-21T00:49:56.348Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.25(화) 00:00]]></content>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 전주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59724</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59724"/>
+        <updated>2024-06-24T05:11:56.573Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Summer Jazzbreak 2024​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -157,61 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59717"/>
         <updated>2024-06-24T01:59:36.021Z</updated>
         <content type="html"><![CDATA[2024.06.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59716</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59716"/>
-        <updated>2024-06-21T08:15:08.502Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <앤서니브라운의 고릴라>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59715</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59715"/>
-        <updated>2024-06-24T01:59:36.021Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시카고> 4차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59714</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59714"/>
-        <updated>2024-06-21T07:12:04.855Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59713</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59713"/>
-        <updated>2024-06-21T06:16:15.023Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59712</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59712"/>
-        <updated>2024-06-21T03:13:26.351Z</updated>
-        <content type="html"><![CDATA[2024.06.24(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59711</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59711"/>
-        <updated>2024-06-21T01:56:26.054Z</updated>
-        <content type="html"><![CDATA[2024.06.26(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  매직버블쇼 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59710</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59710"/>
-        <updated>2024-06-21T00:50:02.408Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  우리 아빠가 최고야 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59709</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59709"/>
-        <updated>2024-06-21T00:50:02.408Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 00:00]]></content>
     </entry>
 </feed>
