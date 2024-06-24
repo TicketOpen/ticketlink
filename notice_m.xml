@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-24T02:34:32.942Z</updated>
+    <updated>2024-06-24T03:13:20.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립합창단] 제196회 정기연주회 <여름밤의 휴식>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59721</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59721"/>
+        <updated>2024-06-24T03:13:20.105Z</updated>
+        <content type="html"><![CDATA[2024.06.26(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 원주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59720</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59720"/>
+        <updated>2024-06-24T03:13:20.106Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 - 해양구조대> - 원주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59719</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59719"/>
+        <updated>2024-06-24T03:13:20.109Z</updated>
+        <content type="html"><![CDATA[2024.06.26(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 SURL ‘ringringring’ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59718</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59707"/>
         <updated>2024-06-20T09:13:06.504Z</updated>
         <content type="html"><![CDATA[2024.06.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 크레디아 파크콘서트 - 손열음 랩소디인블루​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59706</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59706"/>
-        <updated>2024-06-20T08:15:18.709Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 크레디아 파크콘서트 - 디즈니 인 콘서트 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59705</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59705"/>
-        <updated>2024-06-20T08:15:18.711Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 크레디아 파크콘서트 - 유키 구라모토/대니구/포르테나​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59704</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59704"/>
-        <updated>2024-06-20T08:15:18.712Z</updated>
-        <content type="html"><![CDATA[2024.06.25(화) 07:00]]></content>
     </entry>
 </feed>
