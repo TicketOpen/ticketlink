@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-24T23:13:14.938Z</updated>
+    <updated>2024-06-25T00:50:58.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59733</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59733"/>
+        <updated>2024-06-25T00:50:58.171Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 서울 도봉​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59732</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59719"/>
         <updated>2024-06-24T03:13:20.109Z</updated>
         <content type="html"><![CDATA[2024.06.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 SURL ‘ringringring’ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59718</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59718"/>
-        <updated>2024-06-22T06:15:41.870Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 02:00]]></content>
     </entry>
 </feed>
