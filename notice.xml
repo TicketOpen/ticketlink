@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-26T04:14:27.754Z</updated>
+    <updated>2024-06-26T05:11:22.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인어공주 - 당진 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59752</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59752"/>
+        <updated>2024-06-26T05:11:14.678Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59751</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59751"/>
+        <updated>2024-06-26T05:11:14.679Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2024 김창완밴드 전국투어 <개구쟁이> - 대전​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59750</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59750"/>
+        <updated>2024-06-26T05:11:14.679Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​트롯 3파전 콘서트 - 창원​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59749</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59749"/>
+        <updated>2024-06-26T05:11:14.680Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] I.CON : 팬앤스타 콘서트 ( ONEPACT )​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59748</id>
@@ -25,6 +53,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59746"/>
         <updated>2024-06-26T02:29:53.239Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 의정부​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59745</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59745"/>
+        <updated>2024-06-26T05:11:14.690Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <맥베스> 마지막​​ 티켓오픈 안내]]></title>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59738"/>
         <updated>2024-06-25T07:11:15.641Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magic Star TOP7 전국투어 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59737</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59737"/>
-        <updated>2024-06-25T07:11:15.641Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magic Star TOP7 전국투어 - 고양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59736</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59736"/>
-        <updated>2024-06-25T07:11:15.642Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magic Star TOP7 전국투어 - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59735</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59735"/>
-        <updated>2024-06-25T07:11:15.644Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sync Next 24 조영숙X장영규X박민희 <조 도깨비 영숙> OP석·사이드석 추가​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59734</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59734"/>
-        <updated>2024-06-25T05:11:27.915Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59733</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59733"/>
-        <updated>2024-06-25T00:50:52.429Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
     </entry>
 </feed>
