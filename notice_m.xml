@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-26T06:15:46.833Z</updated>
+    <updated>2024-06-26T07:11:41.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백설공주 - 포천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59757</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59757"/>
+        <updated>2024-06-26T07:11:41.302Z</updated>
+        <content type="html"><![CDATA[2024.07.01(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신데렐라 - 당진 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59756</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59743"/>
         <updated>2024-06-26T02:30:00.446Z</updated>
         <content type="html"><![CDATA[2024.06.28(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2024 썸머나이트 <룰라 & 레게 강 같은 평화> 콘서트 - 경주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59742</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59742"/>
-        <updated>2024-06-26T02:30:00.446Z</updated>
-        <content type="html"><![CDATA[2024.07.15(월) 01:00]]></content>
     </entry>
 </feed>
