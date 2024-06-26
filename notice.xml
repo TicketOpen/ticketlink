@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-26T02:30:01.065Z</updated>
+    <updated>2024-06-26T03:13:42.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] I.CON : 팬앤스타 콘서트 ( ONEPACT )​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59748</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59748"/>
+        <updated>2024-06-26T03:13:33.691Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59747</id>
@@ -46,6 +53,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59741"/>
         <updated>2024-06-26T00:50:48.349Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] JUMF 2024 전주얼티밋뮤직페스티벌 사전예매 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59740</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59740"/>
+        <updated>2024-06-26T03:13:33.708Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] The Magic Star TOP7 전국투어 - 서울​ 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59733</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59733"/>
         <updated>2024-06-25T00:50:52.429Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 서울 도봉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59732</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59732"/>
-        <updated>2024-06-24T10:12:55.151Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 영천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59731</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59731"/>
-        <updated>2024-06-24T05:11:48.524Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.27(목) 00:00]]></content>
     </entry>
 </feed>
