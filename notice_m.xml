@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-25T23:11:04.277Z</updated>
+    <updated>2024-06-26T00:50:54.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 캣츠 - 파주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59741</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59741"/>
+        <updated>2024-06-26T00:50:54.213Z</updated>
+        <content type="html"><![CDATA[2024.06.27(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] The Magic Star TOP7 전국투어 - 서울​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59739</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[알라딘과 요술램프 - 과천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59726</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59726"/>
-        <updated>2024-06-24T05:11:56.571Z</updated>
-        <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알라딘과 요술램프 - 김해 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59725</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59725"/>
         <updated>2024-06-24T05:11:56.571Z</updated>
         <content type="html"><![CDATA[2024.06.27(목) 00:00]]></content>
     </entry>
