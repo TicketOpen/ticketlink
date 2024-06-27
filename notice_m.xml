@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-27T04:15:40.054Z</updated>
+    <updated>2024-06-27T05:11:58.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신카이 마코토 갈라 콘서트 (2024 LOTTE OST Festival)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59760</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59760"/>
+        <updated>2024-06-27T05:11:57.589Z</updated>
+        <content type="html"><![CDATA[2024.06.28(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  안성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59759</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59745"/>
         <updated>2024-06-26T05:11:21.747Z</updated>
         <content type="html"><![CDATA[2024.07.04(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <맥베스> 마지막​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59744</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59744"/>
-        <updated>2024-06-26T02:30:00.445Z</updated>
-        <content type="html"><![CDATA[2024.07.03(수) 02:00]]></content>
     </entry>
 </feed>
