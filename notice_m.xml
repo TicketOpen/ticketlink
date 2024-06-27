@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-27T00:51:15.331Z</updated>
+    <updated>2024-06-27T01:57:55.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  안성 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59759</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59759"/>
+        <updated>2024-06-27T01:57:54.891Z</updated>
+        <content type="html"><![CDATA[2024.07.02(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백설공주 - 포천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59757</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59744"/>
         <updated>2024-06-26T02:30:00.445Z</updated>
         <content type="html"><![CDATA[2024.07.03(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구앵콜] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59743</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59743"/>
-        <updated>2024-06-26T02:30:00.446Z</updated>
-        <content type="html"><![CDATA[2024.06.28(금) 02:00]]></content>
     </entry>
 </feed>
