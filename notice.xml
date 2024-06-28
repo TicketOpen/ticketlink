@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-28T03:13:40.153Z</updated>
+    <updated>2024-06-28T04:14:10.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 NEW STAR <청소년 협주곡의 밤 & 신인음악회> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59765</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59765"/>
+        <updated>2024-06-28T04:14:02.120Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스즈메의 문단속 외 7작품 갈라 콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59763</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59748"/>
         <updated>2024-06-26T03:13:33.691Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59747</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59747"/>
-        <updated>2024-06-26T02:29:53.231Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 05:00]]></content>
     </entry>
 </feed>
