@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-06-28T00:51:06.523Z</updated>
+    <updated>2024-06-28T01:58:46.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59762</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59762"/>
+        <updated>2024-06-28T01:58:39.598Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​제9회 정혜진 클라리넷 독주회 <정서적 교감> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59761</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59746"/>
         <updated>2024-06-26T02:29:53.239Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59745</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59745"/>
-        <updated>2024-06-26T05:11:14.690Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 01:00]]></content>
     </entry>
 </feed>
