@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-06-28T04:14:10.367Z</updated>
+    <updated>2024-06-28T05:11:42.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <유진과 유진> 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59766</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59766"/>
+        <updated>2024-06-28T05:11:42.321Z</updated>
+        <content type="html"><![CDATA[2024.07.04(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 NEW STAR <청소년 협주곡의 밤 & 신인음악회> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59765</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59749"/>
         <updated>2024-06-26T05:11:21.743Z</updated>
         <content type="html"><![CDATA[2024.06.28(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] I.CON : 팬앤스타 콘서트 ( ONEPACT )​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59748</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59748"/>
-        <updated>2024-06-26T03:13:42.045Z</updated>
-        <content type="html"><![CDATA[2024.06.28(금) 11:00]]></content>
     </entry>
 </feed>
