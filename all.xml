@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T00:56:44.135Z</updated>
+    <updated>2024-07-01T02:07:49.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[가족퍼포먼스 쇼뮤지컬 <아쿠아쇼> - 당진​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -17,6 +17,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59773"/>
         <updated>2024-07-01T00:56:34.017Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59772</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59772"/>
+        <updated>2024-07-01T02:07:39.277Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.05(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌8  <미래연구소를 지켜라!> – 수원​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신데렐라 - 당진 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59756</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59756"/>
-        <updated>2024-06-26T06:15:38.065Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 01:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가족퍼포먼스 쇼뮤지컬 <아쿠아쇼> - 당진​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59774</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59774"/>
@@ -122,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59773"/>
         <updated>2024-07-01T00:56:43.530Z</updated>
         <content type="html"><![CDATA[2024.07.03(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59772</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59772"/>
+        <updated>2024-07-01T02:07:48.571Z</updated>
+        <content type="html"><![CDATA[2024.07.05(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌8  <미래연구소를 지켜라!> – 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59757"/>
         <updated>2024-06-26T07:11:41.302Z</updated>
         <content type="html"><![CDATA[2024.07.01(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 당진 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59756</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59756"/>
-        <updated>2024-06-26T06:15:46.183Z</updated>
-        <content type="html"><![CDATA[2024.06.28(금) 01:00]]></content>
     </entry>
 </feed>
