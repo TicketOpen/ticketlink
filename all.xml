@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T05:12:13.924Z</updated>
+    <updated>2024-07-01T06:17:04.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <앤서니브라운의 고릴라> - 천호​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59779</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59779"/>
+        <updated>2024-07-01T06:16:56.729Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘을 나는 피터팬 - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59777</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59777"/>
+        <updated>2024-07-01T06:16:56.731Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.05(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 부울경 4개 시도 청소년 교류음악회​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59776</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​제9회 정혜진 클라리넷 독주회 <정서적 교감> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59761</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59761"/>
-        <updated>2024-06-27T06:16:55.370Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.06.28(금) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <앤서니브라운의 고릴라> - 천호​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59779</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59779"/>
+        <updated>2024-07-01T06:17:03.627Z</updated>
+        <content type="html"><![CDATA[2024.07.02(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  안성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59759</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59759"/>
-        <updated>2024-07-01T05:12:05.004Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 00:00]]></content>
+        <title type="html"><![CDATA[하늘을 나는 피터팬 - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59777</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59777"/>
+        <updated>2024-07-01T06:17:03.627Z</updated>
+        <content type="html"><![CDATA[2024.07.05(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 부울경 4개 시도 청소년 교류음악회​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59762"/>
         <updated>2024-06-28T01:58:45.463Z</updated>
         <content type="html"><![CDATA[2024.07.09(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​제9회 정혜진 클라리넷 독주회 <정서적 교감> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59761</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59761"/>
-        <updated>2024-06-27T06:17:01.841Z</updated>
-        <content type="html"><![CDATA[2024.06.28(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  안성 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59759</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59759"/>
-        <updated>2024-07-01T05:12:13.317Z</updated>
-        <content type="html"><![CDATA[2024.07.02(화) 00:00]]></content>
     </entry>
 </feed>
