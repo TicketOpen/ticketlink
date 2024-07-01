@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T10:13:56.910Z</updated>
+    <updated>2024-07-01T11:10:13.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​광주시립국악관현악단 특별기획연주회 '광주시립국악관현악단 with 아창제'​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59781</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59781"/>
+        <updated>2024-07-01T11:10:05.391Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아프리카 리듬과 열정을 Anya Fo! - 울산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59780</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 NEW STAR <청소년 협주곡의 밤 & 신인음악회> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59765</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59765"/>
-        <updated>2024-06-28T04:14:02.120Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.01(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] ​광주시립국악관현악단 특별기획연주회 '광주시립국악관현악단 with 아창제'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59781</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59781"/>
+        <updated>2024-07-01T11:10:12.580Z</updated>
+        <content type="html"><![CDATA[2024.07.02(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 아프리카 리듬과 열정을 Anya Fo! - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59766"/>
         <updated>2024-06-28T05:11:42.321Z</updated>
         <content type="html"><![CDATA[2024.07.04(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 NEW STAR <청소년 협주곡의 밤 & 신인음악회> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59765</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59765"/>
-        <updated>2024-06-28T04:14:09.764Z</updated>
-        <content type="html"><![CDATA[2024.07.01(월) 01:00]]></content>
     </entry>
 </feed>
