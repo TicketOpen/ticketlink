@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-02T04:15:03.639Z</updated>
+    <updated>2024-07-02T05:12:17.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59785</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59785"/>
+        <updated>2024-07-02T05:12:09.870Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 뮤즈앙상블 정기연주회 - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59784</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​브랜든리 심포니 콘서트 <너의 이름은 & 스즈메의 문단속> - 의성​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59769</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59769"/>
-        <updated>2024-06-28T07:12:03.586Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 05:00]]></content>
+        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59785</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59785"/>
+        <updated>2024-07-02T05:12:16.814Z</updated>
+        <content type="html"><![CDATA[2024.07.03(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 뮤즈앙상블 정기연주회 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59770"/>
         <updated>2024-06-28T08:14:20.234Z</updated>
         <content type="html"><![CDATA[2024.07.09(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​브랜든리 심포니 콘서트 <너의 이름은 & 스즈메의 문단속> - 의성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59769</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59769"/>
-        <updated>2024-06-28T07:12:12.110Z</updated>
-        <content type="html"><![CDATA[2024.07.02(화) 05:00]]></content>
     </entry>
 </feed>
