@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-02T05:12:17.565Z</updated>
+    <updated>2024-07-02T06:17:20.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 문경 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59786</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59786"/>
+        <updated>2024-07-02T06:17:12.737Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59785</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 고잉홈프로젝트×손열음×스베틀린 루세브×김두민​ ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59770</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59770"/>
-        <updated>2024-06-28T08:14:13.248Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 07:00]]></content>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 문경 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59786</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59786"/>
+        <updated>2024-07-02T06:17:19.643Z</updated>
+        <content type="html"><![CDATA[2024.07.04(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59771"/>
         <updated>2024-06-28T08:14:20.234Z</updated>
         <content type="html"><![CDATA[2024.07.03(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 고잉홈프로젝트×손열음×스베틀린 루세브×김두민​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59770</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59770"/>
-        <updated>2024-06-28T08:14:20.234Z</updated>
-        <content type="html"><![CDATA[2024.07.09(화) 07:00]]></content>
     </entry>
 </feed>
