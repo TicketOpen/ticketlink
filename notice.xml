@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-02T02:34:02.069Z</updated>
+    <updated>2024-07-02T03:12:46.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 뮤즈앙상블 정기연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59784</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59784"/>
+        <updated>2024-07-02T03:12:39.067Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​다큐멘터리 오페라 : 칼라스 & 디 스테파노 “​마지막 편지”​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59783</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59783"/>
         <updated>2024-07-02T02:33:55.948Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오로나민C그니처 시즌3 텐션대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59782</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59782"/>
+        <updated>2024-07-02T03:12:39.080Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ​광주시립국악관현악단 특별기획연주회 '광주시립국악관현악단 with 아창제'​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59769"/>
         <updated>2024-06-28T07:12:03.586Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 불후의 명곡 정동하X알리 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59768"/>
-        <updated>2024-06-28T07:12:03.586Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시카고> 추가 회차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59767</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59767"/>
-        <updated>2024-06-28T06:15:54.897Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 06:00]]></content>
     </entry>
 </feed>
