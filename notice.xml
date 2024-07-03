@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-03T03:12:43.800Z</updated>
+    <updated>2024-07-03T04:13:38.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59791"/>
         <updated>2024-07-03T01:57:53.487Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미> 3차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59790</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59790"/>
+        <updated>2024-07-03T04:13:30.969Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.08(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[BABYMONSTER PRESENTS : SEE YOU THERE] IN SEOUL​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59780"/>
         <updated>2024-07-01T07:12:33.349Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <앤서니브라운의 고릴라> - 천호​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59779</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59779"/>
-        <updated>2024-07-01T06:16:56.729Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 02:00]]></content>
     </entry>
 </feed>
