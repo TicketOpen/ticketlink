@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-03T08:15:00.511Z</updated>
+    <updated>2024-07-03T09:13:02.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Someday Festival 2024 얼리버드 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59798</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59798"/>
+        <updated>2024-07-03T09:12:56.646Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 대전 시야제한석 추가​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59797</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59783"/>
         <updated>2024-07-02T02:33:55.948Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오로나민C그니처 시즌3 텐션대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59782</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59782"/>
-        <updated>2024-07-02T03:12:39.080Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 03:00]]></content>
     </entry>
 </feed>
