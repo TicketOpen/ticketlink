@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-03T04:13:38.271Z</updated>
+    <updated>2024-07-03T05:11:24.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] FC PRO CHAMPIONS CUP 한국 대표 선발전​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59796</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59796"/>
+        <updated>2024-07-03T05:11:15.880Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 최현우 Answer - 광주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59795</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59781"/>
         <updated>2024-07-01T11:10:05.391Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.02(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 아프리카 리듬과 열정을 Anya Fo! - 울산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59780</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59780"/>
-        <updated>2024-07-01T07:12:33.349Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 12:00]]></content>
     </entry>
 </feed>
