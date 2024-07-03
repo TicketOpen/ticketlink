@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-03T01:58:00.541Z</updated>
+    <updated>2024-07-03T02:30:50.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 라움 마티네X팝페라브런치 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59793</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59793"/>
+        <updated>2024-07-03T02:30:43.081Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 라움 팝페라브런치 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59792</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59792"/>
+        <updated>2024-07-03T02:30:43.088Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라움 마티네 콘서트 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59791</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하늘을 나는 피터팬 - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59777</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59777"/>
-        <updated>2024-07-01T06:16:56.731Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.05(금) 00:00]]></content>
+        <title type="html"><![CDATA[2024 라움 마티네X팝페라브런치 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59793</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59793"/>
+        <updated>2024-07-03T02:30:49.877Z</updated>
+        <content type="html"><![CDATA[2024.07.03(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 부울경 4개 시도 청소년 교류음악회​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59776</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59776"/>
-        <updated>2024-07-01T03:13:32.017Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.05(금) 01:00]]></content>
+        <title type="html"><![CDATA[2024 라움 팝페라브런치 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59792</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59792"/>
+        <updated>2024-07-03T02:30:49.877Z</updated>
+        <content type="html"><![CDATA[2024.07.03(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 라움 마티네 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59778"/>
         <updated>2024-07-01T07:12:40.686Z</updated>
         <content type="html"><![CDATA[2024.07.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하늘을 나는 피터팬 - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59777</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59777"/>
-        <updated>2024-07-01T06:17:03.627Z</updated>
-        <content type="html"><![CDATA[2024.07.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 부울경 4개 시도 청소년 교류음악회​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59776</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59776"/>
-        <updated>2024-07-01T03:13:38.572Z</updated>
-        <content type="html"><![CDATA[2024.07.05(금) 01:00]]></content>
     </entry>
 </feed>
