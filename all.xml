@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-04T07:12:57.838Z</updated>
+    <updated>2024-07-04T08:15:15.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 함평엑스포공원 물놀이장​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59808</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59808"/>
+        <updated>2024-07-04T08:15:09.273Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.05(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2024 김분선의 춤 <댄싱동화 (dancing 動畵)> - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59807</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 라움 팝페라브런치 콘서트 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59792</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59792"/>
-        <updated>2024-07-03T02:30:43.088Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 함평엑스포공원 물놀이장​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59808</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59808"/>
+        <updated>2024-07-04T08:15:15.078Z</updated>
+        <content type="html"><![CDATA[2024.07.05(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]2024 김분선의 춤 <댄싱동화 (dancing 動畵)> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[2024 라움 마티네X팝페라브런치 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59793</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59793"/>
-        <updated>2024-07-03T02:30:49.877Z</updated>
-        <content type="html"><![CDATA[2024.07.03(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라움 팝페라브런치 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59792</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59792"/>
         <updated>2024-07-03T02:30:49.877Z</updated>
         <content type="html"><![CDATA[2024.07.03(수) 01:00]]></content>
     </entry>
