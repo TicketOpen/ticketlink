@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-04T06:16:15.085Z</updated>
+    <updated>2024-07-04T07:12:57.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2024 김분선의 춤 <댄싱동화 (dancing 動畵)> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59807</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59807"/>
+        <updated>2024-07-04T07:12:57.152Z</updated>
+        <content type="html"><![CDATA[2024.07.08(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[kt wiz] 2024 Y워터페스티벌 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59806</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59792</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59792"/>
         <updated>2024-07-03T02:30:49.877Z</updated>
-        <content type="html"><![CDATA[2024.07.03(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라움 마티네 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59791</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59791"/>
-        <updated>2024-07-03T01:57:59.919Z</updated>
         <content type="html"><![CDATA[2024.07.03(수) 01:00]]></content>
     </entry>
 </feed>
