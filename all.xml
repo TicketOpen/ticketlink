@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-04T01:59:05.406Z</updated>
+    <updated>2024-07-04T02:33:53.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59801</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59801"/>
+        <updated>2024-07-04T02:33:46.916Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.08(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2회 장수 쿨밸리 페스티벌 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59800</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59785</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59785"/>
-        <updated>2024-07-02T05:12:09.870Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.03(수) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59801</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59801"/>
+        <updated>2024-07-04T02:33:52.593Z</updated>
+        <content type="html"><![CDATA[2024.07.08(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제2회 장수 쿨밸리 페스티벌 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59786"/>
         <updated>2024-07-02T06:17:19.643Z</updated>
         <content type="html"><![CDATA[2024.07.04(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어린이 서커스 마술쇼 - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59785</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59785"/>
-        <updated>2024-07-02T05:12:16.814Z</updated>
-        <content type="html"><![CDATA[2024.07.03(수) 05:00]]></content>
     </entry>
 </feed>
