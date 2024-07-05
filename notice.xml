@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-05T04:15:20.211Z</updated>
+    <updated>2024-07-05T05:11:48.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59812"/>
         <updated>2024-07-05T04:15:12.623Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 펍지 네이션스 컵 2024 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59811</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59811"/>
+        <updated>2024-07-05T05:11:40.360Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.19(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 청춘사운드콘서트 - 대구]]></title>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59797</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59797"/>
         <updated>2024-07-03T07:11:26.736Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] FC PRO CHAMPIONS CUP 한국 대표 선발전​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59796</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59796"/>
-        <updated>2024-07-03T05:11:15.880Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.04(목) 05:00]]></content>
     </entry>
 </feed>
