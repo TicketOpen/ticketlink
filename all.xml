@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-08T04:14:58.728Z</updated>
+    <updated>2024-07-08T05:13:37.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 <일리아드> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59828</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59828"/>
+        <updated>2024-07-08T05:13:29.686Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​LIVE ON 부산 박창근​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59827</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59827"/>
+        <updated>2024-07-08T05:13:29.688Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 이승기 20주년 팬미팅 [7300+]​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59826</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59826"/>
+        <updated>2024-07-08T05:13:29.688Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제6회 정기연주회  티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59825</id>
@@ -31,6 +52,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59822"/>
         <updated>2024-07-08T02:01:18.228Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 세종 센트럴파크 뮤직페스티벌 - 얼리버드​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59821</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59821"/>
+        <updated>2024-07-08T05:13:29.699Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -82,32 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59813</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59813"/>
-        <updated>2024-07-05T06:16:39.550Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 01:00]]></content>
+        <title type="html"><![CDATA[연극 <일리아드> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59828</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59828"/>
+        <updated>2024-07-08T05:13:37.197Z</updated>
+        <content type="html"><![CDATA[2024.07.15(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59812</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59812"/>
-        <updated>2024-07-05T04:15:12.623Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​LIVE ON 부산 박창근​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59827</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59827"/>
+        <updated>2024-07-08T05:13:37.199Z</updated>
+        <content type="html"><![CDATA[2024.07.12(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 펍지 네이션스 컵 2024 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59811</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59811"/>
-        <updated>2024-07-05T05:11:40.360Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59810</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59810"/>
-        <updated>2024-07-05T07:11:05.848Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​2024 이승기 20주년 팬미팅 [7300+]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59826</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59826"/>
+        <updated>2024-07-08T05:13:37.200Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제6회 정기연주회  티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -136,6 +157,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59822"/>
         <updated>2024-07-08T02:01:25.203Z</updated>
         <content type="html"><![CDATA[2024.07.11(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 세종 센트럴파크 뮤직페스티벌 - 얼리버드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59821</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59821"/>
+        <updated>2024-07-08T05:13:37.210Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59814"/>
         <updated>2024-07-05T06:16:45.749Z</updated>
         <content type="html"><![CDATA[2024.07.11(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59813</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59813"/>
-        <updated>2024-07-05T06:16:45.749Z</updated>
-        <content type="html"><![CDATA[2024.07.11(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59812</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59812"/>
-        <updated>2024-07-05T04:15:19.628Z</updated>
-        <content type="html"><![CDATA[2024.07.11(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 펍지 네이션스 컵 2024 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59811</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59811"/>
-        <updated>2024-07-05T05:11:47.503Z</updated>
-        <content type="html"><![CDATA[2024.07.12(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59810</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59810"/>
-        <updated>2024-07-05T07:11:12.276Z</updated>
-        <content type="html"><![CDATA[2024.07.09(화) 05:00]]></content>
     </entry>
 </feed>
