@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-08T00:52:50.312Z</updated>
+    <updated>2024-07-08T02:01:25.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 서울 서대문 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59823</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59823"/>
+        <updated>2024-07-08T02:01:25.198Z</updated>
+        <content type="html"><![CDATA[2024.07.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유앤나와 함께하는 달빛과 별들의 노래 (구본수 세계가곡 콘서트) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59822</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59822"/>
+        <updated>2024-07-08T02:01:25.203Z</updated>
+        <content type="html"><![CDATA[2024.07.11(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59820</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59808"/>
         <updated>2024-07-04T08:15:15.078Z</updated>
         <content type="html"><![CDATA[2024.07.05(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2024 김분선의 춤 <댄싱동화 (dancing 動畵)> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59807</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59807"/>
-        <updated>2024-07-04T07:12:57.152Z</updated>
-        <content type="html"><![CDATA[2024.07.08(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[kt wiz] 2024 Y워터페스티벌 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59806</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59806"/>
-        <updated>2024-07-04T06:16:14.457Z</updated>
-        <content type="html"><![CDATA[<a href="/help/notice/59806" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[kt wiz]</b> 2024 Y워터페스티벌 안내</h3></a>]]></content>
     </entry>
 </feed>
