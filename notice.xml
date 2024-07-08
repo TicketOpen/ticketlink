@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-08T02:01:25.779Z</updated>
+    <updated>2024-07-08T03:13:59.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제6회 정기연주회  티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59825</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59825"/>
+        <updated>2024-07-08T03:13:52.390Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 순천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59824</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59824"/>
+        <updated>2024-07-08T03:13:52.390Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 서울 서대문 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59823</id>
@@ -87,7 +101,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/59811</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59811"/>
         <updated>2024-07-05T05:11:40.360Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.19(금) 09:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 안산​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59810"/>
         <updated>2024-07-05T07:11:05.848Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 청춘사운드콘서트 - 대구]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59809</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59809"/>
-        <updated>2024-07-05T00:51:01.969Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 함평엑스포공원 물놀이장​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59808</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59808"/>
-        <updated>2024-07-04T08:15:09.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.05(금) 00:00]]></content>
     </entry>
 </feed>
