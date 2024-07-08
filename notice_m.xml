@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-07T23:11:59.833Z</updated>
+    <updated>2024-07-08T00:52:50.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59820</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59820"/>
+        <updated>2024-07-08T00:52:49.683Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 싱어롱 콘서트 뮤지컬 ‘Live Show’ <무지개 물고기> - 원주]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59819</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59819"/>
+        <updated>2024-07-08T00:52:49.687Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> 천옥원, 소원과자 대결전 - 울산]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59818</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59818"/>
+        <updated>2024-07-08T00:52:49.689Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> 천옥원, 소원과자 대결전 - 광주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59817</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59817"/>
+        <updated>2024-07-08T00:52:49.690Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] LIVE ON BTOB X N.Flying  라이브온 비투비 x 엔플라잉​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59816</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59806"/>
         <updated>2024-07-04T06:16:14.457Z</updated>
         <content type="html"><![CDATA[<a href="/help/notice/59806" class="info_wrap"><strong class="label">스포츠</strong><h3 class="tit"><b>[kt wiz]</b> 2024 Y워터페스티벌 안내</h3></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시발레단 더블 빌 <한스 판 마넨×차진엽>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59805</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59805"/>
-        <updated>2024-07-04T06:16:14.462Z</updated>
-        <content type="html"><![CDATA[2024.07.09(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] DSAC 브랜드 콘서트 <모차르트 베스트 컬렉션> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59804</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59804"/>
-        <updated>2024-07-04T06:16:14.462Z</updated>
-        <content type="html"><![CDATA[2024.07.08(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시발레단 창단 공연 <한여름 밤의 꿈>​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59803</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59803"/>
-        <updated>2024-07-04T05:12:39.960Z</updated>
-        <content type="html"><![CDATA[2024.07.09(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 5차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59802</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59802"/>
-        <updated>2024-07-04T06:16:14.463Z</updated>
-        <content type="html"><![CDATA[2024.07.09(화) 06:00]]></content>
     </entry>
 </feed>
