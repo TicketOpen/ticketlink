@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-08T08:15:25.183Z</updated>
+    <updated>2024-07-08T09:13:20.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오즈의마법사 - 평택​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59833</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59833"/>
+        <updated>2024-07-08T09:13:12.984Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.09(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 금천​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59832</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/59819</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59819"/>
         <updated>2024-07-08T00:52:42.751Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> 천옥원, 소원과자 대결전 - 울산]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59818</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59818"/>
-        <updated>2024-07-08T00:52:42.756Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 00:00]]></content>
     </entry>
 </feed>
