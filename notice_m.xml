@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-08T07:12:22.211Z</updated>
+    <updated>2024-07-08T08:15:25.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 금천​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59832</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59832"/>
+        <updated>2024-07-08T08:15:24.520Z</updated>
+        <content type="html"><![CDATA[2024.07.12(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 용인 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59831</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59818</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59818"/>
         <updated>2024-07-08T00:52:49.689Z</updated>
-        <content type="html"><![CDATA[2024.07.10(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> 천옥원, 소원과자 대결전 - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59817</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59817"/>
-        <updated>2024-07-08T00:52:49.690Z</updated>
         <content type="html"><![CDATA[2024.07.10(수) 00:00]]></content>
     </entry>
 </feed>
