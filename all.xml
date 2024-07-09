@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-09T00:51:58.789Z</updated>
+    <updated>2024-07-09T02:00:43.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59835"/>
         <updated>2024-07-09T00:51:52.809Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 Ⅴ​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59834</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59834"/>
+        <updated>2024-07-09T02:00:37.442Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오즈의마법사 - 평택​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59820</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59820"/>
-        <updated>2024-07-08T00:52:42.750Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59835</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59835"/>
         <updated>2024-07-09T00:51:58.114Z</updated>
         <content type="html"><![CDATA[2024.07.11(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 체임버 시리즈 Ⅴ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59834</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59834"/>
+        <updated>2024-07-09T02:00:42.972Z</updated>
+        <content type="html"><![CDATA[2024.07.11(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오즈의마법사 - 평택​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59821</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59821"/>
         <updated>2024-07-08T05:13:37.210Z</updated>
-        <content type="html"><![CDATA[2024.07.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024 롯데백화점 대구) 아기돼지 삼형제​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59820</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59820"/>
-        <updated>2024-07-08T00:52:49.683Z</updated>
         <content type="html"><![CDATA[2024.07.10(수) 05:00]]></content>
     </entry>
 </feed>
