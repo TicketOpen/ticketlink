@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-10T06:15:51.074Z</updated>
+    <updated>2024-07-10T07:12:57.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 서울 강동 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59851</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59851"/>
+        <updated>2024-07-10T07:12:50.535Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 완주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59850</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59836"/>
         <updated>2024-07-09T03:13:32.943Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 안산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59835</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59835"/>
-        <updated>2024-07-09T00:51:52.809Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 00:00]]></content>
     </entry>
 </feed>
