@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-10T02:36:08.749Z</updated>
+    <updated>2024-07-10T03:14:11.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 라움 하이볼&와인 페스타 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59843</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59843"/>
+        <updated>2024-07-10T03:14:04.921Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​쏠티와함께 3​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59840</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제6회 정기연주회  티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59825</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59825"/>
-        <updated>2024-07-08T03:13:52.390Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 07:00]]></content>
+        <title type="html"><![CDATA[2024 라움 하이볼&와인 페스타 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59843</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59843"/>
+        <updated>2024-07-10T03:14:10.515Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​쏠티와함께 3​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59826"/>
         <updated>2024-07-08T05:13:37.200Z</updated>
         <content type="html"><![CDATA[2024.07.10(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제6회 정기연주회  티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59825</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59825"/>
-        <updated>2024-07-08T03:13:59.102Z</updated>
-        <content type="html"><![CDATA[2024.07.16(화) 07:00]]></content>
     </entry>
 </feed>

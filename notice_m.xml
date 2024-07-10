@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-10T02:36:08.753Z</updated>
+    <updated>2024-07-10T03:14:11.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라움 하이볼&와인 페스타 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59843</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59843"/>
+        <updated>2024-07-10T03:14:10.515Z</updated>
+        <content type="html"><![CDATA[2024.07.10(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​쏠티와함께 3​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59840</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59826"/>
         <updated>2024-07-08T05:13:37.200Z</updated>
         <content type="html"><![CDATA[2024.07.10(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제6회 정기연주회  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59825</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59825"/>
-        <updated>2024-07-08T03:13:59.102Z</updated>
-        <content type="html"><![CDATA[2024.07.16(화) 07:00]]></content>
     </entry>
 </feed>
