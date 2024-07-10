@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-10T07:12:57.941Z</updated>
+    <updated>2024-07-10T08:16:25.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​피아노 파 드 되 - Dancing with Pierrot​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59853</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59853"/>
+        <updated>2024-07-10T08:16:18.076Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아기돼지삼형제(늑대숲 또옹돼지 원정대)​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59852</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59852"/>
+        <updated>2024-07-10T08:16:18.076Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 서울 강동 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59851</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​올스타보잉보잉​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59837</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59837"/>
-        <updated>2024-07-09T05:11:26.826Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​피아노 파 드 되 - Dancing with Pierrot​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59853</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59853"/>
+        <updated>2024-07-10T08:16:24.668Z</updated>
+        <content type="html"><![CDATA[2024.07.12(금) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-목포 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59836</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59836"/>
-        <updated>2024-07-09T03:13:32.943Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.10(수) 05:00]]></content>
+        <title type="html"><![CDATA[아기돼지삼형제(늑대숲 또옹돼지 원정대)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59852</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59852"/>
+        <updated>2024-07-10T08:16:24.668Z</updated>
+        <content type="html"><![CDATA[2024.07.11(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 서울 강동 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59839"/>
         <updated>2024-07-09T09:12:14.629Z</updated>
         <content type="html"><![CDATA[2024.07.16(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​올스타보잉보잉​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59837</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59837"/>
-        <updated>2024-07-09T05:11:32.377Z</updated>
-        <content type="html"><![CDATA[2024.07.11(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59836</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59836"/>
-        <updated>2024-07-09T03:13:40.516Z</updated>
-        <content type="html"><![CDATA[2024.07.10(수) 05:00]]></content>
     </entry>
 </feed>
