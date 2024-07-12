@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-12T08:15:18.535Z</updated>
+    <updated>2024-07-12T09:13:37.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Soundberry Festa' 24 - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59868</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59868"/>
+        <updated>2024-07-12T09:13:29.485Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 트롯걸즈재팬 1st 콘서트 - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59867</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59867"/>
+        <updated>2024-07-12T09:13:29.486Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 콘서트 뮤지컬 <트루스토리> 2차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59866</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59866"/>
+        <updated>2024-07-12T09:13:29.486Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <새벽의 입구에서> 마지막​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59865</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59853"/>
         <updated>2024-07-10T08:16:18.076Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아기돼지삼형제(늑대숲 또옹돼지 원정대)​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59852</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59852"/>
-        <updated>2024-07-10T08:16:18.076Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 특선가족뮤지컬 <피터팬> - 서울 강동 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59851</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59851"/>
-        <updated>2024-07-10T07:12:50.535Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 완주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59850</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59850"/>
-        <updated>2024-07-10T06:15:43.663Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 00:00]]></content>
     </entry>
 </feed>
