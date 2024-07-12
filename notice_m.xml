@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-12T06:16:09.851Z</updated>
+    <updated>2024-07-12T07:12:01.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59860"/>
         <updated>2024-07-12T02:33:48.624Z</updated>
         <content type="html"><![CDATA[2024.07.15(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 성남 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59859</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59859"/>
+        <updated>2024-07-12T07:12:01.274Z</updated>
+        <content type="html"><![CDATA[2024.07.16(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(남양주) 2024가족뮤지컬 프린세스 공주뮤지컬쇼]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59849"/>
         <updated>2024-07-10T06:15:50.446Z</updated>
         <content type="html"><![CDATA[2024.07.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  푸치니 작곡 오페라 [나비부인] 공연-광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59848</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59848"/>
-        <updated>2024-07-10T05:12:02.599Z</updated>
-        <content type="html"><![CDATA[2024.07.11(목) 00:00]]></content>
     </entry>
 </feed>
