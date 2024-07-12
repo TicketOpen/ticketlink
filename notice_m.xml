@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-12T04:14:23.521Z</updated>
+    <updated>2024-07-12T05:11:41.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​Sync Next 24 김신록×손현선 <없는 시간> 발코니석 추가​​ ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59861</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59861"/>
+        <updated>2024-07-12T05:11:40.802Z</updated>
+        <content type="html"><![CDATA[2024.07.15(월) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​DSAC 프로덕션 넌버벌 퍼포먼스 <뚜들뚜들 선사시대> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59860</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59846"/>
         <updated>2024-07-10T04:15:26.549Z</updated>
         <content type="html"><![CDATA[2024.07.12(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 포항 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59845</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59845"/>
-        <updated>2024-07-10T05:12:02.603Z</updated>
-        <content type="html"><![CDATA[2024.07.16(화) 02:00]]></content>
     </entry>
 </feed>
