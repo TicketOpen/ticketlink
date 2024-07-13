@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-13T03:12:51.192Z</updated>
+    <updated>2024-07-13T04:13:26.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 특선 가족뮤지컬 <인어공주> - 김포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59869</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59869"/>
+        <updated>2024-07-13T04:13:20.101Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soundberry Festa' 24 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59868</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59854"/>
         <updated>2024-07-10T09:12:02.454Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.11(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​피아노 파 드 되 - Dancing with Pierrot​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59853</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59853"/>
-        <updated>2024-07-10T08:16:18.076Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.12(금) 07:00]]></content>
     </entry>
 </feed>
