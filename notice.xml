@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-15T04:16:25.109Z</updated>
+    <updated>2024-07-15T05:11:54.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 신곡발매기념 콘서트 “Rock’n All” - 김해​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59879</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59879"/>
+        <updated>2024-07-15T05:11:46.933Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.18(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 JANG DONGYOON FANMEETING < Report of Love >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59876</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59876"/>
+        <updated>2024-07-15T05:11:46.937Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.19(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(서울 세종)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59875</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59863"/>
         <updated>2024-07-12T06:16:01.719Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​Sync Next 24 김신록×손현선 <없는 시간> 발코니석 추가​​ ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59861</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59861"/>
-        <updated>2024-07-12T05:11:33.513Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​DSAC 프로덕션 넌버벌 퍼포먼스 <뚜들뚜들 선사시대> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59860</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59860"/>
-        <updated>2024-07-12T02:33:41.970Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 05:00]]></content>
     </entry>
 </feed>
