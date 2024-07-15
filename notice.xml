@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-15T02:05:07.705Z</updated>
+    <updated>2024-07-15T03:14:49.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(서울 세종)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59875</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59875"/>
+        <updated>2024-07-15T03:14:42.526Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.23(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 강릉 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59874</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59874"/>
+        <updated>2024-07-15T03:14:42.530Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 천안 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59873</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59873"/>
+        <updated>2024-07-15T03:14:42.539Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 안양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59872</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59872"/>
+        <updated>2024-07-15T03:14:42.539Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​GENSHIN CONCERT TOUR​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59871</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59860"/>
         <updated>2024-07-12T02:33:41.970Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 성남 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59859</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59859"/>
-        <updated>2024-07-12T07:11:54.285Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.16(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(남양주) 2024가족뮤지컬 프린세스 공주뮤지컬쇼]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59858</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59858"/>
-        <updated>2024-07-11T08:14:43.307Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024무용여행舞游韩国 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59857</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59857"/>
-        <updated>2024-07-11T08:14:43.310Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024무용여행舞游韩国 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59856</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59856"/>
-        <updated>2024-07-11T08:14:43.310Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.15(월) 01:00]]></content>
     </entry>
 </feed>
