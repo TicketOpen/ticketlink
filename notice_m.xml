@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-16T06:16:29.941Z</updated>
+    <updated>2024-07-16T07:12:39.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[조자 스미스 (JORJA SMITH) 첫 내한 공연​​​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 김해​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59888</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59888"/>
+        <updated>2024-07-16T07:12:38.727Z</updated>
+        <content type="html"><![CDATA[2024.07.17(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 386회 정기연주회 ‘Leggiero’​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59887</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59887"/>
+        <updated>2024-07-16T07:12:38.728Z</updated>
+        <content type="html"><![CDATA[2024.07.17(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JORJA SMITH LIVE IN SEOUL - FALLING OR FLYING TOUR​​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59886</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59886"/>
         <updated>2024-07-16T06:16:29.263Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59873"/>
         <updated>2024-07-15T03:14:49.345Z</updated>
         <content type="html"><![CDATA[2024.07.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 안양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59872</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59872"/>
-        <updated>2024-07-15T03:14:49.347Z</updated>
-        <content type="html"><![CDATA[2024.07.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​GENSHIN CONCERT TOUR​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59871</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59871"/>
-        <updated>2024-07-15T02:05:07.041Z</updated>
-        <content type="html"><![CDATA[2024.07.16(화) 05:00]]></content>
     </entry>
 </feed>
