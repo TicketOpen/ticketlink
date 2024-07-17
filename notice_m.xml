@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-17T04:14:07.674Z</updated>
+    <updated>2024-07-17T05:12:02.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 창작오페라 '맥의 신화'​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59894</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59894"/>
+        <updated>2024-07-17T05:12:02.274Z</updated>
+        <content type="html"><![CDATA[2024.07.22(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59893</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59893"/>
+        <updated>2024-07-17T05:12:02.276Z</updated>
+        <content type="html"><![CDATA[2024.07.23(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59892</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59892"/>
+        <updated>2024-07-17T05:12:02.279Z</updated>
+        <content type="html"><![CDATA[2024.07.23(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 부산 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59891</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59891"/>
+        <updated>2024-07-17T05:12:02.287Z</updated>
+        <content type="html"><![CDATA[2024.07.22(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <알사탕> - 군포​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59890</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59890"/>
+        <updated>2024-07-17T05:12:02.289Z</updated>
+        <content type="html"><![CDATA[2024.07.19(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[BABYMONSTER PRESENTS : SEE YOU THERE] FINALE IN SEOUL 추가 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59889</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59880"/>
         <updated>2024-07-15T08:16:23.818Z</updated>
         <content type="html"><![CDATA[2024.07.16(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 신곡발매기념 콘서트 “Rock'n All” - 김해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59879</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59879"/>
-        <updated>2024-07-15T05:11:54.076Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​잔나비 콘서트 < 판타스틱 올드 패션드 2024 : MOVIE STAR RISING > - 서울 THE 1ST WEEK​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59878</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59878"/>
-        <updated>2024-07-15T09:13:23.066Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 JANG DONGYOON FANMEETING < Report of Love >​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59876</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59876"/>
-        <updated>2024-07-15T05:11:54.076Z</updated>
-        <content type="html"><![CDATA[2024.07.19(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(서울 세종)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59875</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59875"/>
-        <updated>2024-07-15T03:14:49.345Z</updated>
-        <content type="html"><![CDATA[2024.07.23(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 강릉 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59874</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59874"/>
-        <updated>2024-07-15T03:14:49.345Z</updated>
-        <content type="html"><![CDATA[2024.07.17(수) 01:00]]></content>
     </entry>
 </feed>
