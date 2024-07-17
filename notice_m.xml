@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-17T00:53:22.244Z</updated>
+    <updated>2024-07-17T02:01:43.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[BABYMONSTER PRESENTS : SEE YOU THERE] FINALE IN SEOUL 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59889</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59889"/>
+        <updated>2024-07-17T02:01:42.897Z</updated>
+        <content type="html"><![CDATA[2024.07.19(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 김해​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59888</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 강릉 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59874</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59874"/>
-        <updated>2024-07-15T03:14:49.345Z</updated>
-        <content type="html"><![CDATA[2024.07.17(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 천안 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59873</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59873"/>
         <updated>2024-07-15T03:14:49.345Z</updated>
         <content type="html"><![CDATA[2024.07.17(수) 01:00]]></content>
     </entry>
