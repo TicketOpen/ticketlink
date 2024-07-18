@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-18T07:11:31.977Z</updated>
+    <updated>2024-07-18T08:14:53.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  최백호 단독콘서트 <낭만에 대하여> - 제주​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -31,6 +31,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59901"/>
         <updated>2024-07-18T02:00:04.636Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.19(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌8 <미래연구소를 지켜라!> - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59900</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59900"/>
+        <updated>2024-07-18T08:14:45.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.22(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2024_부천 앙코르 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.19(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59888</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59888"/>
-        <updated>2024-07-16T07:12:33.206Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.17(수) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[​[단독판매]  최백호 단독콘서트 <낭만에 대하여> - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59904</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59904"/>
@@ -136,6 +136,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59901"/>
         <updated>2024-07-18T02:00:11.401Z</updated>
         <content type="html"><![CDATA[2024.07.19(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌8 <미래연구소를 지켜라!> - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59900</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59900"/>
+        <updated>2024-07-18T08:14:52.477Z</updated>
+        <content type="html"><![CDATA[2024.07.22(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2024_부천 앙코르 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59889"/>
         <updated>2024-07-17T02:01:42.897Z</updated>
         <content type="html"><![CDATA[2024.07.19(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59888</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59888"/>
-        <updated>2024-07-16T07:12:38.727Z</updated>
-        <content type="html"><![CDATA[2024.07.17(수) 00:00]]></content>
     </entry>
 </feed>
