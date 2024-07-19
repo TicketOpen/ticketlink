@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-19T04:15:43.046Z</updated>
+    <updated>2024-07-19T05:13:02.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59912"/>
         <updated>2024-07-19T03:13:34.781Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.23(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[유레카극장] 가족 행복론; The present is a present. 오늘 더 사랑해, 오늘 더 행복해_션​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59911</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59911"/>
+        <updated>2024-07-19T05:12:55.355Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 부산 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59897"/>
         <updated>2024-07-17T08:15:10.301Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.18(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 동아시아 문화도시<한중일 대합창제> - 경주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59896</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59896"/>
-        <updated>2024-07-17T07:12:19.657Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.24(수) 01:00]]></content>
     </entry>
 </feed>
