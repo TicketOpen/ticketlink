@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-18T22:10:45.365Z</updated>
+    <updated>2024-07-19T02:28:28.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 부산 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59910</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59910"/>
+        <updated>2024-07-19T02:28:28.212Z</updated>
+        <content type="html"><![CDATA[2024.07.22(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  던파모바일 아케이드 2024​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59909</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59909"/>
+        <updated>2024-07-19T02:28:28.216Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 세종시​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59908</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59908"/>
+        <updated>2024-07-19T02:28:28.220Z</updated>
+        <content type="html"><![CDATA[2024.07.24(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 사천​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59907</id>
@@ -13,18 +34,11 @@
         <content type="html"><![CDATA[2024.07.24(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] <더매직스타> TOP7 전국투어 매직쇼​ - 서울 추가 회차 및 추가 좌석​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 더 매직스타 전국투어 콘서트 - 서울 추가 회차 및 추가 좌석​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59906</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59906"/>
         <updated>2024-07-18T10:12:30.498Z</updated>
         <content type="html"><![CDATA[2024.07.19(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 인천 부평​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59905</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59905"/>
-        <updated>2024-07-18T09:12:27.693Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  최백호 단독콘서트 <낭만에 대하여> - 제주​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59895"/>
         <updated>2024-07-17T06:15:56.630Z</updated>
         <content type="html"><![CDATA[2024.07.18(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 창작오페라 '맥의 신화'​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59894</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59894"/>
-        <updated>2024-07-17T05:12:02.274Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59893</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59893"/>
-        <updated>2024-07-17T05:12:02.276Z</updated>
-        <content type="html"><![CDATA[2024.07.23(화) 02:00]]></content>
     </entry>
 </feed>
