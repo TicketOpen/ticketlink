@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-19T05:13:02.718Z</updated>
+    <updated>2024-07-19T06:15:46.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시카고> 5차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59914</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59914"/>
+        <updated>2024-07-19T06:15:39.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.25(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59913</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59913"/>
+        <updated>2024-07-19T06:15:39.240Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.22(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 KIM SUNG KYU CONCERT [LV3 : Let's Vacay] ONLINE LIVE STREAMING​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59912</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.23(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 성남 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59898</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59898"/>
-        <updated>2024-07-18T00:51:49.279Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.22(월) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <시카고> 5차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59914</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59914"/>
+        <updated>2024-07-19T06:15:45.892Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(부천)-​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59897</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59897"/>
-        <updated>2024-07-17T08:15:10.301Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.18(목) 05:00]]></content>
+        <title type="html"><![CDATA[​가족뮤지컬 <꼬마버스 타요 - 용감한 구조대 레스큐 타요> - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59913</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59913"/>
+        <updated>2024-07-19T06:15:45.896Z</updated>
+        <content type="html"><![CDATA[2024.07.22(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 KIM SUNG KYU CONCERT [LV3 : Let's Vacay] ONLINE LIVE STREAMING​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59899"/>
         <updated>2024-07-18T02:00:11.403Z</updated>
         <content type="html"><![CDATA[2024.07.23(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 시크릿쥬쥬 별의 보석 <소원을 말해봐!> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59898</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59898"/>
-        <updated>2024-07-18T00:51:56.519Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(부천)-​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59897</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59897"/>
-        <updated>2024-07-17T08:15:16.545Z</updated>
-        <content type="html"><![CDATA[2024.07.18(목) 05:00]]></content>
     </entry>
 </feed>
