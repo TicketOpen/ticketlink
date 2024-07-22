@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-22T06:16:30.661Z</updated>
+    <updated>2024-07-22T07:11:51.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59925"/>
         <updated>2024-07-22T05:13:07.204Z</updated>
         <content type="html"><![CDATA[2024.07.25(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탑건 매버릭 인 콘서트 월드투어 서울 공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59924</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59924"/>
+        <updated>2024-07-22T07:11:50.432Z</updated>
+        <content type="html"><![CDATA[2024.07.30(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​메가필드뮤직페스티벌 2024_부산​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59911"/>
         <updated>2024-07-19T05:13:02.040Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부산 클럽디 오아시스 풀파티 (엘시티 워터파크) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59910</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59910"/>
-        <updated>2024-07-19T02:28:28.212Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 07:00]]></content>
     </entry>
 </feed>
