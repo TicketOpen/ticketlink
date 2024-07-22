@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-22T04:14:47.214Z</updated>
+    <updated>2024-07-22T05:13:07.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <유진과 유진> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59925</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59925"/>
+        <updated>2024-07-22T05:13:01.604Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.25(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​메가필드뮤직페스티벌 2024_부산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59923</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59923"/>
         <updated>2024-07-22T03:14:15.229Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.26(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2024 니엘 생일팬미팅  - 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59922</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59922"/>
+        <updated>2024-07-22T05:13:01.605Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.25(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 순천​​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.22(월) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  던파모바일 아케이드 2024​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59909</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59909"/>
-        <updated>2024-07-19T02:28:22.625Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​공룡애니멀쇼 - 세종시​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59908</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59908"/>
-        <updated>2024-07-19T02:28:22.628Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.24(수) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <유진과 유진> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59925</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59925"/>
+        <updated>2024-07-22T05:13:07.204Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​메가필드뮤직페스티벌 2024_부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59923"/>
         <updated>2024-07-22T03:14:22.024Z</updated>
         <content type="html"><![CDATA[2024.07.26(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2024 니엘 생일팬미팅  - 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59922</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59922"/>
+        <updated>2024-07-22T05:13:07.210Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 순천​​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59910"/>
         <updated>2024-07-19T02:28:28.212Z</updated>
         <content type="html"><![CDATA[2024.07.22(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  던파모바일 아케이드 2024​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59909</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59909"/>
-        <updated>2024-07-19T02:28:28.216Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​공룡애니멀쇼 - 세종시​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59908</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59908"/>
-        <updated>2024-07-19T02:28:28.220Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 00:00]]></content>
     </entry>
 </feed>
