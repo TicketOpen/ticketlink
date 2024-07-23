@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-23T02:01:18.807Z</updated>
+    <updated>2024-07-23T03:14:15.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 마음의 짐을 내려놓고 떠나는 Travel Concert 'with BACKPACK' ​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59926</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59926"/>
+        <updated>2024-07-23T03:14:08.381Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.24(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <유진과 유진> 3차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59925</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.26(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2024 니엘 생일팬미팅  - 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2024 니엘 생일팬미팅 < Lips fairy forest > - 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59922</id>
         <link href="http://www.ticketlink.co.kr/help/notice/59922"/>
         <updated>2024-07-22T05:13:01.605Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59912"/>
         <updated>2024-07-19T03:13:34.781Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.23(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[유레카극장] 가족 행복론; The present is a present. 오늘 더 사랑해, 오늘 더 행복해_션​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59911</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59911"/>
-        <updated>2024-07-19T05:12:55.355Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 01:00]]></content>
     </entry>
 </feed>
