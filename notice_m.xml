@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-23T06:16:32.723Z</updated>
+    <updated>2024-07-23T07:11:24.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 음악을 낭독하다 <진호의 책방> - 의성 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59930</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59930"/>
+        <updated>2024-07-23T07:11:24.206Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 아가사-군산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59929</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59929"/>
+        <updated>2024-07-23T07:11:24.206Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(2024) 혹부리 영감과 도깨비 - 부산 신세계 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59928</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59916"/>
         <updated>2024-07-19T09:12:26.742Z</updated>
         <content type="html"><![CDATA[2024.07.24(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​바리테너 마이클 스파이어스 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59915</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59915"/>
-        <updated>2024-07-19T07:12:48.808Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시카고> 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59914</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59914"/>
-        <updated>2024-07-19T06:15:45.892Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 06:00]]></content>
     </entry>
 </feed>
