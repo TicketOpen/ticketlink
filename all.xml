@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T07:11:56.150Z</updated>
+    <updated>2024-07-24T08:14:24.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 소극장함세상 해외초청 기획 <캉디드> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59940</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59940"/>
+        <updated>2024-07-24T08:14:17.271Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.26(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] KNN방송교향악단 특별음악회 < All That Mozart >​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59939</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.25(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탑건 매버릭 인 콘서트 월드투어 서울 공연​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59924</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59924"/>
-        <updated>2024-07-22T07:11:43.024Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.30(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 소극장함세상 해외초청 기획 <캉디드> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59940</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59940"/>
+        <updated>2024-07-24T08:14:24.137Z</updated>
+        <content type="html"><![CDATA[2024.07.26(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] KNN방송교향악단 특별음악회 < All That Mozart >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59925"/>
         <updated>2024-07-22T05:13:07.204Z</updated>
         <content type="html"><![CDATA[2024.07.25(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탑건 매버릭 인 콘서트 월드투어 서울 공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59924</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59924"/>
-        <updated>2024-07-22T07:11:50.432Z</updated>
-        <content type="html"><![CDATA[2024.07.30(화) 05:00]]></content>
     </entry>
 </feed>
