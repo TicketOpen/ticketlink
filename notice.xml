@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-24T05:12:03.397Z</updated>
+    <updated>2024-07-24T06:16:23.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] KNN방송교향악단 특별음악회 < All That Mozart >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59939</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59939"/>
+        <updated>2024-07-24T06:16:15.482Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여수] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59938</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59924"/>
         <updated>2024-07-22T07:11:43.024Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.30(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​메가필드뮤직페스티벌 2024_부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59923</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59923"/>
-        <updated>2024-07-22T03:14:15.229Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.26(금) 09:00]]></content>
     </entry>
 </feed>
