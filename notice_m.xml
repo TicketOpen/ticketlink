@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-24T04:13:42.077Z</updated>
+    <updated>2024-07-24T05:12:03.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여수] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59938</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59938"/>
+        <updated>2024-07-24T05:12:02.696Z</updated>
+        <content type="html"><![CDATA[2024.07.26(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 소프라노 서유빈 한국가곡 독창회 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59937</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59937"/>
+        <updated>2024-07-24T05:12:02.701Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 안성 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59936</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59936"/>
+        <updated>2024-07-24T05:12:02.702Z</updated>
+        <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 군산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59935</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59935"/>
+        <updated>2024-07-24T05:12:02.704Z</updated>
+        <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 포항 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59934</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59934"/>
+        <updated>2024-07-24T05:12:02.706Z</updated>
+        <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 과자 가게 전천당> - 천옥원, 소원과자 대결전 - 성남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59933</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59933"/>
+        <updated>2024-07-24T05:12:02.707Z</updated>
+        <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <맥베스> 추가 회차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59932</id>
@@ -67,47 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59923"/>
         <updated>2024-07-22T03:14:22.024Z</updated>
         <content type="html"><![CDATA[2024.07.26(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 니엘 생일팬미팅 < Lips fairy forest > - 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59922</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59922"/>
-        <updated>2024-07-22T05:13:07.210Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 순천​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59921</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59921"/>
-        <updated>2024-07-19T10:12:08.149Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 순천​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59920</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59920"/>
-        <updated>2024-07-19T10:12:08.156Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​웃으면 복이와요 / 제임스킹 이현승 콘서트​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59919</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59919"/>
-        <updated>2024-07-19T09:12:26.737Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​연극 <아일랜드> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59918</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59918"/>
-        <updated>2024-07-19T08:14:57.201Z</updated>
-        <content type="html"><![CDATA[2024.07.22(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 잔나비 콘서트 < 판타스틱 올드 패션드 2024 : MOVIE STAR RISING > - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59917</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59917"/>
-        <updated>2024-07-19T09:12:26.740Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 10:00]]></content>
     </entry>
 </feed>
