@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-24T00:53:53.681Z</updated>
+    <updated>2024-07-24T02:01:24.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <맥베스> 추가 회차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59932</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59932"/>
+        <updated>2024-07-24T02:01:24.223Z</updated>
+        <content type="html"><![CDATA[2024.07.25(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 음악을 낭독하다 <진호의 책방> - 의성 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59930</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59917"/>
         <updated>2024-07-19T09:12:26.740Z</updated>
         <content type="html"><![CDATA[2024.07.24(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​잔나비 콘서트 < 판타스틱 올드 패션드 2024 : MOVIE STAR RISING > - 서울 THE 2ND WEEK​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59916</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59916"/>
-        <updated>2024-07-19T09:12:26.742Z</updated>
-        <content type="html"><![CDATA[2024.07.24(수) 11:00]]></content>
     </entry>
 </feed>
