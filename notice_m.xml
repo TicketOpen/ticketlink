@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-25T02:01:13.920Z</updated>
+    <updated>2024-07-25T03:13:30.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59947</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59947"/>
+        <updated>2024-07-25T03:13:29.336Z</updated>
+        <content type="html"><![CDATA[2024.07.30(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 청주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59946</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59946"/>
+        <updated>2024-07-25T03:13:29.343Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59945</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59945"/>
+        <updated>2024-07-25T03:13:29.344Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 울산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59944</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59944"/>
+        <updated>2024-07-25T03:13:29.344Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 마술콘서트 <쇼프라이즈> 부천​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59943</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59933"/>
         <updated>2024-07-24T05:12:02.707Z</updated>
         <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <맥베스> 추가 회차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59932</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59932"/>
-        <updated>2024-07-24T02:01:24.223Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 음악을 낭독하다 <진호의 책방> - 의성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59930</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59930"/>
-        <updated>2024-07-23T07:11:24.206Z</updated>
-        <content type="html"><![CDATA[2024.08.01(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 아가사-군산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59929</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59929"/>
-        <updated>2024-07-23T07:11:24.206Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 혹부리 영감과 도깨비 - 부산 신세계 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59928</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59928"/>
-        <updated>2024-07-23T06:16:32.007Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 00:00]]></content>
     </entry>
 </feed>
