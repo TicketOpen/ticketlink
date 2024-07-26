@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-26T00:52:17.676Z</updated>
+    <updated>2024-07-26T02:00:30.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 인천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59954</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59954"/>
+        <updated>2024-07-26T02:00:22.115Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59953</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59953"/>
+        <updated>2024-07-26T02:00:22.115Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 광주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59952</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59952"/>
+        <updated>2024-07-26T02:00:22.115Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59951</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59951"/>
+        <updated>2024-07-26T02:00:22.116Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59950</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59950"/>
+        <updated>2024-07-26T02:00:22.117Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <사의찬미> 4차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59948</id>
@@ -75,39 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[여수] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59938</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59938"/>
-        <updated>2024-07-24T05:11:57.228Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.26(금) 05:00]]></content>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59954</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59954"/>
+        <updated>2024-07-26T02:00:29.449Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 소프라노 서유빈 한국가곡 독창회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59937</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59937"/>
-        <updated>2024-07-24T05:11:57.229Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.25(목) 01:00]]></content>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59953</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59953"/>
+        <updated>2024-07-26T02:00:29.449Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 안성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59936</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59936"/>
-        <updated>2024-07-24T05:11:57.230Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.29(월) 01:00]]></content>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59952</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59952"/>
+        <updated>2024-07-26T02:00:29.451Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 군산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59935</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59935"/>
-        <updated>2024-07-24T05:11:57.231Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.29(월) 01:00]]></content>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59951</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59951"/>
+        <updated>2024-07-26T02:00:29.451Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 포항 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59934</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59934"/>
-        <updated>2024-07-24T05:11:57.232Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.29(월) 01:00]]></content>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59950</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59950"/>
+        <updated>2024-07-26T02:00:29.451Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <사의찬미> 4차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59939"/>
         <updated>2024-07-24T06:16:22.423Z</updated>
         <content type="html"><![CDATA[2024.07.31(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여수] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59938</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59938"/>
-        <updated>2024-07-24T05:12:02.696Z</updated>
-        <content type="html"><![CDATA[2024.07.26(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 소프라노 서유빈 한국가곡 독창회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59937</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59937"/>
-        <updated>2024-07-24T05:12:02.701Z</updated>
-        <content type="html"><![CDATA[2024.07.25(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 안성 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59936</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59936"/>
-        <updated>2024-07-24T05:12:02.702Z</updated>
-        <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌4 - 군산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59935</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59935"/>
-        <updated>2024-07-24T05:12:02.704Z</updated>
-        <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌4 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59934</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59934"/>
-        <updated>2024-07-24T05:12:02.706Z</updated>
-        <content type="html"><![CDATA[2024.07.29(월) 01:00]]></content>
     </entry>
 </feed>
