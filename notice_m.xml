@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-26T02:37:51.712Z</updated>
+    <updated>2024-07-26T03:13:54.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WONDERLIVET 2024 (원더리벳 2024) - 블라인드 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59956</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59956"/>
+        <updated>2024-07-26T03:13:53.538Z</updated>
+        <content type="html"><![CDATA[2024.07.30(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WONDERLIVET 2024 (원더리벳 2024)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59955</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59955"/>
+        <updated>2024-07-26T03:13:53.548Z</updated>
+        <content type="html"><![CDATA[2024.08.08(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 인천 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59954</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59941"/>
         <updated>2024-07-24T10:13:54.285Z</updated>
         <content type="html"><![CDATA[2024.08.01(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 소극장함세상 해외초청 기획 <캉디드> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59940</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59940"/>
-        <updated>2024-07-24T08:14:24.137Z</updated>
-        <content type="html"><![CDATA[2024.07.26(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] KNN방송교향악단 특별음악회 < All That Mozart >​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59939</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59939"/>
-        <updated>2024-07-24T06:16:22.423Z</updated>
-        <content type="html"><![CDATA[2024.07.31(수) 01:00]]></content>
     </entry>
 </feed>
