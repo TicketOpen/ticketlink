@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-29T00:53:54.042Z</updated>
+    <updated>2024-07-29T02:04:09.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​호두까기인형 - 서울 양천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59959</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59959"/>
+        <updated>2024-07-29T02:04:01.921Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더매직스타 전국투어 콘서트 - 창원 ​​티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59957</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.29(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 마술콘서트 쇼프라이즈 - 익산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59942</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59942"/>
-        <updated>2024-07-24T11:10:13.702Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.29(월) 00:00]]></content>
+        <title type="html"><![CDATA[​호두까기인형 - 서울 양천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59959</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59959"/>
+        <updated>2024-07-29T02:04:08.743Z</updated>
+        <content type="html"><![CDATA[2024.08.01(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더매직스타 전국투어 콘서트 - 창원 ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/59943</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59943"/>
         <updated>2024-07-24T11:10:20.227Z</updated>
-        <content type="html"><![CDATA[2024.07.29(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 마술콘서트 쇼프라이즈 - 익산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59942</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59942"/>
-        <updated>2024-07-24T11:10:20.228Z</updated>
         <content type="html"><![CDATA[2024.07.29(월) 00:00]]></content>
     </entry>
 </feed>
