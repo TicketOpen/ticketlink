@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-29T04:14:25.349Z</updated>
+    <updated>2024-07-29T05:12:59.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59967"/>
         <updated>2024-07-29T04:14:17.195Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024년 가족뮤지컬 오즈의 마법사 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59965</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59965"/>
+        <updated>2024-07-29T05:12:51.506Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스캐롤 - 용인​ 티켓오픈 안내]]></title>
@@ -46,6 +53,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59959"/>
         <updated>2024-07-29T02:04:01.921Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 헤이즈 팬미팅 [방앗간 : 떡들의 습격]​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59958</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59958"/>
+        <updated>2024-07-29T05:12:51.514Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더매직스타 전국투어 콘서트 - 창원 ​​티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59951"/>
         <updated>2024-07-26T02:00:22.116Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 안산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59950</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59950"/>
-        <updated>2024-07-26T02:00:22.117Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <사의찬미> 4차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59948</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59948"/>
-        <updated>2024-07-25T06:16:44.513Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.29(월) 05:00]]></content>
     </entry>
 </feed>
