@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-30T08:15:27.498Z</updated>
+    <updated>2024-07-30T09:12:29.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 순천​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59977</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59977"/>
+        <updated>2024-07-30T09:12:22.392Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.02(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 군포​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59976</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59976"/>
+        <updated>2024-07-30T09:12:22.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.02(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박재홍 성기문 RECITAL <소곡집> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59974</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 부산 추가 회차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59960</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59960"/>
-        <updated>2024-07-29T03:13:31.463Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 06:00]]></content>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 순천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59977</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59977"/>
+        <updated>2024-07-30T09:12:28.538Z</updated>
+        <content type="html"><![CDATA[2024.08.02(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​호두까기인형 - 서울 양천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59959</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59959"/>
-        <updated>2024-07-29T02:04:01.921Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 00:00]]></content>
+        <title type="html"><![CDATA[틀려도 괜찮아 - 군포​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59976</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59976"/>
+        <updated>2024-07-30T09:12:28.539Z</updated>
+        <content type="html"><![CDATA[2024.08.02(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박재홍 성기문 RECITAL <소곡집> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59961"/>
         <updated>2024-07-29T03:13:38.676Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 부산 추가 회차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59960</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59960"/>
-        <updated>2024-07-29T03:13:38.676Z</updated>
-        <content type="html"><![CDATA[2024.07.31(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​호두까기인형 - 서울 양천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59959</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59959"/>
-        <updated>2024-07-29T02:04:08.743Z</updated>
-        <content type="html"><![CDATA[2024.08.01(목) 00:00]]></content>
     </entry>
 </feed>
