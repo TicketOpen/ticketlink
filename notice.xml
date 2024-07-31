@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-07-31T06:14:20.121Z</updated>
+    <updated>2024-07-31T07:10:01.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <브레이킹 히스토리> - 울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59983</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59983"/>
+        <updated>2024-07-31T07:09:54.791Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 고양 추가 회차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59982</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59982"/>
+        <updated>2024-07-31T07:09:54.800Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 정준일 콘서트 ‘어떤 무엇도 아닌’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59981</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59981"/>
+        <updated>2024-07-31T07:09:54.802Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 2차​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59980</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59969"/>
         <updated>2024-07-29T07:12:35.391Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 영리한 너구리 동동​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59968</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59968"/>
-        <updated>2024-07-29T07:12:35.392Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <어린이 캣> - 원주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59967</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59967"/>
-        <updated>2024-07-29T04:14:17.195Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 포항​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59966</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59966"/>
-        <updated>2024-07-29T06:16:40.455Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 00:00]]></content>
     </entry>
 </feed>
