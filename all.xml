@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-31T07:10:01.291Z</updated>
+    <updated>2024-07-31T08:15:08.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[임현정 이진우 신청음콘서트 <너의 멜로디>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59984</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59984"/>
+        <updated>2024-07-31T08:15:01.249Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] <브레이킹 히스토리> - 울산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59983</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​피아노 파 드 되 - Dancing with Pierrot​ 추가 회차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59969</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59969"/>
-        <updated>2024-07-29T07:12:35.391Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 07:00]]></content>
+        <title type="html"><![CDATA[임현정 이진우 신청음콘서트 <너의 멜로디>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59984</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59984"/>
+        <updated>2024-07-31T08:15:08.308Z</updated>
+        <content type="html"><![CDATA[2024.08.07(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] <브레이킹 히스토리> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59970"/>
         <updated>2024-07-29T09:13:31.212Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​피아노 파 드 되 - Dancing with Pierrot​ 추가 회차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59969</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59969"/>
-        <updated>2024-07-29T07:12:42.261Z</updated>
-        <content type="html"><![CDATA[2024.07.31(수) 07:00]]></content>
     </entry>
 </feed>
