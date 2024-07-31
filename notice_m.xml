@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-07-31T08:15:08.985Z</updated>
+    <updated>2024-07-31T09:14:07.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 마비노기 20주년 오케스트라 콘서트 : 별을 위하여 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59985</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59985"/>
+        <updated>2024-07-31T09:14:07.209Z</updated>
+        <content type="html"><![CDATA[2024.08.07(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임현정 이진우 신청음콘서트 <너의 멜로디>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59984</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59971"/>
         <updated>2024-07-29T09:13:31.212Z</updated>
         <content type="html"><![CDATA[2024.08.09(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어게인2024투란도트 - again2024TURANDOT​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59970</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59970"/>
-        <updated>2024-07-29T09:13:31.212Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 01:00]]></content>
     </entry>
 </feed>
