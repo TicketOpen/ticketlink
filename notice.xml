@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-01T02:09:36.056Z</updated>
+    <updated>2024-08-01T03:14:23.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <러브레터> - 원주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59987</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59987"/>
+        <updated>2024-08-01T03:14:17.068Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박창근 장르 with 오케스트라 - 서울​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59986</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59973"/>
         <updated>2024-07-30T03:15:03.892Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.02(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say U Fan Vol.4 사토 히나타 FAN MEETING​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59972</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59972"/>
-        <updated>2024-07-29T10:13:59.457Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.07.31(수) 10:00]]></content>
     </entry>
 </feed>
