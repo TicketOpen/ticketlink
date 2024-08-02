@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-02T07:12:43.992Z</updated>
+    <updated>2024-08-02T08:15:13.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 제 15회 부산마루국제음악제​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60000</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60000"/>
+        <updated>2024-08-02T08:15:07.510Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 광주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59999</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59999"/>
+        <updated>2024-08-02T08:15:07.511Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청춘폴나잇 2024​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59998</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.12(월) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 마비노기 20주년 오케스트라 콘서트 : 별을 위하여 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59985</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59985"/>
-        <updated>2024-07-31T09:14:00.281Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 제 15회 부산마루국제음악제​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60000</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60000"/>
+        <updated>2024-08-02T08:15:12.878Z</updated>
+        <content type="html"><![CDATA[2024.08.05(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임현정 이진우 신청음콘서트 <너의 멜로디>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59984</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59984"/>
-        <updated>2024-07-31T08:15:01.249Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 05:00]]></content>
+        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/59999</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/59999"/>
+        <updated>2024-08-02T08:15:12.881Z</updated>
+        <content type="html"><![CDATA[2024.08.06(화) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청춘폴나잇 2024​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59986"/>
         <updated>2024-08-01T00:57:28.089Z</updated>
         <content type="html"><![CDATA[2024.08.12(월) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 마비노기 20주년 오케스트라 콘서트 : 별을 위하여 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59985</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59985"/>
-        <updated>2024-07-31T09:14:07.209Z</updated>
-        <content type="html"><![CDATA[2024.08.07(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임현정 이진우 신청음콘서트 <너의 멜로디>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59984</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59984"/>
-        <updated>2024-07-31T08:15:08.308Z</updated>
-        <content type="html"><![CDATA[2024.08.07(수) 05:00]]></content>
     </entry>
 </feed>
