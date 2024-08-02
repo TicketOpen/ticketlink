@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-02T02:01:45.923Z</updated>
+    <updated>2024-08-02T03:13:15.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]제2회 대한민국 국제뮤지컬콩쿠르 <결선>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59996</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59996"/>
+        <updated>2024-08-02T03:13:08.323Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <로보카폴리 - 잡아라! 황금트로피!> - 목포​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59995</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59982"/>
         <updated>2024-07-31T07:09:54.800Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.01(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 정준일 콘서트 ‘어떤 무엇도 아닌’ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59981</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59981"/>
-        <updated>2024-07-31T07:09:54.802Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 11:00]]></content>
     </entry>
 </feed>
