@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-02T00:53:04.644Z</updated>
+    <updated>2024-08-02T02:01:45.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <로보카폴리 - 잡아라! 황금트로피!> - 목포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/59995</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/59995"/>
+        <updated>2024-08-02T02:01:38.375Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <로보카폴리 - 잡아라! 황금트로피!> - 춘천 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/59994</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/59981"/>
         <updated>2024-07-31T07:09:54.802Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 2차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59980</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59980"/>
-        <updated>2024-07-31T06:14:12.815Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 06:00]]></content>
     </entry>
 </feed>
