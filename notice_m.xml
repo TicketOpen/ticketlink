@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-05T04:14:43.641Z</updated>
+    <updated>2024-08-05T05:13:30.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60004"/>
         <updated>2024-08-05T02:04:06.855Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김창옥 토크콘서트 시즌 4 - 서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60003</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60003"/>
+        <updated>2024-08-05T05:13:29.640Z</updated>
+        <content type="html"><![CDATA[2024.08.08(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 김창옥 토크콘서트 시즌 4 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60002</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60002"/>
+        <updated>2024-08-05T05:13:29.642Z</updated>
+        <content type="html"><![CDATA[2024.08.08(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 Ⅳ 'Impressionism' 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59990"/>
         <updated>2024-08-01T06:16:41.501Z</updated>
         <content type="html"><![CDATA[2024.08.06(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문태국 첼로 리사이틀 < BACH >​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59989</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59989"/>
-        <updated>2024-08-01T06:16:41.503Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 특선 가족뮤지컬 <인어공주> - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59988</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59988"/>
-        <updated>2024-08-01T04:14:25.000Z</updated>
-        <content type="html"><![CDATA[2024.08.05(월) 00:00]]></content>
     </entry>
 </feed>
