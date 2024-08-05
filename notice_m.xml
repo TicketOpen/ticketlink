@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-05T06:17:02.788Z</updated>
+    <updated>2024-08-05T07:12:40.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -69,7 +69,7 @@
         <content type="html"><![CDATA[2024.08.06(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트 “Rock'n All” - 구미 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024 이승철 신곡발매기념 콘서트 “Rock‘n All” - 구미 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/59997</id>
         <link href="http://m.ticketlink.co.kr/help/notice/59997"/>
         <updated>2024-08-02T05:12:45.757Z</updated>
