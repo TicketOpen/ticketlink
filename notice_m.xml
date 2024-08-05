@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-05T00:54:34.697Z</updated>
+    <updated>2024-08-05T02:04:07.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더매직스타 전국투어 콘서트 (부산)​ 추가 좌석 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60004</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60004"/>
+        <updated>2024-08-05T02:04:06.855Z</updated>
+        <content type="html"><![CDATA[2024.08.05(월) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 Ⅳ 'Impressionism' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60001</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[2024.08.07(수) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 제 15회 부산마루국제음악제​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2024 제 15회 부산마루국제음악제 메인콘서트 Ⅰ<개막콘서트>]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60000</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60000"/>
         <updated>2024-08-02T08:15:12.878Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/59988"/>
         <updated>2024-08-01T04:14:25.000Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 <러브레터> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59987</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59987"/>
-        <updated>2024-08-01T03:14:22.976Z</updated>
-        <content type="html"><![CDATA[2024.08.05(월) 07:00]]></content>
     </entry>
 </feed>
