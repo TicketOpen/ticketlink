@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-06T06:17:49.107Z</updated>
+    <updated>2024-08-06T07:12:34.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​​춤극 [하회] - 안동​ / 안동시 지역화폐연계 페이백제도 적용공연​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60016</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60016"/>
+        <updated>2024-08-06T07:12:26.660Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.08(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 대구 추가 회차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60015</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60015"/>
+        <updated>2024-08-06T07:12:26.661Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 부천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60014</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.08(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 Ⅳ 'Impressionism' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60001</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60001"/>
-        <updated>2024-08-03T07:10:12.400Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.07(수) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​​춤극 [하회] - 안동​ / 안동시 지역화폐연계 페이백제도 적용공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60016</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60016"/>
+        <updated>2024-08-06T07:12:33.972Z</updated>
+        <content type="html"><![CDATA[2024.08.08(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 제 15회 부산마루국제음악제 메인콘서트 Ⅰ<개막콘서트> (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60000</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60000"/>
-        <updated>2024-08-02T08:15:07.510Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 01:00]]></content>
+        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 대구 추가 회차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60015</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60015"/>
+        <updated>2024-08-06T07:12:33.974Z</updated>
+        <content type="html"><![CDATA[2024.08.07(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60002"/>
         <updated>2024-08-05T05:13:29.642Z</updated>
         <content type="html"><![CDATA[2024.08.08(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] GSO 오티움 콘서트 Ⅳ 'Impressionism' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60001</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60001"/>
-        <updated>2024-08-03T07:10:19.531Z</updated>
-        <content type="html"><![CDATA[2024.08.07(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 제 15회 부산마루국제음악제 메인콘서트 Ⅰ<개막콘서트> (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60000</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60000"/>
-        <updated>2024-08-02T08:15:12.878Z</updated>
-        <content type="html"><![CDATA[2024.08.05(월) 01:00]]></content>
     </entry>
 </feed>
