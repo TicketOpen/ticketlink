@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-06T05:12:24.198Z</updated>
+    <updated>2024-08-06T06:17:49.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 부천 티켓오픈 안내 (티켓링크)]]></title>
@@ -16,6 +16,13 @@
         <id>http://www.ticketlink.co.kr/help/notice/60013</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60013"/>
         <updated>2024-08-06T05:12:17.921Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.09(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60012</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60012"/>
+        <updated>2024-08-06T06:17:41.443Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.09(금) 01:00]]></content>
     </entry>
     <entry>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.05(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 광주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/59999</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/59999"/>
-        <updated>2024-08-02T08:15:07.511Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.06(화) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60014</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60014"/>
@@ -121,6 +121,13 @@
         <id>http://m.ticketlink.co.kr/help/notice/60013</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60013"/>
         <updated>2024-08-06T05:12:23.459Z</updated>
+        <content type="html"><![CDATA[2024.08.09(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60012</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60012"/>
+        <updated>2024-08-06T06:17:48.473Z</updated>
         <content type="html"><![CDATA[2024.08.09(금) 01:00]]></content>
     </entry>
     <entry>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60000"/>
         <updated>2024-08-02T08:15:12.878Z</updated>
         <content type="html"><![CDATA[2024.08.05(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/59999</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/59999"/>
-        <updated>2024-08-02T08:15:12.881Z</updated>
-        <content type="html"><![CDATA[2024.08.06(화) 00:00]]></content>
     </entry>
 </feed>
