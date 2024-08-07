@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-07T06:16:17.752Z</updated>
+    <updated>2024-08-07T07:11:45.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60024"/>
         <updated>2024-08-07T05:12:14.975Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.12(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첼리스트 홍진호 콘서트 <첼로의 숲>​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60023</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60023"/>
+        <updated>2024-08-07T07:11:38.285Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아기돼지삼형제 - 구리 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60012</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60012"/>
         <updated>2024-08-06T06:17:41.443Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.09(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키 구라모토 내한 25주년 기념 콘서트 - 군산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60011</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60011"/>
-        <updated>2024-08-06T04:15:04.127Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.09(금) 01:00]]></content>
     </entry>
 </feed>
