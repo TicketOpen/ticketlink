@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-07T00:53:58.364Z</updated>
+    <updated>2024-08-07T02:04:18.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아기돼지삼형제 - 구리 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60022</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60022"/>
+        <updated>2024-08-07T02:04:18.351Z</updated>
+        <content type="html"><![CDATA[2024.08.12(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  퀸 엘리자베스 콩쿠르 위너스 콘서트 - 경주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60021</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60021"/>
+        <updated>2024-08-07T02:04:18.351Z</updated>
+        <content type="html"><![CDATA[2024.08.12(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  LoveLive! Series AsiaTour 2024 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60020</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60020"/>
+        <updated>2024-08-07T02:04:18.356Z</updated>
+        <content type="html"><![CDATA[2024.08.16(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 최현우 ANSWER - 수원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60018</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60007"/>
         <updated>2024-08-06T02:01:52.770Z</updated>
         <content type="html"><![CDATA[2024.08.09(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60006</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60006"/>
-        <updated>2024-08-05T06:17:02.130Z</updated>
-        <content type="html"><![CDATA[2024.08.09(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 날 버린 엄마의 집 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60005</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60005"/>
-        <updated>2024-08-05T06:17:02.130Z</updated>
-        <content type="html"><![CDATA[2024.08.26(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더매직스타 전국투어 콘서트 (부산)​ 추가 좌석 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60004</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60004"/>
-        <updated>2024-08-05T02:04:06.855Z</updated>
-        <content type="html"><![CDATA[2024.08.05(월) 07:00]]></content>
     </entry>
 </feed>
