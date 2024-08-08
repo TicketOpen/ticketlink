@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-08T05:12:12.141Z</updated>
+    <updated>2024-08-08T06:17:42.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 악기야 놀자 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60036</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60036"/>
+        <updated>2024-08-08T06:17:36.283Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 한수원과 함께하는 문화가 있는날 <종묘제례악> - 경주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60034</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60021"/>
         <updated>2024-08-07T02:04:11.219Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.12(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  LoveLive! Series AsiaTour 2024 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60020</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60020"/>
-        <updated>2024-08-07T02:04:11.221Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 11:00]]></content>
     </entry>
 </feed>
