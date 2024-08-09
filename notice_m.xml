@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-08T23:12:26.873Z</updated>
+    <updated>2024-08-09T00:54:39.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​누가 내 머리에 똥 쌌어 -  밀양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60047</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60047"/>
+        <updated>2024-08-09T00:54:38.293Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  퓨전국악 창작극 - 엄마를 찾아 떠나는 아리의 모험​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60046</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60046"/>
+        <updated>2024-08-09T00:54:38.293Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울드래곤시티 풀파티 8/31(토) - Bubble Foam 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60044</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60044"/>
+        <updated>2024-08-09T00:54:38.293Z</updated>
+        <content type="html"><![CDATA[2024.08.13(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울드래곤시티 풀파티 8/24(토) - Bubble Foam 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60043</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60043"/>
+        <updated>2024-08-09T00:54:38.293Z</updated>
+        <content type="html"><![CDATA[2024.08.13(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울드래곤시티 풀파티 8/17(토) - Bubble Foam 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60042</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60042"/>
+        <updated>2024-08-09T00:54:38.293Z</updated>
+        <content type="html"><![CDATA[2024.08.12(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파블로 지글러 마스터클래스​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60041</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60032"/>
         <updated>2024-08-08T05:12:11.527Z</updated>
         <content type="html"><![CDATA[2024.08.12(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 조선의사위 원혁 concert 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60031</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60031"/>
-        <updated>2024-08-08T02:03:13.710Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]   김돈의 경주 여성 합창 아카데미 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60030</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60030"/>
-        <updated>2024-08-07T08:16:46.113Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  전효진의 은빛 발레리나 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60029</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60029"/>
-        <updated>2024-08-07T08:16:46.116Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  조희창의 마에스트로 열전 #1 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60028</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60028"/>
-        <updated>2024-08-07T08:16:46.118Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  박파랑의 클래식 서양 미술사 - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60027</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60027"/>
-        <updated>2024-08-07T08:16:46.119Z</updated>
-        <content type="html"><![CDATA[2024.08.12(월) 01:00]]></content>
     </entry>
 </feed>
