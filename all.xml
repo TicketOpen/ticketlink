@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-12T09:13:40.725Z</updated>
+    <updated>2024-08-12T10:12:58.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 쎄시봉 콘써-트 (군산)​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -24,6 +24,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60052"/>
         <updated>2024-08-12T08:16:15.895Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​SOWON 1st FANMEETING ‘​All My Wishes’​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60051</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60051"/>
+        <updated>2024-08-12T10:12:51.665Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 387회 정기연주회 '거칠게 아름답게' 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 안동 ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60039</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60039"/>
-        <updated>2024-08-08T08:15:17.376Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.09(금) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 쎄시봉 콘써-트 (군산)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60054</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60054"/>
@@ -129,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60052"/>
         <updated>2024-08-12T08:16:23.490Z</updated>
         <content type="html"><![CDATA[2024.08.13(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​SOWON 1st FANMEETING ‘​All My Wishes’​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60051</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60051"/>
+        <updated>2024-08-12T10:12:58.233Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 387회 정기연주회 '거칠게 아름답게' 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60040"/>
         <updated>2024-08-08T09:12:40.391Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 안동 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60039</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60039"/>
-        <updated>2024-08-08T08:15:24.535Z</updated>
-        <content type="html"><![CDATA[2024.08.09(금) 00:00]]></content>
     </entry>
 </feed>
