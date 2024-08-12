@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-12T11:11:04.273Z</updated>
+    <updated>2024-08-12T12:23:29.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60055</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60055"/>
+        <updated>2024-08-12T12:23:21.666Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 쎄시봉 콘써-트 (군산)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60054</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60041"/>
         <updated>2024-08-08T10:12:34.107Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 마포 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60040</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60040"/>
-        <updated>2024-08-08T09:12:34.658Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 02:00]]></content>
     </entry>
 </feed>
