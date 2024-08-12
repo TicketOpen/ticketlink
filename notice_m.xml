@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-12T07:12:11.942Z</updated>
+    <updated>2024-08-12T08:16:24.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 쎄시봉 콘써-트 (군산)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60054</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60054"/>
+        <updated>2024-08-12T08:16:23.486Z</updated>
+        <content type="html"><![CDATA[2024.08.13(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 전주 추가 회차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60053</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60053"/>
+        <updated>2024-08-12T08:16:23.487Z</updated>
+        <content type="html"><![CDATA[2024.08.13(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 대구시립교향악단's 브루크너​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60052</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60052"/>
+        <updated>2024-08-12T08:16:23.490Z</updated>
+        <content type="html"><![CDATA[2024.08.13(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 387회 정기연주회 '거칠게 아름답게' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60050</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60039"/>
         <updated>2024-08-08T08:15:24.535Z</updated>
         <content type="html"><![CDATA[2024.08.09(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개관 30주년 기념 어쿠스틱 뮤지컬 나의 노래​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60038</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60038"/>
-        <updated>2024-08-08T08:15:24.536Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60037</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60037"/>
-        <updated>2024-08-08T07:11:45.228Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 악기야 놀자 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60036</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60036"/>
-        <updated>2024-08-08T06:17:41.951Z</updated>
-        <content type="html"><![CDATA[2024.08.13(화) 00:00]]></content>
     </entry>
 </feed>
