@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-13T06:16:57.927Z</updated>
+    <updated>2024-08-13T07:12:23.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60059</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60059"/>
+        <updated>2024-08-13T07:12:22.309Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 듀오지음 정기연주회 <박정희 & 권준 듀오 리사이틀> - 부산 ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60058</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60045"/>
         <updated>2024-08-09T02:04:22.626Z</updated>
         <content type="html"><![CDATA[2024.08.12(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울드래곤시티 풀파티 8/31(토) - Bubble Foam 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60044</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60044"/>
-        <updated>2024-08-09T00:54:38.293Z</updated>
-        <content type="html"><![CDATA[2024.08.13(화) 04:00]]></content>
     </entry>
 </feed>
