@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-13T04:14:15.066Z</updated>
+    <updated>2024-08-13T05:12:25.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 듀오지음 정기연주회 <박정희 & 권준 듀오 리사이틀> - 부산 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60058</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60058"/>
+        <updated>2024-08-13T05:12:17.930Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인형극 <어리석은 도깨비> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60057</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60044</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60044"/>
         <updated>2024-08-09T00:54:32.727Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울드래곤시티 풀파티 8/24(토) - Bubble Foam 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60043</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60043"/>
-        <updated>2024-08-09T00:54:32.728Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 04:00]]></content>
     </entry>
 </feed>
