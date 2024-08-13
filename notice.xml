@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-13T08:15:11.689Z</updated>
+    <updated>2024-08-13T09:13:46.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 THE CRY ground 얼리버드 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60060</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60060"/>
+        <updated>2024-08-13T09:13:39.013Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60059</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60046"/>
         <updated>2024-08-09T00:54:32.727Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​안녕, 아이슬란드 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60045</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60045"/>
-        <updated>2024-08-09T02:04:16.821Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.12(월) 01:00]]></content>
     </entry>
 </feed>
