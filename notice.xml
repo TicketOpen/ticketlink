@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-14T04:16:37.455Z</updated>
+    <updated>2024-08-14T05:12:57.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60073"/>
         <updated>2024-08-14T04:16:31.221Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 수성아트피아 솔로이스츠 정기연주회 < Il Sogno > - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60072</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60072"/>
+        <updated>2024-08-14T05:12:50.988Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​작곡가 권은실의 작업노트 - 대구​ 티켓오픈 안내]]></title>
@@ -27,11 +34,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 06:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 DMZ 평화콘서트&평화누리 피크닉 페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60068</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60068"/>
+        <updated>2024-08-14T05:12:50.994Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] [부산] 버섯피자와 사랑의 묘약 오페라 쇼케이스]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60067</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60067"/>
         <updated>2024-08-14T02:03:36.388Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60066</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60066"/>
+        <updated>2024-08-14T05:12:50.998Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[인천] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60065</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60065"/>
+        <updated>2024-08-14T05:12:50.999Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 NAM WOO HYUN CONCERT <식목일4 - TREEWORLD> 티켓오픈 안내]]></title>
@@ -55,6 +83,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 대구 앵콜 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60061</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60061"/>
+        <updated>2024-08-14T05:12:51.003Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 THE CRY ground 얼리버드 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60060</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60060"/>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60058"/>
         <updated>2024-08-13T05:12:17.930Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인형극 <어리석은 도깨비> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60057</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60057"/>
-        <updated>2024-08-13T03:13:35.993Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  씨나인배 스타 대학리그 결승전]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60056</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60056"/>
-        <updated>2024-08-13T03:13:35.996Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60055</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60055"/>
-        <updated>2024-08-12T12:23:21.666Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 쎄시봉 콘써-트 (군산)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60054</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60054"/>
-        <updated>2024-08-12T08:16:15.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 전주 추가 회차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60053</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60053"/>
-        <updated>2024-08-12T08:16:15.894Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.13(화) 02:00]]></content>
     </entry>
 </feed>
