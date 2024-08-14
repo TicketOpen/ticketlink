@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-14T10:13:07.879Z</updated>
+    <updated>2024-08-14T11:13:03.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60076"/>
         <updated>2024-08-14T08:15:14.511Z</updated>
         <content type="html"><![CDATA[2024.08.20(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon the Orchestra​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60075</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60075"/>
+        <updated>2024-08-14T11:13:02.676Z</updated>
+        <content type="html"><![CDATA[2024.08.19(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​대한민국국악관현악축제​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60063"/>
         <updated>2024-08-14T02:03:43.288Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김경일의 토크콘서트 “지혜로운 인간생활” - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60062</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60062"/>
-        <updated>2024-08-14T02:03:43.290Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 01:00]]></content>
     </entry>
 </feed>
