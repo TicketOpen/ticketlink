@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-14T05:12:57.299Z</updated>
+    <updated>2024-08-14T06:16:16.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60070"/>
         <updated>2024-08-14T04:16:31.223Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미> 마지막​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60069</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60069"/>
+        <updated>2024-08-14T06:16:08.725Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 DMZ 평화콘서트&평화누리 피크닉 페스티벌​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60059"/>
         <updated>2024-08-13T07:12:14.948Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 듀오지음 정기연주회 <박정희 & 권준 듀오 리사이틀> - 부산 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60058</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60058"/>
-        <updated>2024-08-13T05:12:17.930Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 00:00]]></content>
     </entry>
 </feed>
