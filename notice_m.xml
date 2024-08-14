@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-14T03:14:26.672Z</updated>
+    <updated>2024-08-14T04:16:37.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 아트대구 2024 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60073</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60073"/>
+        <updated>2024-08-14T04:16:36.681Z</updated>
+        <content type="html"><![CDATA[2024.08.16(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​작곡가 권은실의 작업노트 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60071</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60071"/>
+        <updated>2024-08-14T04:16:36.686Z</updated>
+        <content type="html"><![CDATA[2024.08.16(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 고양 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60070</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60070"/>
+        <updated>2024-08-14T04:16:36.686Z</updated>
+        <content type="html"><![CDATA[2024.08.14(수) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [부산] 버섯피자와 사랑의 묘약 오페라 쇼케이스]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60067</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60053"/>
         <updated>2024-08-12T08:16:23.487Z</updated>
         <content type="html"><![CDATA[2024.08.13(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 대구시립교향악단's 브루크너​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60052</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60052"/>
-        <updated>2024-08-12T08:16:23.490Z</updated>
-        <content type="html"><![CDATA[2024.08.13(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​SOWON 1st FANMEETING ‘​All My Wishes’​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60051</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60051"/>
-        <updated>2024-08-12T10:12:58.233Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 387회 정기연주회 '거칠게 아름답게' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60050</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60050"/>
-        <updated>2024-08-12T06:17:41.075Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 08:00]]></content>
     </entry>
 </feed>
