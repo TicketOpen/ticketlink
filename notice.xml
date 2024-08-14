@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-14T07:11:42.184Z</updated>
+    <updated>2024-08-14T08:15:15.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 오픈 위크​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60076</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60076"/>
+        <updated>2024-08-14T08:15:07.080Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​대한민국국악관현악축제​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60074</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60061"/>
         <updated>2024-08-14T05:12:51.003Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 THE CRY ground 얼리버드 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60060</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60060"/>
-        <updated>2024-08-13T09:13:39.013Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 09:00]]></content>
     </entry>
 </feed>
