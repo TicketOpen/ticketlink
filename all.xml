@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-14T22:12:29.420Z</updated>
+    <updated>2024-08-15T02:20:22.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 경기인디뮤직페스티벌 - 얼리버드​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60078</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60078"/>
+        <updated>2024-08-15T02:20:14.235Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 NTX FAN CONCERT : NEW ERA​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60077</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.21(수) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <캣츠> - 과천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60063</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60063"/>
-        <updated>2024-08-14T02:03:36.388Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.16(금) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 경기인디뮤직페스티벌 - 얼리버드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60078</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60078"/>
+        <updated>2024-08-15T02:20:21.352Z</updated>
+        <content type="html"><![CDATA[2024.08.16(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 NTX FAN CONCERT : NEW ERA​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60064"/>
         <updated>2024-08-14T03:14:26.034Z</updated>
         <content type="html"><![CDATA[2024.08.21(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <캣츠> - 과천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60063</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60063"/>
-        <updated>2024-08-14T02:03:43.288Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 00:00]]></content>
     </entry>
 </feed>
