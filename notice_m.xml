@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-16T06:16:15.894Z</updated>
+    <updated>2024-08-16T07:12:54.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 3차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60087</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60087"/>
+        <updated>2024-08-16T07:12:53.543Z</updated>
+        <content type="html"><![CDATA[2024.08.20(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​리온의 신비한 과자상점-어린이 마술극-부산(9월)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60086</id>
@@ -18,6 +25,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60085"/>
         <updated>2024-08-16T04:14:13.377Z</updated>
         <content type="html"><![CDATA[2024.08.19(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> – 안양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60084</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60084"/>
+        <updated>2024-08-16T07:12:53.547Z</updated>
+        <content type="html"><![CDATA[2024.08.20(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> – 안산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60083</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60083"/>
+        <updated>2024-08-16T07:12:53.548Z</updated>
+        <content type="html"><![CDATA[2024.08.20(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군포 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60073"/>
         <updated>2024-08-14T04:16:36.681Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 수성아트피아 솔로이스츠 정기연주회 < Il Sogno > - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60072</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60072"/>
-        <updated>2024-08-14T05:12:56.599Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​작곡가 권은실의 작업노트 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60071</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60071"/>
-        <updated>2024-08-14T04:16:36.686Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​더매직스타 전국투어 콘서트 - 고양 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60070</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60070"/>
-        <updated>2024-08-14T04:16:36.686Z</updated>
-        <content type="html"><![CDATA[2024.08.14(수) 06:00]]></content>
     </entry>
 </feed>
