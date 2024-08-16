@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-16T02:02:59.840Z</updated>
+    <updated>2024-08-16T03:15:12.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  PMPS 2024 SEASON 2 FINALS​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60081</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60081"/>
+        <updated>2024-08-16T03:15:12.183Z</updated>
+        <content type="html"><![CDATA[2024.08.19(월) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​이끌든지 따르든지 2025 트렌드코리아 - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60080</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60067"/>
         <updated>2024-08-14T02:03:43.286Z</updated>
         <content type="html"><![CDATA[2024.08.16(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60066</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60066"/>
-        <updated>2024-08-14T05:12:56.602Z</updated>
-        <content type="html"><![CDATA[2024.08.16(금) 05:00]]></content>
     </entry>
 </feed>
