@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-16T04:14:14.008Z</updated>
+    <updated>2024-08-16T05:12:14.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60085"/>
         <updated>2024-08-16T04:14:13.377Z</updated>
         <content type="html"><![CDATA[2024.08.19(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60082</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60082"/>
+        <updated>2024-08-16T05:12:13.969Z</updated>
+        <content type="html"><![CDATA[2024.08.22(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  PMPS 2024 SEASON 2 FINALS​​ 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60069</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60069"/>
         <updated>2024-08-14T06:16:15.551Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 DMZ 평화콘서트&평화누리 피크닉 페스티벌​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60068</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60068"/>
-        <updated>2024-08-14T05:12:56.601Z</updated>
         <content type="html"><![CDATA[2024.08.19(월) 05:00]]></content>
     </entry>
 </feed>
