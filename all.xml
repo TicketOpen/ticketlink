@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-16T05:12:14.599Z</updated>
+    <updated>2024-08-16T06:16:15.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​리온의 신비한 과자상점-어린이 마술극-부산(9월)​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60086</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60086"/>
+        <updated>2024-08-16T06:16:08.400Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 김해 (장유) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60085</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.14(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <사의찬미> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60069</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60069"/>
-        <updated>2024-08-14T06:16:08.725Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 05:00]]></content>
+        <title type="html"><![CDATA[​리온의 신비한 과자상점-어린이 마술극-부산(9월)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60086</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60086"/>
+        <updated>2024-08-16T06:16:15.279Z</updated>
+        <content type="html"><![CDATA[2024.08.19(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 김해 (장유) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60070"/>
         <updated>2024-08-14T04:16:36.686Z</updated>
         <content type="html"><![CDATA[2024.08.14(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <사의찬미> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60069</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60069"/>
-        <updated>2024-08-14T06:16:15.551Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 05:00]]></content>
     </entry>
 </feed>
