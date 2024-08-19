@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-19T08:16:13.396Z</updated>
+    <updated>2024-08-19T09:13:41.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 ‘판소리 감상회’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60100</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60100"/>
+        <updated>2024-08-19T09:13:34.501Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 쇼팽과 슈만의 우정 - 대구 : 앙상블 노바팔라 기획연주 시리즈​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60099</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60099"/>
+        <updated>2024-08-19T09:13:34.502Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.21(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 탑현 단독 콘서트 ‘포스트잇’​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60098</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60086"/>
         <updated>2024-08-16T06:16:08.400Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 인어공주 - 김해 (장유) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60085</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60085"/>
-        <updated>2024-08-16T04:14:06.399Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.19(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> – 안양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60084</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60084"/>
-        <updated>2024-08-16T07:12:46.520Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content>
     </entry>
 </feed>
