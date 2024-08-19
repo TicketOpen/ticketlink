@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-19T07:13:43.079Z</updated>
+    <updated>2024-08-19T08:16:13.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 탑현 단독 콘서트 ‘포스트잇’​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60098</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60098"/>
+        <updated>2024-08-19T08:16:06.839Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.21(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​칸티쿰노붐 미션콰이어 여성합창단 정기연주회 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60097</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60097"/>
+        <updated>2024-08-19T08:16:06.843Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <위로> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60096</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60084</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60084"/>
         <updated>2024-08-16T07:12:46.520Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <에그박사 - 연구소에서 생긴 일> – 안산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60083</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60083"/>
-        <updated>2024-08-16T07:12:46.521Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 군포 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60082</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60082"/>
-        <updated>2024-08-16T05:12:07.004Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content>
     </entry>
 </feed>
