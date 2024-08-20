@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-20T03:14:21.217Z</updated>
+    <updated>2024-08-20T04:16:21.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 신이내린목소리​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60102</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60102"/>
+        <updated>2024-08-20T04:16:20.497Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 어린이 서커스 마술쇼 - 삼척​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60101</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60101"/>
+        <updated>2024-08-20T04:16:20.497Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 ‘판소리 감상회’ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60100</id>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60088</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60088"/>
         <updated>2024-08-16T11:11:01.983Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 3차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60087</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60087"/>
-        <updated>2024-08-16T07:12:53.543Z</updated>
-        <content type="html"><![CDATA[2024.08.20(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​리온의 신비한 과자상점-어린이 마술극-부산(9월)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60086</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60086"/>
-        <updated>2024-08-16T06:16:15.279Z</updated>
         <content type="html"><![CDATA[2024.08.19(월) 00:00]]></content>
     </entry>
 </feed>
