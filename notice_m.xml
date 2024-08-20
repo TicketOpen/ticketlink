@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-20T04:16:21.144Z</updated>
+    <updated>2024-08-20T05:11:30.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <남일동 부인들> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60103</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60103"/>
+        <updated>2024-08-20T05:11:30.011Z</updated>
+        <content type="html"><![CDATA[2024.08.21(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 신이내린목소리​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60102</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60089"/>
         <updated>2024-08-19T05:12:52.367Z</updated>
         <content type="html"><![CDATA[2024.08.22(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마르쿠스 뤼페르츠: 죄와 신화, 그리고 다른 질문들​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60088</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60088"/>
-        <updated>2024-08-16T11:11:01.983Z</updated>
-        <content type="html"><![CDATA[2024.08.19(월) 00:00]]></content>
     </entry>
 </feed>
