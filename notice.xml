@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-20T05:11:30.681Z</updated>
+    <updated>2024-08-20T06:16:54.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 카이 세번째 팬미팅 [ Your Kai ]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60105</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60105"/>
+        <updated>2024-08-20T06:16:46.397Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.23(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 공감각적 클래식 콘서트 < Playlist : Untitled 시즌Ⅱ, 가을 >​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60104</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60104"/>
+        <updated>2024-08-20T06:16:46.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.21(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <남일동 부인들> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60103</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[크리스마스 10첼로 페스티벌 : 디즈니 VS 지브리 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60094</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60094"/>
         <updated>2024-08-19T05:12:46.877Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60091"/>
         <updated>2024-08-19T03:13:18.044Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​2024 조권 팬콘서트 “조권의 팬은 어디 있나요? 좋은 조권에 모시겠습니다.” ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60090</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60090"/>
-        <updated>2024-08-19T02:05:08.174Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[피처링_트랙 3] 뮤지컬 <유진과 유진>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60089</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60089"/>
-        <updated>2024-08-19T05:12:46.880Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 07:00]]></content>
     </entry>
 </feed>
