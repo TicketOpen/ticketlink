@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-21T09:13:30.817Z</updated>
+    <updated>2024-08-21T10:12:54.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[<10월의 봄> 정훈희x송창식 콘서트 - 고양​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60114</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60114"/>
+        <updated>2024-08-21T10:12:46.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.26(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이야기가 있는, 어린이를 위한 클래식 발레 갈라 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60113</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 쇼팽과 슈만의 우정 - 대구 : 앙상블 노바팔라 기획연주 시리즈​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60099</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60099"/>
-        <updated>2024-08-19T09:13:34.502Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.21(수) 01:00]]></content>
+        <title type="html"><![CDATA[<10월의 봄> 정훈희x송창식 콘서트 - 고양​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60114</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60114"/>
+        <updated>2024-08-21T10:12:53.514Z</updated>
+        <content type="html"><![CDATA[2024.08.26(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이야기가 있는, 어린이를 위한 클래식 발레 갈라 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60100"/>
         <updated>2024-08-19T09:13:41.137Z</updated>
         <content type="html"><![CDATA[2024.08.20(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 쇼팽과 슈만의 우정 - 대구 : 앙상블 노바팔라 기획연주 시리즈​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60099</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60099"/>
-        <updated>2024-08-19T09:13:41.139Z</updated>
-        <content type="html"><![CDATA[2024.08.21(수) 01:00]]></content>
     </entry>
 </feed>
