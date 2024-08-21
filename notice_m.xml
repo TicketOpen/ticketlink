@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-21T08:15:59.954Z</updated>
+    <updated>2024-08-21T09:13:30.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이야기가 있는, 어린이를 위한 클래식 발레 갈라 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60113</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60113"/>
+        <updated>2024-08-21T09:13:30.188Z</updated>
+        <content type="html"><![CDATA[2024.08.26(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 포항국제음악제 (2024. 11. 1 ~ 8)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60112</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60112"/>
+        <updated>2024-08-21T09:13:30.189Z</updated>
+        <content type="html"><![CDATA[2024.08.28(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] KB리브모바일 2024 SSL AUTUMN​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60111</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60099"/>
         <updated>2024-08-19T09:13:41.139Z</updated>
         <content type="html"><![CDATA[2024.08.21(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 탑현 단독 콘서트 ‘포스트잇’​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60098</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60098"/>
-        <updated>2024-08-19T08:16:12.647Z</updated>
-        <content type="html"><![CDATA[2024.08.21(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​칸티쿰노붐 미션콰이어 여성합창단 정기연주회 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60097</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60097"/>
-        <updated>2024-08-19T08:16:12.647Z</updated>
-        <content type="html"><![CDATA[2024.08.20(화) 03:00]]></content>
     </entry>
 </feed>
