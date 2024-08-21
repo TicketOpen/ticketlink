@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-21T05:13:13.607Z</updated>
+    <updated>2024-08-21T06:16:19.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2024 포레스텔라 SHOW [FNL : FORESTELLA Night Live] 티켓오픈 안내 시야 방해석​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60110</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60110"/>
+        <updated>2024-08-21T06:16:18.426Z</updated>
+        <content type="html"><![CDATA[2024.08.23(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ONCE AGAIN 이재원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60109</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60096"/>
         <updated>2024-08-19T06:17:47.508Z</updated>
         <content type="html"><![CDATA[2024.08.20(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러브레터 & 냉정과 열정사이 시네마 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60095</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60095"/>
-        <updated>2024-08-19T05:12:52.364Z</updated>
-        <content type="html"><![CDATA[2024.08.22(목) 05:00]]></content>
     </entry>
 </feed>
