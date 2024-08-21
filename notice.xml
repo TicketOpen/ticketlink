@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-21T07:11:33.670Z</updated>
+    <updated>2024-08-21T08:15:59.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] KB리브모바일 2024 SSL AUTUMN​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60111</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60111"/>
+        <updated>2024-08-21T08:15:51.725Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  2024 포레스텔라 SHOW [FNL : FORESTELLA Night Live] 티켓오픈 안내 시야 방해석​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60110</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60097"/>
         <updated>2024-08-19T08:16:06.843Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <위로> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60096</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60096"/>
-        <updated>2024-08-19T06:17:40.900Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.20(화) 01:00]]></content>
     </entry>
 </feed>
