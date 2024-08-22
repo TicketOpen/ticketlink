@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-22T00:54:31.664Z</updated>
+    <updated>2024-08-22T02:05:01.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 < M > - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60115</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60115"/>
+        <updated>2024-08-22T02:05:01.207Z</updated>
+        <content type="html"><![CDATA[2024.08.26(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<10월의 봄> 정훈희x송창식 콘서트 - 고양​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60114</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60101"/>
         <updated>2024-08-20T04:16:20.497Z</updated>
         <content type="html"><![CDATA[2024.08.21(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립창극단 기획공연 ‘판소리 감상회’ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60100</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60100"/>
-        <updated>2024-08-19T09:13:41.137Z</updated>
-        <content type="html"><![CDATA[2024.08.20(화) 01:00]]></content>
     </entry>
 </feed>
