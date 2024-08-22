@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-22T07:12:18.528Z</updated>
+    <updated>2024-08-22T08:15:04.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 소프라노 심규연 독창회 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60122</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60122"/>
+        <updated>2024-08-22T08:14:55.977Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아방가르드 첼리스트 특별 초청 공연 <사카모토 라이브 콘서트>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60121</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60108"/>
         <updated>2024-08-21T05:13:06.648Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <엄마까투리는 슈퍼맘> - 서울 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60107</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60107"/>
-        <updated>2024-08-21T02:02:47.181Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.22(목) 00:00]]></content>
     </entry>
 </feed>
