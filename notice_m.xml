@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-23T07:12:18.342Z</updated>
+    <updated>2024-08-23T08:15:53.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 자스민공주 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60132</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60132"/>
+        <updated>2024-08-23T08:15:53.248Z</updated>
+        <content type="html"><![CDATA[2024.08.28(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <내 모든 걸> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60131</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60131"/>
+        <updated>2024-08-23T08:15:53.248Z</updated>
+        <content type="html"><![CDATA[2024.08.28(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[틀려도 괜찮아 - 안동​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60130</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60116"/>
         <updated>2024-08-22T05:11:54.941Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 < M > - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60115</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60115"/>
-        <updated>2024-08-22T02:05:01.207Z</updated>
-        <content type="html"><![CDATA[2024.08.26(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<10월의 봄> 정훈희x송창식with 함춘호 콘서트 - 고양​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60114</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60114"/>
-        <updated>2024-08-21T10:12:53.514Z</updated>
-        <content type="html"><![CDATA[2024.08.29(목) 05:00]]></content>
     </entry>
 </feed>
