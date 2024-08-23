@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-23T00:53:51.074Z</updated>
+    <updated>2024-08-23T02:03:31.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 오누이 시즌2 "우리들의 무명시절" <김용임, 진성> - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60123</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60123"/>
+        <updated>2024-08-23T02:03:23.337Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 소프라노 심규연 독창회 - 대구​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60122</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60109"/>
         <updated>2024-08-21T05:13:06.647Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.23(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고양이 해결사 깜냥 - 편의점을 환하게 밝혀라> - 성남 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60108</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60108"/>
-        <updated>2024-08-21T05:13:06.648Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 02:00]]></content>
     </entry>
 </feed>
