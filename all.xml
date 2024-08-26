@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-26T04:14:58.234Z</updated>
+    <updated>2024-08-26T05:12:09.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  하남​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60137</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60137"/>
+        <updated>2024-08-26T05:12:01.166Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  해설이 있는 음악회 Ⅳ - 일 클라시코와 함께하는 오페라 여행 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60135</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.26(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신데렐라 - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60119</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60119"/>
-        <updated>2024-08-22T05:11:47.383Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.26(월) 01:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  하남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60137</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60137"/>
+        <updated>2024-08-26T05:12:08.785Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  해설이 있는 음악회 Ⅳ - 일 클라시코와 함께하는 오페라 여행 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60120"/>
         <updated>2024-08-22T06:16:32.081Z</updated>
         <content type="html"><![CDATA[2024.08.26(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신데렐라 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60119</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60119"/>
-        <updated>2024-08-22T05:11:54.926Z</updated>
-        <content type="html"><![CDATA[2024.08.26(월) 01:00]]></content>
     </entry>
 </feed>
