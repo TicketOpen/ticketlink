@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-26T05:12:09.418Z</updated>
+    <updated>2024-08-26T06:17:32.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <보이즈 인 더 밴드> 1차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60140</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60140"/>
+        <updated>2024-08-26T06:17:25.538Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 김해 장유​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60139</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60139"/>
+        <updated>2024-08-26T06:17:25.539Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 일산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60138</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60138"/>
+        <updated>2024-08-26T06:17:25.539Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  하남​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60137</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60137"/>
         <updated>2024-08-26T05:12:01.166Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 유메토모 10주년 기념 한국 특별 콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60136</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60136"/>
+        <updated>2024-08-26T06:17:25.542Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  해설이 있는 음악회 Ⅳ - 일 클라시코와 함께하는 오페라 여행 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60124"/>
         <updated>2024-08-23T03:13:00.953Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 오누이 시즌2 "우리들의 무명시절" <김용임, 진성> - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60123</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60123"/>
-        <updated>2024-08-23T02:03:23.337Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 소프라노 심규연 독창회 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60122</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60122"/>
-        <updated>2024-08-22T08:14:55.977Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아방가르드 첼리스트 특별 초청 공연 <사카모토 라이브 콘서트>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60121</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60121"/>
-        <updated>2024-08-22T07:12:10.761Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.26(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <작별_남쪽으로 가자> - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60120</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60120"/>
-        <updated>2024-08-22T06:16:24.045Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.26(월) 00:00]]></content>
     </entry>
 </feed>
