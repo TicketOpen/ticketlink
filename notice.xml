@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-26T00:54:28.964Z</updated>
+    <updated>2024-08-26T02:05:01.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[알라딘과 자스민공주 - 수원​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  해설이 있는 음악회 Ⅳ - 일 클라시코와 함께하는 오페라 여행 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60135</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60135"/>
+        <updated>2024-08-26T02:04:53.182Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  젊은 예술가 리사이틀 시리즈Ⅴ <소프라노 곽보라> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60134</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60134"/>
+        <updated>2024-08-26T02:04:53.183Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOASOBI ASIA TOUR 2024-2025 LIVE IN KOREA​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60133</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60133"/>
+        <updated>2024-08-26T02:04:53.186Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘과 요술램프 - 수원​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60132</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60132"/>
         <updated>2024-08-23T08:15:45.388Z</updated>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60119"/>
         <updated>2024-08-22T05:11:47.383Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.26(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 1차​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60118</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60118"/>
-        <updated>2024-08-22T05:11:47.383Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 실내악 시리즈 “CHAMBER MUSIC SERIES”​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60117</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60117"/>
-        <updated>2024-08-22T05:11:47.384Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  <2024 퀸 엘리자베스 콩쿠르 수상자 콘서트> - 울진​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60116</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60116"/>
-        <updated>2024-08-22T05:11:47.386Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 01:00]]></content>
     </entry>
 </feed>
