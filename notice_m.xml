@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-27T02:05:34.009Z</updated>
+    <updated>2024-08-27T03:13:10.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광주예술의전당] 브르노 필하모닉 & 데니스 러셀 데이비스 with 신창용​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60147</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60147"/>
+        <updated>2024-08-27T03:13:09.674Z</updated>
+        <content type="html"><![CDATA[2024.08.28(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 V.O.S 20주년 전국투어 콘서트- <우리의 스무살> - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60146</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60146"/>
+        <updated>2024-08-27T03:13:09.675Z</updated>
+        <content type="html"><![CDATA[2024.08.29(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 뿌드컵​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60145</id>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60132</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60132"/>
         <updated>2024-08-23T08:15:53.248Z</updated>
-        <content type="html"><![CDATA[2024.08.28(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <내 모든 걸> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60131</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60131"/>
-        <updated>2024-08-23T08:15:53.248Z</updated>
-        <content type="html"><![CDATA[2024.08.28(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틀려도 괜찮아 - 안동​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60130</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60130"/>
-        <updated>2024-08-23T07:12:17.638Z</updated>
         <content type="html"><![CDATA[2024.08.28(수) 00:00]]></content>
     </entry>
 </feed>
