@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-27T07:12:27.355Z</updated>
+    <updated>2024-08-27T08:16:26.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 창단 30주년 기념연주회 ‘이카루스’ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60150</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60150"/>
+        <updated>2024-08-27T08:16:16.974Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <몽심> - 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60149</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60135</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60135"/>
         <updated>2024-08-26T02:04:53.182Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  젊은 예술가 리사이틀 시리즈Ⅴ <소프라노 곽보라> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60134</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60134"/>
-        <updated>2024-08-26T02:04:53.183Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
     </entry>
 </feed>
