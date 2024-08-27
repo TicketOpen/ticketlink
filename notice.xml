@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-27T00:54:51.841Z</updated>
+    <updated>2024-08-27T02:05:33.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 뿌드컵​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60145</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60145"/>
+        <updated>2024-08-27T02:05:25.046Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 1000°(천도) 단독콘서트 [THE FIRST DEGREE]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60144</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60130"/>
         <updated>2024-08-23T07:12:10.530Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 성남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60128</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60128"/>
-        <updated>2024-08-23T05:12:02.457Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 05:00]]></content>
     </entry>
 </feed>
