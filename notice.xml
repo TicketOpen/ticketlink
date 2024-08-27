@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-27T04:16:38.768Z</updated>
+    <updated>2024-08-27T05:12:28.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <랭보> 2차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60148</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60148"/>
+        <updated>2024-08-27T05:12:22.294Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주예술의전당] 브르노 필하모닉 & 데니스 러셀 데이비스 with 신창용​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60147</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60133"/>
         <updated>2024-08-26T02:04:53.186Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알라딘과 요술램프 - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60132</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60132"/>
-        <updated>2024-08-23T08:15:45.388Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 00:00]]></content>
     </entry>
 </feed>
