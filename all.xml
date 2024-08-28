@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-28T07:11:44.148Z</updated>
+    <updated>2024-08-28T08:16:01.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 7080 추억의 벙커 음악회​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60157</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60157"/>
+        <updated>2024-08-28T08:15:54.781Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​WORLD OF DANCE KOREA 2024​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60156</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60156"/>
+        <updated>2024-08-28T08:15:54.781Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 현대무용단-탐 제44회 정기공연 [그럼에도 불구하고]​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60155</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 푸치니 오페라 갈라 콘서트 - 순천공연​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60142</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60142"/>
-        <updated>2024-08-26T08:16:39.659Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 04:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 7080 추억의 벙커 음악회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60157</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60157"/>
+        <updated>2024-08-28T08:16:00.765Z</updated>
+        <content type="html"><![CDATA[2024.08.29(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 김창완밴드 전국투어 <개구쟁이> - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60141</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60141"/>
-        <updated>2024-08-28T04:15:02.521Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 04:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​WORLD OF DANCE KOREA 2024​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60156</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60156"/>
+        <updated>2024-08-28T08:16:00.765Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 현대무용단-탐 제44회 정기공연 [그럼에도 불구하고]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60143"/>
         <updated>2024-08-26T09:13:05.917Z</updated>
         <content type="html"><![CDATA[2024.08.27(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 푸치니 오페라 갈라 콘서트 - 순천공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60142</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60142"/>
-        <updated>2024-08-26T08:16:45.861Z</updated>
-        <content type="html"><![CDATA[2024.08.28(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 김창완밴드 전국투어 <개구쟁이> - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60141</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60141"/>
-        <updated>2024-08-28T04:15:10.348Z</updated>
-        <content type="html"><![CDATA[2024.09.05(목) 04:00]]></content>
     </entry>
 </feed>
