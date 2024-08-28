@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-28T03:13:51.514Z</updated>
+    <updated>2024-08-28T04:15:10.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 04:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 김창완밴드 전국투어 <개구쟁이> - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60141</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60141"/>
+        <updated>2024-08-28T04:15:02.521Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 04:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[연극 <보이즈 인 더 밴드> 1차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60140</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60140"/>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60137"/>
         <updated>2024-08-26T05:12:01.166Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유메토모 10주년 기념 한국 특별 콘서트​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60136</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60136"/>
-        <updated>2024-08-26T06:17:25.542Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 05:00]]></content>
     </entry>
 </feed>
