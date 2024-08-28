@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-28T04:15:10.966Z</updated>
+    <updated>2024-08-28T05:13:04.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​민속악연주단 선풍 기획공연 <바람, 꽃 피우다Ⅰ> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60153</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60153"/>
+        <updated>2024-08-28T05:12:56.812Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60152</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60152"/>
+        <updated>2024-08-28T05:12:56.812Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  고양 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60151</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 일산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60138</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60138"/>
-        <updated>2024-08-26T06:17:25.539Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​민속악연주단 선풍 기획공연 <바람, 꽃 피우다Ⅰ> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60153</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60153"/>
+        <updated>2024-08-28T05:13:04.045Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  하남​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60137</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60137"/>
-        <updated>2024-08-26T05:12:01.166Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 00:00]]></content>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60152</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60152"/>
+        <updated>2024-08-28T05:13:04.045Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60139"/>
         <updated>2024-08-26T06:17:32.305Z</updated>
         <content type="html"><![CDATA[2024.08.29(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 타임캡슐 슈퍼콘서트 전국투어 in 일산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60138</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60138"/>
-        <updated>2024-08-26T06:17:32.307Z</updated>
-        <content type="html"><![CDATA[2024.08.27(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  하남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60137</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60137"/>
-        <updated>2024-08-26T05:12:08.785Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 00:00]]></content>
     </entry>
 </feed>
