@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-27T23:12:32.120Z</updated>
+    <updated>2024-08-28T00:55:01.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  고양 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60151</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60151"/>
+        <updated>2024-08-28T00:54:52.840Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 창단 30주년 기념연주회 ‘이카루스’ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60150</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  해설이 있는 음악회 Ⅳ - 일 클라시코와 함께하는 오페라 여행 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60135</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60135"/>
-        <updated>2024-08-26T02:04:53.182Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.27(화) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> -  고양 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60151</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60151"/>
+        <updated>2024-08-28T00:55:00.661Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 창단 30주년 기념연주회 ‘이카루스’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60136"/>
         <updated>2024-08-26T06:17:32.310Z</updated>
         <content type="html"><![CDATA[2024.09.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  해설이 있는 음악회 Ⅳ - 일 클라시코와 함께하는 오페라 여행 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60135</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60135"/>
-        <updated>2024-08-26T02:05:00.570Z</updated>
-        <content type="html"><![CDATA[2024.08.27(화) 05:00]]></content>
     </entry>
 </feed>
