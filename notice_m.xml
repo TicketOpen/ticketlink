@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-29T09:14:20.544Z</updated>
+    <updated>2024-08-29T10:13:58.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60169</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60169"/>
+        <updated>2024-08-29T10:13:58.237Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신카이 마코토 공식 하이라이트 필름콘서트 feat. 너의이름은., 날씨의아이, 스즈메의문단속​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60168</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60155"/>
         <updated>2024-08-28T06:17:02.100Z</updated>
         <content type="html"><![CDATA[2024.08.29(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  소프라노 김수정 독창회 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60154</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60154"/>
-        <updated>2024-08-28T06:17:02.100Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 01:00]]></content>
     </entry>
 </feed>
