@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-29T04:15:03.280Z</updated>
+    <updated>2024-08-29T05:12:16.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024이은미 라이브 투어 [MOVE ON]-부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60165</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60165"/>
+        <updated>2024-08-29T05:12:08.704Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024이은미 라이브 투어 [MOVE ON]-대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60164</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60164"/>
+        <updated>2024-08-29T05:12:08.704Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024이은미 라이브 투어 [MOVE ON]-울산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60163</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60163"/>
+        <updated>2024-08-29T05:12:08.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024심수봉전국투어콘서트  꽃길- 평택 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60162</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60162"/>
         <updated>2024-08-29T03:13:33.099Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​코믹 마샬아츠 퍼포먼스 < 점프 JUMP > 공연의 새로운 시작!​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60161</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60161"/>
+        <updated>2024-08-29T05:12:08.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​어린이 뮤지컬 바다탐험대 옥토넛3 <바다넘어육지까지> - 군포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60160</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60160"/>
+        <updated>2024-08-29T05:12:08.707Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤시내 콘서트​ 티켓오픈 안내]]></title>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60151"/>
         <updated>2024-08-28T00:54:52.840Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립국악관현악단 창단 30주년 기념연주회 ‘이카루스’ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60150</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60150"/>
-        <updated>2024-08-27T08:16:16.974Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <몽심> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60149</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60149"/>
-        <updated>2024-08-27T07:12:19.378Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <랭보> 2차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60148</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60148"/>
-        <updated>2024-08-27T05:12:22.294Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주예술의전당] 브르노 필하모닉 & 데니스 러셀 데이비스 with 신창용​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60147</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60147"/>
-        <updated>2024-08-27T03:13:02.570Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.28(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 V.O.S 20주년 전국투어 콘서트- <우리의 스무살> - 서울​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60146</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60146"/>
-        <updated>2024-08-27T03:13:02.572Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 05:00]]></content>
     </entry>
 </feed>
