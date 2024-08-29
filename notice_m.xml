@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-29T02:07:27.419Z</updated>
+    <updated>2024-08-29T03:13:42.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024심수봉전국투어콘서트  꽃길- 평택 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60162</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60162"/>
+        <updated>2024-08-29T03:13:41.795Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤시내 콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60159</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60146"/>
         <updated>2024-08-27T03:13:09.675Z</updated>
         <content type="html"><![CDATA[2024.08.29(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 뿌드컵​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60145</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60145"/>
-        <updated>2024-08-27T02:05:33.346Z</updated>
-        <content type="html"><![CDATA[2024.08.27(화) 05:00]]></content>
     </entry>
 </feed>
