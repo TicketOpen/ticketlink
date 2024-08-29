@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-29T06:17:47.909Z</updated>
+    <updated>2024-08-29T07:12:28.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신카이 마코토 공식 하이라이트 필름콘서트 feat. 너의이름은., 날씨의아이, 스즈메의문단속​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60168</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60168"/>
+        <updated>2024-08-29T07:12:20.607Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울 (9.29)​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60167</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60167"/>
+        <updated>2024-08-29T07:12:20.607Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 제주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60166</id>
@@ -13,21 +27,21 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024이은미 라이브 투어 [MOVE ON]-부산 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60165</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60165"/>
         <updated>2024-08-29T05:12:08.704Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024이은미 라이브 투어 [MOVE ON]-대전 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-대전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60164</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60164"/>
         <updated>2024-08-29T05:12:08.704Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024이은미 라이브 투어 [MOVE ON]-울산 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-울산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60163</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60163"/>
         <updated>2024-08-29T05:12:08.705Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60154"/>
         <updated>2024-08-28T06:16:54.917Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​민속악연주단 선풍 기획공연 <바람, 꽃 피우다Ⅰ> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60153</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60153"/>
-        <updated>2024-08-28T05:12:56.812Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 고양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60152</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60152"/>
-        <updated>2024-08-28T05:12:56.812Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
     </entry>
 </feed>
