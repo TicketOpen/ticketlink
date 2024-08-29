@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-29T00:55:50.489Z</updated>
+    <updated>2024-08-29T02:07:27.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤시내 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60159</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60159"/>
+        <updated>2024-08-29T02:07:26.777Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 경기인디뮤직페스티벌 - 인뮤페 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60158</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60158"/>
+        <updated>2024-08-29T02:07:26.778Z</updated>
+        <content type="html"><![CDATA[2024.08.30(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 7080 추억의 벙커 음악회​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60157</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60145"/>
         <updated>2024-08-27T02:05:33.346Z</updated>
         <content type="html"><![CDATA[2024.08.27(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 1000°(천도) 단독콘서트 [THE FIRST DEGREE]​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60144</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60144"/>
-        <updated>2024-08-26T10:14:04.185Z</updated>
-        <content type="html"><![CDATA[2024.09.02(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 THE CRY ground 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60143</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60143"/>
-        <updated>2024-08-26T09:13:05.917Z</updated>
-        <content type="html"><![CDATA[2024.08.27(화) 09:00]]></content>
     </entry>
 </feed>
