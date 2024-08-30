@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-30T02:08:17.965Z</updated>
+    <updated>2024-08-30T03:13:59.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60172</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60172"/>
+        <updated>2024-08-30T03:13:52.325Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60171</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60171"/>
+        <updated>2024-08-30T03:13:52.327Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60169</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​WORLD OF DANCE KOREA 2024​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60156</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60156"/>
-        <updated>2024-08-28T08:15:54.781Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content>
+        <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60172</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60172"/>
+        <updated>2024-08-30T03:13:58.386Z</updated>
+        <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 현대무용단-탐 제44회 정기공연 [그럼에도 불구하고]​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60155</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60155"/>
-        <updated>2024-08-28T06:16:54.916Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content>
+        <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60171</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60171"/>
+        <updated>2024-08-30T03:13:58.386Z</updated>
+        <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60157</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60157"/>
         <updated>2024-08-28T08:16:00.765Z</updated>
-        <content type="html"><![CDATA[2024.08.29(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​WORLD OF DANCE KOREA 2024​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60156</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60156"/>
-        <updated>2024-08-28T08:16:00.765Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 현대무용단-탐 제44회 정기공연 [그럼에도 불구하고]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60155</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60155"/>
-        <updated>2024-08-28T06:17:02.100Z</updated>
         <content type="html"><![CDATA[2024.08.29(목) 02:00]]></content>
     </entry>
 </feed>

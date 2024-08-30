@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-08-30T02:08:17.957Z</updated>
+    <updated>2024-08-30T03:13:59.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60172</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60172"/>
+        <updated>2024-08-30T03:13:52.325Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60171</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60171"/>
+        <updated>2024-08-30T03:13:52.327Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60169</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60157</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60157"/>
         <updated>2024-08-28T08:15:54.781Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​WORLD OF DANCE KOREA 2024​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60156</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60156"/>
-        <updated>2024-08-28T08:15:54.781Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 현대무용단-탐 제44회 정기공연 [그럼에도 불구하고]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60155</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60155"/>
-        <updated>2024-08-28T06:16:54.916Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content>
     </entry>
 </feed>
