@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-08-30T06:17:19.133Z</updated>
+    <updated>2024-08-30T07:12:01.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [대구] 바이올리니스트 강대현 X 피아니스트 김예세 듀오 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60178</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60178"/>
+        <updated>2024-08-30T07:12:00.780Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 1차​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60177</id>
@@ -27,11 +34,18 @@
         <content type="html"><![CDATA[2024.09.03(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 김지연 아코디언 팝스 오케스트라 구미 쉼(休) 콘서트 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 2024 김지연 아코디언 팝스 오케스트라 구미 쉼(休) 콘서트 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60174</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60174"/>
         <updated>2024-08-30T05:13:09.491Z</updated>
         <content type="html"><![CDATA[2024.09.03(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진성 30주년 기념 콘서트 <진성 빅쇼> - 인천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60173</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60173"/>
+        <updated>2024-08-30T07:12:00.803Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내]]></title>
@@ -46,6 +60,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60171"/>
         <updated>2024-08-30T03:13:58.386Z</updated>
         <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 성남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60170</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60170"/>
+        <updated>2024-08-30T07:12:00.811Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60164"/>
         <updated>2024-08-29T05:12:15.624Z</updated>
         <content type="html"><![CDATA[2024.09.05(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-울산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60163</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60163"/>
-        <updated>2024-08-29T05:12:15.625Z</updated>
-        <content type="html"><![CDATA[2024.09.05(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024심수봉전국투어콘서트  꽃길- 평택 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60162</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60162"/>
-        <updated>2024-08-29T03:13:41.795Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​코믹 마샬아츠 퍼포먼스 < 점프 JUMP > 공연의 새로운 시작!​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60161</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60161"/>
-        <updated>2024-08-29T05:12:15.627Z</updated>
-        <content type="html"><![CDATA[2024.09.04(수) 00:00]]></content>
     </entry>
 </feed>
