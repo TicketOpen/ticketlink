@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-30T04:15:17.437Z</updated>
+    <updated>2024-08-30T05:13:10.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 김지연 아코디언 팝스 오케스트라 구미 쉼(休) 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60174</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60174"/>
+        <updated>2024-08-30T05:13:03.627Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60172</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 7080 추억의 벙커 음악회​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60157</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60157"/>
-        <updated>2024-08-28T08:15:54.781Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.08.29(목) 02:00]]></content>
+        <title type="html"><![CDATA[2024 김지연 아코디언 팝스 오케스트라 구미 쉼(休) 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60174</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60174"/>
+        <updated>2024-08-30T05:13:09.491Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로열 클래식 발레단 내한공연 <호두까기 인형> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60158"/>
         <updated>2024-08-29T02:07:26.778Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 7080 추억의 벙커 음악회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60157</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60157"/>
-        <updated>2024-08-28T08:16:00.765Z</updated>
-        <content type="html"><![CDATA[2024.08.29(목) 02:00]]></content>
     </entry>
 </feed>
