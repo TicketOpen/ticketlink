@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-02T08:17:05.627Z</updated>
+    <updated>2024-09-02T09:14:22.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 정욱진 1st 팬미팅 < It’s NEW! >​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60195</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60195"/>
+        <updated>2024-09-02T09:14:14.528Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​대구시티발레단 「신데렐라」​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60194</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60194"/>
+        <updated>2024-09-02T09:14:14.529Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​카이로스 댄스 컴퍼니 「케리티지」 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60193</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60193"/>
+        <updated>2024-09-02T09:14:14.531Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60192</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.02(월) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [대구] 프란츠클래식기획 1M 티타임 콘서트 : 첼리스트 박건우 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60180</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60180"/>
-        <updated>2024-08-30T08:16:19.879Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 정욱진 1st 팬미팅 < It’s NEW! >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60195</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60195"/>
+        <updated>2024-09-02T09:14:21.959Z</updated>
+        <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2024 가족뮤지컬 <겨울이야기> - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60179</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60179"/>
-        <updated>2024-08-30T08:16:19.884Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​대구시티발레단 「신데렐라」​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60194</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60194"/>
+        <updated>2024-09-02T09:14:21.959Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [대구] 바이올리니스트 강대현 X 피아니스트 김예세 듀오 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60178</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60178"/>
-        <updated>2024-08-30T07:11:54.957Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​카이로스 댄스 컴퍼니 「케리티지」 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60193</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60193"/>
+        <updated>2024-09-02T09:14:21.960Z</updated>
+        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60181"/>
         <updated>2024-09-02T05:13:04.501Z</updated>
         <content type="html"><![CDATA[2024.09.02(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [대구] 프란츠클래식기획 1M 티타임 콘서트 : 첼리스트 박건우 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60180</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60180"/>
-        <updated>2024-08-30T08:16:26.128Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 가족뮤지컬 <겨울이야기> - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60179</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60179"/>
-        <updated>2024-08-30T08:16:26.130Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [대구] 바이올리니스트 강대현 X 피아니스트 김예세 듀오 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60178</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60178"/>
-        <updated>2024-08-30T07:12:00.780Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
     </entry>
 </feed>
