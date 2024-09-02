@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-02T02:10:28.765Z</updated>
+    <updated>2024-09-02T03:14:18.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 (대구) ​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60183</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60183"/>
+        <updated>2024-09-02T03:14:17.972Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​GAC기획공연 11시 음악산책 '김종진, 빛을 향한 건축 순례'​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60182</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60168</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60168"/>
         <updated>2024-08-29T07:12:27.446Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울 (9.29)​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60167</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60167"/>
-        <updated>2024-08-29T07:12:27.453Z</updated>
         <content type="html"><![CDATA[2024.08.30(금) 08:00]]></content>
     </entry>
 </feed>
