@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-02T00:56:50.599Z</updated>
+    <updated>2024-09-02T02:10:28.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​GAC기획공연 11시 음악산책 '김종진, 빛을 향한 건축 순례'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60182</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60182"/>
+        <updated>2024-09-02T02:10:20.517Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [대구] 프란츠클래식기획 1M 티타임 콘서트 : 첼리스트 박건우 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60180</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60167"/>
         <updated>2024-08-29T07:12:20.607Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.08.30(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 제주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60166</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60166"/>
-        <updated>2024-08-29T06:17:39.775Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 05:00]]></content>
     </entry>
 </feed>
