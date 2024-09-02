@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-02T04:15:26.504Z</updated>
+    <updated>2024-09-02T05:13:05.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 고양공연 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60185</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60185"/>
+        <updated>2024-09-02T05:13:04.494Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 서울공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60184</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60184"/>
+        <updated>2024-09-02T05:13:04.495Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마르친 바실레프스키 트리오 결성 30주년 콘서트 (대구) ​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60183</id>
@@ -18,6 +32,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60182"/>
         <updated>2024-09-02T02:10:28.163Z</updated>
         <content type="html"><![CDATA[2024.09.04(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  한화와 함께하는 서울세계불꽃축제 2024 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60181</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60181"/>
+        <updated>2024-09-02T05:13:04.501Z</updated>
+        <content type="html"><![CDATA[2024.09.02(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [대구] 프란츠클래식기획 1M 티타임 콘서트 : 첼리스트 박건우 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60171"/>
         <updated>2024-08-30T03:13:58.386Z</updated>
         <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 성남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60170</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60170"/>
-        <updated>2024-08-30T07:12:00.811Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마술사 최형배의 오리지널 <원더매직의 과학마술콘서트> - 구로​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60169</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60169"/>
-        <updated>2024-08-29T10:13:58.237Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신카이 마코토 공식 하이라이트 필름콘서트 feat. 너의이름은., 날씨의아이, 스즈메의문단속​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60168</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60168"/>
-        <updated>2024-08-29T07:12:27.446Z</updated>
-        <content type="html"><![CDATA[2024.08.30(금) 08:00]]></content>
     </entry>
 </feed>
