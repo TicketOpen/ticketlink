@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-02T06:17:56.596Z</updated>
+    <updated>2024-09-02T07:12:30.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60192</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60192"/>
+        <updated>2024-09-02T07:12:30.057Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 백투더트랙vol.1 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60191</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60191"/>
+        <updated>2024-09-02T07:12:30.064Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 백투더트랙vol.1 - 구미 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60190</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60190"/>
+        <updated>2024-09-02T07:12:30.065Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 백투더트랙vol.1 - 창원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60189</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60189"/>
+        <updated>2024-09-02T07:12:30.066Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 얍 판 츠베덴 & 서울시립교향악단 with 클라라 주미 강 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60188</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60178"/>
         <updated>2024-08-30T07:12:00.780Z</updated>
         <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 1차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60177</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60177"/>
-        <updated>2024-08-30T06:17:18.448Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 전주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60176</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60176"/>
-        <updated>2024-08-30T06:17:18.448Z</updated>
-        <content type="html"><![CDATA[2024.09.04(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 <라이어 2탄> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60175</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60175"/>
-        <updated>2024-08-30T06:17:18.448Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 김지연 아코디언 팝스 오케스트라 구미 쉼(休) 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60174</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60174"/>
-        <updated>2024-08-30T05:13:09.491Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 01:00]]></content>
     </entry>
 </feed>
