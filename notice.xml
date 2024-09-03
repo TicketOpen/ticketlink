@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-03T10:13:35.381Z</updated>
+    <updated>2024-09-03T11:11:09.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 한국전력 희망사랑나눔콘서트 LOVE-ON 스테이지​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60210</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60210"/>
+        <updated>2024-09-03T11:11:02.490Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 싸이, 한요한, 중식이밴드와 함께하는 <2024 경상북도 청년 페스티벌>​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60209</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60209"/>
+        <updated>2024-09-03T11:11:02.492Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <렛미플라이> - 울진​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60208</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60196"/>
         <updated>2024-09-03T02:07:07.957Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 정욱진 1st 팬미팅 < It’s NEW! >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60195</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60195"/>
-        <updated>2024-09-02T09:14:14.528Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​대구시티발레단 「신데렐라」​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60194</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60194"/>
-        <updated>2024-09-02T09:14:14.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
     </entry>
 </feed>
