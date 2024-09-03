@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-03T03:14:24.250Z</updated>
+    <updated>2024-09-03T04:14:44.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60202"/>
         <updated>2024-09-03T02:07:15.945Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <더 쇼! 신라하다> - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60201</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60201"/>
+        <updated>2024-09-03T04:14:44.131Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  리틀고양이 - 대구 (2024 롯데백화점 대구) 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60190</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60190"/>
         <updated>2024-09-02T07:12:30.065Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 백투더트랙vol.1 - 창원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60189</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60189"/>
-        <updated>2024-09-02T07:12:30.066Z</updated>
         <content type="html"><![CDATA[2024.09.20(금) 04:00]]></content>
     </entry>
 </feed>
