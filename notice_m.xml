@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-03T00:55:29.161Z</updated>
+    <updated>2024-09-03T02:07:16.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​어린이뮤지컬 <캣츠> - 서울 도봉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60203</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60203"/>
+        <updated>2024-09-03T02:07:15.944Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​조희창의 [토요 클래식 살롱] - V (경주)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60202</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60202"/>
+        <updated>2024-09-03T02:07:15.945Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  리틀고양이 - 대구 (2024 롯데백화점 대구) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60200</id>
@@ -32,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60197"/>
         <updated>2024-09-03T00:55:28.497Z</updated>
         <content type="html"><![CDATA[2024.09.05(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  국민연극 <라이어 2탄> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60196</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60196"/>
+        <updated>2024-09-03T02:07:15.954Z</updated>
+        <content type="html"><![CDATA[2024.09.05(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 정욱진 1st 팬미팅 < It’s NEW! >​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60188"/>
         <updated>2024-09-02T06:17:55.935Z</updated>
         <content type="html"><![CDATA[2024.09.03(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 타임슬립 코미디뮤지컬 <썸데이> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60187</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60187"/>
-        <updated>2024-09-02T06:17:55.936Z</updated>
-        <content type="html"><![CDATA[2024.09.02(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족 뮤지컬 “괜찮아,안데르센”​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60186</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60186"/>
-        <updated>2024-09-02T06:17:55.936Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 고양공연 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60185</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60185"/>
-        <updated>2024-09-02T05:13:04.494Z</updated>
-        <content type="html"><![CDATA[2024.09.09(월) 05:00]]></content>
     </entry>
 </feed>
