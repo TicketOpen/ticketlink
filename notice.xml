@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-03T04:14:44.783Z</updated>
+    <updated>2024-09-03T05:12:40.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 조정민 콘서트 - 서울​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60206</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60206"/>
+        <updated>2024-09-03T05:12:31.622Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60205</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60205"/>
+        <updated>2024-09-03T05:12:31.623Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 수성아트피아 특별 프로그램 <가을 합창 축제>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60204</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <더 쇼! 신라하다> - 경주​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <더 쇼! 신라하다>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60201</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60201"/>
         <updated>2024-09-03T04:14:36.654Z</updated>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60192"/>
         <updated>2024-09-02T07:12:22.168Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 백투더트랙vol.1 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60191</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60191"/>
-        <updated>2024-09-02T07:12:22.168Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 백투더트랙vol.1 - 구미 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60190</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60190"/>
-        <updated>2024-09-02T07:12:22.171Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 04:00]]></content>
     </entry>
 </feed>
