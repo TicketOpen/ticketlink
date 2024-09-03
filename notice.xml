@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-03T02:07:16.617Z</updated>
+    <updated>2024-09-03T03:14:24.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 수성아트피아 특별 프로그램 <가을 합창 축제>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60204</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60204"/>
+        <updated>2024-09-03T03:14:17.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​어린이뮤지컬 <캣츠> - 서울 도봉​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60203</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60189"/>
         <updated>2024-09-02T07:12:22.172Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 얍 판 츠베덴 & 서울시립교향악단 with 클라라 주미 강 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60188</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60188"/>
-        <updated>2024-09-02T06:17:49.038Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 08:00]]></content>
     </entry>
 </feed>
