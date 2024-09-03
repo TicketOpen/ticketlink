@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-03T06:16:57.747Z</updated>
+    <updated>2024-09-03T07:12:20.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 체임버 시리즈 Ⅵ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60207</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60207"/>
+        <updated>2024-09-03T07:12:11.941Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.04(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 조정민 콘서트 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60206</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.03(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60192</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60192"/>
-        <updated>2024-09-02T07:12:22.168Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 체임버 시리즈 Ⅵ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60207</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60207"/>
+        <updated>2024-09-03T07:12:19.994Z</updated>
+        <content type="html"><![CDATA[2024.09.04(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 조정민 콘서트 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60193"/>
         <updated>2024-09-02T09:14:21.960Z</updated>
         <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60192</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60192"/>
-        <updated>2024-09-02T07:12:30.057Z</updated>
-        <content type="html"><![CDATA[2024.09.05(목) 00:00]]></content>
     </entry>
 </feed>
