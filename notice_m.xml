@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-03T07:12:20.737Z</updated>
+    <updated>2024-09-03T08:16:13.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <렛미플라이> - 울진​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60208</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60208"/>
+        <updated>2024-09-03T08:16:12.379Z</updated>
+        <content type="html"><![CDATA[2024.09.19(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 체임버 시리즈 Ⅵ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60207</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60194</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60194"/>
         <updated>2024-09-02T09:14:21.959Z</updated>
-        <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​카이로스 댄스 컴퍼니 「케리티지」 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60193</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60193"/>
-        <updated>2024-09-02T09:14:21.960Z</updated>
         <content type="html"><![CDATA[2024.09.03(화) 05:00]]></content>
     </entry>
 </feed>
