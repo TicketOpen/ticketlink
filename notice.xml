@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-04T00:56:28.549Z</updated>
+    <updated>2024-09-04T02:08:45.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <빈센트 반 고흐> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60213</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60213"/>
+        <updated>2024-09-04T02:08:38.448Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <엄마까투리는 슈퍼맘> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60212</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60212"/>
+        <updated>2024-09-04T02:08:38.448Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제15회 낙동강지구 전투 전승행사 <헬기 탑승 체험>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60211</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60199</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60199"/>
         <updated>2024-09-03T00:55:19.932Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  펀펀매직쇼 제2탄 - 대구 (2024 롯데백화점 대구) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60198</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60198"/>
-        <updated>2024-09-03T00:55:19.933Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  펀펀매직쇼 제1탄 - 대구 (2024 롯데백화점 대구점) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60197</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60197"/>
-        <updated>2024-09-03T00:55:19.934Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 00:00]]></content>
     </entry>
 </feed>
