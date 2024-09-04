@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-03T23:13:10.711Z</updated>
+    <updated>2024-09-04T00:56:28.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제15회 낙동강지구 전투 전승행사 <헬기 탑승 체험>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60211</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60211"/>
+        <updated>2024-09-04T00:56:21.947Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 한국전력 희망사랑나눔콘서트 LOVE-ON 스테이지​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60210</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 싸이, 한요한, 중식이밴드와 함께하는 <2024 경상북도 청년 페스티벌>​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[무료공연] 싸이, 한요한, 중식이밴드와 함께하는 <2024 경상북도 청년 페스티벌>​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60209</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60209"/>
         <updated>2024-09-03T11:11:02.492Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60197"/>
         <updated>2024-09-03T00:55:19.934Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  국민연극 <라이어 2탄> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60196</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60196"/>
-        <updated>2024-09-03T02:07:07.957Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.05(목) 01:00]]></content>
     </entry>
 </feed>
