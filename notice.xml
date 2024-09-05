@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-05T06:17:17.037Z</updated>
+    <updated>2024-09-05T07:11:55.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-고양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60231</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60231"/>
+        <updated>2024-09-05T07:11:47.025Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 06 - 이치현과벗님들 단독콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60230</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60217</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60217"/>
         <updated>2024-09-04T04:15:27.644Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(성남) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60216</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60216"/>
-        <updated>2024-09-04T04:15:27.647Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 03:00]]></content>
     </entry>
 </feed>
