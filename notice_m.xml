@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-05T00:56:07.723Z</updated>
+    <updated>2024-09-05T02:09:19.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-청주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60223</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60223"/>
+        <updated>2024-09-05T02:09:18.649Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60222</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60222"/>
+        <updated>2024-09-05T02:09:18.653Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60221</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60221"/>
+        <updated>2024-09-05T02:09:18.654Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 장윤정 라이브 콘서트 – 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60220</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60220"/>
+        <updated>2024-09-05T02:09:18.654Z</updated>
+        <content type="html"><![CDATA[2024.09.10(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​눈의 여왕 - 고양​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60219</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60209"/>
         <updated>2024-09-03T11:11:08.678Z</updated>
         <content type="html"><![CDATA[2024.09.06(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <렛미플라이> - 울진​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60208</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60208"/>
-        <updated>2024-09-03T08:16:12.379Z</updated>
-        <content type="html"><![CDATA[2024.09.19(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 체임버 시리즈 Ⅵ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60207</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60207"/>
-        <updated>2024-09-03T07:12:19.994Z</updated>
-        <content type="html"><![CDATA[2024.09.04(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 조정민 콘서트 - 서울​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60206</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60206"/>
-        <updated>2024-09-03T05:12:39.399Z</updated>
-        <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 서울​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60205</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60205"/>
-        <updated>2024-09-03T05:12:39.399Z</updated>
-        <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
     </entry>
 </feed>
