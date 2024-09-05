@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-05T05:12:19.517Z</updated>
+    <updated>2024-09-05T06:17:17.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 06 - 이치현과벗님들 단독콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60230</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60230"/>
+        <updated>2024-09-05T06:17:09.019Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​광주시립소년소녀합창단 제4회 광주광역시소년소녀합창제​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60229</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60216</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60216"/>
         <updated>2024-09-04T04:15:27.647Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(서울 마포) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60215</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60215"/>
-        <updated>2024-09-04T04:15:27.652Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 03:00]]></content>
     </entry>
 </feed>
