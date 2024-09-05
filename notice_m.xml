@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-05T09:13:18.498Z</updated>
+    <updated>2024-09-05T10:13:56.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제이국악오케스트라 <호흡> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60233</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60233"/>
+        <updated>2024-09-05T10:13:56.012Z</updated>
+        <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]​ 2024 BEER FEST GWANGJU​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60232</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60219"/>
         <updated>2024-09-04T09:13:21.789Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60218</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60218"/>
-        <updated>2024-09-04T06:17:45.775Z</updated>
-        <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
     </entry>
 </feed>
