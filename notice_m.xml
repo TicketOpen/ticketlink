@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-05T07:11:55.274Z</updated>
+    <updated>2024-09-05T08:16:14.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]​ 2024 BEER FEST GWANGJU​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60232</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60232"/>
+        <updated>2024-09-05T08:16:13.481Z</updated>
+        <content type="html"><![CDATA[2024.09.06(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-고양​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60231</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60218"/>
         <updated>2024-09-04T06:17:45.775Z</updated>
         <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(광주)티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60217</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60217"/>
-        <updated>2024-09-04T04:15:33.596Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 03:00]]></content>
     </entry>
 </feed>
