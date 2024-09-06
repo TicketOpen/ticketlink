@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-06T02:09:01.256Z</updated>
+    <updated>2024-09-06T03:14:16.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -13,7 +13,14 @@
         <content type="html"><![CDATA[2024.09.06(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] JX 2024 CONCERT  in Seoul​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2024 V.O.S 20주년 전국투어 콘서트- <우리의 스무살> - 전주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60237</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60237"/>
+        <updated>2024-09-06T03:14:16.002Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] JX 2024 CONCERT < IDENTITY > in Seoul​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60234</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60234"/>
         <updated>2024-09-06T02:09:00.548Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60219"/>
         <updated>2024-09-04T09:13:21.789Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60218</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60218"/>
-        <updated>2024-09-06T02:09:00.561Z</updated>
-        <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
     </entry>
 </feed>
