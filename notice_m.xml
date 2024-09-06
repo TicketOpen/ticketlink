@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-06T08:16:08.761Z</updated>
+    <updated>2024-09-06T09:13:21.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60252</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60252"/>
+        <updated>2024-09-06T09:13:20.975Z</updated>
+        <content type="html"><![CDATA[2024.09.09(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오즈의 마법사 - 인천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60251</id>
@@ -39,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60247"/>
         <updated>2024-09-06T07:12:25.723Z</updated>
         <content type="html"><![CDATA[2024.09.09(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 러블리즈 10주년 콘서트 <겨울나라의 러블리즈4>​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60246</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60246"/>
+        <updated>2024-09-06T09:13:20.977Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 오페라 '리골렛또' (Opera Rigoletto)​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60238"/>
         <updated>2024-09-06T05:13:27.354Z</updated>
         <content type="html"><![CDATA[2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 V.O.S 20주년 전국투어 콘서트- <우리의 스무살> - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60237</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60237"/>
-        <updated>2024-09-06T03:14:16.002Z</updated>
-        <content type="html"><![CDATA[2024.09.11(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60236</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60236"/>
-        <updated>2024-09-06T05:13:27.357Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 01:00]]></content>
     </entry>
 </feed>
