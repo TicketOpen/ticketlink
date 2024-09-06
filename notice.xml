@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-06T00:55:55.284Z</updated>
+    <updated>2024-09-06T02:09:01.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 05 - 조관우 단독콘서트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60239</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60239"/>
+        <updated>2024-09-06T02:08:54.709Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] JX 2024 CONCERT  in Seoul​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60234</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60234"/>
+        <updated>2024-09-06T02:08:54.715Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제이국악오케스트라 <호흡> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60233</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-고양​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-고양​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60231</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60231"/>
         <updated>2024-09-05T07:11:47.025Z</updated>
@@ -76,27 +90,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60223</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60223"/>
-        <updated>2024-09-05T02:09:11.538Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60222</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60222"/>
-        <updated>2024-09-05T02:09:11.538Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60221</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60221"/>
-        <updated>2024-09-05T02:09:11.540Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 장윤정 라이브 콘서트 – 성남 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60220</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60220"/>
@@ -109,5 +102,12 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60219"/>
         <updated>2024-09-04T09:13:14.833Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60218</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60218"/>
+        <updated>2024-09-06T02:08:54.742Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.11(수) 05:00]]></content>
     </entry>
 </feed>
