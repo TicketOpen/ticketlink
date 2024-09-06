@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-06T06:17:12.092Z</updated>
+    <updated>2024-09-06T07:12:26.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 초등학생을 위한 실험실 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60249</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60249"/>
+        <updated>2024-09-06T07:12:18.132Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 코콘 세 번째 : 가랑비에 옷 젖는 줄 모르듯​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60248</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60248"/>
+        <updated>2024-09-06T07:12:18.132Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인형극 <개와 고양이> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60247</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60247"/>
+        <updated>2024-09-06T07:12:18.133Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 오페라 '리골렛또' (Opera Rigoletto)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60245</id>
@@ -20,11 +41,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] [Live Streaming] 2024 WONHO FAN PARTY [WELCOME BACK, WENEE] 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60243</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60243"/>
+        <updated>2024-09-06T07:12:18.135Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 WONHO FAN PARTY [WELCOME BACK, WENEE]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60242</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60242"/>
+        <updated>2024-09-06T07:12:18.138Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.09(월) 11:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매] 경북도민과 함께하는 최정원 뮤지컬 갈라콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60241</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60241"/>
         <updated>2024-09-06T05:13:19.649Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> – 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60240</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60240"/>
+        <updated>2024-09-06T07:12:18.142Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.10(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 05 - 조관우 단독콘서트 티켓오픈 안내]]></title>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60234"/>
         <updated>2024-09-06T02:08:54.715Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제이국악오케스트라 <호흡> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60233</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60233"/>
-        <updated>2024-09-05T10:13:49.838Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]​ 2024 BEER FEST GWANGJU​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60232</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60232"/>
-        <updated>2024-09-05T08:16:05.717Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-고양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60231</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60231"/>
-        <updated>2024-09-05T07:11:47.025Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 06 - 이치현과벗님들 단독콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60230</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60230"/>
-        <updated>2024-09-05T06:17:09.019Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​광주시립소년소녀합창단 제4회 광주광역시소년소녀합창제​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60229</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60229"/>
-        <updated>2024-09-05T05:12:10.434Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 노래를 찾는 사람들 40주년 기념 공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60228</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60228"/>
-        <updated>2024-09-05T05:12:10.435Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.06(금) 05:00]]></content>
     </entry>
 </feed>
