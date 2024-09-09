@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-09T02:14:01.976Z</updated>
+    <updated>2024-09-09T03:16:17.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 매직컬 판타지 콘서트 - 동해​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60259</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60259"/>
+        <updated>2024-09-09T03:16:16.325Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60254</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60241"/>
         <updated>2024-09-06T05:13:27.354Z</updated>
         <content type="html"><![CDATA[2024.09.10(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> – 수원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60240</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60240"/>
-        <updated>2024-09-06T07:12:25.738Z</updated>
-        <content type="html"><![CDATA[2024.09.10(화) 05:00]]></content>
     </entry>
 </feed>
