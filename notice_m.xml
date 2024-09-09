@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-09T08:18:18.830Z</updated>
+    <updated>2024-09-09T09:14:39.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리 릿나워 & 데이브 그루신 with 이반 린스와 브라질 친구들​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60264</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60264"/>
+        <updated>2024-09-09T09:14:38.690Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 번개맨 [라이브VER.] <전설의 시작> - 원주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60263</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60250"/>
         <updated>2024-09-06T08:16:07.847Z</updated>
         <content type="html"><![CDATA[2024.09.11(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주예술의전당] 초등학생을 위한 실험실 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60249</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60249"/>
-        <updated>2024-09-06T07:12:25.722Z</updated>
-        <content type="html"><![CDATA[2024.09.09(월) 07:00]]></content>
     </entry>
 </feed>
