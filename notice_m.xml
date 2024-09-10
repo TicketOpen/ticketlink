@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-10T09:14:17.004Z</updated>
+    <updated>2024-09-10T10:13:35.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매][광주예술의전당] One, 나의 유토피아​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60278</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60278"/>
+        <updated>2024-09-10T10:13:34.330Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  별 헤는 밤 빼앗긴 들에서 꽃처럼 침묵을 깨다-군산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60277</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60264"/>
         <updated>2024-09-09T09:14:38.690Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 [라이브VER.] <전설의 시작> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60263</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60263"/>
-        <updated>2024-09-09T07:12:33.435Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 07:00]]></content>
     </entry>
 </feed>

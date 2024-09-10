@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-10T09:14:17.008Z</updated>
+    <updated>2024-09-10T10:13:34.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매][광주예술의전당] One, 나의 유토피아​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60278</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60278"/>
+        <updated>2024-09-10T10:13:26.387Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  별 헤는 밤 빼앗긴 들에서 꽃처럼 침묵을 깨다-군산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60277</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 [라이브VER.] <전설의 시작> - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60263</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60263"/>
-        <updated>2024-09-09T07:12:25.439Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 07:00]]></content>
+        <title type="html"><![CDATA[[단독판매][광주예술의전당] One, 나의 유토피아​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60278</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60278"/>
+        <updated>2024-09-10T10:13:34.330Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  별 헤는 밤 빼앗긴 들에서 꽃처럼 침묵을 깨다-군산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60264"/>
         <updated>2024-09-09T09:14:38.690Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 번개맨 [라이브VER.] <전설의 시작> - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60263</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60263"/>
-        <updated>2024-09-09T07:12:33.435Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 07:00]]></content>
     </entry>
 </feed>
