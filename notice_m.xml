@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-10T07:13:38.197Z</updated>
+    <updated>2024-09-10T08:16:23.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  별 헤는 밤 빼앗긴 들에서 꽃처럼 침묵을 깨다-군산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60277</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60277"/>
+        <updated>2024-09-10T08:16:22.912Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내최정상의 성악가와 함께하는 구노의 ‘장엄미사곡’ 연주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60276</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60276"/>
+        <updated>2024-09-10T08:16:22.913Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60275</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60263"/>
         <updated>2024-09-09T07:12:33.435Z</updated>
         <content type="html"><![CDATA[2024.09.12(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60262</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60262"/>
-        <updated>2024-09-09T07:12:33.435Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왁스 & 정인 가을 이야기 - 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60261</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60261"/>
-        <updated>2024-09-09T07:12:33.437Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
     </entry>
 </feed>
