@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-10T04:14:45.948Z</updated>
+    <updated>2024-09-10T05:13:17.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60275</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60275"/>
+        <updated>2024-09-10T05:13:09.346Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [경남 청년콘서트] Busker To Stage2 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60274</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60274"/>
         <updated>2024-09-10T04:14:37.676Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.11(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[고양] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60273</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60273"/>
+        <updated>2024-09-10T05:13:09.349Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-청주 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60261"/>
         <updated>2024-09-09T07:12:25.440Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60260</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60260"/>
-        <updated>2024-09-09T05:13:33.305Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 매직컬 판타지 콘서트 - 동해​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60259</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60259"/>
-        <updated>2024-09-09T03:16:10.168Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.11(수) 05:00]]></content>
     </entry>
 </feed>
