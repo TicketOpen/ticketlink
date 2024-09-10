@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-10T03:14:35.418Z</updated>
+    <updated>2024-09-10T04:14:45.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [경남 청년콘서트] Busker To Stage2 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60274</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60274"/>
+        <updated>2024-09-10T04:14:45.323Z</updated>
+        <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-청주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60272</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60259</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60259"/>
         <updated>2024-09-09T03:16:16.325Z</updated>
-        <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 안산 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60258</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60258"/>
-        <updated>2024-09-09T05:13:39.302Z</updated>
         <content type="html"><![CDATA[2024.09.11(수) 05:00]]></content>
     </entry>
 </feed>
