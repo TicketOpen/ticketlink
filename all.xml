@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-10T23:11:54.549Z</updated>
+    <updated>2024-09-11T00:56:34.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] AGAIN ATOM_POP UP Store in 대구 (아톰 팝업스토어 - 대구) ​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60279</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60279"/>
+        <updated>2024-09-11T00:56:27.099Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매][광주예술의전당] One, 나의 유토피아​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60278</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리 릿나워 & 데이브 그루신 with 이반 린스와 브라질 친구들​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60264</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60264"/>
-        <updated>2024-09-09T09:14:30.550Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] AGAIN ATOM_POP UP Store in 대구 (아톰 팝업스토어 - 대구) ​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60279</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60279"/>
+        <updated>2024-09-11T00:56:33.296Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매][광주예술의전당] One, 나의 유토피아​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60265"/>
         <updated>2024-09-10T00:56:45.815Z</updated>
         <content type="html"><![CDATA[2024.09.12(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리 릿나워 & 데이브 그루신 with 이반 린스와 브라질 친구들​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60264</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60264"/>
-        <updated>2024-09-09T09:14:38.690Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
     </entry>
 </feed>
