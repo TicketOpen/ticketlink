@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-11T00:56:34.006Z</updated>
+    <updated>2024-09-11T02:09:43.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -41,7 +41,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  [경남 청년콘서트] Busker To Stage2 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  경남 청년 콘서트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60274</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60274"/>
         <updated>2024-09-10T04:14:37.676Z</updated>
