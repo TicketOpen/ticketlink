@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-11T07:12:39.396Z</updated>
+    <updated>2024-09-11T08:16:44.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과천] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60300</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60300"/>
+        <updated>2024-09-11T08:16:43.765Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60299</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60299"/>
+        <updated>2024-09-11T08:16:43.766Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 가족마술쇼 - 파주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60298</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60298"/>
+        <updated>2024-09-11T08:16:43.767Z</updated>
+        <content type="html"><![CDATA[2024.09.12(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 정욱진 1st 팬미팅 < It’s NEW! > 좌석 추가​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60296</id>
@@ -48,7 +69,7 @@
         <content type="html"><![CDATA[2024.09.13(금) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 인천 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 부평 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60290</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60290"/>
         <updated>2024-09-11T05:12:36.979Z</updated>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60285"/>
         <updated>2024-09-11T05:12:36.990Z</updated>
         <content type="html"><![CDATA[2024.09.25(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 춘천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60284</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60284"/>
-        <updated>2024-09-11T05:12:36.992Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60283</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60283"/>
-        <updated>2024-09-11T05:12:36.993Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60282</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60282"/>
-        <updated>2024-09-11T05:12:36.995Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 06:00]]></content>
     </entry>
 </feed>
