@@ -2,15 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-11T04:17:01.569Z</updated>
+    <updated>2024-09-11T05:12:37.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 가을맞이 가곡의 밤 - 동해​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60293</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60293"/>
+        <updated>2024-09-11T05:12:29.205Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  칠곡교육가족한마음 樂 콘서트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60292</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60292"/>
         <updated>2024-09-11T04:16:53.128Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60290</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60290"/>
+        <updated>2024-09-11T05:12:29.206Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 ‘겨울’ – 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60288</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60288"/>
+        <updated>2024-09-11T05:12:29.207Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 고양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60287</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60287"/>
+        <updated>2024-09-11T05:12:29.209Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 '열다섯 번째 겨울' – 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60286</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60286"/>
+        <updated>2024-09-11T05:12:29.210Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60285</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60285"/>
+        <updated>2024-09-11T05:12:29.211Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 춘천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60284</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60284"/>
+        <updated>2024-09-11T05:12:29.213Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 서울​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60283</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60283"/>
+        <updated>2024-09-11T05:12:29.214Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60282</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60282"/>
+        <updated>2024-09-11T05:12:29.215Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60281</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60281"/>
+        <updated>2024-09-11T05:12:29.217Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60280</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60280"/>
+        <updated>2024-09-11T05:12:29.218Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] AGAIN ATOM_POP UP Store in 대구 (아톰 팝업스토어 - 대구) ​​ 티켓오픈 안내]]></title>
@@ -32,82 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60277"/>
         <updated>2024-09-10T08:16:17.134Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.11(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내최정상의 성악가와 함께하는 구노의 ‘장엄미사곡’ 연주회 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60276</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60276"/>
-        <updated>2024-09-10T08:16:17.135Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60275</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60275"/>
-        <updated>2024-09-10T05:13:09.346Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  경남 청년 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60274</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60274"/>
-        <updated>2024-09-10T04:14:37.676Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.11(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[고양] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60273</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60273"/>
-        <updated>2024-09-10T05:13:09.349Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60272</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60272"/>
-        <updated>2024-09-10T02:10:21.998Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60271</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60271"/>
-        <updated>2024-09-10T02:10:22.000Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2024 < LOVE >-전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60270</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60270"/>
-        <updated>2024-09-10T02:10:22.002Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라 장 바이올린 리사이틀 - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60269</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60269"/>
-        <updated>2024-09-10T02:10:22.002Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 마법여우 주비 “신비한 칠교 목걸이의 비밀” - 부천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60268</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60268"/>
-        <updated>2024-09-10T02:10:22.003Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024 롯데백화점 대구) 산타와 루돌프​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60267</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60267"/>
-        <updated>2024-09-10T02:10:22.005Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 어썸스테이지 [ N.Flying ] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60266</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60266"/>
-        <updated>2024-09-10T00:56:38.642Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 11:00]]></content>
     </entry>
 </feed>
