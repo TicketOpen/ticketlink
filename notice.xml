@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-11T09:13:25.559Z</updated>
+    <updated>2024-09-11T10:12:57.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소향 1집 앨범 기념 콘서트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60303</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60303"/>
+        <updated>2024-09-11T10:12:50.793Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.24(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 디에이드 'Holiday' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60302</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60288"/>
         <updated>2024-09-11T05:12:29.207Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 어반자카파 전국투어 콘서트 열다섯 번째 '겨울' – 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60287</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60287"/>
-        <updated>2024-09-11T05:12:29.209Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 10:00]]></content>
     </entry>
 </feed>
