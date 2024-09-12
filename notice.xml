@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-12T07:12:32.885Z</updated>
+    <updated>2024-09-12T08:16:12.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하림,정인 콘서트 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60312</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60312"/>
+        <updated>2024-09-12T08:16:03.796Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  추교준 피아노 독주회 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60311</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60298"/>
         <updated>2024-09-11T08:16:35.906Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 정욱진 1st 팬미팅 < It’s NEW! > 좌석 추가​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60296</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60296"/>
-        <updated>2024-09-11T07:12:32.464Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 06:00]]></content>
     </entry>
 </feed>
