@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-12T06:17:46.899Z</updated>
+    <updated>2024-09-12T07:12:32.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  추교준 피아노 독주회 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60311</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60311"/>
+        <updated>2024-09-12T07:12:32.148Z</updated>
+        <content type="html"><![CDATA[2024.09.23(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최현우의 19+1​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60310</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[2024.09.25(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소향 1집 앨범 기념 콘서트 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[소향 1집 앨범 발매기념 콘서트 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60303</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60303"/>
         <updated>2024-09-11T10:12:56.535Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60296"/>
         <updated>2024-09-11T07:12:38.650Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 KANGDANIEL CONCERT [ACT] ​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60295</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60295"/>
-        <updated>2024-09-11T06:17:53.590Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 10:00]]></content>
     </entry>
 </feed>
