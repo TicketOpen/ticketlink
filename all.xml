@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-12T05:13:00.088Z</updated>
+    <updated>2024-09-12T06:17:46.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[최현우의 19+1​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60310</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60310"/>
+        <updated>2024-09-12T06:17:40.124Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강재훈 트리오 '엘링턴 송북' - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60309</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60309"/>
+        <updated>2024-09-12T06:17:40.127Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  연극<극장괴담4> - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60308</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 제주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60294</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60294"/>
-        <updated>2024-09-11T06:17:46.372Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 05:00]]></content>
+        <title type="html"><![CDATA[최현우의 19+1​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60310</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60310"/>
+        <updated>2024-09-12T06:17:46.157Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 가을맞이 가곡의 밤 - 동해​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60293</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60293"/>
-        <updated>2024-09-11T05:12:29.205Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 05:00]]></content>
+        <title type="html"><![CDATA[강재훈 트리오 '엘링턴 송북' - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60309</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60309"/>
+        <updated>2024-09-12T06:17:46.158Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  연극<극장괴담4> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60295"/>
         <updated>2024-09-11T06:17:53.590Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 심수봉 전국투어콘서트 : 꽃길 - 제주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60294</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60294"/>
-        <updated>2024-09-11T06:17:53.593Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 가을맞이 가곡의 밤 - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60293</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60293"/>
-        <updated>2024-09-11T05:12:36.972Z</updated>
-        <content type="html"><![CDATA[2024.09.12(목) 05:00]]></content>
     </entry>
 </feed>
