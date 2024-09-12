@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-12T04:16:32.762Z</updated>
+    <updated>2024-09-12T05:13:00.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  연극<극장괴담4> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60308</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60308"/>
+        <updated>2024-09-12T05:12:59.423Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul​ 시야제한석 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60307</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60307"/>
+        <updated>2024-09-12T05:12:59.423Z</updated>
+        <content type="html"><![CDATA[2024.09.20(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 고양​ 추가회차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60306</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60306"/>
+        <updated>2024-09-12T05:12:59.424Z</updated>
+        <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 안양 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60305</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60305"/>
         <updated>2024-09-11T11:12:54.990Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 부천 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60304</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60304"/>
+        <updated>2024-09-12T05:12:59.431Z</updated>
+        <content type="html"><![CDATA[2024.09.25(수) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소향 1집 앨범 기념 콘서트 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60293"/>
         <updated>2024-09-11T05:12:36.972Z</updated>
         <content type="html"><![CDATA[2024.09.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  칠곡교육가족한마음 樂 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60292</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60292"/>
-        <updated>2024-09-11T04:17:00.888Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 서울 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60291</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60291"/>
-        <updated>2024-09-11T07:12:38.653Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<11월의 봄> 정훈희x송창식with 함춘호 콘서트 - 부평 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60290</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60290"/>
-        <updated>2024-09-11T05:12:36.979Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] KIM WOO SEOK BIRTHDAY FANMEETING [하늘연달, 스물일곱번째 오후] 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60289</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60289"/>
-        <updated>2024-09-11T06:17:53.599Z</updated>
-        <content type="html"><![CDATA[2024.09.23(월) 11:00]]></content>
     </entry>
 </feed>
