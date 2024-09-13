@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-13T06:17:44.582Z</updated>
+    <updated>2024-09-13T07:13:32.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 평택​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60325</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60325"/>
+        <updated>2024-09-13T07:13:24.518Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]Best of Fujii Kaze 2020-2024 ASIA TOUR in SEOUL​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60324</id>
@@ -17,6 +24,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60322"/>
         <updated>2024-09-13T05:12:42.926Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> – 인천 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60320</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60320"/>
+        <updated>2024-09-13T07:13:24.519Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.19(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 손태진 단독 콘서트 < The Showcase > 전국투어 - 서울 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  연극<극장괴담4> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60308</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60308"/>
-        <updated>2024-09-12T05:12:51.925Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul​ 시야제한석 추가 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60307</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60307"/>
-        <updated>2024-09-12T05:12:51.927Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 평택​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60325</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60325"/>
+        <updated>2024-09-13T07:13:31.451Z</updated>
+        <content type="html"><![CDATA[2024.09.23(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]Best of Fujii Kaze 2020-2024 ASIA TOUR in SEOUL​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60322"/>
         <updated>2024-09-13T05:12:49.965Z</updated>
         <content type="html"><![CDATA[2024.09.23(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> – 인천 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60320</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60320"/>
+        <updated>2024-09-13T07:13:31.460Z</updated>
+        <content type="html"><![CDATA[2024.09.19(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 손태진 단독 콘서트 < The Showcase > 전국투어 - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60309"/>
         <updated>2024-09-12T06:17:46.158Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  연극<극장괴담4> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60308</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60308"/>
-        <updated>2024-09-12T05:12:59.423Z</updated>
-        <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FINAL FANTASY XIV ORCHESTRA CONCERT 2024 -Eorzean Symphony-  In Seoul​ 시야제한석 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60307</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60307"/>
-        <updated>2024-09-12T05:12:59.423Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 05:00]]></content>
     </entry>
 </feed>
