@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-13T00:56:48.178Z</updated>
+    <updated>2024-09-13T02:10:39.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  제30회 드림콘서트 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60316</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60316"/>
+        <updated>2024-09-13T02:10:32.673Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제36회 뮤지콘 작곡발표회 - 짧은  소리, 긴 침묵 II - 원주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60315</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60315"/>
+        <updated>2024-09-13T02:10:32.673Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 뮤지컬 번개맨 [라이브VER.] <전설의 시작> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60314</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60314"/>
+        <updated>2024-09-13T02:10:32.673Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 뮤지컬 번개맨 [라이브VER.] <전설의 시작> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60313</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60313"/>
+        <updated>2024-09-13T02:10:32.676Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하림,정인 콘서트 - 전주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60312</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60302"/>
         <updated>2024-09-11T09:13:18.475Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] IN A MINUTE 1st FANMEETING < Our Hours >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60301</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60301"/>
-        <updated>2024-09-11T09:13:18.475Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과천] 뮤지컬 캐치! 티니핑 <두근두근 싱어롱 콘서트!>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60300</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60300"/>
-        <updated>2024-09-11T08:16:35.905Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 제주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60299</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60299"/>
-        <updated>2024-09-11T08:16:35.905Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 가족마술쇼 - 파주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60298</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60298"/>
-        <updated>2024-09-11T08:16:35.906Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 00:00]]></content>
     </entry>
 </feed>
