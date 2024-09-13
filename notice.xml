@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-13T04:14:57.124Z</updated>
+    <updated>2024-09-13T05:12:50.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]Best of Fujii Kaze 2020-2024 ASIA TOUR in SEOUL​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60324</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60324"/>
+        <updated>2024-09-13T05:12:42.925Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 케이윌 소극장 콘서트 < All The Way > – 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60322</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60322"/>
+        <updated>2024-09-13T05:12:42.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 손태진 단독 콘서트 < The Showcase > 전국투어 - in seoul 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60319</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60319"/>
+        <updated>2024-09-13T05:12:42.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 수원 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60318</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60318"/>
+        <updated>2024-09-13T05:12:42.927Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2024 KIM SOO HYUN ASIA TOUR [EYES ON YOU] IN SEOUL​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60317</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60317"/>
+        <updated>2024-09-13T05:12:42.934Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  제30회 드림콘서트 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60316</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60307"/>
         <updated>2024-09-12T05:12:51.927Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 고양​ 추가회차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60306</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60306"/>
-        <updated>2024-09-12T05:12:51.931Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 안양 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60305</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60305"/>
-        <updated>2024-09-11T11:12:47.917Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 부천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60304</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60304"/>
-        <updated>2024-09-12T05:12:51.936Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소향 1집 앨범 발매기념 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60303</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60303"/>
-        <updated>2024-09-11T10:12:50.793Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.24(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 디에이드 'Holiday' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60302</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60302"/>
-        <updated>2024-09-11T09:13:18.475Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.12(목) 08:00]]></content>
     </entry>
 </feed>
