@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-14T23:12:44.775Z</updated>
+    <updated>2024-09-15T01:02:58.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 김창완밴드 전국투어 <개구쟁이> - 포항 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60335</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60335"/>
+        <updated>2024-09-15T01:02:51.023Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립합창단] 제197회 정기연주회 'The KISS'​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60333</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60315"/>
         <updated>2024-09-13T02:10:32.673Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고양] 뮤지컬 번개맨 [라이브VER.] <전설의 시작> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60314</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60314"/>
-        <updated>2024-09-13T02:10:32.673Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 02:00]]></content>
     </entry>
 </feed>
