@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-20T06:17:53.456Z</updated>
+    <updated>2024-09-20T07:13:29.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60343"/>
         <updated>2024-09-20T04:15:37.054Z</updated>
         <content type="html"><![CDATA[2024.09.26(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8  <미래연구소를 지켜라!> – 안산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60342</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60342"/>
+        <updated>2024-09-20T07:13:28.670Z</updated>
+        <content type="html"><![CDATA[2024.09.24(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 구미​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60334"/>
         <updated>2024-09-16T08:17:04.978Z</updated>
         <content type="html"><![CDATA[2024.09.19(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [광주시립합창단] 제197회 정기연주회 'The KISS'​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60333</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60333"/>
-        <updated>2024-09-14T06:16:40.971Z</updated>
-        <content type="html"><![CDATA[2024.09.16(월) 10:30]]></content>
     </entry>
 </feed>
