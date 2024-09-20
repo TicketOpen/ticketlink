@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-20T02:13:16.616Z</updated>
+    <updated>2024-09-20T03:15:56.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장사익소리판 ‘꽃을 준다, 나에게’ 대전공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60347</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60347"/>
+        <updated>2024-09-20T03:15:55.745Z</updated>
+        <content type="html"><![CDATA[2024.09.24(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​이승환[스무 번째 차카게 살자]​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60340</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60340"/>
+        <updated>2024-09-20T03:15:55.746Z</updated>
+        <content type="html"><![CDATA[2024.09.24(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  PMPS 2024 SEASON 3 FINALS  티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60339</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60339"/>
+        <updated>2024-09-20T03:15:55.751Z</updated>
+        <content type="html"><![CDATA[2024.09.23(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 마지막​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60338</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60327"/>
         <updated>2024-09-13T09:13:16.474Z</updated>
         <content type="html"><![CDATA[2024.09.13(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김두루미 vol.04 (kimdurumi vol.04)​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60326</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60326"/>
-        <updated>2024-09-13T09:13:16.474Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <에그박사 - 연구소에서 생긴 일> - 평택​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60325</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60325"/>
-        <updated>2024-09-13T07:13:31.451Z</updated>
-        <content type="html"><![CDATA[2024.09.23(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]Best of Fujii Kaze 2020-2024 ASIA TOUR in SEOUL​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60324</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60324"/>
-        <updated>2024-09-13T05:12:49.965Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 11:00]]></content>
     </entry>
 </feed>
