@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-20T04:15:37.758Z</updated>
+    <updated>2024-09-20T05:13:24.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60348</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60348"/>
+        <updated>2024-09-20T05:13:14.793Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장사익소리판 ‘꽃을 준다, 나에게’ 대전공연​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60347</id>
@@ -12,11 +19,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.24(화) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 DONGHAE B DAY PARTY [Welcome To My Ocean] 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60346</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60346"/>
+        <updated>2024-09-20T05:13:14.799Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2024 스텔라장 10주년 콘서트 'I LOVE TO SING'​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60345</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60345"/>
+        <updated>2024-09-20T05:13:14.800Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <엄마까투리는 슈퍼맘> - 대구 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60344</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60344"/>
+        <updated>2024-09-20T05:13:14.800Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​뮤지컬 <빨래> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60343</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60343"/>
         <updated>2024-09-20T04:15:30.609Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 구미​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60341</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60341"/>
+        <updated>2024-09-20T05:13:14.806Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​이승환[스무 번째 차카게 살자]​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -75,39 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.16(월) 10:30]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 서울앵콜​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60332</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60332"/>
-        <updated>2024-09-19T02:13:22.767Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 SeAson 박정아의 작업실: 우리의 여름​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60331</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60331"/>
-        <updated>2024-09-18T05:12:50.161Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 2차​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60330</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60330"/>
-        <updated>2024-09-19T02:13:22.769Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.23(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-부천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60329</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60329"/>
-        <updated>2024-09-13T09:13:10.413Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-광주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60328</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60328"/>
-        <updated>2024-09-13T09:13:10.413Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.20(금) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60348</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60348"/>
+        <updated>2024-09-20T05:13:23.420Z</updated>
+        <content type="html"><![CDATA[2024.09.25(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장사익소리판 ‘꽃을 준다, 나에게’ 대전공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -117,11 +124,39 @@
         <content type="html"><![CDATA[2024.09.24(화) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 DONGHAE B DAY PARTY [Welcome To My Ocean] 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60346</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60346"/>
+        <updated>2024-09-20T05:13:23.421Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2024 스텔라장 10주년 콘서트 'I LOVE TO SING'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60345</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60345"/>
+        <updated>2024-09-20T05:13:23.421Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <엄마까투리는 슈퍼맘> - 대구 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60344</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60344"/>
+        <updated>2024-09-20T05:13:23.425Z</updated>
+        <content type="html"><![CDATA[2024.09.25(수) 02:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​뮤지컬 <빨래> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60343</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60343"/>
         <updated>2024-09-20T04:15:37.054Z</updated>
         <content type="html"><![CDATA[2024.09.26(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 구미​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60341</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60341"/>
+        <updated>2024-09-20T05:13:23.425Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​이승환[스무 번째 차카게 살자]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60333"/>
         <updated>2024-09-14T06:16:40.971Z</updated>
         <content type="html"><![CDATA[2024.09.16(월) 10:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐리tv 러브콘서트 2024 타임캡슐 - 서울앵콜​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60332</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60332"/>
-        <updated>2024-09-19T02:13:28.395Z</updated>
-        <content type="html"><![CDATA[2024.09.25(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 SeAson 박정아의 작업실: 우리의 여름​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60331</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60331"/>
-        <updated>2024-09-18T05:12:58.373Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 2차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60330</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60330"/>
-        <updated>2024-09-19T02:13:28.396Z</updated>
-        <content type="html"><![CDATA[2024.09.23(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60329</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60329"/>
-        <updated>2024-09-13T09:13:16.469Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60328</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60328"/>
-        <updated>2024-09-13T09:13:16.469Z</updated>
-        <content type="html"><![CDATA[2024.09.20(금) 06:00]]></content>
     </entry>
 </feed>
