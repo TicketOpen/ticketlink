@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-23T04:16:03.603Z</updated>
+    <updated>2024-09-23T05:13:09.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <보이즈 인 더 밴드> 2차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60355</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60355"/>
+        <updated>2024-09-23T05:13:09.250Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 부산공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60354</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60354"/>
+        <updated>2024-09-23T05:13:09.252Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 성남공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60353</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60353"/>
+        <updated>2024-09-23T05:13:09.254Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 불후의명곡 정동하X알리 - 천안 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60352</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60352"/>
+        <updated>2024-09-23T05:13:09.254Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김창완밴드 콘서트 - 의정부 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60351</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60351"/>
+        <updated>2024-09-23T05:13:09.254Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 PWS: Phase 2 그랜드 파이널​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60350</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60341"/>
         <updated>2024-09-20T05:13:23.425Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​이승환[스무 번째 차카게 살자]​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60340</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60340"/>
-        <updated>2024-09-20T03:15:55.746Z</updated>
-        <content type="html"><![CDATA[2024.09.24(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  PMPS 2024 SEASON 3 FINALS  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60339</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60339"/>
-        <updated>2024-09-20T03:15:55.751Z</updated>
-        <content type="html"><![CDATA[2024.09.23(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미오 프라텔로> 2nd team 마지막​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60338</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60338"/>
-        <updated>2024-09-19T08:17:09.760Z</updated>
-        <content type="html"><![CDATA[2024.09.24(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <랭보> 3차​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60337</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60337"/>
-        <updated>2024-09-19T02:13:28.391Z</updated>
-        <content type="html"><![CDATA[2024.09.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 프리뷰​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60336</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60336"/>
-        <updated>2024-09-17T05:14:04.227Z</updated>
-        <content type="html"><![CDATA[2024.09.24(화) 05:00]]></content>
     </entry>
 </feed>
