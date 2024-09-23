@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-23T09:15:50.736Z</updated>
+    <updated>2024-09-23T10:15:02.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 K-Link Festival​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60359</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60359"/>
+        <updated>2024-09-23T10:14:54.338Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60358</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <엄마까투리는 슈퍼맘> - 대구 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60344</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60344"/>
-        <updated>2024-09-20T05:13:14.800Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 02:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 K-Link Festival​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60359</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60359"/>
+        <updated>2024-09-23T10:15:02.169Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60345"/>
         <updated>2024-09-20T05:13:23.421Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <엄마까투리는 슈퍼맘> - 대구 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60344</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60344"/>
-        <updated>2024-09-20T05:13:23.425Z</updated>
-        <content type="html"><![CDATA[2024.09.25(수) 02:00]]></content>
     </entry>
 </feed>
