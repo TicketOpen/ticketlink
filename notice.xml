@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-23T07:12:56.427Z</updated>
+    <updated>2024-09-23T08:17:28.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60358</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60358"/>
+        <updated>2024-09-23T08:17:20.538Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.24(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 변진섭 전국투어 콘서트 : 변천사 - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60357</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60357"/>
+        <updated>2024-09-23T08:17:20.538Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.24(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뭇별이 잠든 띵조파크 in 용산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60356</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60356"/>
+        <updated>2024-09-23T08:17:20.539Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <보이즈 인 더 밴드> 2차​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60355</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60344"/>
         <updated>2024-09-20T05:13:14.800Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <빨래> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60343</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60343"/>
-        <updated>2024-09-20T04:15:30.609Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8  <미래연구소를 지켜라!> – 안산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60342</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60342"/>
-        <updated>2024-09-20T07:13:21.380Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 구미​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60341</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60341"/>
-        <updated>2024-09-20T05:13:14.806Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 05:00]]></content>
     </entry>
 </feed>
