@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-24T05:12:51.970Z</updated>
+    <updated>2024-09-24T06:18:33.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사의찬미 2024 2ND STAGE> 2차​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60372</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60372"/>
+        <updated>2024-09-24T06:18:32.558Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​GUMMY Tour Concert 2024 < LOVE >​ - 성남​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60371</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60357"/>
         <updated>2024-09-23T08:17:27.581Z</updated>
         <content type="html"><![CDATA[2024.09.24(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뭇별이 잠든 띵조파크 in 용산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60356</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60356"/>
-        <updated>2024-09-23T08:17:27.581Z</updated>
-        <content type="html"><![CDATA[2024.09.26(목) 03:00]]></content>
     </entry>
 </feed>
