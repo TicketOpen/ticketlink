@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-24T02:18:27.412Z</updated>
+    <updated>2024-09-24T03:18:35.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 국악콘서트 <소리꽃 가객단 x The 세로>, <피리밴드 저클 x 온도> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60366</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60366"/>
+        <updated>2024-09-24T03:18:35.044Z</updated>
+        <content type="html"><![CDATA[2024.09.25(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 가족 음악극 <착한사람 김삼봉>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60365</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60350"/>
         <updated>2024-09-21T03:14:03.173Z</updated>
         <content type="html"><![CDATA[2024.10.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  나 혼자만 레벨업:어라이즈 챔피언십 코리아 시즌1​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60349</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60349"/>
-        <updated>2024-09-20T08:16:25.481Z</updated>
-        <content type="html"><![CDATA[2024.09.25(수) 05:00]]></content>
     </entry>
 </feed>
