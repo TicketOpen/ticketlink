@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-24T00:59:23.672Z</updated>
+    <updated>2024-09-24T02:18:27.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 가족 음악극 <착한사람 김삼봉>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60365</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60365"/>
+        <updated>2024-09-24T02:18:20.195Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 코미디 연극 <보잉보잉> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60362</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60362"/>
+        <updated>2024-09-24T02:18:20.196Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <렛미플라이> - 의성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60361</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60361"/>
+        <updated>2024-09-24T02:18:20.197Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60360</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60360"/>
+        <updated>2024-09-24T02:18:20.202Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 K-Link Festival​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60359</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60349"/>
         <updated>2024-09-20T08:16:17.682Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60348</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60348"/>
-        <updated>2024-09-20T05:13:14.793Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장사익소리판 ‘꽃을 준다, 나에게’ 대전공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60347</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60347"/>
-        <updated>2024-09-20T03:15:49.110Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.24(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 DONGHAE B DAY PARTY [Welcome To My Ocean] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60346</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60346"/>
-        <updated>2024-09-20T05:13:14.799Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  2024 스텔라장 10주년 콘서트 'I LOVE TO SING'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60345</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60345"/>
-        <updated>2024-09-20T05:13:14.800Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 11:00]]></content>
     </entry>
 </feed>
