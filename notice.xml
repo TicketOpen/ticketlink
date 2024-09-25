@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-25T04:16:32.068Z</updated>
+    <updated>2024-09-25T05:13:23.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 김해​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60380</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60380"/>
+        <updated>2024-09-25T05:13:14.712Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.02(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <클로버>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60379</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60366</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60366"/>
         <updated>2024-09-24T03:18:27.151Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 가족 음악극 <착한사람 김삼봉>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60365</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60365"/>
-        <updated>2024-09-24T02:18:20.195Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
     </entry>
 </feed>
