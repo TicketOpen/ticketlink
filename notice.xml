@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-25T03:20:34.641Z</updated>
+    <updated>2024-09-25T04:16:32.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <클로버>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60379</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60379"/>
+        <updated>2024-09-25T04:16:25.469Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[서울] 2024실감오페라 : LA TRAVIATA 라트라비아타​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60378</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60365"/>
         <updated>2024-09-24T02:18:20.195Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.25(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​진성 30주년 기념 콘서트 <진성 빅쇼> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60364</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60364"/>
-        <updated>2024-09-24T07:12:45.404Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 05:00]]></content>
     </entry>
 </feed>
