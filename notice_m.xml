@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-24T23:12:08.237Z</updated>
+    <updated>2024-09-25T00:59:40.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​개관 30주년 기념 웃는 연극 상당한 가족 - 삼척​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60377</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60377"/>
+        <updated>2024-09-25T00:59:40.097Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오리지널 어린이 캣 - 과천​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60376</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60363"/>
         <updated>2024-09-24T05:12:51.327Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고의 코미디 연극 <보잉보잉> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60362</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60362"/>
-        <updated>2024-09-24T02:18:26.650Z</updated>
-        <content type="html"><![CDATA[2024.09.26(목) 03:00]]></content>
     </entry>
 </feed>
