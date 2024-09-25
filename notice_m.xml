@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-25T07:13:28.908Z</updated>
+    <updated>2024-09-25T08:18:11.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  [대구] 정애련과 조지영의 한국신서정가곡의 밤 1​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60397</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60397"/>
+        <updated>2024-09-25T08:18:10.425Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유러피안 재즈 트리오 Cinema Jazz (광주)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60396</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60396"/>
+        <updated>2024-09-25T08:18:10.426Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유러피안 재즈 트리오 Cinema Jazz (대구) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60395</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60395"/>
+        <updated>2024-09-25T08:18:10.430Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 2회 DMZ OPEN 국제음악제​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60394</id>
@@ -87,27 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60382</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60382"/>
         <updated>2024-09-25T06:18:34.714Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 대전​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60381</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60381"/>
-        <updated>2024-09-25T06:18:34.714Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 김해​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60380</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60380"/>
-        <updated>2024-09-25T05:13:23.113Z</updated>
-        <content type="html"><![CDATA[2024.10.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <클로버>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60379</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60379"/>
-        <updated>2024-09-25T04:16:31.388Z</updated>
         <content type="html"><![CDATA[2024.09.30(월) 06:00]]></content>
     </entry>
 </feed>
