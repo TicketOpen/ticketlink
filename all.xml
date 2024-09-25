@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-25T08:18:11.115Z</updated>
+    <updated>2024-09-25T09:14:04.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  이채원 < Urban Gesture > - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60401</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60401"/>
+        <updated>2024-09-25T09:13:55.392Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 트윙클 캠핑 페스티벌 in 칠곡​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60400</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60400"/>
+        <updated>2024-09-25T09:13:55.392Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [부산] 베토벤 교향곡 Nine SYMPHONY - 환희의 송가​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60399</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60399"/>
+        <updated>2024-09-25T09:13:55.394Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <갯골의 여자들> - 경산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60398</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60398"/>
+        <updated>2024-09-25T09:13:55.394Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.02(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  [대구] 정애련과 조지영의 한국신서정가곡의 밤 1​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60397</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.02(수) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60385</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60385"/>
-        <updated>2024-09-25T06:18:26.625Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.02(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  이채원 < Urban Gesture > - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60401</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60401"/>
+        <updated>2024-09-25T09:14:03.727Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60384</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60384"/>
-        <updated>2024-09-25T06:18:26.625Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 트윙클 캠핑 페스티벌 in 칠곡​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60400</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60400"/>
+        <updated>2024-09-25T09:14:03.728Z</updated>
+        <content type="html"><![CDATA[2024.09.26(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60383</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60383"/>
-        <updated>2024-09-25T06:18:26.625Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 07:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [부산] 베토벤 교향곡 Nine SYMPHONY - 환희의 송가​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60399</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60399"/>
+        <updated>2024-09-25T09:14:03.728Z</updated>
+        <content type="html"><![CDATA[2024.09.30(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 창원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60382</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60382"/>
-        <updated>2024-09-25T06:18:26.626Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 연극 <갯골의 여자들> - 경산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60398</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60398"/>
+        <updated>2024-09-25T09:14:03.728Z</updated>
+        <content type="html"><![CDATA[2024.10.02(수) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  [대구] 정애련과 조지영의 한국신서정가곡의 밤 1​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60386"/>
         <updated>2024-09-25T06:18:34.703Z</updated>
         <content type="html"><![CDATA[2024.10.02(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60385</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60385"/>
-        <updated>2024-09-25T06:18:34.704Z</updated>
-        <content type="html"><![CDATA[2024.10.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60384</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60384"/>
-        <updated>2024-09-25T06:18:34.706Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60383</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60383"/>
-        <updated>2024-09-25T06:18:34.709Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 노을 전국투어 콘서트 <노을이 내린 밤> - 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60382</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60382"/>
-        <updated>2024-09-25T06:18:34.714Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 06:00]]></content>
     </entry>
 </feed>
