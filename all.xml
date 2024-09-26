@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-26T06:18:13.146Z</updated>
+    <updated>2024-09-26T07:13:07.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 김성훈댄스프로젝트 Pool 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60416</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60416"/>
+        <updated>2024-09-26T07:12:59.828Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <흑백다방> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60414</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 트윙클 캠핑 페스티벌 in 칠곡​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60400</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60400"/>
-        <updated>2024-09-25T09:13:55.392Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 김성훈댄스프로젝트 Pool 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60416</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60416"/>
+        <updated>2024-09-26T07:13:07.092Z</updated>
+        <content type="html"><![CDATA[2024.09.27(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <흑백다방> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60401"/>
         <updated>2024-09-25T09:14:03.727Z</updated>
         <content type="html"><![CDATA[2024.09.27(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 트윙클 캠핑 페스티벌 in 칠곡​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60400</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60400"/>
-        <updated>2024-09-25T09:14:03.728Z</updated>
-        <content type="html"><![CDATA[2024.09.26(목) 01:00]]></content>
     </entry>
 </feed>
