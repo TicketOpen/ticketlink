@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-26T03:18:45.087Z</updated>
+    <updated>2024-09-26T04:16:30.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꼬마돼지 삼형제 - 평택 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60409</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60409"/>
+        <updated>2024-09-26T04:16:21.704Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.27(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 이화여대 ECC 삼성홀 대관 공고]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60408</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60394"/>
         <updated>2024-09-25T07:13:19.615Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [대구] 벗&공감 클라운지콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60393</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60393"/>
-        <updated>2024-09-25T06:18:26.612Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.26(목) 01:00]]></content>
     </entry>
 </feed>
