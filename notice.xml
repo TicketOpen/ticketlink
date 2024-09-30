@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-09-30T05:13:38.394Z</updated>
+    <updated>2024-09-30T06:19:12.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] LIVE ON부산 FT아일랜드(FTISLAND),터치드(TOUCHED)​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60438</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60438"/>
+        <updated>2024-09-30T06:19:05.900Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] LIVE ON부산(루시(LUCY),원위(ONEWE)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60437</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60437"/>
+        <updated>2024-09-30T06:19:05.901Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 포레스텔라 콘서트 < THE ILLUSIONIST >​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60436</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60424"/>
         <updated>2024-09-27T08:17:20.738Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60423</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60423"/>
-        <updated>2024-09-27T08:17:20.738Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.07(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극단 온누리 <이웃집 쌀통> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60422</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60422"/>
-        <updated>2024-09-27T06:19:06.114Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 01:00]]></content>
     </entry>
 </feed>
