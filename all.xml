@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-30T02:25:07.521Z</updated>
+    <updated>2024-09-30T03:23:41.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  에릭 치엔 < Believe > 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60434</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60434"/>
+        <updated>2024-09-30T03:23:33.324Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2024 세대공감 어울림 북콘서트 (김상욱 with 궤도) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60433</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] EVNNE FANMEETING 2024 [EVNNEING-PRESSO]​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60419</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60419"/>
-        <updated>2024-09-27T05:12:35.662Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 11:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  에릭 치엔 < Believe > 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60434</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60434"/>
+        <updated>2024-09-30T03:23:40.830Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2024 세대공감 어울림 북콘서트 (김상욱 with 궤도) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60420"/>
         <updated>2024-09-27T05:12:43.325Z</updated>
         <content type="html"><![CDATA[2024.10.04(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] EVNNE FANMEETING 2024 [EVNNEING-PRESSO]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60419</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60419"/>
-        <updated>2024-09-27T05:12:43.342Z</updated>
-        <content type="html"><![CDATA[2024.10.15(화) 11:00]]></content>
     </entry>
 </feed>
