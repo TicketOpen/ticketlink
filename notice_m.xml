@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-09-30T08:19:18.545Z</updated>
+    <updated>2024-09-30T09:15:55.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 베스트슬립 수면콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60442</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60442"/>
+        <updated>2024-09-30T09:15:54.762Z</updated>
+        <content type="html"><![CDATA[2024.10.07(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 JUNGSOOMIN CONCERT [끌리는 대로]​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60441</id>
@@ -31,7 +38,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/60436</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60436"/>
         <updated>2024-09-30T05:13:37.720Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 10:00]]></content>
+        <content type="html"><![CDATA[2024.10.10(목) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 손태진 단독 콘서트 〈The Showcase〉 전국투어 - 부산 티켓오픈 안내]]></title>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 춘천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60426</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60426"/>
-        <updated>2024-09-27T08:17:29.365Z</updated>
-        <content type="html"><![CDATA[2024.10.04(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리는 슈퍼맘> - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60425</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60425"/>
         <updated>2024-09-27T08:17:29.365Z</updated>
         <content type="html"><![CDATA[2024.10.04(금) 02:00]]></content>
     </entry>
