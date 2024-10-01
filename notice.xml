@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-01T05:13:59.797Z</updated>
+    <updated>2024-10-01T06:18:53.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60441"/>
         <updated>2024-09-30T07:13:52.390Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“7 ROCK PRIME 2024”  <스카페스티벌 Spin-off>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60440</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60440"/>
+        <updated>2024-10-01T06:18:46.803Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] LIVE ON부산 FT아일랜드(FTISLAND),터치드(TOUCHED)​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60427"/>
         <updated>2024-09-27T10:14:08.970Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 07:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 춘천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60426</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60426"/>
-        <updated>2024-09-27T08:17:20.737Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content>
     </entry>
 </feed>
