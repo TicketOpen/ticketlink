@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-02T04:16:13.879Z</updated>
+    <updated>2024-10-02T05:13:18.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제11회 이데일리 문화대상 시상식 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60444</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60444"/>
+        <updated>2024-10-02T05:13:17.301Z</updated>
+        <content type="html"><![CDATA[2024.10.04(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 베스트슬립 수면콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60442</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60428"/>
         <updated>2024-09-28T03:17:13.875Z</updated>
         <content type="html"><![CDATA[2024.10.07(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]부산광역시교육청학생예술문화회관 교직원 초청 공연 - 감각주의​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60427</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60427"/>
-        <updated>2024-09-27T10:14:16.348Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 07:30]]></content>
     </entry>
 </feed>
