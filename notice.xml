@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-02T06:18:13.319Z</updated>
+    <updated>2024-10-02T07:13:15.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 08 - 이상우 단독콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60447</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60447"/>
+        <updated>2024-10-02T07:13:05.834Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 토크콘서트 'Talk into the groove'​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60446</id>
@@ -25,6 +32,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60444"/>
         <updated>2024-10-02T05:13:11.461Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 1차​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60443</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60443"/>
+        <updated>2024-10-02T07:13:05.844Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 베스트슬립 수면콘서트​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60432"/>
         <updated>2024-09-30T01:01:00.254Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 가족뮤지컬 <라푼젤> - 남양주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60431</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60431"/>
-        <updated>2024-09-28T10:12:46.730Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.02(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 춘천 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60430</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60430"/>
-        <updated>2024-09-28T10:12:46.731Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.02(수) 00:00]]></content>
     </entry>
 </feed>
