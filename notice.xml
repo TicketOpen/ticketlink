@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-04T02:17:57.781Z</updated>
+    <updated>2024-10-04T03:18:33.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(천안)​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60463</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60463"/>
+        <updated>2024-10-04T03:18:24.544Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(울산)​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60462</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60462"/>
+        <updated>2024-10-04T03:18:24.563Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(대구)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60461</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60461"/>
+        <updated>2024-10-04T03:18:24.563Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 3차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60460</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60460"/>
+        <updated>2024-10-04T03:18:24.563Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60458</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60448"/>
         <updated>2024-10-03T02:17:45.862Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 08 - 이상우 단독콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60447</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60447"/>
-        <updated>2024-10-02T07:13:05.834Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 토크콘서트 'Talk into the groove'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60446</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60446"/>
-        <updated>2024-10-02T06:18:05.546Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 07 - 사랑과평화 단독콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60445</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60445"/>
-        <updated>2024-10-02T06:18:05.546Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제11회 이데일리 문화대상 시상식 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60444</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60444"/>
-        <updated>2024-10-02T05:13:11.461Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
     </entry>
 </feed>
