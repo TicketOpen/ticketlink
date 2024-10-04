@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-04T00:59:07.757Z</updated>
+    <updated>2024-10-04T02:17:57.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 3차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60458</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60458"/>
+        <updated>2024-10-04T02:17:49.226Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 뽀식이 유랑단 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60457</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60457"/>
+        <updated>2024-10-04T02:17:49.227Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.09(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 청주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60456</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60456"/>
+        <updated>2024-10-04T02:17:49.228Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60455</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60455"/>
+        <updated>2024-10-04T02:17:49.228Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60454</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60454"/>
+        <updated>2024-10-04T02:17:49.231Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 강릉 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60453</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60453"/>
+        <updated>2024-10-04T02:17:49.235Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 덕진 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60452</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60452"/>
+        <updated>2024-10-04T02:17:49.235Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 부산​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60451</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60451"/>
+        <updated>2024-10-04T02:17:49.238Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 안산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60450</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60450"/>
+        <updated>2024-10-04T02:17:49.238Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 군산 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60449</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60449"/>
+        <updated>2024-10-04T02:17:49.239Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​지브리&디즈니 영화음악 FESTA ​티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60448</id>
@@ -40,74 +110,74 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 1차​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60443</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60443"/>
-        <updated>2024-10-02T07:13:05.844Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 06:00]]></content>
+        <title type="html"><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60458</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60458"/>
+        <updated>2024-10-04T02:17:57.139Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 베스트슬립 수면콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60442</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60442"/>
-        <updated>2024-09-30T09:15:48.653Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.07(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2024 뽀식이 유랑단 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60457</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60457"/>
+        <updated>2024-10-04T02:17:57.141Z</updated>
+        <content type="html"><![CDATA[2024.10.09(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 JUNGSOOMIN CONCERT [끌리는 대로]​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60441</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60441"/>
-        <updated>2024-09-30T07:13:52.390Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 10:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 청주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60456</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60456"/>
+        <updated>2024-10-04T02:17:57.141Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“7 ROCK PRIME 2024”  <스카페스티벌 Spin-off>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60440</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60440"/>
-        <updated>2024-10-01T06:18:46.803Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 08:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60455</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60455"/>
+        <updated>2024-10-04T02:17:57.142Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] LIVE ON부산 FT아일랜드(FTISLAND),터치드(TOUCHED)​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60438</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60438"/>
-        <updated>2024-09-30T06:19:05.900Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 11:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60454</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60454"/>
+        <updated>2024-10-04T02:17:57.146Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] LIVE ON부산(루시(LUCY),원위(ONEWE)​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60437</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60437"/>
-        <updated>2024-09-30T06:19:05.901Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 11:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 강릉 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60453</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60453"/>
+        <updated>2024-10-04T02:17:57.149Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 포레스텔라 콘서트 < THE ILLUSIONIST >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60436</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60436"/>
-        <updated>2024-09-30T05:13:29.902Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 10:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 덕진 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60452</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60452"/>
+        <updated>2024-10-04T02:17:57.154Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 손태진 단독 콘서트  전국투어 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60435</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60435"/>
-        <updated>2024-09-30T05:13:29.902Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 10:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 부산​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60451</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60451"/>
+        <updated>2024-10-04T02:17:57.156Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  에릭 치엔 < Believe > 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60434</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60434"/>
-        <updated>2024-09-30T03:23:33.324Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.04(금) 05:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60450</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60450"/>
+        <updated>2024-10-04T02:17:57.158Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 세대공감 어울림 북콘서트 (김상욱 with 궤도) 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60433</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60433"/>
-        <updated>2024-09-30T01:01:00.254Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.09.30(월) 05:00]]></content>
+        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 군산 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60449</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60449"/>
+        <updated>2024-10-04T02:17:57.159Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​지브리&디즈니 영화음악 FESTA ​티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -143,75 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60444"/>
         <updated>2024-10-02T05:13:17.301Z</updated>
         <content type="html"><![CDATA[2024.10.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 1차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60443</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60443"/>
-        <updated>2024-10-02T07:13:14.431Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 베스트슬립 수면콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60442</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60442"/>
-        <updated>2024-09-30T09:15:54.762Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 JUNGSOOMIN CONCERT [끌리는 대로]​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60441</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60441"/>
-        <updated>2024-09-30T07:14:00.002Z</updated>
-        <content type="html"><![CDATA[2024.10.04(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“7 ROCK PRIME 2024”  <스카페스티벌 Spin-off>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60440</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60440"/>
-        <updated>2024-10-01T06:18:52.645Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LIVE ON부산 FT아일랜드(FTISLAND),터치드(TOUCHED)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60438</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60438"/>
-        <updated>2024-09-30T06:19:11.957Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] LIVE ON부산(루시(LUCY),원위(ONEWE)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60437</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60437"/>
-        <updated>2024-09-30T06:19:11.961Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 포레스텔라 콘서트 < THE ILLUSIONIST >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60436</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60436"/>
-        <updated>2024-09-30T05:13:37.720Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 손태진 단독 콘서트  전국투어 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60435</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60435"/>
-        <updated>2024-09-30T05:13:37.721Z</updated>
-        <content type="html"><![CDATA[2024.10.04(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  에릭 치엔 < Believe > 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60434</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60434"/>
-        <updated>2024-09-30T03:23:40.830Z</updated>
-        <content type="html"><![CDATA[2024.10.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 세대공감 어울림 북콘서트 (김상욱 with 궤도) 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60433</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60433"/>
-        <updated>2024-09-30T01:01:08.542Z</updated>
-        <content type="html"><![CDATA[2024.09.30(월) 05:00]]></content>
     </entry>
 </feed>
