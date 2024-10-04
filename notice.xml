@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-04T04:15:59.737Z</updated>
+    <updated>2024-10-04T05:13:46.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 이동욱 팬미팅 < Missing : FINDING WOOK >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60466</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60466"/>
+        <updated>2024-10-04T05:13:39.236Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 박기영 25주년 단독 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60465</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60465"/>
+        <updated>2024-10-04T05:13:39.238Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤직플래닛 2024 ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60464</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60451</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60451"/>
         <updated>2024-10-04T02:17:49.238Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 안산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60450</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60450"/>
-        <updated>2024-10-04T02:17:49.238Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울왕국 OST 뮤지컬 <앤나의 모험> - 군산 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60449</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60449"/>
-        <updated>2024-10-04T02:17:49.239Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
     </entry>
 </feed>
