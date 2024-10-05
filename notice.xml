@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-05T07:13:20.252Z</updated>
+    <updated>2024-10-05T08:15:36.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제4회 광양k-pop페스티벌​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60475</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60475"/>
+        <updated>2024-10-05T08:15:28.161Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.09(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김이후 팬미팅 - “이후의 이야기”​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60474</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60461"/>
         <updated>2024-10-04T03:18:24.563Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 3차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60460</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60460"/>
-        <updated>2024-10-04T03:18:24.563Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 05:00]]></content>
     </entry>
 </feed>
