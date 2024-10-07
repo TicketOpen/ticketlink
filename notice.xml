@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-06T23:12:03.168Z</updated>
+    <updated>2024-10-07T01:01:16.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테이 20주년 콘서트 <테이스트>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60478</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60478"/>
+        <updated>2024-10-07T01:01:08.990Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.14(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 부산 기장 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60477</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60464"/>
         <updated>2024-10-04T04:15:50.929Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다-(천안)​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60463</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60463"/>
-        <updated>2024-10-04T03:18:24.544Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 03:00]]></content>
     </entry>
 </feed>
