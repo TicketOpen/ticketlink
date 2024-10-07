@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-07T07:13:54.488Z</updated>
+    <updated>2024-10-07T08:16:12.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] No.1 개그 뮤지컬 내일은 나도 슈퍼 스타​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60493</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60493"/>
+        <updated>2024-10-07T08:16:05.272Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주예술의전당 기획공연 11시음악산책 '안웅철, 지금이 가장 빛나는 순간'​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60492</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60492"/>
+        <updated>2024-10-07T08:16:05.276Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.09(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​제27회 울산교육문화예술제 기획공연 <뮤페라 렉처 콘서트>​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60491</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테이 20주년 콘서트 <테이스트>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60478</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60478"/>
-        <updated>2024-10-07T01:01:08.990Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.14(월) 10:00]]></content>
+        <title type="html"><![CDATA[[단독판매] No.1 개그 뮤지컬 내일은 나도 슈퍼 스타​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60493</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60493"/>
+        <updated>2024-10-07T08:16:11.342Z</updated>
+        <content type="html"><![CDATA[2024.10.15(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 부산 기장 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60477</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60477"/>
-        <updated>2024-10-06T04:15:58.779Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 광주예술의전당 기획공연 11시음악산책 '안웅철, 지금이 가장 빛나는 순간'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60492</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60492"/>
+        <updated>2024-10-07T08:16:11.342Z</updated>
+        <content type="html"><![CDATA[2024.10.09(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​제27회 울산교육문화예술제 기획공연 <뮤페라 렉처 콘서트>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60479"/>
         <updated>2024-10-07T02:22:53.466Z</updated>
         <content type="html"><![CDATA[2024.10.11(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테이 20주년 콘서트 <테이스트>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60478</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60478"/>
-        <updated>2024-10-07T01:01:15.520Z</updated>
-        <content type="html"><![CDATA[2024.10.14(월) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 부산 기장 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60477</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60477"/>
-        <updated>2024-10-06T04:16:04.857Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 00:00]]></content>
     </entry>
 </feed>
