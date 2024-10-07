@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-07T05:14:33.653Z</updated>
+    <updated>2024-10-07T06:18:54.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  박시연 트리오의 <정서緖> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60489</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60489"/>
+        <updated>2024-10-07T06:18:53.584Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  싱어송라이터 안정수의 <나는 SOLO> 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60488</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60488"/>
+        <updated>2024-10-07T06:18:53.584Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 신민속악회 바디 <낙화시절> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60487</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60487"/>
+        <updated>2024-10-07T06:18:53.590Z</updated>
+        <content type="html"><![CDATA[2024.10.08(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  만나필하모닉 오케스트라 가을 정기연주회 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60486</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60486"/>
+        <updated>2024-10-07T06:18:53.592Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구서울극장교류전 <거기,푸른 담쟁이 동산> - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60485</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60475"/>
         <updated>2024-10-05T08:15:35.868Z</updated>
         <content type="html"><![CDATA[2024.10.09(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김이후 팬미팅 - “이후의 이야기”​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60474</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60474"/>
-        <updated>2024-10-04T08:16:48.961Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 홍성원 팬미팅 - “성원에 감사드립니다.” (부제: 성원과 함께)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60473</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60473"/>
-        <updated>2024-10-04T08:16:48.963Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 강찬 팬미팅 - “다함께 찬찬찬”​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60472</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60472"/>
-        <updated>2024-10-04T08:16:48.963Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 윤은오 팬미팅 - “오늘 하루”​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60471</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60471"/>
-        <updated>2024-10-04T08:16:48.967Z</updated>
-        <content type="html"><![CDATA[2024.10.07(월) 05:00]]></content>
     </entry>
 </feed>
