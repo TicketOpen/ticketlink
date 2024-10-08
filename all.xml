@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-08T04:16:11.519Z</updated>
+    <updated>2024-10-08T05:13:23.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 케이팝 월드 페스티벌&뮤직뱅크 in 창원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60496</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60496"/>
+        <updated>2024-10-08T05:13:14.034Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60495</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 산타와 루돌프 - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60481</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60481"/>
-        <updated>2024-10-07T05:14:25.286Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​2024 케이팝 월드 페스티벌&뮤직뱅크 in 창원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60496</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60496"/>
+        <updated>2024-10-08T05:13:22.842Z</updated>
+        <content type="html"><![CDATA[2024.10.15(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60482"/>
         <updated>2024-10-07T05:14:32.986Z</updated>
         <content type="html"><![CDATA[2024.10.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 산타와 루돌프 - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60481</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60481"/>
-        <updated>2024-10-07T05:14:32.987Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 01:00]]></content>
     </entry>
 </feed>
