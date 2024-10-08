@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-08T06:19:07.065Z</updated>
+    <updated>2024-10-08T07:13:14.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 프리뷰 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60499</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60499"/>
+        <updated>2024-10-08T07:13:05.465Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스캐롤 - 서울 양천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60498</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60498"/>
+        <updated>2024-10-08T07:13:05.466Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <랭보> 4차​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60497</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 JOOYOUNG CONCERT, A MISFITS' SUNDAY 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60484</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60484"/>
-        <updated>2024-10-07T05:14:25.279Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 03:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 프리뷰 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60499</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60499"/>
+        <updated>2024-10-08T07:13:13.456Z</updated>
+        <content type="html"><![CDATA[2024.10.17(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[대구] 2024 조항조 연말 라이브 쇼!​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60483</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60483"/>
-        <updated>2024-10-07T05:14:25.281Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 02:00]]></content>
+        <title type="html"><![CDATA[크리스마스캐롤 - 서울 양천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60498</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60498"/>
+        <updated>2024-10-08T07:13:13.460Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <랭보> 4차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60485"/>
         <updated>2024-10-07T05:14:32.984Z</updated>
         <content type="html"><![CDATA[2024.10.08(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 JOOYOUNG CONCERT, A MISFITS' SUNDAY 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60484</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60484"/>
-        <updated>2024-10-07T05:14:32.984Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[대구] 2024 조항조 연말 라이브 쇼!​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60483</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60483"/>
-        <updated>2024-10-07T05:14:32.986Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 02:00]]></content>
     </entry>
 </feed>
