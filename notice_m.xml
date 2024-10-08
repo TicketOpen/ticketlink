@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-08T08:17:34.667Z</updated>
+    <updated>2024-10-08T09:13:46.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2024 어썸스테이지 [ N.Flying ] 추가 티켓오픈 안내​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60500</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60500"/>
+        <updated>2024-10-08T09:13:45.745Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 프리뷰 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60499</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60486"/>
         <updated>2024-10-07T06:18:53.592Z</updated>
         <content type="html"><![CDATA[2024.10.10(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구서울극장교류전 <거기,푸른 담쟁이 동산> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60485</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60485"/>
-        <updated>2024-10-07T05:14:32.984Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 01:00]]></content>
     </entry>
 </feed>
