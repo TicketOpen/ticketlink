@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-10T08:16:53.676Z</updated>
+    <updated>2024-10-10T09:14:45.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀” - 서울 (구로)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60512</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60512"/>
+        <updated>2024-10-10T09:14:37.698Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코믹 범죄 스릴러 연극 <701호>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60511</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60511"/>
+        <updated>2024-10-10T09:14:37.699Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[오픈일시변경]  [20집 발매 기념 조용필&위대한탄생 Concert - 서울]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60510</id>
@@ -25,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60508"/>
         <updated>2024-10-10T06:18:16.958Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] NieR : Orchestra Concert 1 2 0 2 4 [ the end of data ] 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60507</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60507"/>
+        <updated>2024-10-10T09:14:37.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[< EUNOIA > 크로스오버 콘서트 THE LEGEND​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60496"/>
         <updated>2024-10-08T05:13:14.034Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60495</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60495"/>
-        <updated>2024-10-08T02:20:27.488Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​버블매직쇼 - 대구 (2024 롯데백화점 대구)​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60494</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60494"/>
-        <updated>2024-10-08T02:20:27.491Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] No.1 개그 뮤지컬 내일은 나도 슈퍼 스타​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60493</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60493"/>
-        <updated>2024-10-07T08:16:05.272Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 05:00]]></content>
     </entry>
 </feed>
