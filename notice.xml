@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-10T02:17:16.404Z</updated>
+    <updated>2024-10-10T03:18:43.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[< EUONIA > 크로스오버 콘서트 THE LEGEND​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60506</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60506"/>
+        <updated>2024-10-10T03:18:34.362Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.14(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다-(서울) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60505</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60505"/>
+        <updated>2024-10-10T03:18:34.368Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다-(부산) 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60504</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60504"/>
+        <updated>2024-10-10T03:18:34.368Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 한수원 뮤직 페스티벌 <씨어터> - 경주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60503</id>
@@ -32,13 +53,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60499"/>
         <updated>2024-10-08T07:13:05.465Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스캐롤 - 서울 양천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60498</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60498"/>
-        <updated>2024-10-08T07:13:05.466Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <랭보> 4차​​ 티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60490</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60490"/>
         <updated>2024-10-07T07:13:45.688Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  박시연 트리오의 <정서緖> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60489</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60489"/>
-        <updated>2024-10-07T06:18:45.675Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  싱어송라이터 안정수의 <나는 SOLO> 콘서트 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60488</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60488"/>
-        <updated>2024-10-07T06:18:45.675Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 05:00]]></content>
     </entry>
 </feed>
