@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-10T00:58:42.469Z</updated>
+    <updated>2024-10-10T02:17:16.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 한수원 뮤직 페스티벌 <씨어터> - 경주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60503</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60503"/>
+        <updated>2024-10-10T02:17:15.738Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 리라타 LYRATA 초청 공연 네덜란드  <비올라 다감바 사중주단> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60502</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60502"/>
+        <updated>2024-10-10T02:17:15.743Z</updated>
+        <content type="html"><![CDATA[2024.10.11(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 어썸스테이지 [ N.Flying ] 추가 티켓오픈 안내​]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60500</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60488"/>
         <updated>2024-10-07T06:18:53.584Z</updated>
         <content type="html"><![CDATA[2024.10.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 신민속악회 바디 <낙화시절> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60487</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60487"/>
-        <updated>2024-10-07T06:18:53.590Z</updated>
-        <content type="html"><![CDATA[2024.10.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  만나필하모닉 오케스트라 가을 정기연주회 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60486</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60486"/>
-        <updated>2024-10-07T06:18:53.592Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 01:00]]></content>
     </entry>
 </feed>
