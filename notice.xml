@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-10T09:14:45.906Z</updated>
+    <updated>2024-10-10T10:14:09.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60516</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60516"/>
+        <updated>2024-10-10T10:14:01.971Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 목포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60514</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60514"/>
+        <updated>2024-10-10T10:14:01.971Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 목포​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60513</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60513"/>
+        <updated>2024-10-10T10:14:01.971Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀” - 서울 (구로)​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60512</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60500"/>
         <updated>2024-10-08T09:13:37.403Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 프리뷰 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60499</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60499"/>
-        <updated>2024-10-08T07:13:05.465Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <랭보> 4차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60497</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60497"/>
-        <updated>2024-10-08T06:18:59.423Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 케이팝 월드 페스티벌&뮤직뱅크 in 창원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60496</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60496"/>
-        <updated>2024-10-08T05:13:14.034Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 11:00]]></content>
     </entry>
 </feed>
