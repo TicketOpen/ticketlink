@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-10T07:12:56.520Z</updated>
+    <updated>2024-10-10T08:16:53.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[오픈일시변경]  [20집 발매 기념 조용필&위대한탄생 Concert - 서울]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60510</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60510"/>
+        <updated>2024-10-10T08:16:46.181Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예프게니 키신 피아노 리사이틀​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60509</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60509"/>
+        <updated>2024-10-10T08:16:46.190Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연애지상주의구역 외전 굿바이 2024 [9화, 열 아홉, 열 여덟]​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60508</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60493"/>
         <updated>2024-10-07T08:16:05.272Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주예술의전당 기획공연 11시음악산책 '안웅철, 지금이 가장 빛나는 순간'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60492</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60492"/>
-        <updated>2024-10-07T08:16:05.276Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.09(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​제27회 울산교육문화예술제 기획공연 <뮤페라 렉처 콘서트>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60491</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60491"/>
-        <updated>2024-10-07T07:13:45.688Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.08(화) 01:00]]></content>
     </entry>
 </feed>
