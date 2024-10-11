@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-11T05:12:55.599Z</updated>
+    <updated>2024-10-11T06:18:29.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​한수원 뮤직 페스티벌 <씨어터> - 경주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60532</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60532"/>
+        <updated>2024-10-11T06:18:20.573Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.14(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오페라 잔니 스키키 - 동해​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60530</id>
@@ -88,13 +95,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60519"/>
         <updated>2024-10-11T03:17:51.855Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.11(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시라노>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60518</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60518"/>
-        <updated>2024-10-11T05:12:46.791Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[티켓오픈일 수정안내]  2024 2am콘서트 < 2am is coming to town > - 대구]]></title>
