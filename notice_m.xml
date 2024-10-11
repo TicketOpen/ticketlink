@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-11T12:23:56.946Z</updated>
+    <updated>2024-10-11T13:19:07.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60532"/>
         <updated>2024-10-11T06:18:28.855Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Welcome 호요랜드!​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60531</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60531"/>
+        <updated>2024-10-11T13:19:06.490Z</updated>
+        <content type="html"><![CDATA[2024.10.14(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오페라 잔니 스키키 - 동해​ 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60522</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60522"/>
         <updated>2024-10-11T05:12:54.784Z</updated>
-        <content type="html"><![CDATA[2024.10.15(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀” - 서울 (성수)​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60521</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60521"/>
-        <updated>2024-10-11T05:12:54.786Z</updated>
         <content type="html"><![CDATA[2024.10.15(화) 06:00]]></content>
     </entry>
 </feed>
