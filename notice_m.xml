@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-11T00:58:52.118Z</updated>
+    <updated>2024-10-11T02:16:37.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[티켓오픈일 수정안내]  2024 2am콘서트 < 2am is coming to town > - 대구]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60517</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60517"/>
+        <updated>2024-10-11T02:16:36.853Z</updated>
+        <content type="html"><![CDATA[2024.10.10(목) 15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알사탕> - 제주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60516</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60516"/>
         <updated>2024-10-10T10:14:08.920Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]2024 김민주 팬미팅 [Blooming Story]​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60515</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60515"/>
+        <updated>2024-10-11T02:16:36.853Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 목포​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60503"/>
         <updated>2024-10-10T02:17:15.738Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 리라타 LYRATA 초청 공연 네덜란드  <비올라 다감바 사중주단> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60502"/>
-        <updated>2024-10-10T02:17:15.743Z</updated>
-        <content type="html"><![CDATA[2024.10.11(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 어썸스테이지 [ N.Flying ] 추가 티켓오픈 안내​]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60500</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60500"/>
-        <updated>2024-10-08T09:13:45.745Z</updated>
-        <content type="html"><![CDATA[2024.10.10(목) 05:00]]></content>
     </entry>
 </feed>
