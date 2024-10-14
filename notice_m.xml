@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-14T01:01:13.641Z</updated>
+    <updated>2024-10-14T02:22:09.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 WPOP EDM FESTIVAL 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60540</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60540"/>
+        <updated>2024-10-14T02:22:09.146Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[착한공연시즌1 만원의행복 <어린이마술쇼> - 청주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60539</id>
@@ -46,6 +53,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60534"/>
         <updated>2024-10-11T08:17:16.186Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 트롯걸즈재팬 1st 콘서트 - 서울 앵콜 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60533</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60533"/>
+        <updated>2024-10-14T02:22:09.157Z</updated>
+        <content type="html"><![CDATA[2024.10.17(목) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​한수원 뮤직 페스티벌 <씨어터> - 경주​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60526"/>
         <updated>2024-10-11T05:12:54.778Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 안산공연 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60525</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60525"/>
-        <updated>2024-10-11T05:12:54.778Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 목포공연 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60524</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60524"/>
-        <updated>2024-10-11T05:12:54.781Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 05:00]]></content>
     </entry>
 </feed>
