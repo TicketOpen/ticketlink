@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-13T23:13:02.088Z</updated>
+    <updated>2024-10-14T01:01:13.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[착한공연시즌1 만원의행복 <어린이마술쇼> - 청주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60539</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60539"/>
+        <updated>2024-10-14T01:01:12.959Z</updated>
+        <content type="html"><![CDATA[2024.10.16(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제4회 춤사랑 무용제 - 구미​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60538</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60524"/>
         <updated>2024-10-11T05:12:54.781Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 마법여우 주비 <신비한 칠교 목걸이의 비밀> - 고양​​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60523</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60523"/>
-        <updated>2024-10-11T05:12:54.782Z</updated>
-        <content type="html"><![CDATA[2024.10.15(화) 06:00]]></content>
     </entry>
 </feed>
