@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-14T12:24:56.043Z</updated>
+    <updated>2024-10-14T13:22:16.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]경산시립교향악단 제7회 정기연주회​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60547</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60547"/>
+        <updated>2024-10-14T13:22:15.349Z</updated>
+        <content type="html"><![CDATA[2024.10.22(화) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024-25 이은미 라이브 투어 [MOVE ON] - 경주 ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60544</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60531"/>
         <updated>2024-10-11T13:19:06.490Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라 잔니 스키키 - 동해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60530</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60530"/>
-        <updated>2024-10-11T05:12:54.776Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 05:00]]></content>
     </entry>
 </feed>
