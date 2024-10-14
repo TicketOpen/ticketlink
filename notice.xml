@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-14T03:22:06.225Z</updated>
+    <updated>2024-10-14T04:16:08.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 KIM SOO HYUN ASIA TOUR [EYES ON YOU] IN SEOUL 추가 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60541</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60541"/>
+        <updated>2024-10-14T04:16:00.074Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2024 WPOP EDM FESTIVAL 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60540</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60527"/>
         <updated>2024-10-11T05:12:46.773Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 성남공연 추가회차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60526</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60526"/>
-        <updated>2024-10-11T05:12:46.774Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 07:00]]></content>
     </entry>
 </feed>
