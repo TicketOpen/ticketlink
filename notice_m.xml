@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-14T04:16:08.622Z</updated>
+    <updated>2024-10-14T05:13:48.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024-25 이은미 라이브 투어 [MOVE ON] - 경주 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60544</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60544"/>
+        <updated>2024-10-14T05:13:48.276Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 이무진 전국투어 콘서트 [별책부록] - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60543</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60543"/>
+        <updated>2024-10-14T05:13:48.276Z</updated>
+        <content type="html"><![CDATA[2024.10.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 케이윌 앵콜 콘서트 < All The Way > : Christmas Edition​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60542</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60542"/>
+        <updated>2024-10-14T05:13:48.280Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 KIM SOO HYUN ASIA TOUR [EYES ON YOU] IN SEOUL 추가 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60541</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60530"/>
         <updated>2024-10-11T05:12:54.776Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 시흥​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60529</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60529"/>
-        <updated>2024-10-11T05:12:54.776Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥주 한잔 하실래요?​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60528</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60528"/>
-        <updated>2024-10-11T05:12:54.776Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이승철 콘서트 <오케스트락2> 청주공연 추가회차​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60527</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60527"/>
-        <updated>2024-10-11T05:12:54.777Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 08:00]]></content>
     </entry>
 </feed>
