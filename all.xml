@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-15T04:16:13.783Z</updated>
+    <updated>2024-10-15T05:14:13.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[소향 1집 앨범 발매기념 콘서트 Diva - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -17,6 +17,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60547"/>
         <updated>2024-10-14T13:22:08.329Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.22(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고리원자력본부와 함께하는 애니메이션 판타지 Animation Fantasy​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60546</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60546"/>
+        <updated>2024-10-15T05:14:05.193Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 코콘 세 번째 한 번 더: 비 온 뒤 땅이 더 굳어지듯​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.14(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 트롯걸즈재팬 1st 콘서트 - 서울 앵콜 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60533</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60533"/>
-        <updated>2024-10-14T02:22:01.087Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 03:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소향 1집 앨범 발매기념 콘서트 Diva - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60550</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60550"/>
@@ -122,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60547"/>
         <updated>2024-10-14T13:22:15.349Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고리원자력본부와 함께하는 애니메이션 판타지 Animation Fantasy​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60546</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60546"/>
+        <updated>2024-10-15T05:14:13.198Z</updated>
+        <content type="html"><![CDATA[2024.10.15(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 코콘 세 번째 한 번 더: 비 온 뒤 땅이 더 굳어지듯​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60534"/>
         <updated>2024-10-11T08:17:16.186Z</updated>
         <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 트롯걸즈재팬 1st 콘서트 - 서울 앵콜 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60533</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60533"/>
-        <updated>2024-10-14T02:22:09.157Z</updated>
-        <content type="html"><![CDATA[2024.10.17(목) 03:00]]></content>
     </entry>
 </feed>
