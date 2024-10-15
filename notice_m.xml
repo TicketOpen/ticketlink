@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-15T00:59:59.868Z</updated>
+    <updated>2024-10-15T02:20:04.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  IN A MINUTE 1st FANMEETING < Our Hours > [회차추가] 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60548</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60548"/>
-        <updated>2024-10-15T00:59:59.223Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 09:00]]></content>
+        <title type="html"><![CDATA[소향 1집 앨범 발매기념 콘서트 Diva - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60550</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60550"/>
+        <updated>2024-10-15T02:20:03.551Z</updated>
+        <content type="html"><![CDATA[2024.10.18(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]경산시립교향악단 제7회 정기연주회​ 티켓오픈 안내]]></title>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60547"/>
         <updated>2024-10-14T13:22:15.349Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 코콘 세 번째 한 번 더: 비 온 뒤 땅이 더 굳어지듯​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60545</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60545"/>
+        <updated>2024-10-15T02:20:03.551Z</updated>
+        <content type="html"><![CDATA[2024.10.17(목) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024-25 이은미 라이브 투어 [MOVE ON] - 경주 ​티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60533"/>
         <updated>2024-10-14T02:22:09.157Z</updated>
         <content type="html"><![CDATA[2024.10.17(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​한수원 뮤직 페스티벌 <씨어터> - 경주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60532</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60532"/>
-        <updated>2024-10-11T06:18:28.855Z</updated>
-        <content type="html"><![CDATA[2024.10.14(월) 01:00]]></content>
     </entry>
 </feed>
