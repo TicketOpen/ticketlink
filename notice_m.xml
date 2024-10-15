@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-15T08:17:22.322Z</updated>
+    <updated>2024-10-15T09:14:06.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60555</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60555"/>
+        <updated>2024-10-15T09:14:05.950Z</updated>
+        <content type="html"><![CDATA[2024.10.22(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-광주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60554</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60539"/>
         <updated>2024-10-14T01:01:12.959Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  제4회 춤사랑 무용제 - 구미​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60538</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60538"/>
-        <updated>2024-10-12T07:11:15.283Z</updated>
-        <content type="html"><![CDATA[2024.10.15(화) 01:00]]></content>
     </entry>
 </feed>
