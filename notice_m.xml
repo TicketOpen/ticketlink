@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-15T10:15:31.969Z</updated>
+    <updated>2024-10-15T11:11:43.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 GES ASIA VALORANT TOURNAMENT​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60556</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60556"/>
+        <updated>2024-10-15T11:11:42.468Z</updated>
+        <content type="html"><![CDATA[2024.10.18(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 2차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60555</id>
@@ -46,6 +53,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60550"/>
         <updated>2024-10-15T02:20:03.551Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  IN A MINUTE 1st FANMEETING < Our Hours > [회차추가] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60548</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60548"/>
+        <updated>2024-10-15T11:11:42.473Z</updated>
+        <content type="html"><![CDATA[2024.10.17(목) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]경산시립교향악단 제7회 정기연주회​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60541"/>
         <updated>2024-10-14T04:16:07.988Z</updated>
         <content type="html"><![CDATA[2024.10.15(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 WPOP EDM FESTIVAL 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60540</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60540"/>
-        <updated>2024-10-14T02:22:09.146Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[착한공연시즌1 만원의행복 <어린이마술쇼> - 청주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60539</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60539"/>
-        <updated>2024-10-14T01:01:12.959Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 00:00]]></content>
     </entry>
 </feed>
