@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-16T00:59:57.482Z</updated>
+    <updated>2024-10-16T02:20:48.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 GES ASIA VALORANT TOURNAMENT​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -54,6 +54,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.18(금) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  [피처링_트랙 6] 뮤지컬 <랭보> 티켓 오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60549</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60549"/>
+        <updated>2024-10-16T02:20:39.389Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.21(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]  IN A MINUTE 1st FANMEETING < Our Hours > [회차추가] 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60548</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60548"/>
@@ -96,18 +103,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 케이윌 앵콜 콘서트 < All The Way > : Christmas Edition​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[2024 케이윌 앵콜 콘서트 < All The Way > : Christmas Edition​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60542</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60542"/>
         <updated>2024-10-14T05:13:40.961Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 KIM SOO HYUN ASIA TOUR [EYES ON YOU] IN SEOUL 추가 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60541</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60541"/>
-        <updated>2024-10-14T04:16:00.074Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 GES ASIA VALORANT TOURNAMENT​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[2024.10.18(금) 02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  [피처링_트랙 6] 뮤지컬 <랭보> 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60549</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60549"/>
+        <updated>2024-10-16T02:20:47.661Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]  IN A MINUTE 1st FANMEETING < Our Hours > [회차추가] 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60548</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60548"/>
@@ -201,17 +208,10 @@
         <content type="html"><![CDATA[2024.10.17(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 케이윌 앵콜 콘서트 < All The Way > : Christmas Edition​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[2024 케이윌 앵콜 콘서트 < All The Way > : Christmas Edition​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60542</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60542"/>
         <updated>2024-10-14T05:13:48.280Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 KIM SOO HYUN ASIA TOUR [EYES ON YOU] IN SEOUL 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60541</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60541"/>
-        <updated>2024-10-14T04:16:07.988Z</updated>
-        <content type="html"><![CDATA[2024.10.15(화) 10:00]]></content>
     </entry>
 </feed>
