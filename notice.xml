@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-16T03:21:26.869Z</updated>
+    <updated>2024-10-16T04:16:18.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  대구국제성악콩쿠르 WFIMC 가입기념 축하음악회 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60560</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60560"/>
+        <updated>2024-10-16T04:16:10.108Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 월암 가을음악회 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60559</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60559"/>
+        <updated>2024-10-16T04:16:10.113Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.18(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  가요뮤지컬 '내 하나의 사람은 가고' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60558</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60558"/>
+        <updated>2024-10-16T04:16:10.113Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.21(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 수원​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60557</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60546"/>
         <updated>2024-10-15T05:14:05.193Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.15(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 코콘 세 번째 한 번 더: 비 온 뒤 땅이 더 굳어지듯​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60545</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60545"/>
-        <updated>2024-10-15T02:19:54.831Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024-25 이은미 라이브 투어 [MOVE ON] - 경주 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60544</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60544"/>
-        <updated>2024-10-14T05:13:40.960Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.21(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 이무진 전국투어 콘서트 [별책부록] - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60543</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60543"/>
-        <updated>2024-10-14T05:13:40.960Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
     </entry>
 </feed>
