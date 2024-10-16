@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-16T02:20:48.269Z</updated>
+    <updated>2024-10-16T03:21:26.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60557</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60557"/>
+        <updated>2024-10-16T03:21:19.815Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.21(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 GES ASIA VALORANT TOURNAMENT​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60556</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60543"/>
         <updated>2024-10-14T05:13:40.960Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 케이윌 앵콜 콘서트 < All The Way > : Christmas Edition​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60542</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60542"/>
-        <updated>2024-10-14T05:13:40.961Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 11:00]]></content>
     </entry>
 </feed>
