@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-16T04:16:18.643Z</updated>
+    <updated>2024-10-16T05:14:16.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​모차르트 'Requiem' in D minor KV 626​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60561</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60561"/>
+        <updated>2024-10-16T05:14:16.103Z</updated>
+        <content type="html"><![CDATA[2024.10.17(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  대구국제성악콩쿠르 WFIMC 가입기념 축하음악회 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60560</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60547"/>
         <updated>2024-10-14T13:22:15.349Z</updated>
         <content type="html"><![CDATA[2024.10.22(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고리원자력본부와 함께하는 애니메이션 판타지 Animation Fantasy​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60546</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60546"/>
-        <updated>2024-10-15T05:14:13.198Z</updated>
-        <content type="html"><![CDATA[2024.10.15(화) 01:00]]></content>
     </entry>
 </feed>
