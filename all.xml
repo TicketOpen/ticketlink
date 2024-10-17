@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-17T05:13:58.921Z</updated>
+    <updated>2024-10-17T06:18:49.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60569</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60569"/>
+        <updated>2024-10-17T06:18:40.098Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 추가 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60568</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <친구의 전설>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60553</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60553"/>
-        <updated>2024-10-15T07:13:03.307Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 02:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60569</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60569"/>
+        <updated>2024-10-17T06:18:48.968Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60554"/>
         <updated>2024-10-15T08:17:21.684Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <친구의 전설>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60553</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60553"/>
-        <updated>2024-10-15T07:13:11.281Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 02:00]]></content>
     </entry>
 </feed>
