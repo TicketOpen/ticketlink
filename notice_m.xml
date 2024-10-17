@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-17T00:59:27.171Z</updated>
+    <updated>2024-10-17T02:18:21.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 추가 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60568</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60568"/>
+        <updated>2024-10-17T02:18:21.259Z</updated>
+        <content type="html"><![CDATA[2024.10.18(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 고양​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60566</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60552"/>
         <updated>2024-10-15T07:13:11.281Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  제 61회 정기공연 창극 '여울물 소리'-광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60551</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60551"/>
-        <updated>2024-10-15T06:19:16.251Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 01:00]]></content>
     </entry>
 </feed>
