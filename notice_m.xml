@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-17T04:16:22.653Z</updated>
+    <updated>2024-10-17T05:13:58.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60568"/>
         <updated>2024-10-17T02:18:21.259Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  스탠드 업 코미디 뮤지컬 <방구석 뮤지컬 - 창작의 밤>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60567</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60567"/>
+        <updated>2024-10-17T05:13:58.306Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 고양​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60553"/>
         <updated>2024-10-15T07:13:11.281Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 389회 정기연주회 'Star' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60552</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60552"/>
-        <updated>2024-10-15T07:13:11.281Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 08:00]]></content>
     </entry>
 </feed>

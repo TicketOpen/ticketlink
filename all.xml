@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-17T04:16:22.483Z</updated>
+    <updated>2024-10-17T05:13:58.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 추가 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60568"/>
         <updated>2024-10-17T02:18:13.726Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.18(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  스탠드 업 코미디 뮤지컬 <방구석 뮤지컬 - 창작의 밤>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60567</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60567"/>
+        <updated>2024-10-17T05:13:50.764Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.21(월) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 389회 정기연주회 'Star' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60552</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60552"/>
-        <updated>2024-10-15T07:13:03.313Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.16(수) 08:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[​[단독판매]  트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60568</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60568"/>
         <updated>2024-10-17T02:18:21.259Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  스탠드 업 코미디 뮤지컬 <방구석 뮤지컬 - 창작의 밤>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60567</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60567"/>
+        <updated>2024-10-17T05:13:58.306Z</updated>
+        <content type="html"><![CDATA[2024.10.21(월) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60553"/>
         <updated>2024-10-15T07:13:11.281Z</updated>
         <content type="html"><![CDATA[2024.10.16(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 389회 정기연주회 'Star' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60552</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60552"/>
-        <updated>2024-10-15T07:13:11.281Z</updated>
-        <content type="html"><![CDATA[2024.10.16(수) 08:00]]></content>
     </entry>
 </feed>
