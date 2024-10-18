@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-17T23:13:40.227Z</updated>
+    <updated>2024-10-18T00:59:18.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 넌버벌 퍼포먼스 난타 대구 공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60572</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60572"/>
+        <updated>2024-10-18T00:59:17.498Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 SF9 YOUNGBIN FAN MEETING 'BOHEMIAN'​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60571</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60557"/>
         <updated>2024-10-16T03:21:26.124Z</updated>
         <content type="html"><![CDATA[2024.10.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 GES ASIA VALORANT TOURNAMENT​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60556</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60556"/>
-        <updated>2024-10-15T11:11:42.468Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 10:00]]></content>
     </entry>
 </feed>
