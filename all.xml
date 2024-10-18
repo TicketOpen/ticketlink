@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-18T03:21:24.287Z</updated>
+    <updated>2024-10-18T04:16:54.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울 (10/27)​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60576</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60576"/>
+        <updated>2024-10-18T04:16:45.186Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.18(금) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 – 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60575</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60575"/>
+        <updated>2024-10-18T04:16:45.186Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울] 뮤지컬 한글용사 아이야 - 마지막 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60573</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 월암 가을음악회 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60559</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60559"/>
-        <updated>2024-10-16T04:16:10.113Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.18(금) 01:00]]></content>
+        <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울 (10/27)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60576</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60576"/>
+        <updated>2024-10-18T04:16:53.980Z</updated>
+        <content type="html"><![CDATA[2024.10.18(금) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  가요뮤지컬 '내 하나의 사람은 가고' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60558</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60558"/>
-        <updated>2024-10-16T04:16:10.113Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.21(월) 01:00]]></content>
+        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 – 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60575</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60575"/>
+        <updated>2024-10-18T04:16:53.984Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[서울] 뮤지컬 한글용사 아이야 - 마지막 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60560"/>
         <updated>2024-10-16T04:16:17.963Z</updated>
         <content type="html"><![CDATA[2024.10.23(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 월암 가을음악회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60559</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60559"/>
-        <updated>2024-10-16T04:16:17.966Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  가요뮤지컬 '내 하나의 사람은 가고' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60558</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60558"/>
-        <updated>2024-10-16T04:16:17.967Z</updated>
-        <content type="html"><![CDATA[2024.10.21(월) 01:00]]></content>
     </entry>
 </feed>
