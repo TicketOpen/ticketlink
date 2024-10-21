@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-21T03:22:38.682Z</updated>
+    <updated>2024-10-21T04:16:25.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​THE GREATEST : 불후의명곡 정동하X알리 - 대구 티켓오픈 안내 티켓오픈 안내 (티켓링크)]]></title>
@@ -45,6 +45,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60581"/>
         <updated>2024-10-21T02:50:42.748Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  루돌프와 산타할아버지 - 제주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60580</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60580"/>
+        <updated>2024-10-21T04:16:17.083Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.22(화) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 사운드 아카이브 페스티벌 with Galaxy Store​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 SF9 YOUNGBIN FAN MEETING 'BOHEMIAN'​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60571</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60571"/>
-        <updated>2024-10-17T09:14:25.568Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.21(월) 05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[​THE GREATEST : 불후의명곡 정동하X알리 - 대구 티켓오픈 안내 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60587</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60587"/>
@@ -150,6 +150,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60581"/>
         <updated>2024-10-21T02:50:51.086Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  루돌프와 산타할아버지 - 제주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60580</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60580"/>
+        <updated>2024-10-21T04:16:25.140Z</updated>
+        <content type="html"><![CDATA[2024.10.22(화) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 사운드 아카이브 페스티벌 with Galaxy Store​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60572"/>
         <updated>2024-10-18T00:59:17.498Z</updated>
         <content type="html"><![CDATA[2024.10.24(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 SF9 YOUNGBIN FAN MEETING 'BOHEMIAN'​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60571</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60571"/>
-        <updated>2024-10-17T09:14:32.329Z</updated>
-        <content type="html"><![CDATA[2024.10.21(월) 05:00]]></content>
     </entry>
 </feed>
