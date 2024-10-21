@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-21T02:50:51.721Z</updated>
+    <updated>2024-10-21T03:22:38.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60584"/>
         <updated>2024-10-21T02:50:51.082Z</updated>
         <content type="html"><![CDATA[2024.10.28(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] INFINITE 15TH ANNIVERSARY CONCERT < LIMITED EDITION >​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60583</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60583"/>
+        <updated>2024-10-21T03:22:38.059Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 청주​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60571"/>
         <updated>2024-10-17T09:14:32.329Z</updated>
         <content type="html"><![CDATA[2024.10.21(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  2024 2am Concert < 2am is coming to town > - Daegu​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60570</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60570"/>
-        <updated>2024-10-17T09:14:32.338Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 11:00]]></content>
     </entry>
 </feed>
