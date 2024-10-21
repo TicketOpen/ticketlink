@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-21T01:01:36.917Z</updated>
+    <updated>2024-10-21T02:50:51.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 불후의명곡 정동하X알리 - 대구 티켓오픈 안내 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60587</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60587"/>
+        <updated>2024-10-21T02:50:51.082Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60586</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60586"/>
+        <updated>2024-10-21T02:50:51.082Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  제 38기 TBC 가요아카데미 (선착순 자유석 예매) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60584</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60584"/>
+        <updated>2024-10-21T02:50:51.082Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 청주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60582</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60582"/>
+        <updated>2024-10-21T02:50:51.086Z</updated>
+        <content type="html"><![CDATA[2024.11.01(금) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60581</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60581"/>
+        <updated>2024-10-21T02:50:51.086Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 사운드 아카이브 페스티벌 with Galaxy Store​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60579</id>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60570"/>
         <updated>2024-10-17T09:14:32.338Z</updated>
         <content type="html"><![CDATA[2024.10.18(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60569</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60569"/>
-        <updated>2024-10-17T06:18:48.968Z</updated>
-        <content type="html"><![CDATA[2024.10.24(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  트롯콘서트 < 오구오구 (Oh, 95 good!) >​ 추가 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60568</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60568"/>
-        <updated>2024-10-17T02:18:21.259Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  스탠드 업 코미디 뮤지컬 <방구석 뮤지컬 - 창작의 밤>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60567</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60567"/>
-        <updated>2024-10-17T05:13:58.306Z</updated>
-        <content type="html"><![CDATA[2024.10.21(월) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60566</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60566"/>
-        <updated>2024-10-17T00:59:26.511Z</updated>
-        <content type="html"><![CDATA[2024.10.21(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 목포​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60564</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60564"/>
-        <updated>2024-10-19T04:15:20.649Z</updated>
-        <content type="html"><![CDATA[2024.10.22(화) 00:00]]></content>
     </entry>
 </feed>
