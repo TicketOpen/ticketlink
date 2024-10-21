@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-21T04:16:25.805Z</updated>
+    <updated>2024-10-21T05:13:58.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60586"/>
         <updated>2024-10-21T02:50:42.747Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 작곡가 한혜신콘서트 <그대들 덕분에>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60585</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60585"/>
+        <updated>2024-10-21T05:13:51.261Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  제 38기 TBC 가요아카데미 (선착순 자유석 예매) 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60573"/>
         <updated>2024-10-18T02:18:56.635Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 넌버벌 퍼포먼스 난타 대구 공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60572</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60572"/>
-        <updated>2024-10-18T00:59:09.592Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 05:00]]></content>
     </entry>
 </feed>
