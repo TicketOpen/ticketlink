@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-21T09:15:13.410Z</updated>
+    <updated>2024-10-21T10:14:59.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 경산공감락페스티벌​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60590</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60590"/>
+        <updated>2024-10-21T10:14:49.758Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <드래곤하이 스페셜> - 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60588</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60575"/>
         <updated>2024-10-18T04:16:45.186Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <보이즈 인 더 밴드> 3차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60574</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60574"/>
-        <updated>2024-10-18T05:13:16.592Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
     </entry>
 </feed>
