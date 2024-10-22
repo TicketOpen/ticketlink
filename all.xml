@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-21T23:12:46.155Z</updated>
+    <updated>2024-10-22T01:01:49.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  발레 ‘백조의 호수’ 갈라 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60592</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60592"/>
+        <updated>2024-10-22T01:01:41.253Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60591</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60591"/>
+        <updated>2024-10-22T01:01:41.253Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 경산공감락페스티벌​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60590</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60590"/>
         <updated>2024-10-21T10:14:49.758Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​크리스마스 콘서트 유키 구라모토와 친구들 ​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60589</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60589"/>
+        <updated>2024-10-22T01:01:41.255Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <드래곤하이 스페셜> - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조곡의 향연 - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60577</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60577"/>
-        <updated>2024-10-18T06:18:12.817Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  발레 ‘백조의 호수’ 갈라 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60592</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60592"/>
+        <updated>2024-10-22T01:01:48.227Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울 (10/27)​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60576</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60576"/>
-        <updated>2024-10-18T04:16:45.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.18(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 – 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60575</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60575"/>
-        <updated>2024-10-18T04:16:45.186Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 05:00]]></content>
+        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60591</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60591"/>
+        <updated>2024-10-22T01:01:48.227Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 경산공감락페스티벌​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60590"/>
         <updated>2024-10-21T10:14:58.785Z</updated>
         <content type="html"><![CDATA[2024.10.23(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​크리스마스 콘서트 유키 구라모토와 친구들 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60589</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60589"/>
+        <updated>2024-10-22T01:01:48.227Z</updated>
+        <content type="html"><![CDATA[2024.10.23(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <드래곤하이 스페셜> - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60578"/>
         <updated>2024-10-18T08:17:30.442Z</updated>
         <content type="html"><![CDATA[2024.10.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조곡의 향연 - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60577</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60577"/>
-        <updated>2024-10-18T06:18:20.710Z</updated>
-        <content type="html"><![CDATA[2024.10.28(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리 영화음악 콘서트 2024 서울 (10/27)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60576</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60576"/>
-        <updated>2024-10-18T04:16:53.980Z</updated>
-        <content type="html"><![CDATA[2024.10.18(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 – 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60575</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60575"/>
-        <updated>2024-10-18T04:16:53.984Z</updated>
-        <content type="html"><![CDATA[2024.10.24(목) 05:00]]></content>
     </entry>
 </feed>
