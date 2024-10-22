@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-22T05:13:34.219Z</updated>
+    <updated>2024-10-22T06:18:36.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2025 김창완밴드 콘서트 <회상> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60597</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60597"/>
+        <updated>2024-10-22T06:18:35.410Z</updated>
+        <content type="html"><![CDATA[2024.10.23(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​<정명훈 & 원 코리아 오케스트라>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60596</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60596"/>
         <updated>2024-10-22T05:13:33.589Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [피처링_트랙7] 스탠드 업 코미디 뮤지컬 <방구석 뮤지컬>​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60595</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60595"/>
+        <updated>2024-10-22T06:18:35.412Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 & 무비 슈퍼콘서트 with 옥주현 & 민우혁​ 티켓오픈 안내]]></title>
@@ -73,7 +87,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/60585</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60585"/>
         <updated>2024-10-21T05:13:57.320Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
+        <content type="html"><![CDATA[2024.10.25(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  제 38기 TBC 가요아카데미 (선착순 자유석 예매) 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60582"/>
         <updated>2024-10-21T02:50:51.086Z</updated>
         <content type="html"><![CDATA[2024.11.01(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 수원​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60581</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60581"/>
-        <updated>2024-10-21T02:50:51.086Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  루돌프와 산타할아버지 - 제주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60580</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60580"/>
-        <updated>2024-10-21T04:16:25.140Z</updated>
-        <content type="html"><![CDATA[2024.10.22(화) 04:00]]></content>
     </entry>
 </feed>
