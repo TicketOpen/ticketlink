@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-23T00:59:07.291Z</updated>
+    <updated>2024-10-23T02:17:57.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제2회 대구창작뮤지컬페스타​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60608</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60608"/>
+        <updated>2024-10-23T02:17:50.196Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 사랑꽃 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60603</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60603"/>
+        <updated>2024-10-23T02:17:50.196Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 해피 오!해피 1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60602</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60602"/>
+        <updated>2024-10-23T02:17:50.197Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 변진섭 전국투어 콘서트 : 변천사 - 대전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60601</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60601"/>
+        <updated>2024-10-23T02:17:50.197Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 솔라(Solar)'s TALK CONCERT [주제파악] 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60600</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60600"/>
+        <updated>2024-10-23T02:17:50.201Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <알사탕> - 울산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60599</id>
@@ -48,6 +83,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​이경미 & 무라지 카오리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60593</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60593"/>
+        <updated>2024-10-23T02:17:50.217Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 07:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]  발레 ‘백조의 호수’ 갈라 콘서트 - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60592</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60592"/>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60590"/>
         <updated>2024-10-21T10:14:49.758Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​크리스마스 콘서트 유키 구라모토와 친구들 ​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60589</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60589"/>
-        <updated>2024-10-22T01:01:41.255Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <드래곤하이 스페셜> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60588</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60588"/>
-        <updated>2024-10-21T09:15:06.786Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​THE GREATEST : 불후의명곡 정동하X알리 - 대구 티켓오픈 안내 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60587</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60587"/>
-        <updated>2024-10-21T02:50:42.745Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60586</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60586"/>
-        <updated>2024-10-21T02:50:42.747Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 작곡가 한혜신콘서트 <그대들 덕분에>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60585</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60585"/>
-        <updated>2024-10-21T05:13:51.261Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  제 38기 TBC 가요아카데미 (선착순 자유석 예매) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60584</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60584"/>
-        <updated>2024-10-21T02:50:42.747Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 01:00]]></content>
     </entry>
 </feed>
