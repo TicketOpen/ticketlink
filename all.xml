@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-23T07:14:15.836Z</updated>
+    <updated>2024-10-23T08:17:25.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [대구] 바다의 아우슈비츠 - 보트피플ver.2 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60621</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60621"/>
+        <updated>2024-10-23T08:17:16.092Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[고흥] 퓨전국악 창작극 - 엄마를 찾아 떠나는 아리의 모험​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60620</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60620"/>
+        <updated>2024-10-23T08:17:16.097Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 경주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60616</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 사랑꽃 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60603</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60603"/>
-        <updated>2024-10-23T02:17:50.196Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [대구] 바다의 아우슈비츠 - 보트피플ver.2 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60621</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60621"/>
+        <updated>2024-10-23T08:17:24.665Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 해피 오!해피 1차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60602</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60602"/>
-        <updated>2024-10-23T02:17:50.197Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​[고흥] 퓨전국악 창작극 - 엄마를 찾아 떠나는 아리의 모험​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60620</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60620"/>
+        <updated>2024-10-23T08:17:24.665Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60604"/>
         <updated>2024-10-23T03:19:46.354Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 사랑꽃 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60603</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60603"/>
-        <updated>2024-10-23T02:17:56.974Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 해피 오!해피 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60602</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60602"/>
-        <updated>2024-10-23T02:17:56.974Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 05:00]]></content>
     </entry>
 </feed>
