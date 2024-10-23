@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-23T04:15:57.316Z</updated>
+    <updated>2024-10-23T05:13:43.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 김장훈 연말콘서트 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60611</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60611"/>
+        <updated>2024-10-23T05:13:35.599Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60610</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60610"/>
+        <updated>2024-10-23T05:13:35.599Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  <3DIVA 콘서트> - 울진 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60609</id>
@@ -17,6 +31,27 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60608"/>
         <updated>2024-10-23T02:17:50.196Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존노 & 고영열 콘서트 <칸타르> - 제주 ​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60607</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60607"/>
+        <updated>2024-10-23T05:13:35.604Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 제주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60606</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60606"/>
+        <updated>2024-10-23T05:13:35.605Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60605</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60605"/>
+        <updated>2024-10-23T05:13:35.607Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[번아트페스티벌​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -75,39 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​<정명훈 & 원 코리아 오케스트라>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60596</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60596"/>
-        <updated>2024-10-22T05:13:25.028Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+        <title type="html"><![CDATA[2024 김장훈 연말콘서트 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60611</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60611"/>
+        <updated>2024-10-23T05:13:43.095Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  [피처링_트랙7] 스탠드 업 코미디 뮤지컬 <방구석 뮤지컬>​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60595</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60595"/>
-        <updated>2024-10-22T06:18:26.556Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 & 무비 슈퍼콘서트 with 옥주현 & 민우혁​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60594</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60594"/>
-        <updated>2024-10-22T04:16:42.881Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이경미 & 무라지 카오리​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60593</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60593"/>
-        <updated>2024-10-23T02:17:50.217Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  발레 ‘백조의 호수’ 갈라 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60592</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60592"/>
-        <updated>2024-10-22T01:01:41.253Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60610</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60610"/>
+        <updated>2024-10-23T05:13:43.096Z</updated>
+        <content type="html"><![CDATA[2024.10.24(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  <3DIVA 콘서트> - 울진 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +136,27 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60608"/>
         <updated>2024-10-23T02:17:56.974Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존노 & 고영열 콘서트 <칸타르> - 제주 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60607</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60607"/>
+        <updated>2024-10-23T05:13:43.102Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60606</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60606"/>
+        <updated>2024-10-23T05:13:43.102Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60605</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60605"/>
+        <updated>2024-10-23T05:13:43.104Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[번아트페스티벌​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60597"/>
         <updated>2024-10-22T06:18:35.410Z</updated>
         <content type="html"><![CDATA[2024.10.23(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​<정명훈 & 원 코리아 오케스트라>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60596</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60596"/>
-        <updated>2024-10-22T05:13:33.589Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [피처링_트랙7] 스탠드 업 코미디 뮤지컬 <방구석 뮤지컬>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60595</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60595"/>
-        <updated>2024-10-22T06:18:35.412Z</updated>
-        <content type="html"><![CDATA[2024.10.24(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 & 무비 슈퍼콘서트 with 옥주현 & 민우혁​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60594</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60594"/>
-        <updated>2024-10-22T04:16:51.711Z</updated>
-        <content type="html"><![CDATA[2024.10.23(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이경미 & 무라지 카오리​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60593</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60593"/>
-        <updated>2024-10-23T02:17:57.003Z</updated>
-        <content type="html"><![CDATA[2024.10.24(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  발레 ‘백조의 호수’ 갈라 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60592</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60592"/>
-        <updated>2024-10-22T01:01:48.227Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
     </entry>
 </feed>
