@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-23T08:17:25.307Z</updated>
+    <updated>2024-10-23T09:14:04.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 김연우 크리스마스 콘서트 <오마이갓연우>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60622</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60622"/>
+        <updated>2024-10-23T09:14:04.048Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [대구] 바다의 아우슈비츠 - 보트피플ver.2 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60621</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60605"/>
         <updated>2024-10-23T05:13:43.104Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번아트페스티벌​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60604</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60604"/>
-        <updated>2024-10-23T03:19:46.354Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 03:00]]></content>
     </entry>
 </feed>
