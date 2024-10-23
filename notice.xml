@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-23T02:17:57.782Z</updated>
+    <updated>2024-10-23T03:19:46.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  <3DIVA 콘서트> - 울진 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60609</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60609"/>
+        <updated>2024-10-23T03:19:37.314Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​제2회 대구창작뮤지컬페스타​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60608</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60608"/>
         <updated>2024-10-23T02:17:50.196Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[번아트페스티벌​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60604</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60604"/>
+        <updated>2024-10-23T03:19:37.317Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​뮤지컬 사랑꽃 - 대구​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60592"/>
         <updated>2024-10-22T01:01:41.253Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60591</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60591"/>
-        <updated>2024-10-22T01:01:41.253Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 경산공감락페스티벌​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60590</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60590"/>
-        <updated>2024-10-21T10:14:49.758Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.23(수) 05:00]]></content>
     </entry>
 </feed>
