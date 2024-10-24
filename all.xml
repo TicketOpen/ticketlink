@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-24T06:18:46.730Z</updated>
+    <updated>2024-10-24T07:13:19.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매] 2024 서사무엘 콘서트 'Last Name Seo'​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60629</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60629"/>
+        <updated>2024-10-24T07:13:10.599Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 부산 금정​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60627</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60627"/>
+        <updated>2024-10-24T07:13:10.602Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.30(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  DSAC 브랜드 콘서트 <2024 가곡열전 : 완연한 가을 밤에> -대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60626</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 거제 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60613</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60613"/>
-        <updated>2024-10-24T05:14:01.013Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+        <title type="html"><![CDATA[​[단독판매] 2024 서사무엘 콘서트 'Last Name Seo'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60629</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60629"/>
+        <updated>2024-10-24T07:13:18.245Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 남양주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60612</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60612"/>
-        <updated>2024-10-24T05:14:01.013Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 부산 금정​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60627</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60627"/>
+        <updated>2024-10-24T07:13:18.246Z</updated>
+        <content type="html"><![CDATA[2024.10.30(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  DSAC 브랜드 콘서트 <2024 가곡열전 : 완연한 가을 밤에> -대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60614</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60614"/>
         <updated>2024-10-24T05:14:08.473Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 거제 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60613</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60613"/>
-        <updated>2024-10-24T05:14:08.475Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 남양주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60612</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60612"/>
-        <updated>2024-10-24T05:14:08.476Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
     </entry>
 </feed>
