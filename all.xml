@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-24T05:14:09.095Z</updated>
+    <updated>2024-10-24T06:18:46.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  DSAC 브랜드 콘서트 <2024 가곡열전 : 완연한 가을 밤에> -대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60626</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60626"/>
+        <updated>2024-10-24T06:18:38.442Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  <2024 인천공항 스카이페스티벌> 2차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60625</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 김장훈 연말콘서트 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60611</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60611"/>
-        <updated>2024-10-23T05:13:35.599Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 04:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  DSAC 브랜드 콘서트 <2024 가곡열전 : 완연한 가을 밤에> -대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60626</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60626"/>
+        <updated>2024-10-24T06:18:46.130Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  <2024 인천공항 스카이페스티벌> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60612"/>
         <updated>2024-10-24T05:14:08.476Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 김장훈 연말콘서트 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60611</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60611"/>
-        <updated>2024-10-23T05:13:43.095Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 04:00]]></content>
     </entry>
 </feed>
