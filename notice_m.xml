@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-24T08:17:24.178Z</updated>
+    <updated>2024-10-24T09:14:16.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족 뮤지컬 오즈의 마법사-평택​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60633</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60633"/>
+        <updated>2024-10-24T09:14:15.575Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족 라이브 뮤지컬 "피터팬"-성남​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60632</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60632"/>
+        <updated>2024-10-24T09:14:15.576Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 시즌2-성남​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60631</id>
@@ -93,20 +107,6 @@
         <title type="html"><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 제천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60619</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60619"/>
-        <updated>2024-10-24T02:18:06.987Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 수원​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60618</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60618"/>
-        <updated>2024-10-24T02:18:06.987Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60617</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60617"/>
         <updated>2024-10-24T02:18:06.987Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
     </entry>
