@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-24T03:18:49.676Z</updated>
+    <updated>2024-10-24T04:16:10.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매]  화풍 조선통신사넘어 - 부산 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,34 +68,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 대전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60615</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60615"/>
-        <updated>2024-10-23T06:18:50.387Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 광양 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60614</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60614"/>
-        <updated>2024-10-23T06:18:50.391Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 거제 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60613</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60613"/>
-        <updated>2024-10-23T06:18:50.394Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 남양주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60612</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60612"/>
-        <updated>2024-10-23T06:18:50.395Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 김장훈 연말콘서트 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60611</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60611"/>
@@ -108,6 +80,34 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60610"/>
         <updated>2024-10-23T05:13:35.599Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  <3DIVA 콘서트> - 울진 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60609</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60609"/>
+        <updated>2024-10-24T04:16:02.232Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제2회 대구창작뮤지컬페스타​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60608</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60608"/>
+        <updated>2024-10-24T04:16:02.233Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존노 & 고영열 콘서트 <칸타르> - 제주 ​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60607</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60607"/>
+        <updated>2024-10-24T04:16:02.239Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 제주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60606</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60606"/>
+        <updated>2024-10-24T04:16:02.239Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  화풍 조선통신사넘어 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -166,41 +166,6 @@
         <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 경주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60616</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60616"/>
-        <updated>2024-10-23T07:14:15.197Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60615</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60615"/>
-        <updated>2024-10-23T06:18:56.586Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 광양 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60614</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60614"/>
-        <updated>2024-10-23T06:18:56.588Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 거제 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60613</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60613"/>
-        <updated>2024-10-23T06:18:56.588Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 남양주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60612</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60612"/>
-        <updated>2024-10-23T06:18:56.590Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 김장훈 연말콘서트 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60611</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60611"/>
@@ -213,5 +178,40 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60610"/>
         <updated>2024-10-23T05:13:43.096Z</updated>
         <content type="html"><![CDATA[2024.10.24(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  <3DIVA 콘서트> - 울진 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60609</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60609"/>
+        <updated>2024-10-24T04:16:10.097Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제2회 대구창작뮤지컬페스타​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60608</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60608"/>
+        <updated>2024-10-24T04:16:10.099Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존노 & 고영열 콘서트 <칸타르> - 제주 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60607</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60607"/>
+        <updated>2024-10-24T04:16:10.100Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60606</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60606"/>
+        <updated>2024-10-24T04:16:10.101Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60605</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60605"/>
+        <updated>2024-10-24T04:16:10.103Z</updated>
+        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
     </entry>
 </feed>
