@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-24T04:16:10.713Z</updated>
+    <updated>2024-10-24T05:14:09.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  <2024 인천공항 스카이페스티벌> 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60625</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60625"/>
+        <updated>2024-10-24T05:14:00.989Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  화풍 조선통신사넘어 - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60624</id>
@@ -45,21 +52,21 @@
         <id>http://www.ticketlink.co.kr/help/notice/60619</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60619"/>
         <updated>2024-10-24T02:17:57.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 수원​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60618</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60618"/>
         <updated>2024-10-24T02:17:57.531Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 광주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60617</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60617"/>
         <updated>2024-10-24T02:17:57.544Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 경주 티켓오픈 안내]]></title>
@@ -69,45 +76,38 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60615</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60615"/>
+        <updated>2024-10-24T05:14:01.007Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 광양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60614</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60614"/>
+        <updated>2024-10-24T05:14:01.008Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <빨간코 루돌프와 산타클로스> - 거제 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60613</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60613"/>
+        <updated>2024-10-24T05:14:01.013Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <백설공주> - 남양주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60612</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60612"/>
+        <updated>2024-10-24T05:14:01.013Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 김장훈 연말콘서트 - 순천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60611</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60611"/>
         <updated>2024-10-23T05:13:35.599Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60610</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60610"/>
-        <updated>2024-10-23T05:13:35.599Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.24(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  <3DIVA 콘서트> - 울진 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60609</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60609"/>
-        <updated>2024-10-24T04:16:02.232Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​제2회 대구창작뮤지컬페스타​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60608</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60608"/>
-        <updated>2024-10-24T04:16:02.233Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존노 & 고영열 콘서트 <칸타르> - 제주 ​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60607</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60607"/>
-        <updated>2024-10-24T04:16:02.239Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<12월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 제주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60606</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60606"/>
-        <updated>2024-10-24T04:16:02.239Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
     </entry>
 </feed>
