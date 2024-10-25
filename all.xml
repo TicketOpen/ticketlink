@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-25T06:18:24.880Z</updated>
+    <updated>2024-10-25T07:13:14.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제4회 서울유스발레단 정기공연 < 우리들의 이야기 Our Story >​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60643</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60643"/>
+        <updated>2024-10-25T07:13:07.312Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 4차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60642</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60642"/>
+        <updated>2024-10-25T07:13:07.315Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 의정부 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60640</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60640"/>
+        <updated>2024-10-25T07:13:07.318Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 하남 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60639</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60639"/>
+        <updated>2024-10-25T07:13:07.320Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <클로버>​ 2차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60638</id>
@@ -82,32 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.30(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​[단독판매]  DSAC 브랜드 콘서트 <2024 가곡열전 : 완연한 가을 밤에> -대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60626</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60626"/>
-        <updated>2024-10-24T06:18:38.442Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 제4회 서울유스발레단 정기공연 < 우리들의 이야기 Our Story >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60643</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60643"/>
+        <updated>2024-10-25T07:13:13.313Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  <2024 인천공항 스카이페스티벌> 2차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60625</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60625"/>
-        <updated>2024-10-24T05:14:00.989Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 11:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 4차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60642</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60642"/>
+        <updated>2024-10-25T07:13:13.313Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  화풍 조선통신사넘어 - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60624</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60624"/>
-        <updated>2024-10-24T02:17:57.524Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.01(금) 03:00]]></content>
+        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 의정부 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60640</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60640"/>
+        <updated>2024-10-25T07:13:13.313Z</updated>
+        <content type="html"><![CDATA[2024.10.29(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]2024 Danny's Day < DAN SCHOOL >​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60623</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60623"/>
-        <updated>2024-10-24T02:17:57.525Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 10:00]]></content>
+        <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 하남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60639</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60639"/>
+        <updated>2024-10-25T07:13:13.313Z</updated>
+        <content type="html"><![CDATA[2024.10.29(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <클로버>​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60627"/>
         <updated>2024-10-24T07:13:18.246Z</updated>
         <content type="html"><![CDATA[2024.10.30(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  DSAC 브랜드 콘서트 <2024 가곡열전 : 완연한 가을 밤에> -대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60626</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60626"/>
-        <updated>2024-10-24T06:18:46.130Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  <2024 인천공항 스카이페스티벌> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60625</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60625"/>
-        <updated>2024-10-24T05:14:08.457Z</updated>
-        <content type="html"><![CDATA[2024.10.28(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  화풍 조선통신사넘어 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60624</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60624"/>
-        <updated>2024-10-24T02:18:06.984Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]2024 Danny's Day < DAN SCHOOL >​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60623</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60623"/>
-        <updated>2024-10-24T02:18:06.984Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 10:00]]></content>
     </entry>
 </feed>
