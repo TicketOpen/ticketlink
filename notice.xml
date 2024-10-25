@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-25T07:13:14.083Z</updated>
+    <updated>2024-10-25T08:17:23.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매][광주예술의전당] 달빛동맹 시리즈 III < DCH 비르투오소 챔버 with 이진상 >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60645</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60645"/>
+        <updated>2024-10-25T08:17:15.930Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 문화자원 탐험 10월 주제 지역예술가 특집 <나화랑> - 김천 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60644</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60644"/>
+        <updated>2024-10-25T08:17:15.934Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제4회 서울유스발레단 정기공연 < 우리들의 이야기 Our Story >​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60643</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60629"/>
         <updated>2024-10-24T07:13:10.599Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매] 2024 코드컵 시즌5 결승전​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60628</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60628"/>
-        <updated>2024-10-24T08:17:14.585Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 - 부산 금정​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60627</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60627"/>
-        <updated>2024-10-24T07:13:10.602Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.30(수) 00:00]]></content>
     </entry>
 </feed>
