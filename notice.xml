@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-25T08:17:23.183Z</updated>
+    <updated>2024-10-25T09:14:42.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60641</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60641"/>
+        <updated>2024-10-25T09:14:35.084Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<설민석의 한국사 대모험-영웅의 시간> - 의정부 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60640</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60640"/>
@@ -53,6 +60,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60638"/>
         <updated>2024-10-25T06:18:16.457Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 대전​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60637</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60637"/>
+        <updated>2024-10-25T09:14:35.095Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20집 발매 기념 조용필&위대한탄생 Concert – 부산 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60631"/>
         <updated>2024-10-24T08:17:14.579Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60630</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60630"/>
-        <updated>2024-10-24T08:17:14.583Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매] 2024 서사무엘 콘서트 'Last Name Seo'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60629</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60629"/>
-        <updated>2024-10-24T07:13:10.599Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.25(금) 09:00]]></content>
     </entry>
 </feed>
