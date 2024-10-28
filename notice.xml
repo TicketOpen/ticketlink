@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-28T03:23:50.305Z</updated>
+    <updated>2024-10-28T04:17:03.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60650</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60650"/>
+        <updated>2024-10-28T04:16:55.657Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAUM X Miuq MIND CONCERT​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60649</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60635"/>
         <updated>2024-10-25T06:18:16.464Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠드 업 코미디 뮤지컬 <방구석 뮤지컬> 마지막 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60634</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60634"/>
-        <updated>2024-10-25T02:19:55.109Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.01(금) 06:00]]></content>
     </entry>
 </feed>
