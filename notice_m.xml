@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-28T01:02:48.059Z</updated>
+    <updated>2024-10-28T02:52:38.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 늦봄의 길 - 광주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60647</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60647"/>
+        <updated>2024-10-28T02:52:37.549Z</updated>
+        <content type="html"><![CDATA[2024.10.28(월) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 지브리&디즈니 with 마블​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60646</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60646"/>
+        <updated>2024-10-28T02:52:37.549Z</updated>
+        <content type="html"><![CDATA[2024.10.29(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매][광주예술의전당] 달빛동맹 시리즈 III < DCH 비르투오소 챔버 with 이진상 >​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60645</id>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60633</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60633"/>
         <updated>2024-10-24T09:14:15.575Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 가족 라이브 뮤지컬 "피터팬"-성남​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60632</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60632"/>
-        <updated>2024-10-24T09:14:15.576Z</updated>
-        <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 시즌2-성남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60631</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60631"/>
-        <updated>2024-10-24T08:17:23.529Z</updated>
         <content type="html"><![CDATA[2024.10.25(금) 01:00]]></content>
     </entry>
 </feed>
