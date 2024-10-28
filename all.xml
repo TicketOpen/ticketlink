@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-28T04:17:03.863Z</updated>
+    <updated>2024-10-28T05:14:11.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 앙상블 오푸스의 <꿈꾸는 저녁> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60651</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60651"/>
+        <updated>2024-10-28T05:14:03.010Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60650</id>
@@ -17,6 +24,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60649"/>
         <updated>2024-10-28T03:23:43.745Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김동하 스폐셜 - 순천​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60648</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60648"/>
+        <updated>2024-10-28T05:14:03.013Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 늦봄의 길 - 광주​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20집 발매 기념 조용필&위대한탄생 Concert – 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60636</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60636"/>
-        <updated>2024-10-25T02:19:55.109Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.01(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 안산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60635</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60635"/>
-        <updated>2024-10-25T06:18:16.464Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 06:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 앙상블 오푸스의 <꿈꾸는 저녁> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60651</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60651"/>
+        <updated>2024-10-28T05:14:10.846Z</updated>
+        <content type="html"><![CDATA[2024.10.29(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60649"/>
         <updated>2024-10-28T03:23:49.563Z</updated>
         <content type="html"><![CDATA[2024.10.29(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김동하 스폐셜 - 순천​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60648</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60648"/>
+        <updated>2024-10-28T05:14:10.852Z</updated>
+        <content type="html"><![CDATA[2024.10.31(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 늦봄의 길 - 광주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60637"/>
         <updated>2024-10-25T09:14:41.336Z</updated>
         <content type="html"><![CDATA[2024.11.06(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20집 발매 기념 조용필&위대한탄생 Concert – 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60636</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60636"/>
-        <updated>2024-10-25T02:20:03.148Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 안산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60635</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60635"/>
-        <updated>2024-10-25T06:18:24.225Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 06:00]]></content>
     </entry>
 </feed>
