@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-29T08:17:46.480Z</updated>
+    <updated>2024-10-29T09:14:50.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립극단 제23회 정기공연 '양림'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60665</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60665"/>
+        <updated>2024-10-29T09:14:49.910Z</updated>
+        <content type="html"><![CDATA[2024.10.30(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [광주시립합창단] 기획연주회Ⅶ Matinée Concert '어울림'​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60664</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60651"/>
         <updated>2024-10-28T05:14:10.846Z</updated>
         <content type="html"><![CDATA[2024.10.29(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60650</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60650"/>
-        <updated>2024-10-28T04:17:03.215Z</updated>
-        <content type="html"><![CDATA[2024.10.31(목) 02:00]]></content>
     </entry>
 </feed>
