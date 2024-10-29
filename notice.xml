@@ -2,15 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-10-29T04:16:34.271Z</updated>
+    <updated>2024-10-29T05:13:53.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성녀의 뮤지컬모노드라마 <벽 속의 요정> A석 추가​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60661</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60661"/>
+        <updated>2024-10-29T05:13:45.664Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.30(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] GSO 체임버 시리즈 Ⅶ​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60660</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60660"/>
+        <updated>2024-10-29T05:13:45.669Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.30(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60659</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60659"/>
+        <updated>2024-10-29T05:13:45.671Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <랭보> 5차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60658</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60658"/>
+        <updated>2024-10-29T05:13:45.673Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] JX 2024 CONCERT  in Seoul 추가오픈석, 시야제한석​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60657</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60657"/>
+        <updated>2024-10-29T05:13:45.676Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.30(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 자선콘서트 <늦가을 이야기소리> - 제주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60656</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60656"/>
         <updated>2024-10-29T02:21:45.033Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.18(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 당진​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60655</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60655"/>
+        <updated>2024-10-29T05:13:45.680Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.01(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 사라 장 바이올린 리사이틀 - 경주​ 티켓오픈 안내]]></title>
@@ -67,47 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60647"/>
         <updated>2024-10-28T02:52:31.800Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 지브리&디즈니 with 마블​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60646</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60646"/>
-        <updated>2024-10-28T02:52:31.802Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매][광주예술의전당] 달빛동맹 시리즈 III < DCH 비르투오소 챔버 with 이진상 >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60645</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60645"/>
-        <updated>2024-10-25T08:17:15.930Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 문화자원 탐험 10월 주제 지역예술가 특집 <나화랑> - 김천 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60644</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60644"/>
-        <updated>2024-10-25T08:17:15.934Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제4회 서울유스발레단 정기공연 < 우리들의 이야기 Our Story >​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60643</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60643"/>
-        <updated>2024-10-25T07:13:07.312Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 4차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60642</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60642"/>
-        <updated>2024-10-25T07:13:07.315Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.31(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60641</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60641"/>
-        <updated>2024-10-25T09:14:35.084Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 05:00]]></content>
     </entry>
 </feed>
