@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-30T01:00:18.125Z</updated>
+    <updated>2024-10-30T02:20:16.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[루돌프와 산타할아버지 - 강북​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60668</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60668"/>
+        <updated>2024-10-30T02:20:09.845Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 특선 공연 '호두까기인형 - 안산' 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60667</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60667"/>
+        <updated>2024-10-30T02:20:09.845Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립극단 제23회 정기공연 '양림'​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60665</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나윤선 재즈콘서트 < Elles > - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60652</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60652"/>
-        <updated>2024-10-28T10:15:00.635Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 01:00]]></content>
+        <title type="html"><![CDATA[루돌프와 산타할아버지 - 강북​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60668</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60668"/>
+        <updated>2024-10-30T02:20:15.962Z</updated>
+        <content type="html"><![CDATA[2024.11.04(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 앙상블 오푸스의 <꿈꾸는 저녁> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60651</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60651"/>
-        <updated>2024-10-28T05:14:03.010Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.10.29(화) 07:00]]></content>
+        <title type="html"><![CDATA[크리스마스 특선 공연 '호두까기인형 - 안산' 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60667</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60667"/>
+        <updated>2024-10-30T02:20:15.963Z</updated>
+        <content type="html"><![CDATA[2024.11.04(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 광주시립극단 제23회 정기공연 '양림'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60653"/>
         <updated>2024-10-29T02:21:52.266Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나윤선 재즈콘서트 < Elles > - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60652</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60652"/>
-        <updated>2024-10-28T10:15:06.458Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주예술의전당] 앙상블 오푸스의 <꿈꾸는 저녁> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60651</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60651"/>
-        <updated>2024-10-28T05:14:10.846Z</updated>
-        <content type="html"><![CDATA[2024.10.29(화) 07:00]]></content>
     </entry>
 </feed>
