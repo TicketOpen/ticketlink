@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-31T08:16:22.070Z</updated>
+    <updated>2024-10-31T09:14:11.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60684"/>
         <updated>2024-10-31T06:18:15.245Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WONDERLAND FESTIVAL 2024​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60683</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60683"/>
+        <updated>2024-10-31T09:14:10.421Z</updated>
+        <content type="html"><![CDATA[2024.11.05(화) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극<스타크로스드>​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60671"/>
         <updated>2024-10-30T08:19:28.656Z</updated>
         <content type="html"><![CDATA[2024.11.01(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 극단 온누리 연극 <이웃집 쌀통> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60670</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60670"/>
-        <updated>2024-10-30T08:19:28.656Z</updated>
-        <content type="html"><![CDATA[2024.10.31(목) 01:00]]></content>
     </entry>
 </feed>
