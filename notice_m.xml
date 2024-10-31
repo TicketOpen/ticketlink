@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-31T04:17:15.729Z</updated>
+    <updated>2024-10-31T05:13:26.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 정동하의 PLAYLIST 시즌2​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60681</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60681"/>
+        <updated>2024-10-31T05:13:25.903Z</updated>
+        <content type="html"><![CDATA[2024.11.01(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBS 웃찾사팀의 <빵!터짐쇼> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60680</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60680"/>
         <updated>2024-10-31T02:21:32.609Z</updated>
         <content type="html"><![CDATA[2024.11.01(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 산타와 루돌프 - 안산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60679</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60679"/>
+        <updated>2024-10-31T05:13:25.904Z</updated>
+        <content type="html"><![CDATA[2024.11.05(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 서울 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60667"/>
         <updated>2024-10-30T02:20:15.963Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  소향 단독 콘서트 - 제주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60666</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60666"/>
-        <updated>2024-10-30T04:16:43.561Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 광주시립극단 제23회 정기공연 '양림'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60665</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60665"/>
-        <updated>2024-10-29T09:14:49.910Z</updated>
-        <content type="html"><![CDATA[2024.10.30(수) 01:00]]></content>
     </entry>
 </feed>
