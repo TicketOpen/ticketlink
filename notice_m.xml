@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-10-31T05:13:26.504Z</updated>
+    <updated>2024-10-31T06:18:15.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <호두까기인형> - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60684</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60684"/>
+        <updated>2024-10-31T06:18:15.245Z</updated>
+        <content type="html"><![CDATA[2024.11.04(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 정동하의 PLAYLIST 시즌2​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60681</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60681"/>
         <updated>2024-10-31T05:13:25.903Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 04:00]]></content>
+        <content type="html"><![CDATA[2024.11.04(월) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SBS 웃찾사팀의 <빵!터짐쇼> - 대구​ 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60668</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60668"/>
         <updated>2024-10-30T02:20:15.962Z</updated>
-        <content type="html"><![CDATA[2024.11.04(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 특선 공연 '호두까기인형 - 안산' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60667</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60667"/>
-        <updated>2024-10-30T02:20:15.963Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 00:00]]></content>
     </entry>
 </feed>
