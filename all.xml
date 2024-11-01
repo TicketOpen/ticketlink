@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-01T06:19:26.698Z</updated>
+    <updated>2024-11-01T07:13:46.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시라노>​ 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60692</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60692"/>
+        <updated>2024-11-01T07:13:38.989Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  Holygwang’s JAZZ concert The GIFT-광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60691</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 제주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60677</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60677"/>
-        <updated>2024-10-31T01:00:24.656Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.01(금) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <시라노>​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60692</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60692"/>
+        <updated>2024-11-01T07:13:45.390Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  Holygwang’s JAZZ concert The GIFT-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60678"/>
         <updated>2024-10-31T02:21:32.609Z</updated>
         <content type="html"><![CDATA[2024.11.05(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 가족뮤지컬 <설민석의 한국사 대모험 - 영웅의 시간> - 제주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60677</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60677"/>
-        <updated>2024-10-31T01:00:33.139Z</updated>
-        <content type="html"><![CDATA[2024.11.01(금) 00:00]]></content>
     </entry>
 </feed>
