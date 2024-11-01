@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-01T08:16:59.751Z</updated>
+    <updated>2024-11-01T09:13:46.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[책먹는여우 - 부산 금정 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60693</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60693"/>
+        <updated>2024-11-01T09:13:38.376Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시라노>​ 2차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60692</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60679"/>
         <updated>2024-10-31T05:13:18.417Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 서울 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60678</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60678"/>
-        <updated>2024-10-31T02:21:26.484Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 02:00]]></content>
     </entry>
 </feed>
