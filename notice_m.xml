@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-01T05:13:45.097Z</updated>
+    <updated>2024-11-01T06:19:26.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  Holygwang’s JAZZ concert The GIFT-광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60691</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60691"/>
+        <updated>2024-11-01T06:19:26.029Z</updated>
+        <content type="html"><![CDATA[2024.11.04(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​두번째달 콘서트 [내 인생의 BGM]​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60690</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60677"/>
         <updated>2024-10-31T01:00:33.139Z</updated>
         <content type="html"><![CDATA[2024.11.01(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  키즈클래식 <호두까기인형> in 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60676</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60676"/>
-        <updated>2024-10-31T01:00:33.139Z</updated>
-        <content type="html"><![CDATA[2024.11.07(목) 02:00]]></content>
     </entry>
 </feed>
