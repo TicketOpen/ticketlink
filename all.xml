@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-04T01:01:37.567Z</updated>
+    <updated>2024-11-04T02:51:41.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 안동 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60700</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60700"/>
+        <updated>2024-11-04T02:51:32.081Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.07(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 검은사막 FESTA : 10년의 모험​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60699</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  7080 릴레이 콘서트 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60685</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60685"/>
-        <updated>2024-10-31T07:13:08.638Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 03:00]]></content>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60700</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60700"/>
+        <updated>2024-11-04T02:51:40.592Z</updated>
+        <content type="html"><![CDATA[2024.11.07(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 검은사막 FESTA : 10년의 모험​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60686"/>
         <updated>2024-10-31T11:11:37.824Z</updated>
         <content type="html"><![CDATA[2024.11.04(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  7080 릴레이 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60685</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60685"/>
-        <updated>2024-10-31T07:13:14.888Z</updated>
-        <content type="html"><![CDATA[2024.11.04(월) 03:00]]></content>
     </entry>
 </feed>
