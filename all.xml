@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-04T09:16:08.275Z</updated>
+    <updated>2024-11-04T10:15:12.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 부활 서울 연말 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60706</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60706"/>
+        <updated>2024-11-04T10:15:05.035Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쎄시봉, 크리스마스​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60705</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60705"/>
+        <updated>2024-11-04T10:15:05.039Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립소년소녀합창단 제143회 정기공연 창작뮤지컬 <나를 노래해>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60704</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60704"/>
+        <updated>2024-11-04T10:15:05.045Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뉴 오라토리오 어린왕자 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60703</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  Holygwang’s JAZZ concert The GIFT-광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60691</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60691"/>
-        <updated>2024-11-01T06:19:18.900Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 01:00]]></content>
+        <title type="html"><![CDATA[2024 부활 서울 연말 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60706</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60706"/>
+        <updated>2024-11-04T10:15:12.068Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[두번째달 단독 콘서트 [내 인생의 BGM]​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60690</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60690"/>
-        <updated>2024-11-01T05:13:36.679Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 05:00]]></content>
+        <title type="html"><![CDATA[쎄시봉, 크리스마스​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60705</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60705"/>
+        <updated>2024-11-04T10:15:12.090Z</updated>
+        <content type="html"><![CDATA[2024.11.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <결혼> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60689</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60689"/>
-        <updated>2024-11-01T05:13:36.682Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 광주시립소년소녀합창단 제143회 정기공연 창작뮤지컬 <나를 노래해>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60704</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60704"/>
+        <updated>2024-11-04T10:15:12.090Z</updated>
+        <content type="html"><![CDATA[2024.11.05(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뉴 오라토리오 어린왕자 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60692"/>
         <updated>2024-11-01T07:13:45.390Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Holygwang’s JAZZ concert The GIFT-광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60691</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60691"/>
-        <updated>2024-11-01T06:19:26.029Z</updated>
-        <content type="html"><![CDATA[2024.11.04(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두번째달 단독 콘서트 [내 인생의 BGM]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60690</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60690"/>
-        <updated>2024-11-01T05:13:44.411Z</updated>
-        <content type="html"><![CDATA[2024.11.06(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <결혼> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60689</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60689"/>
-        <updated>2024-11-01T05:13:44.412Z</updated>
-        <content type="html"><![CDATA[2024.11.04(월) 01:00]]></content>
     </entry>
 </feed>
