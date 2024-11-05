@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-05T02:15:13.944Z</updated>
+    <updated>2024-11-05T03:16:48.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅴ 'Modern' 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60709"/>
         <updated>2024-11-05T02:15:06.148Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 던파 페스티벌 : 중천 2부. 체험형 현장 페스티벌 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60708</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60708"/>
+        <updated>2024-11-05T03:16:39.968Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 던파 페스티벌 : 중천 1부. 업데이트 발표​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60707</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60707"/>
+        <updated>2024-11-05T03:16:39.971Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 부활 서울 연말 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주니삼촌의 매직콘서트 - 부천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60694</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60694"/>
-        <updated>2024-11-01T10:14:38.786Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 부산 금정 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60693</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60693"/>
-        <updated>2024-11-01T09:13:38.376Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.05(화) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅴ 'Modern' 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60709</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60709"/>
         <updated>2024-11-05T02:15:13.293Z</updated>
         <content type="html"><![CDATA[2024.11.06(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 던파 페스티벌 : 중천 2부. 체험형 현장 페스티벌 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60708</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60708"/>
+        <updated>2024-11-05T03:16:47.419Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 던파 페스티벌 : 중천 1부. 업데이트 발표​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60707</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60707"/>
+        <updated>2024-11-05T03:16:47.421Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 부활 서울 연말 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60695"/>
         <updated>2024-11-01T10:14:44.597Z</updated>
         <content type="html"><![CDATA[2024.11.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주니삼촌의 매직콘서트 - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60694</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60694"/>
-        <updated>2024-11-01T10:14:44.598Z</updated>
-        <content type="html"><![CDATA[2024.11.06(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책먹는여우 - 부산 금정 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60693</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60693"/>
-        <updated>2024-11-01T09:13:46.297Z</updated>
-        <content type="html"><![CDATA[2024.11.05(화) 00:00]]></content>
     </entry>
 </feed>
