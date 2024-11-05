@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-05T14:12:49.219Z</updated>
+    <updated>2024-11-05T15:14:26.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60714"/>
         <updated>2024-11-05T10:15:14.721Z</updated>
         <content type="html"><![CDATA[2024.11.11(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  Aaron Fanmeeting In Seoul : Promise 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60713</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60713"/>
+        <updated>2024-11-05T15:14:26.280Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  Dino 1st Fanmeeting In Seoul: First Love 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60712</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60712"/>
+        <updated>2024-11-05T15:14:26.280Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 3차​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60700"/>
         <updated>2024-11-04T02:51:40.592Z</updated>
         <content type="html"><![CDATA[2024.11.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 검은사막 FESTA : 10년의 모험​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60699</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60699"/>
-        <updated>2024-11-04T01:01:36.933Z</updated>
-        <content type="html"><![CDATA[2024.11.07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라 장 바이올린 리사이틀 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60698</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60698"/>
-        <updated>2024-11-04T01:01:36.935Z</updated>
-        <content type="html"><![CDATA[2024.11.06(수) 07:00]]></content>
     </entry>
 </feed>

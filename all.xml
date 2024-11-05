@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-05T14:12:49.247Z</updated>
+    <updated>2024-11-05T15:14:27.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[단독판매] 개관 30주년 기념 뮤지컬 인간탐구생활: 로미오와 줄리엣​​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60714"/>
         <updated>2024-11-05T10:15:08.885Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  Aaron Fanmeeting In Seoul : Promise 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60713</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60713"/>
+        <updated>2024-11-05T15:14:20.273Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  Dino 1st Fanmeeting In Seoul: First Love 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60712</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60712"/>
+        <updated>2024-11-05T15:14:20.274Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.07(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 검은사막 FESTA : 10년의 모험​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60699</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60699"/>
-        <updated>2024-11-04T01:01:29.103Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라 장 바이올린 리사이틀 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60698</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60698"/>
-        <updated>2024-11-04T01:01:29.106Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 07:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독판매] 개관 30주년 기념 뮤지컬 인간탐구생활: 로미오와 줄리엣​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60714</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60714"/>
         <updated>2024-11-05T10:15:14.721Z</updated>
         <content type="html"><![CDATA[2024.11.11(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  Aaron Fanmeeting In Seoul : Promise 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60713</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60713"/>
+        <updated>2024-11-05T15:14:26.280Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  Dino 1st Fanmeeting In Seoul: First Love 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60712</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60712"/>
+        <updated>2024-11-05T15:14:26.280Z</updated>
+        <content type="html"><![CDATA[2024.11.08(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60700"/>
         <updated>2024-11-04T02:51:40.592Z</updated>
         <content type="html"><![CDATA[2024.11.07(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 검은사막 FESTA : 10년의 모험​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60699</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60699"/>
-        <updated>2024-11-04T01:01:36.933Z</updated>
-        <content type="html"><![CDATA[2024.11.07(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라 장 바이올린 리사이틀 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60698</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60698"/>
-        <updated>2024-11-04T01:01:36.935Z</updated>
-        <content type="html"><![CDATA[2024.11.06(수) 07:00]]></content>
     </entry>
 </feed>
