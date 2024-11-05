@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-05T00:59:34.645Z</updated>
+    <updated>2024-11-05T02:15:14.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅴ 'Modern' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60709</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60709"/>
+        <updated>2024-11-05T02:15:13.293Z</updated>
+        <content type="html"><![CDATA[2024.11.06(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 부활 서울 연말 콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60706</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60693"/>
         <updated>2024-11-01T09:13:46.297Z</updated>
         <content type="html"><![CDATA[2024.11.05(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시라노>​ 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60692</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60692"/>
-        <updated>2024-11-01T07:13:45.390Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 05:00]]></content>
     </entry>
 </feed>
