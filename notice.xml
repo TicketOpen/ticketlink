@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-05T06:18:07.187Z</updated>
+    <updated>2024-11-05T07:12:23.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<거기,푸른 담쟁이 동산> - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60710</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60710"/>
+        <updated>2024-11-05T07:12:15.242Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅴ 'Modern' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60709</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60696"/>
         <updated>2024-11-01T10:14:38.782Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주니삼촌의 매직콘서트 - 거제 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60695</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60695"/>
-        <updated>2024-11-01T10:14:38.784Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 00:00]]></content>
     </entry>
 </feed>
