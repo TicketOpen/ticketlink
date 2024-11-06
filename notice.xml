@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-06T06:17:53.557Z</updated>
+    <updated>2024-11-06T07:13:34.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <엄마, 그리고, 딸> - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60723</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60723"/>
+        <updated>2024-11-06T07:13:28.239Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.07(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60722</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60722"/>
+        <updated>2024-11-06T07:13:28.243Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.12(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <글루미 선데이> 2차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60721</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60721"/>
+        <updated>2024-11-06T07:13:28.248Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  인문학콘서트 <영화가 나를 위로하는 시간 '인생은 아름다워'> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60720</id>
@@ -13,7 +34,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.07(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈광화문연가〉 - 부산 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <광화문연가> - 부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60719</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60719"/>
         <updated>2024-11-06T05:12:58.483Z</updated>
@@ -34,7 +55,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.12(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[［서울］뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[서울] 뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60716</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60716"/>
         <updated>2024-11-06T02:14:23.237Z</updated>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60709"/>
         <updated>2024-11-05T02:15:06.148Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2024 던파 페스티벌 : 중천 2부. 체험형 현장 페스티벌 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60708</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60708"/>
-        <updated>2024-11-05T03:16:39.968Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2024 던파 페스티벌 : 중천 1부. 업데이트 발표​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60707</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60707"/>
-        <updated>2024-11-05T03:16:39.971Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부활 서울 연말 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60706</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60706"/>
-        <updated>2024-11-04T10:15:05.035Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 05:00]]></content>
     </entry>
 </feed>
