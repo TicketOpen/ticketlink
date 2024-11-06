@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-06T00:58:36.800Z</updated>
+    <updated>2024-11-06T02:14:31.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[［서울］뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60716</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60716"/>
+        <updated>2024-11-06T02:14:23.237Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 부산 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60715</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60715"/>
+        <updated>2024-11-06T02:14:23.238Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 개관 30주년 기념 뮤지컬 인간탐구생활: 로미오와 줄리엣​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60714</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.06(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아람 로열 클래식 4 - 사라 장 바이올린 리사이틀 추가 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60701</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60701"/>
-        <updated>2024-11-04T06:19:44.112Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.04(월) 05:00]]></content>
+        <title type="html"><![CDATA[［서울］뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60716</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60716"/>
+        <updated>2024-11-06T02:14:30.567Z</updated>
+        <content type="html"><![CDATA[2024.11.13(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 안동 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60700</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60700"/>
-        <updated>2024-11-04T02:51:32.081Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.07(목) 00:00]]></content>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 부산 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60715</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60715"/>
+        <updated>2024-11-06T02:14:30.568Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 개관 30주년 기념 뮤지컬 인간탐구생활: 로미오와 줄리엣​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60702"/>
         <updated>2024-11-04T06:19:49.831Z</updated>
         <content type="html"><![CDATA[2024.11.06(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아람 로열 클래식 4 - 사라 장 바이올린 리사이틀 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60701</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60701"/>
-        <updated>2024-11-04T06:19:49.834Z</updated>
-        <content type="html"><![CDATA[2024.11.04(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 안동 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60700</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60700"/>
-        <updated>2024-11-04T02:51:40.592Z</updated>
-        <content type="html"><![CDATA[2024.11.07(목) 00:00]]></content>
     </entry>
 </feed>
