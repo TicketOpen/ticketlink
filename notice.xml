@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-07T04:15:39.311Z</updated>
+    <updated>2024-11-07T05:12:37.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박종민 연말 단독 콘서트 [White Love]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60729</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60729"/>
+        <updated>2024-11-07T05:12:28.868Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2024 휘성 콘서트 winterfall​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60728</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60728"/>
+        <updated>2024-11-07T05:12:28.868Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​잠골버스 The Live Vol.3 [겨울나기]​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60727</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60727"/>
+        <updated>2024-11-07T05:12:28.868Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​발레 뮤지컬 미녀와 야수 - 동해​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60726</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60715"/>
         <updated>2024-11-06T02:14:23.238Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 개관 30주년 기념 뮤지컬 인간탐구생활: 로미오와 줄리엣​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60714</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60714"/>
-        <updated>2024-11-05T10:15:08.885Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  Aaron Fanmeeting In Seoul : Promise 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60713</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60713"/>
-        <updated>2024-11-05T15:14:20.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  Dino 1st Fanmeeting In Seoul: First Love 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60712</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60712"/>
-        <updated>2024-11-05T15:14:20.274Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 10:00]]></content>
     </entry>
 </feed>
