@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-07T07:12:17.795Z</updated>
+    <updated>2024-11-07T08:16:28.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스마스 가족뮤지컬 <루돌프와 산타할아버지> - 안성​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60735</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60735"/>
+        <updated>2024-11-07T08:16:19.571Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Happy Merry 수성 - 크리스마스콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60734</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60734"/>
+        <updated>2024-11-07T08:16:19.574Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60733</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60721"/>
         <updated>2024-11-06T07:13:28.248Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  인문학콘서트 <영화가 나를 위로하는 시간 '인생은 아름다워'> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60720</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60720"/>
-        <updated>2024-11-06T06:17:44.868Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <광화문연가> - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60719</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60719"/>
-        <updated>2024-11-06T05:12:58.483Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 05:00]]></content>
     </entry>
 </feed>
