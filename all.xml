@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-06T23:12:18.986Z</updated>
+    <updated>2024-11-07T00:58:52.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​발레 뮤지컬 미녀와 야수 - 동해​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60726</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60726"/>
+        <updated>2024-11-07T00:58:44.777Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 홍자 팬미팅 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60725</id>
@@ -19,7 +26,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <엄마, 그리고, 딸> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매]  연극 <엄마, 그리고, 딸> - 대구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60723</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60723"/>
         <updated>2024-11-06T07:13:28.239Z</updated>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.08(금) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 3차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60711</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60711"/>
-        <updated>2024-11-05T09:13:42.796Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.12(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​발레 뮤지컬 미녀와 야수 - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60726</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60726"/>
+        <updated>2024-11-07T00:58:52.119Z</updated>
+        <content type="html"><![CDATA[2024.11.13(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 홍자 팬미팅 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -124,7 +131,7 @@
         <content type="html"><![CDATA[2024.11.11(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <엄마, 그리고, 딸> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매]  연극 <엄마, 그리고, 딸> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60723</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60723"/>
         <updated>2024-11-06T07:13:34.117Z</updated>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60712"/>
         <updated>2024-11-05T15:14:26.280Z</updated>
         <content type="html"><![CDATA[2024.11.08(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <꼼메디아 디 피노키오> 3차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60711</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60711"/>
-        <updated>2024-11-05T09:13:50.321Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 05:00]]></content>
     </entry>
 </feed>
