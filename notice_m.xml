@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-08T00:58:23.330Z</updated>
+    <updated>2024-11-08T02:15:20.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 알라딘 - 대구 (2025 롯데백화점 대구) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60739</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60739"/>
+        <updated>2024-11-08T02:15:19.857Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 미녀와야수 - 대구 (2025 롯데백화점 대구)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60738</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60738"/>
+        <updated>2024-11-08T02:15:19.857Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2024 크림슨 마스터즈 콘서트 Part Ⅱ​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60737</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60737"/>
+        <updated>2024-11-08T02:15:19.862Z</updated>
+        <content type="html"><![CDATA[2024.11.12(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <해피 오! 해피>​ 2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60736</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60736"/>
+        <updated>2024-11-08T02:15:19.863Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스 가족뮤지컬 <루돌프와 산타할아버지> - 안성​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60735</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60725"/>
         <updated>2024-11-06T09:14:41.628Z</updated>
         <content type="html"><![CDATA[2024.11.11(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 안성훈 팬미팅​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60724</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60724"/>
-        <updated>2024-11-06T09:14:41.631Z</updated>
-        <content type="html"><![CDATA[2024.11.11(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  연극 <엄마, 그리고, 딸> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60723</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60723"/>
-        <updated>2024-11-06T07:13:34.117Z</updated>
-        <content type="html"><![CDATA[2024.11.07(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60722</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60722"/>
-        <updated>2024-11-06T07:13:34.117Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <글루미 선데이> 2차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60721</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60721"/>
-        <updated>2024-11-06T07:13:34.117Z</updated>
-        <content type="html"><![CDATA[2024.11.08(금) 02:00]]></content>
     </entry>
 </feed>
