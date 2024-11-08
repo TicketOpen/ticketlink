@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-08T02:15:20.540Z</updated>
+    <updated>2024-11-08T03:16:50.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <아이소포스의 네 번째 열쇠> - 울산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60741</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60741"/>
+        <updated>2024-11-08T03:16:44.338Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.26(화) 12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 작열(灼熱) - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60740</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60740"/>
+        <updated>2024-11-08T03:16:44.340Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 알라딘 - 대구 (2025 롯데백화점 대구) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60739</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​발레 뮤지컬 미녀와 야수 - 동해​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60726</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60726"/>
-        <updated>2024-11-07T00:58:44.777Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <아이소포스의 네 번째 열쇠> - 울산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60741</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60741"/>
+        <updated>2024-11-08T03:16:50.160Z</updated>
+        <content type="html"><![CDATA[2024.11.26(화) 12:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 홍자 팬미팅 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60725</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60725"/>
-        <updated>2024-11-06T09:14:33.609Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 04:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 연극 작열(灼熱) - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60740</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60740"/>
+        <updated>2024-11-08T03:16:50.160Z</updated>
+        <content type="html"><![CDATA[2024.11.11(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 알라딘 - 대구 (2025 롯데백화점 대구) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60727"/>
         <updated>2024-11-07T05:12:37.174Z</updated>
         <content type="html"><![CDATA[2024.11.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​발레 뮤지컬 미녀와 야수 - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60726</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60726"/>
-        <updated>2024-11-07T00:58:52.119Z</updated>
-        <content type="html"><![CDATA[2024.11.13(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 홍자 팬미팅 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60725</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60725"/>
-        <updated>2024-11-06T09:14:41.628Z</updated>
-        <content type="html"><![CDATA[2024.11.11(월) 04:00]]></content>
     </entry>
 </feed>
