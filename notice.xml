@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-08T03:16:50.894Z</updated>
+    <updated>2024-11-08T04:15:07.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 김정민 전국투어 콘서트 : LIVE STAR - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60743</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60743"/>
+        <updated>2024-11-08T04:14:59.769Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 <아이소포스의 네 번째 열쇠> - 울산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60741</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60728"/>
         <updated>2024-11-07T05:12:28.868Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​잠골버스 The Live Vol.3 [겨울나기]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60727</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60727"/>
-        <updated>2024-11-07T05:12:28.868Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 05:00]]></content>
     </entry>
 </feed>
