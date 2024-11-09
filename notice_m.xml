@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-09T00:57:08.618Z</updated>
+    <updated>2024-11-09T02:10:09.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60747</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60747"/>
+        <updated>2024-11-09T02:10:09.176Z</updated>
+        <content type="html"><![CDATA[2024.11.13(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 경산시립예술단 연합공연 가족음악극<크리스마스 캐럴>​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60746</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60733</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60733"/>
         <updated>2024-11-07T07:12:17.144Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60732</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60732"/>
-        <updated>2024-11-07T07:12:17.147Z</updated>
         <content type="html"><![CDATA[2024.11.12(화) 02:00]]></content>
     </entry>
 </feed>
