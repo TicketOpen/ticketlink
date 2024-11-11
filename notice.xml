@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-11T10:14:12.210Z</updated>
+    <updated>2024-11-11T11:11:01.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] AI와 만난 슈베르트​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60766</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60766"/>
+        <updated>2024-11-11T11:10:53.292Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.12(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 전주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60765</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60750"/>
         <updated>2024-11-11T05:14:05.723Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.25(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <호두까기인형> - 평촌​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60749</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60749"/>
-        <updated>2024-11-10T10:11:56.381Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.11(월) 01:00]]></content>
     </entry>
 </feed>
