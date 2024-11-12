@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-12T02:13:11.207Z</updated>
+    <updated>2024-11-12T03:15:17.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라움 채리티 콘서트 '나눔 vol. 12' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60770</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60770"/>
+        <updated>2024-11-12T03:15:10.057Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.13(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 창원 진해​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60767</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60753"/>
         <updated>2024-11-11T05:14:05.720Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 심수봉 전국투어 콘서트 : 꽃길 - 진주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60751</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60751"/>
-        <updated>2024-11-11T05:14:05.722Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 01:00]]></content>
     </entry>
 </feed>
