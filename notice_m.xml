@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-12T04:15:47.768Z</updated>
+    <updated>2024-11-12T05:13:15.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DSAC 브랜드 콘서트 < Playlist : Untitled 시즌Ⅱ, 겨울 > - 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60771</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60771"/>
+        <updated>2024-11-12T05:13:14.703Z</updated>
+        <content type="html"><![CDATA[2024.11.13(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라움 채리티 콘서트 '나눔 vol. 12' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60770</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60770"/>
         <updated>2024-11-12T03:15:17.214Z</updated>
         <content type="html"><![CDATA[2024.11.13(수) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​크리스마스 콘서트 유키 구라모토와 친구들​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60769</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60769"/>
+        <updated>2024-11-12T05:13:14.705Z</updated>
+        <content type="html"><![CDATA[2024.11.14(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 부천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60768</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60768"/>
+        <updated>2024-11-12T05:13:14.705Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 창원 진해​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60757"/>
         <updated>2024-11-11T09:14:35.717Z</updated>
         <content type="html"><![CDATA[2024.11.20(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 검은사막 모바일 2024 칼페온 연회 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60756</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60756"/>
-        <updated>2024-11-11T10:14:11.505Z</updated>
-        <content type="html"><![CDATA[2024.11.11(월) 09:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  광주시립국악관현악단 제 140회 정기연주회 '선물' 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60754</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60754"/>
-        <updated>2024-11-11T07:13:22.477Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 울산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60753</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60753"/>
-        <updated>2024-11-11T05:14:13.805Z</updated>
-        <content type="html"><![CDATA[2024.11.14(목) 05:00]]></content>
     </entry>
 </feed>
