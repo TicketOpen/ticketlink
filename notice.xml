@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-13T06:18:13.785Z</updated>
+    <updated>2024-11-13T07:12:58.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[얼음공주 - 성남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60780</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60780"/>
+        <updated>2024-11-13T07:12:51.228Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.18(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 웅도 경북 그랜드 콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60779</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60779"/>
+        <updated>2024-11-13T07:12:51.231Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.19(화) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 창원​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60778</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60778"/>
+        <updated>2024-11-13T07:12:51.234Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.18(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 김정민 전국투어 콘서트 : LIVE STAR - 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60777</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60777"/>
+        <updated>2024-11-13T07:12:51.235Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.18(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 락뮤지컬<선천적 얼간이들>-앵콜​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60776</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60776"/>
+        <updated>2024-11-13T07:12:51.237Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.22(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <그 곳> - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60775</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60766"/>
         <updated>2024-11-11T11:10:53.292Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.12(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 전주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60765</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60765"/>
-        <updated>2024-11-11T10:14:05.430Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60764</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60764"/>
-        <updated>2024-11-11T10:14:05.434Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60763</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60763"/>
-        <updated>2024-11-11T10:14:05.435Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 여수​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60762</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60762"/>
-        <updated>2024-11-11T10:14:05.437Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 성남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60761</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60761"/>
-        <updated>2024-11-11T10:14:05.443Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 01:00]]></content>
     </entry>
 </feed>
