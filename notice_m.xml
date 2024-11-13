@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-13T07:12:58.723Z</updated>
+    <updated>2024-11-13T08:17:37.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꾸러기음악회 <신나는 겨울> - 울산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60781</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60781"/>
+        <updated>2024-11-13T08:17:36.615Z</updated>
+        <content type="html"><![CDATA[2024.11.15(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼음공주 - 성남​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60780</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60767"/>
         <updated>2024-11-12T00:58:03.282Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] AI와 만난 슈베르트​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60766</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60766"/>
-        <updated>2024-11-11T11:11:01.294Z</updated>
-        <content type="html"><![CDATA[2024.11.12(화) 01:00]]></content>
     </entry>
 </feed>
