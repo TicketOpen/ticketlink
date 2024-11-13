@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-13T05:13:24.238Z</updated>
+    <updated>2024-11-13T06:18:13.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -87,7 +87,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/60764</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60764"/>
         <updated>2024-11-11T10:14:11.480Z</updated>
-        <content type="html"><![CDATA[2024.11.14(목) 01:00]]></content>
+        <content type="html"><![CDATA[2024.11.15(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 부산​ 티켓오픈 안내]]></title>
