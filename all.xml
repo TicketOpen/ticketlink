@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-14T00:59:27.476Z</updated>
+    <updated>2024-11-14T02:17:25.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <클로버>​ 3차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60783</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60783"/>
+        <updated>2024-11-14T02:17:19.105Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.21(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 뮤지컬스타 갈라쇼 ​티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60782</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 부천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60768"/>
-        <updated>2024-11-12T05:13:08.775Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.15(금) 05:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 <클로버>​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60783</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60783"/>
+        <updated>2024-11-14T02:17:24.836Z</updated>
+        <content type="html"><![CDATA[2024.11.21(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​2024 뮤지컬스타 갈라쇼 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60769"/>
         <updated>2024-11-12T05:13:14.705Z</updated>
         <content type="html"><![CDATA[2024.11.14(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60768</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60768"/>
-        <updated>2024-11-12T05:13:14.705Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 05:00]]></content>
     </entry>
 </feed>
