@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-14T06:18:34.074Z</updated>
+    <updated>2024-11-14T07:13:13.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 최백호 단독콘서트 <낭만에 대하여> - 목포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60790</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60790"/>
+        <updated>2024-11-14T07:13:05.256Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.18(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 광주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60788</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60775"/>
         <updated>2024-11-13T03:17:18.759Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.15(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리는 슈퍼맘> - 창원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60774</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60774"/>
-        <updated>2024-11-13T02:16:18.643Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.14(목) 00:00]]></content>
     </entry>
 </feed>
