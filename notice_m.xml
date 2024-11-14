@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-14T05:13:33.042Z</updated>
+    <updated>2024-11-14T06:18:34.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60788</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60788"/>
+        <updated>2024-11-14T06:18:33.410Z</updated>
+        <content type="html"><![CDATA[2024.11.19(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 광주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60787</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60774"/>
         <updated>2024-11-13T02:16:26.341Z</updated>
         <content type="html"><![CDATA[2024.11.14(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 린 전국투어 콘서트 “Queen of Serenade” - 부산​ 티켓오픈 안]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60773</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60773"/>
-        <updated>2024-11-13T02:16:26.343Z</updated>
-        <content type="html"><![CDATA[2024.11.20(수) 05:00]]></content>
     </entry>
 </feed>
