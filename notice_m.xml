@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-15T06:21:24.475Z</updated>
+    <updated>2024-11-15T07:13:46.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <이기동 체육관> - 울진​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60800</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60800"/>
+        <updated>2024-11-15T07:13:45.453Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 알리 20주년 콘서트 - 용진(勇進)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60799</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60786"/>
         <updated>2024-11-14T03:18:23.466Z</updated>
         <content type="html"><![CDATA[2024.11.20(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Winter Festa (소란 & 아도이)-군산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60785</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60785"/>
-        <updated>2024-11-14T05:13:32.430Z</updated>
-        <content type="html"><![CDATA[2024.11.18(월) 05:00]]></content>
     </entry>
 </feed>
