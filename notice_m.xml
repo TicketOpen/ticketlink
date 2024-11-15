@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-15T05:13:40.293Z</updated>
+    <updated>2024-11-15T06:21:24.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 알리 20주년 콘서트 - 용진(勇進)​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60799</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60799"/>
+        <updated>2024-11-15T06:21:23.855Z</updated>
+        <content type="html"><![CDATA[2024.11.18(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <광화문연가> 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60798</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60785"/>
         <updated>2024-11-14T05:13:32.430Z</updated>
         <content type="html"><![CDATA[2024.11.18(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 김창옥 토크콘서트 시즌 4 - 성남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60784</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60784"/>
-        <updated>2024-11-14T05:13:32.430Z</updated>
-        <content type="html"><![CDATA[2024.11.20(수) 05:00]]></content>
     </entry>
 </feed>
