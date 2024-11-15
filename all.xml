@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-15T04:16:47.712Z</updated>
+    <updated>2024-11-15T05:13:40.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 마지막 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60798</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60798"/>
+        <updated>2024-11-15T05:13:31.699Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.21(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 공일오비(015B) 콘서트 - 의성​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60797</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.20(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 <클로버>​ 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60783</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60783"/>
-        <updated>2024-11-14T02:17:19.105Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.21(목) 05:00]]></content>
+        <title type="html"><![CDATA[​뮤지컬 <광화문연가> 마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60798</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60798"/>
+        <updated>2024-11-15T05:13:39.671Z</updated>
+        <content type="html"><![CDATA[2024.11.21(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 공일오비(015B) 콘서트 - 의성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60784"/>
         <updated>2024-11-14T05:13:32.430Z</updated>
         <content type="html"><![CDATA[2024.11.20(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <클로버>​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60783</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60783"/>
-        <updated>2024-11-14T02:17:24.836Z</updated>
-        <content type="html"><![CDATA[2024.11.21(목) 05:00]]></content>
     </entry>
 </feed>
