@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-18T05:14:36.245Z</updated>
+    <updated>2024-11-18T06:20:14.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2024 송년기획 Winter Story 뮤지컬 갈라콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60804</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60804"/>
+        <updated>2024-11-18T06:20:13.789Z</updated>
+        <content type="html"><![CDATA[2024.11.25(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 대니 구&조윤성 트리오 'Home' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60803</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60790"/>
         <updated>2024-11-14T07:13:12.967Z</updated>
         <content type="html"><![CDATA[2024.11.18(월) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 양파 단독 콘서트 '너의 지금' - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60789</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60789"/>
-        <updated>2024-11-14T09:14:01.757Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 08:00]]></content>
     </entry>
 </feed>
