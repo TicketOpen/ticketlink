@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-18T07:14:03.398Z</updated>
+    <updated>2024-11-18T08:19:15.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 캣 - 안산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60808</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60808"/>
+        <updated>2024-11-18T08:19:08.831Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.21(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호두까기인형 - 수원 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60807</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60807"/>
+        <updated>2024-11-18T08:19:08.832Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.21(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책 먹는 여우 - 울산북구 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60806</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.15(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​루돌프와 산타할아버지 - 화성​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60793</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60793"/>
-        <updated>2024-11-14T11:11:17.945Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.19(화) 00:00]]></content>
+        <title type="html"><![CDATA[어린이뮤지컬 캣 - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60808</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60808"/>
+        <updated>2024-11-18T08:19:14.929Z</updated>
+        <content type="html"><![CDATA[2024.11.21(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 최백호 단독콘서트 <낭만에 대하여> - 진주​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60792</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60792"/>
-        <updated>2024-11-14T08:17:33.642Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.19(화) 06:00]]></content>
+        <title type="html"><![CDATA[호두까기인형 - 수원 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60807</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60807"/>
+        <updated>2024-11-18T08:19:14.929Z</updated>
+        <content type="html"><![CDATA[2024.11.21(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[책 먹는 여우 - 울산북구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60794"/>
         <updated>2024-11-14T11:11:25.490Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​루돌프와 산타할아버지 - 화성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60793</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60793"/>
-        <updated>2024-11-14T11:11:25.491Z</updated>
-        <content type="html"><![CDATA[2024.11.19(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 최백호 단독콘서트 <낭만에 대하여> - 진주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60792</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60792"/>
-        <updated>2024-11-14T08:17:39.806Z</updated>
-        <content type="html"><![CDATA[2024.11.19(화) 06:00]]></content>
     </entry>
 </feed>
