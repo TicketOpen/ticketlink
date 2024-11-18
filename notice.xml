@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-18T03:29:33.930Z</updated>
+    <updated>2024-11-18T04:16:51.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GAC 기획공연 포커스 대니 구&조윤성 트리오 'Home' 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60803</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60803"/>
+        <updated>2024-11-18T04:16:42.611Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.20(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <치매식당> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60801</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60788"/>
         <updated>2024-11-14T06:18:26.457Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.19(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60787</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60787"/>
-        <updated>2024-11-14T03:18:16.652Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.20(수) 02:00]]></content>
     </entry>
 </feed>
