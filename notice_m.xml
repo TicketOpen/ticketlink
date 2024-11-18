@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-18T04:16:51.605Z</updated>
+    <updated>2024-11-18T05:14:36.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60803"/>
         <updated>2024-11-18T04:16:50.959Z</updated>
         <content type="html"><![CDATA[2024.11.20(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 포레스텔라 Encore 콘서트 < THE ILLUSIONIST >​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60802</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60802"/>
+        <updated>2024-11-18T05:14:35.510Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <치매식당> 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60789"/>
         <updated>2024-11-14T09:14:01.757Z</updated>
         <content type="html"><![CDATA[2024.11.15(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60788</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60788"/>
-        <updated>2024-11-14T06:18:33.410Z</updated>
-        <content type="html"><![CDATA[2024.11.19(화) 02:00]]></content>
     </entry>
 </feed>
