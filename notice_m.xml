@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-19T01:02:29.660Z</updated>
+    <updated>2024-11-19T02:53:48.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 부산광역시교육청학생예술문화회관 교직원 초청 공연 - 뮤지컬 빨래 -​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60814</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60814"/>
+        <updated>2024-11-19T02:53:47.830Z</updated>
+        <content type="html"><![CDATA[2024.11.20(수) 07:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 삼척시민과 함께하는 2024 송년 드림콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60813</id>
@@ -62,11 +69,11 @@
         <content type="html"><![CDATA[2024.11.28(목) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <치매식당> 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <치매식당> 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60801</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60801"/>
         <updated>2024-11-18T01:04:13.888Z</updated>
-        <content type="html"><![CDATA[2024.11.20(수) 02:00]]></content>
+        <content type="html"><![CDATA[2024.11.20(수) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <이기동 체육관> - 울진​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60796"/>
         <updated>2024-11-15T01:03:07.235Z</updated>
         <content type="html"><![CDATA[2024.12.05(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 필그림미션뮤직센터 송년음악회 헨델 <메시아> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60795</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60795"/>
-        <updated>2024-11-15T01:03:07.237Z</updated>
-        <content type="html"><![CDATA[2024.11.15(금) 00:00]]></content>
     </entry>
 </feed>
