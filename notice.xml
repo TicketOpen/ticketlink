@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-18T23:13:08.188Z</updated>
+    <updated>2024-11-19T01:02:29.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 삼척시민과 함께하는 2024 송년 드림콘서트​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60813</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60813"/>
+        <updated>2024-11-19T01:02:21.791Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.22(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이뮤지컬 캣 - 안산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60808</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60795"/>
         <updated>2024-11-15T01:03:00.704Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.15(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 전원석의 작은 음악회​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60794</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60794"/>
-        <updated>2024-11-14T11:11:17.944Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.15(금) 05:00]]></content>
     </entry>
 </feed>
