@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-20T07:13:17.591Z</updated>
+    <updated>2024-11-20T08:17:52.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60830"/>
         <updated>2024-11-20T07:13:09.642Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 07:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  Say U Fan vol.6 쿠보타 미유 FAN MEETING 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60829</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60829"/>
+        <updated>2024-11-20T08:17:43.851Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.22(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이승환 35주년 콘서트  - 진주 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60815"/>
         <updated>2024-11-19T05:13:40.195Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.26(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 부산광역시교육청학생예술문화회관 교직원 초청 공연 - 뮤지컬 빨래 -​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60814</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60814"/>
-        <updated>2024-11-19T02:53:39.643Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.20(수) 07:30]]></content>
     </entry>
 </feed>
