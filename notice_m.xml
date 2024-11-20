@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-20T04:16:59.568Z</updated>
+    <updated>2024-11-20T05:13:11.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트  - 진주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60828</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60828"/>
+        <updated>2024-11-20T05:13:11.307Z</updated>
+        <content type="html"><![CDATA[2024.11.25(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  뮤지컬 〈배니싱〉 - 원주 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60827</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60813"/>
         <updated>2024-11-19T01:02:28.975Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 캣 - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60808</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60808"/>
-        <updated>2024-11-18T08:19:14.929Z</updated>
-        <content type="html"><![CDATA[2024.11.21(목) 00:00]]></content>
     </entry>
 </feed>
