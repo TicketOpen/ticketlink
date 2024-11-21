@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-21T08:17:35.699Z</updated>
+    <updated>2024-11-21T09:14:43.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 Someday Christmas in 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60841</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60841"/>
+        <updated>2024-11-21T09:14:42.934Z</updated>
+        <content type="html"><![CDATA[2024.11.22(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 전주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60840</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[단독판매]  광주시립발레단 제139회 정기공연 「호두까기 인형」​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60826</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60826"/>
-        <updated>2024-11-20T02:52:56.015Z</updated>
-        <content type="html"><![CDATA[2024.11.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼팽으로 만나는 겨울왕국​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60825</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60825"/>
         <updated>2024-11-20T02:52:56.015Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 05:00]]></content>
     </entry>
