@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-21T06:18:57.830Z</updated>
+    <updated>2024-11-21T07:13:45.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60840</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60840"/>
+        <updated>2024-11-21T07:13:36.889Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.26(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60839</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60839"/>
+        <updated>2024-11-21T07:13:36.890Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부천 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60838</id>
@@ -75,7 +89,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.25(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 〈배니싱〉 - 원주 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <배니싱> - 원주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60827</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60827"/>
         <updated>2024-11-20T02:52:48.850Z</updated>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.22(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 부천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60824</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60824"/>
-        <updated>2024-11-19T07:13:19.602Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.21(목) 01:00]]></content>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60840</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60840"/>
+        <updated>2024-11-21T07:13:44.929Z</updated>
+        <content type="html"><![CDATA[2024.11.26(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 대전​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60823</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60823"/>
-        <updated>2024-11-19T07:13:19.603Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.21(목) 01:00]]></content>
+        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60839</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60839"/>
+        <updated>2024-11-21T07:13:44.930Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -180,7 +194,7 @@
         <content type="html"><![CDATA[2024.11.25(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 〈배니싱〉 - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <배니싱> - 원주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60827</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60827"/>
         <updated>2024-11-20T02:52:56.015Z</updated>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60825"/>
         <updated>2024-11-20T02:52:56.015Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 부천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60824</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60824"/>
-        <updated>2024-11-19T07:13:27.424Z</updated>
-        <content type="html"><![CDATA[2024.11.21(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(어린이율동놀이뮤지컬) 호비쇼 - 대전​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60823</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60823"/>
-        <updated>2024-11-19T07:13:27.424Z</updated>
-        <content type="html"><![CDATA[2024.11.21(목) 01:00]]></content>
     </entry>
 </feed>
