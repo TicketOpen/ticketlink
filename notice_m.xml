@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-21T01:02:18.979Z</updated>
+    <updated>2024-11-21T02:53:13.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 이솔로몬 연말 콘서트 <끝날 듯이>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60832</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60832"/>
+        <updated>2024-11-21T02:53:12.619Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <정의의 사람들>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60831</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60817"/>
         <updated>2024-11-19T06:19:26.056Z</updated>
         <content type="html"><![CDATA[2024.11.21(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 울산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60816</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60816"/>
-        <updated>2024-11-19T05:13:48.666Z</updated>
-        <content type="html"><![CDATA[2024.11.22(금) 05:00]]></content>
     </entry>
 </feed>
