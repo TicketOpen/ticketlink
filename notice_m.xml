@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-22T03:25:55.208Z</updated>
+    <updated>2024-11-22T04:17:02.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 성남​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60851</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60851"/>
+        <updated>2024-11-22T04:17:01.213Z</updated>
+        <content type="html"><![CDATA[2024.11.25(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 꾸러기음악회 <행진 앞으로> - 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60849</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60835"/>
         <updated>2024-11-21T04:16:44.907Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 익산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60834</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60834"/>
-        <updated>2024-11-21T03:24:37.206Z</updated>
-        <content type="html"><![CDATA[2024.11.25(월) 23:00]]></content>
     </entry>
 </feed>
