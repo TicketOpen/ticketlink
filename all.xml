@@ -2,14 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-22T04:17:01.923Z</updated>
+    <updated>2024-11-22T05:13:57.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시라노>​ 3차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60856</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60856"/>
+        <updated>2024-11-22T05:13:48.875Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 ​1차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60855</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60855"/>
+        <updated>2024-11-22T05:13:48.884Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [피처링_트랙 8] 연극 <보이즈 인 더 밴드> ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60854</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60854"/>
+        <updated>2024-11-22T05:13:48.888Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60853</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60853"/>
+        <updated>2024-11-22T05:13:48.889Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.26(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60852</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60852"/>
+        <updated>2024-11-22T05:13:48.889Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 성남​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60851</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60851"/>
         <updated>2024-11-22T04:16:55.242Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.25(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현> - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60850</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60850"/>
+        <updated>2024-11-22T05:13:48.890Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 꾸러기음악회 <행진 앞으로> - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,46 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.22(금) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 Someday Christmas in 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60841</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60841"/>
-        <updated>2024-11-21T09:14:35.973Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.22(금) 09:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <시라노>​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60856</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60856"/>
+        <updated>2024-11-22T05:13:56.426Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 전주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60840</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60840"/>
-        <updated>2024-11-21T07:13:36.889Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.26(화) 02:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 ​1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60855</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60855"/>
+        <updated>2024-11-22T05:13:56.426Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60839</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60839"/>
-        <updated>2024-11-21T07:13:36.890Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] [피처링_트랙 8] 연극 <보이즈 인 더 밴드> ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60854</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60854"/>
+        <updated>2024-11-22T05:13:56.426Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60838</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60838"/>
-        <updated>2024-11-21T05:14:11.421Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.25(월) 01:00]]></content>
+        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60853</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60853"/>
+        <updated>2024-11-22T05:13:56.428Z</updated>
+        <content type="html"><![CDATA[2024.11.26(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 <명성황후> 30주년 기념 공연​ 1차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60837</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60837"/>
-        <updated>2024-11-21T05:14:11.421Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유리상자 마흔 한 번째 사랑담기​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60835</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60835"/>
-        <updated>2024-11-21T04:16:36.749Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.22(금) 08:00]]></content>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60852</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60852"/>
+        <updated>2024-11-22T05:13:56.429Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 성남​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +150,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60851"/>
         <updated>2024-11-22T04:17:01.213Z</updated>
         <content type="html"><![CDATA[2024.11.25(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현> - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60850</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60850"/>
+        <updated>2024-11-22T05:13:56.429Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 꾸러기음악회 <행진 앞으로> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -170,48 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60842</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60842"/>
         <updated>2024-11-21T10:14:54.074Z</updated>
-        <content type="html"><![CDATA[2024.11.22(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Someday Christmas in 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60841</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60841"/>
-        <updated>2024-11-21T09:14:42.934Z</updated>
-        <content type="html"><![CDATA[2024.11.22(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 전주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60840</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60840"/>
-        <updated>2024-11-21T07:13:44.929Z</updated>
-        <content type="html"><![CDATA[2024.11.26(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60839</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60839"/>
-        <updated>2024-11-21T07:13:44.930Z</updated>
-        <content type="html"><![CDATA[2024.11.27(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 부천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60838</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60838"/>
-        <updated>2024-11-21T05:14:19.112Z</updated>
-        <content type="html"><![CDATA[2024.11.25(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <명성황후> 30주년 기념 공연​ 1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60837</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60837"/>
-        <updated>2024-11-21T05:14:19.124Z</updated>
-        <content type="html"><![CDATA[2024.11.28(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 유리상자 마흔 한 번째 사랑담기​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60835</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60835"/>
-        <updated>2024-11-21T04:16:44.907Z</updated>
         <content type="html"><![CDATA[2024.11.22(금) 08:00]]></content>
     </entry>
 </feed>
