@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-23T02:21:22.537Z</updated>
+    <updated>2024-11-23T03:23:00.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대호싸롱 크리스마스 재즈&와인 콘서트 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60863</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60863"/>
+        <updated>2024-11-23T03:22:52.664Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.25(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이지 파이터[THE ORIGINALS] TOUR – 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60861</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60848</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60848"/>
         <updated>2024-11-22T02:54:10.213Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 데뷔 40주년 김범룡 콘서트 - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60847</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60847"/>
-        <updated>2024-11-22T02:54:10.214Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.13(금) 01:00]]></content>
     </entry>
 </feed>
