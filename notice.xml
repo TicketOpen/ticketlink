@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-23T04:15:39.758Z</updated>
+    <updated>2024-11-23T05:12:42.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -69,7 +69,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 천안​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 천안​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60853</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60853"/>
         <updated>2024-11-22T05:13:48.889Z</updated>

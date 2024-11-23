@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-23T04:15:39.762Z</updated>
+    <updated>2024-11-23T05:12:42.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[대호싸롱 크리스마스 재즈&와인 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,7 +68,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60853</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60853"/>
         <updated>2024-11-22T05:13:48.889Z</updated>
@@ -173,7 +173,7 @@
         <content type="html"><![CDATA[2024.11.28(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60853</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60853"/>
         <updated>2024-11-22T05:13:56.428Z</updated>
