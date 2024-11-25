@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-25T05:15:06.515Z</updated>
+    <updated>2024-11-25T06:19:55.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 2am Concert <2am is coming to town>-Uiseong​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60867</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60867"/>
+        <updated>2024-11-25T06:19:48.829Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주니삼촌의 로봇매직콘서트 - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60866</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60866"/>
+        <updated>2024-11-25T06:19:48.829Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 서울구로 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60865</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60865"/>
+        <updated>2024-11-25T06:19:48.829Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［대구］뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60864</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60853"/>
         <updated>2024-11-22T05:13:48.889Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.26(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60852</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60852"/>
-        <updated>2024-11-22T05:13:48.889Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[앵콜] 더매직스타 전국투어 콘서트 - 성남​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60851</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60851"/>
-        <updated>2024-11-22T04:16:55.242Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.25(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현> - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60850</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60850"/>
-        <updated>2024-11-22T05:13:48.890Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 02:00]]></content>
     </entry>
 </feed>
