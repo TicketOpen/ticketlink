@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-25T07:14:34.663Z</updated>
+    <updated>2024-11-25T08:19:02.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 〈두들팝〉 - 세종문화회관 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[연극<스타크로스드>​ 2차 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60870</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60870"/>
+        <updated>2024-11-25T08:18:55.619Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 세종문화회관 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60869</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60869"/>
         <updated>2024-11-25T07:14:27.779Z</updated>
@@ -103,14 +110,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 ​1차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60855</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60855"/>
-        <updated>2024-11-22T05:13:48.884Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 05:00]]></content>
+        <title type="html"><![CDATA[연극<스타크로스드>​ 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60870</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60870"/>
+        <updated>2024-11-25T08:19:02.109Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 〈두들팝〉 - 세종문화회관 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 세종문화회관 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60869</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60869"/>
         <updated>2024-11-25T07:14:33.887Z</updated>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60856"/>
         <updated>2024-11-22T05:13:56.426Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 ​1차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60855</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60855"/>
-        <updated>2024-11-22T05:13:56.426Z</updated>
-        <content type="html"><![CDATA[2024.11.27(수) 05:00]]></content>
     </entry>
 </feed>

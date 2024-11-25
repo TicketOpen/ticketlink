@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-25T07:14:34.665Z</updated>
+    <updated>2024-11-25T08:19:02.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 〈두들팝〉 - 세종문화회관 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[연극<스타크로스드>​ 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60870</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60870"/>
+        <updated>2024-11-25T08:18:55.619Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 세종문화회관 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60869</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60869"/>
         <updated>2024-11-25T07:14:27.779Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60856"/>
         <updated>2024-11-22T05:13:48.875Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 ​1차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60855</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60855"/>
-        <updated>2024-11-22T05:13:48.884Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 05:00]]></content>
     </entry>
 </feed>
