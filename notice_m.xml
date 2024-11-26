@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-26T01:03:18.206Z</updated>
+    <updated>2024-11-26T02:55:11.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <해피 오! 해피>​ 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60874</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60874"/>
+        <updated>2024-11-26T02:55:11.339Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 빈 소년 합창단 신년 음악회​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60873</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60873"/>
+        <updated>2024-11-26T02:55:11.339Z</updated>
+        <content type="html"><![CDATA[2024.11.27(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Christmas Tea-Time​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60871</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60859"/>
         <updated>2024-11-22T08:17:57.848Z</updated>
         <content type="html"><![CDATA[2024.12.02(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <글루미 선데이> 3차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60858</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60858"/>
-        <updated>2024-11-22T08:17:57.848Z</updated>
-        <content type="html"><![CDATA[2024.11.26(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 수원 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60857</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60857"/>
-        <updated>2024-11-22T07:13:31.904Z</updated>
-        <content type="html"><![CDATA[2024.11.26(화) 05:00]]></content>
     </entry>
 </feed>
