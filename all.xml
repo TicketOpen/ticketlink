@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-26T04:17:17.122Z</updated>
+    <updated>2024-11-26T05:13:56.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <해피 오! 해피>​ 3차 티켓오픈 안내 (티켓링크)]]></title>
@@ -17,6 +17,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60873"/>
         <updated>2024-11-26T02:55:03.670Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​<1월의 봄 > 정훈희 x 송창식 with 함춘호 콘서트 – 군포​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60872</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60872"/>
+        <updated>2024-11-26T05:13:50.151Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Christmas Tea-Time​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.27(수) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 한국잡월드​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60859</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60859"/>
-        <updated>2024-11-22T08:17:49.788Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.02(월) 02:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 <해피 오! 해피>​ 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60874</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60874"/>
@@ -122,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60873"/>
         <updated>2024-11-26T02:55:11.339Z</updated>
         <content type="html"><![CDATA[2024.11.27(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​<1월의 봄 > 정훈희 x 송창식 with 함춘호 콘서트 – 군포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60872</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60872"/>
+        <updated>2024-11-26T05:13:56.171Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] Christmas Tea-Time​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60860"/>
         <updated>2024-11-22T09:14:36.665Z</updated>
         <content type="html"><![CDATA[2024.11.27(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 한국잡월드​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60859</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60859"/>
-        <updated>2024-11-22T08:17:57.848Z</updated>
-        <content type="html"><![CDATA[2024.12.02(월) 02:00]]></content>
     </entry>
 </feed>
