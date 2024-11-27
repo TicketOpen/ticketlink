@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-27T04:16:54.005Z</updated>
+    <updated>2024-11-27T05:13:48.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  광주시립창극단 기획공연 '송년 국악 한마당' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60885</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60885"/>
+        <updated>2024-11-27T05:13:47.467Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024-25 이은미 라이브 투어 [MOVE ON]-서울 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60884</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60884"/>
         <updated>2024-11-27T02:57:33.744Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 성남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60883</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60883"/>
+        <updated>2024-11-27T05:13:47.468Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <이상한 나라의 앨리스 : 완다랜드> 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60882</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60882"/>
+        <updated>2024-11-27T05:13:47.468Z</updated>
+        <content type="html"><![CDATA[2024.11.29(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼음공주 - 성수 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60870"/>
         <updated>2024-11-25T08:19:02.109Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매직드로잉 가족극 <두들팝> - 세종문화회관 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60869</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60869"/>
-        <updated>2024-11-25T07:14:33.887Z</updated>
-        <content type="html"><![CDATA[2024.12.02(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 용인 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60868</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60868"/>
-        <updated>2024-11-25T07:14:33.887Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 2am Concert <2am is coming to town>-Uiseong​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60867</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60867"/>
-        <updated>2024-11-25T06:19:54.825Z</updated>
-        <content type="html"><![CDATA[2024.12.05(목) 05:00]]></content>
     </entry>
 </feed>
