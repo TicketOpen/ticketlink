@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-27T07:13:58.219Z</updated>
+    <updated>2024-11-27T08:18:28.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리는 슈퍼맘> - 울산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60891</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60891"/>
+        <updated>2024-11-27T08:18:19.537Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명작동화 인형극 <성냥팔이 소녀> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60890</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60876</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60876"/>
         <updated>2024-11-26T06:20:01.713Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 천안​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60875</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60875"/>
-        <updated>2024-11-26T06:20:01.714Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 05:00]]></content>
     </entry>
 </feed>
