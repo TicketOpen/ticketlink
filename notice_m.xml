@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-28T04:16:50.630Z</updated>
+    <updated>2024-11-28T05:14:24.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60895"/>
         <updated>2024-11-28T03:30:23.854Z</updated>
         <content type="html"><![CDATA[2024.11.28(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 안양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60894</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60894"/>
+        <updated>2024-11-28T05:14:24.271Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 SUPER JUNIOR - D&E FAN PARTY < Jingle Jingle! > ​​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60893</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60893"/>
+        <updated>2024-11-28T05:14:24.271Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산  티켓오픈 안내]]></title>
@@ -94,20 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60881</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60881"/>
         <updated>2024-11-27T02:57:33.760Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음공주 - 해운대 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60880</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60880"/>
-        <updated>2024-11-27T02:57:33.764Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음공주 - 천안 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60879</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60879"/>
-        <updated>2024-11-27T02:57:33.764Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
     </entry>
 </feed>

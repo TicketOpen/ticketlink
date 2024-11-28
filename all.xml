@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-28T04:16:50.626Z</updated>
+    <updated>2024-11-28T05:14:24.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024 Someday Christmas in 여수​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60895"/>
         <updated>2024-11-28T03:30:15.607Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60894</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60894"/>
+        <updated>2024-11-28T05:14:16.766Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.02(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 SUPER JUNIOR - D&E FAN PARTY < Jingle Jingle! > ​​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60893</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60893"/>
+        <updated>2024-11-28T05:14:16.767Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산  티켓오픈 안내 (티켓링크)]]></title>
@@ -96,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼음공주 - 해운대 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60880</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60880"/>
-        <updated>2024-11-27T02:57:27.668Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음공주 - 천안 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60879</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60879"/>
-        <updated>2024-11-27T02:57:27.670Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.29(금) 00:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024 Someday Christmas in 여수​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60895</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60895"/>
         <updated>2024-11-28T03:30:23.854Z</updated>
         <content type="html"><![CDATA[2024.11.28(목) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60894</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60894"/>
+        <updated>2024-11-28T05:14:24.271Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 SUPER JUNIOR - D&E FAN PARTY < Jingle Jingle! > ​​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60893</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60893"/>
+        <updated>2024-11-28T05:14:24.271Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산  티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -198,20 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60881</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60881"/>
         <updated>2024-11-27T02:57:33.760Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음공주 - 해운대 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60880</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60880"/>
-        <updated>2024-11-27T02:57:33.764Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음공주 - 천안 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60879</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60879"/>
-        <updated>2024-11-27T02:57:33.764Z</updated>
         <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
     </entry>
 </feed>
