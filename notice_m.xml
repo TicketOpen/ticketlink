@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-27T23:13:20.240Z</updated>
+    <updated>2024-11-28T01:03:41.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점> - 부산  티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60892</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60892"/>
+        <updated>2024-11-28T01:03:40.809Z</updated>
+        <content type="html"><![CDATA[2024.11.28(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리는 슈퍼맘> - 울산​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60891</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60877"/>
         <updated>2024-11-26T09:14:58.173Z</updated>
         <content type="html"><![CDATA[2024.12.03(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현우 19+I - 천안​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60876</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60876"/>
-        <updated>2024-11-26T06:20:07.972Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 05:00]]></content>
     </entry>
 </feed>
