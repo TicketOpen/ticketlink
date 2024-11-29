@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-29T07:13:41.971Z</updated>
+    <updated>2024-11-29T08:18:03.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] Adieu 2024~ 행복한 경산, 송년 공감 콘서트! ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60903</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60903"/>
+        <updated>2024-11-29T08:17:54.151Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 3차 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60902</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.02(월) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마블 스튜디오 인피니티 사가 콘서트  월드투어 서울 공연 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60888</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60888"/>
-        <updated>2024-11-27T07:13:50.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] Adieu 2024~ 행복한 경산, 송년 공감 콘서트! ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60903</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60903"/>
+        <updated>2024-11-29T08:18:02.451Z</updated>
+        <content type="html"><![CDATA[2024.12.05(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60889"/>
         <updated>2024-11-27T07:13:57.544Z</updated>
         <content type="html"><![CDATA[2024.12.02(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마블 스튜디오 인피니티 사가 콘서트  월드투어 서울 공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60888</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60888"/>
-        <updated>2024-11-27T07:13:57.547Z</updated>
-        <content type="html"><![CDATA[2024.12.05(목) 05:00]]></content>
     </entry>
 </feed>
