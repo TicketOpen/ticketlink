@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-11-29T04:17:05.021Z</updated>
+    <updated>2024-11-29T05:14:05.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 3차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60902</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60902"/>
+        <updated>2024-11-29T05:13:57.980Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60901</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60901"/>
+        <updated>2024-11-29T05:13:57.980Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <클로버> 마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60900</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60900"/>
+        <updated>2024-11-29T05:13:57.983Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  20집 발매 기념 조용필＆위대한탄생 Concert - 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60899</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60888"/>
         <updated>2024-11-27T07:13:50.273Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <시카고> - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60887</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60887"/>
-        <updated>2024-11-27T07:13:50.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 4차​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60886</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60886"/>
-        <updated>2024-11-27T07:13:50.274Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.03(화) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  광주시립창극단 기획공연 '송년 국악 한마당' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60885</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60885"/>
-        <updated>2024-11-27T05:13:39.465Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 01:00]]></content>
     </entry>
 </feed>
