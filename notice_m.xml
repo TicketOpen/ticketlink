@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-11-28T23:13:26.921Z</updated>
+    <updated>2024-11-29T01:04:16.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최현우 19+I - 청주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60897</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60897"/>
+        <updated>2024-11-29T01:04:15.389Z</updated>
+        <content type="html"><![CDATA[2024.12.03(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주니삼촌의 로봇매직콘서트 - 사천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60896</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60896"/>
+        <updated>2024-11-29T01:04:15.396Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Someday Christmas in 여수​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60895</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60883"/>
         <updated>2024-11-27T05:13:47.468Z</updated>
         <content type="html"><![CDATA[2024.12.02(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 나라의 앨리스 : 완다랜드> 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60882</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60882"/>
-        <updated>2024-11-27T05:13:47.468Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음공주 - 성수 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60881</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60881"/>
-        <updated>2024-11-27T02:57:33.760Z</updated>
-        <content type="html"><![CDATA[2024.11.29(금) 00:00]]></content>
     </entry>
 </feed>
