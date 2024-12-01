@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-01T04:19:03.208Z</updated>
+    <updated>2024-12-01T05:13:26.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <24-25 향교품바-프렌즈> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60908</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60908"/>
+        <updated>2024-12-01T05:13:19.940Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.02(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시라노>​ OP석​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60905</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리는 슈퍼맘> - 울산​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60891</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60891"/>
-        <updated>2024-11-27T08:18:19.537Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 연극 <24-25 향교품바-프렌즈> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60908</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60908"/>
+        <updated>2024-12-01T05:13:25.901Z</updated>
+        <content type="html"><![CDATA[2024.12.02(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <시라노>​ OP석​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/60892</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60892"/>
         <updated>2024-11-28T01:03:40.809Z</updated>
-        <content type="html"><![CDATA[2024.11.28(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리는 슈퍼맘> - 울산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60891</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60891"/>
-        <updated>2024-11-27T08:18:27.856Z</updated>
         <content type="html"><![CDATA[2024.11.28(목) 00:00]]></content>
     </entry>
 </feed>
