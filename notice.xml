@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-02T01:06:45.499Z</updated>
+    <updated>2024-12-02T03:01:39.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(2025 롯데백화점 대구) 카멜레온 매직쇼 - 대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60909</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60909"/>
+        <updated>2024-12-02T03:01:32.315Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <24-25 향교품바-프렌즈> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60908</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60895"/>
         <updated>2024-11-28T03:30:15.607Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.11.28(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 안양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60894</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60894"/>
-        <updated>2024-11-28T05:14:16.766Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.02(월) 01:00]]></content>
     </entry>
 </feed>
