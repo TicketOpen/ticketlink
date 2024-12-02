@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-02T05:14:38.590Z</updated>
+    <updated>2024-12-02T06:20:47.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <윌리엄 셰익스피어: 납의 깃털> 2차 티켓 오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60912</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60912"/>
+        <updated>2024-12-02T06:20:39.053Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.06(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이온킹 라이브 인 콘서트 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60911</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최현우 19+I - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60897</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60897"/>
-        <updated>2024-11-29T01:04:09.398Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.03(화) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <윌리엄 셰익스피어: 납의 깃털> 2차 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60912</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60912"/>
+        <updated>2024-12-02T06:20:46.592Z</updated>
+        <content type="html"><![CDATA[2024.12.06(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라이온킹 라이브 인 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60898"/>
         <updated>2024-11-29T02:56:52.105Z</updated>
         <content type="html"><![CDATA[2024.12.04(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현우 19+I - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60897</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60897"/>
-        <updated>2024-11-29T01:04:15.389Z</updated>
-        <content type="html"><![CDATA[2024.12.03(화) 05:00]]></content>
     </entry>
 </feed>
