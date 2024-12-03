@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-02T23:15:05.541Z</updated>
+    <updated>2024-12-03T01:05:57.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60916"/>
         <updated>2024-12-02T12:27:22.779Z</updated>
         <content type="html"><![CDATA[2024.12.05(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​추교준 피아노 독주회 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60914</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60914"/>
-        <updated>2024-12-02T08:19:27.896Z</updated>
-        <content type="html"><![CDATA[2024.12.03(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> 광명​ 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60901"/>
         <updated>2024-11-29T05:14:04.602Z</updated>
         <content type="html"><![CDATA[2024.12.05(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <클로버> 마지막 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60900</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60900"/>
+        <updated>2024-12-03T01:05:57.321Z</updated>
+        <content type="html"><![CDATA[2024.12.05(목) 05:00]]></content>
     </entry>
 </feed>
