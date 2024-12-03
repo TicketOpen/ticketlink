@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-03T03:01:26.787Z</updated>
+    <updated>2024-12-03T04:17:23.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제17회 예문학생예술단음악회(HARMONY)​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60920</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60920"/>
+        <updated>2024-12-03T04:17:14.904Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GFRIEND 10th Anniversary < Season of Memories >​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60917</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.05(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60902</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60902"/>
-        <updated>2024-11-29T05:13:57.980Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 제17회 예문학생예술단음악회(HARMONY)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60920</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60920"/>
+        <updated>2024-12-03T04:17:22.474Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GFRIEND 10th Anniversary < Season of Memories >​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60903"/>
         <updated>2024-11-29T08:18:02.451Z</updated>
         <content type="html"><![CDATA[2024.12.05(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60902</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60902"/>
-        <updated>2024-11-29T05:14:04.601Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 05:00]]></content>
     </entry>
 </feed>
