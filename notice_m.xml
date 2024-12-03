@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-03T06:20:25.581Z</updated>
+    <updated>2024-12-03T07:13:56.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤직 & 매직​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60921</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60921"/>
+        <updated>2024-12-03T07:13:56.109Z</updated>
+        <content type="html"><![CDATA[2024.12.04(수) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제17회 예문학생예술단음악회(HARMONY)​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60920</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60905"/>
         <updated>2024-11-29T09:14:37.664Z</updated>
         <content type="html"><![CDATA[2024.12.04(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 과자가게 전천당 4 - 정체불명의 손님> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60904</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60904"/>
-        <updated>2024-11-29T09:14:37.666Z</updated>
-        <content type="html"><![CDATA[2024.12.12(목) 04:00]]></content>
     </entry>
 </feed>
