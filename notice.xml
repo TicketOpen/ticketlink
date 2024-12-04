@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-04T01:05:19.699Z</updated>
+    <updated>2024-12-04T02:59:19.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공룡테마파크 < DINO BAY > 시즌3​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60922</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60922"/>
+        <updated>2024-12-04T02:59:11.109Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.06(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤직 & 매직​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60921</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60906"/>
         <updated>2024-12-02T01:06:38.933Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <시라노>​ OP석​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60905</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60905"/>
-        <updated>2024-11-29T09:14:30.291Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 06:00]]></content>
     </entry>
 </feed>
