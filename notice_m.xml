@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-04T08:19:14.908Z</updated>
+    <updated>2024-12-04T09:15:43.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 SOMEDAY PLEROMA​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60927</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60927"/>
+        <updated>2024-12-04T09:15:42.610Z</updated>
+        <content type="html"><![CDATA[2024.12.05(목) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 스테이지 파이터[THE ORIGINALS] TOUR – 대구​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60926</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60926"/>
+        <updated>2024-12-04T09:15:42.614Z</updated>
+        <content type="html"><![CDATA[2024.12.09(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이지 파이터[THE ORIGINALS] TOUR – 광주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60925</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60925"/>
+        <updated>2024-12-04T09:15:42.615Z</updated>
+        <content type="html"><![CDATA[2024.12.09(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이지 파이터[THE ORIGINALS] TOUR – 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60924</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60924"/>
+        <updated>2024-12-04T09:15:42.615Z</updated>
+        <content type="html"><![CDATA[2024.12.09(월) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 용인​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60923</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60912"/>
         <updated>2024-12-02T06:20:46.592Z</updated>
         <content type="html"><![CDATA[2024.12.06(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이온킹 라이브 인 콘서트 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60911</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60911"/>
-        <updated>2024-12-02T05:14:37.926Z</updated>
-        <content type="html"><![CDATA[2024.12.10(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] YOUNITE 1ST SINGLE ALBUM 'Y' COMEBACK SHOWCASE​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60910</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60910"/>
-        <updated>2024-12-02T05:14:37.926Z</updated>
-        <content type="html"><![CDATA[2024.12.05(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] (2025 롯데백화점 대구) 카멜레온 매직쇼 - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60909</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60909"/>
-        <updated>2024-12-02T03:01:38.635Z</updated>
-        <content type="html"><![CDATA[2024.12.04(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 <24-25 향교품바-프렌즈> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60908</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60908"/>
-        <updated>2024-12-01T05:13:25.901Z</updated>
-        <content type="html"><![CDATA[2024.12.02(월) 05:00]]></content>
     </entry>
 </feed>
