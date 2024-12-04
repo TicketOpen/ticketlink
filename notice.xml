@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-04T04:16:51.909Z</updated>
+    <updated>2024-12-04T05:13:54.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 용인​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60923</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60923"/>
+        <updated>2024-12-04T05:13:46.653Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡테마파크 < DINO BAY > 시즌3​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60922</id>
@@ -32,6 +39,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60919"/>
         <updated>2024-12-03T05:14:17.830Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 4 - 대전 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60918</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60918"/>
+        <updated>2024-12-04T05:13:46.671Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GFRIEND 10th Anniversary < Season of Memories >​​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60908"/>
         <updated>2024-12-01T05:13:19.940Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.02(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2025 롯데백화점 대구) 판타스틱 매직콘서트 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60907</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60907"/>
-        <updated>2024-12-02T01:06:38.929Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.04(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 창작산실 선정작 뮤지컬 <오셀로의 재심> 1차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60906</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60906"/>
-        <updated>2024-12-02T01:06:38.933Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 05:00]]></content>
     </entry>
 </feed>
