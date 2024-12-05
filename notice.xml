@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-05T08:18:41.423Z</updated>
+    <updated>2024-12-05T09:15:45.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/60937</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60937"/>
         <updated>2024-12-05T07:14:03.472Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 01:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]연극 <정의의 사람들> 추가 회차​ 티켓오픈 안내]]></title>
@@ -45,7 +45,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/60935</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60935"/>
         <updated>2024-12-05T07:14:03.472Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 01:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[서울] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내]]></title>
