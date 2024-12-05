@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-05T07:14:11.130Z</updated>
+    <updated>2024-12-05T08:18:41.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폴리팝 (두들팝ver.2) ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60940</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60940"/>
+        <updated>2024-12-05T08:18:40.778Z</updated>
+        <content type="html"><![CDATA[2024.12.16(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] SOOP OVERWATCH2 CUP SEASON 2 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60939</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60926"/>
         <updated>2024-12-04T09:15:42.614Z</updated>
         <content type="html"><![CDATA[2024.12.09(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이지 파이터[THE ORIGINALS] TOUR – 광주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60925</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60925"/>
-        <updated>2024-12-04T09:15:42.615Z</updated>
-        <content type="html"><![CDATA[2024.12.09(월) 11:00]]></content>
     </entry>
 </feed>
