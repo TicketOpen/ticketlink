@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-09T01:07:43.484Z</updated>
+    <updated>2024-12-09T03:02:36.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60949</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60949"/>
+        <updated>2024-12-09T03:02:28.217Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책 먹는 여우 - 경기 광주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60948</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.06(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 가족뮤지컬 <하늘을 나는 피터팬> - 서울 구로​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60933</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60933"/>
-        <updated>2024-12-05T06:19:36.291Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60949</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60949"/>
+        <updated>2024-12-09T03:02:36.112Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[책 먹는 여우 - 경기 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60934"/>
         <updated>2024-12-05T06:19:43.646Z</updated>
         <content type="html"><![CDATA[2024.12.06(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 가족뮤지컬 <하늘을 나는 피터팬> - 서울 구로​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60933</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60933"/>
-        <updated>2024-12-05T06:19:43.646Z</updated>
-        <content type="html"><![CDATA[2024.12.10(화) 00:00]]></content>
     </entry>
 </feed>
