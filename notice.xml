@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-09T03:02:36.804Z</updated>
+    <updated>2024-12-09T04:17:11.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 경기 광주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60950</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60950"/>
+        <updated>2024-12-09T04:17:03.616Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60949</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60935"/>
         <updated>2024-12-05T07:14:03.472Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.09(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[서울] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60934</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60934"/>
-        <updated>2024-12-05T06:19:36.291Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.06(금) 01:00]]></content>
     </entry>
 </feed>
