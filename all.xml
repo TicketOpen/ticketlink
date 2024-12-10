@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-10T01:06:06.637Z</updated>
+    <updated>2024-12-10T03:02:13.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[백설공주 - 창원 티켓오픈 안내 (티켓링크)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60955"/>
         <updated>2024-12-09T10:15:31.069Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 조관우 MUSIC 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60953</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60953"/>
+        <updated>2024-12-10T03:02:05.786Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.13(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​제야 블록버스터 뮤지컬 오페라 투란도트​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.16(월) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] SOOP OVERWATCH2 CUP SEASON 2 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60939</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60939"/>
-        <updated>2024-12-05T07:14:03.466Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.06(금) 08:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[백설공주 - 창원 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60955</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60955"/>
         <updated>2024-12-09T10:15:38.892Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 조관우 MUSIC 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60953</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60953"/>
+        <updated>2024-12-10T03:02:13.124Z</updated>
+        <content type="html"><![CDATA[2024.12.13(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​제야 블록버스터 뮤지컬 오페라 투란도트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60940"/>
         <updated>2024-12-05T08:18:40.778Z</updated>
         <content type="html"><![CDATA[2024.12.16(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] SOOP OVERWATCH2 CUP SEASON 2 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60939</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60939"/>
-        <updated>2024-12-05T07:14:10.429Z</updated>
-        <content type="html"><![CDATA[2024.12.06(금) 08:00]]></content>
     </entry>
 </feed>
