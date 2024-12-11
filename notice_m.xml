@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-11T05:14:01.970Z</updated>
+    <updated>2024-12-11T06:20:00.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60970"/>
         <updated>2024-12-11T05:14:01.295Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <글루미 선데이> 4차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60969</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60969"/>
+        <updated>2024-12-11T06:19:59.411Z</updated>
+        <content type="html"><![CDATA[2024.12.17(화) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 빈 소년 합창단 신년 콘서트 - 경주​​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60956"/>
         <updated>2024-12-10T05:14:57.728Z</updated>
         <content type="html"><![CDATA[2024.12.13(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백설공주 - 창원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60955</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60955"/>
-        <updated>2024-12-09T10:15:38.892Z</updated>
-        <content type="html"><![CDATA[2024.12.12(목) 10:00]]></content>
     </entry>
 </feed>
