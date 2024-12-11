@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-11T04:17:09.734Z</updated>
+    <updated>2024-12-11T05:14:01.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[안산] 뮤지컬 <시카고>​ 추가 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60970</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60970"/>
+        <updated>2024-12-11T05:13:53.900Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 빈 소년 합창단 신년 콘서트 - 경주​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60968</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60968"/>
+        <updated>2024-12-11T05:13:53.903Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.16(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  김복희 연말콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60967</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60967"/>
+        <updated>2024-12-11T05:13:53.903Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  컬트 빌리 크리스마스 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60966</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60966"/>
+        <updated>2024-12-11T05:13:53.906Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 하남 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60965</id>
@@ -17,6 +45,20 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60964"/>
         <updated>2024-12-11T03:34:01.727Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.13(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] FC 프로 페스티벌 2024​ (FC온라인) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60963</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60963"/>
+        <updated>2024-12-11T05:13:53.910Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] FC 프로 페스티벌 케스파컵 2024​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60962</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60962"/>
+        <updated>2024-12-11T05:13:53.910Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <날개 > - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,46 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[피처링_히든트랙] 뮤지컬 <클로버>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60954</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60954"/>
-        <updated>2024-12-10T05:14:50.035Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.17(화) 05:00]]></content>
+        <title type="html"><![CDATA[[안산] 뮤지컬 <시카고>​ 추가 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60970</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60970"/>
+        <updated>2024-12-11T05:14:01.295Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 조관우 MUSIC 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60953</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60953"/>
-        <updated>2024-12-10T03:02:05.786Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.13(금) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 빈 소년 합창단 신년 콘서트 - 경주​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60968</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60968"/>
+        <updated>2024-12-11T05:14:01.296Z</updated>
+        <content type="html"><![CDATA[2024.12.16(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​제야 블록버스터 뮤지컬 오페라 투란도트​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60952</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60952"/>
-        <updated>2024-12-09T07:14:28.248Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 08:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  김복희 연말콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60967</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60967"/>
+        <updated>2024-12-11T05:14:01.299Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬<아나키스트> 1차 ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60951</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60951"/>
-        <updated>2024-12-09T05:15:22.479Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 경기 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60950</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60950"/>
-        <updated>2024-12-09T04:17:03.616Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.10(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60949</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60949"/>
-        <updated>2024-12-09T03:02:28.217Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  컬트 빌리 크리스마스 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60966</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60966"/>
+        <updated>2024-12-11T05:14:01.302Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 하남 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -122,6 +150,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60964"/>
         <updated>2024-12-11T03:34:09.766Z</updated>
         <content type="html"><![CDATA[2024.12.13(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] FC 프로 페스티벌 2024​ (FC온라인) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60963</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60963"/>
+        <updated>2024-12-11T05:14:01.305Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] FC 프로 페스티벌 케스파컵 2024​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60962</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60962"/>
+        <updated>2024-12-11T05:14:01.307Z</updated>
+        <content type="html"><![CDATA[2024.12.12(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 연극 <날개 > - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -171,47 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60955"/>
         <updated>2024-12-09T10:15:38.892Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[피처링_히든트랙] 뮤지컬 <클로버>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60954</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60954"/>
-        <updated>2024-12-10T05:14:57.731Z</updated>
-        <content type="html"><![CDATA[2024.12.17(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 조관우 MUSIC 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60953</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60953"/>
-        <updated>2024-12-10T03:02:13.124Z</updated>
-        <content type="html"><![CDATA[2024.12.13(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​제야 블록버스터 뮤지컬 오페라 투란도트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60952</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60952"/>
-        <updated>2024-12-09T07:14:36.711Z</updated>
-        <content type="html"><![CDATA[2024.12.10(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬<아나키스트> 1차 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60951</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60951"/>
-        <updated>2024-12-09T05:15:29.008Z</updated>
-        <content type="html"><![CDATA[2024.12.12(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 경기 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60950</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60950"/>
-        <updated>2024-12-09T04:17:11.143Z</updated>
-        <content type="html"><![CDATA[2024.12.10(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60949</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60949"/>
-        <updated>2024-12-09T03:02:36.112Z</updated>
-        <content type="html"><![CDATA[2024.12.12(목) 01:00]]></content>
     </entry>
 </feed>
