@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-12T06:20:02.619Z</updated>
+    <updated>2024-12-12T07:14:40.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[피처링_트랙 9] 뮤지컬 <해적> : THE LAST VOYAGE​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60974</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60974"/>
+        <updated>2024-12-12T07:14:33.629Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.20(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2025 오르간 오딧세이​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60973</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] JUKEBOX OPERA <너의 MBTI는 뭐니? : Travel to YEOSU> ​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60959</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60959"/>
-        <updated>2024-12-10T06:19:41.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.11(수) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​[피처링_트랙 9] 뮤지컬 <해적> : THE LAST VOYAGE​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60974</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60974"/>
+        <updated>2024-12-12T07:14:40.236Z</updated>
+        <content type="html"><![CDATA[2024.12.20(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2025 오르간 오딧세이​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60960"/>
         <updated>2024-12-10T06:19:49.242Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] JUKEBOX OPERA <너의 MBTI는 뭐니? : Travel to YEOSU> ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60959</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60959"/>
-        <updated>2024-12-10T06:19:49.242Z</updated>
-        <content type="html"><![CDATA[2024.12.11(수) 00:00]]></content>
     </entry>
 </feed>

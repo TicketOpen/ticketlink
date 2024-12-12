@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-12T06:20:02.616Z</updated>
+    <updated>2024-12-12T07:14:40.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[피처링_트랙 9] 뮤지컬 <해적> : THE LAST VOYAGE​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60974</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60974"/>
+        <updated>2024-12-12T07:14:33.629Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.20(금) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2025 오르간 오딧세이​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60973</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60960"/>
         <updated>2024-12-10T06:19:41.891Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] JUKEBOX OPERA <너의 MBTI는 뭐니? : Travel to YEOSU> ​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60959</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60959"/>
-        <updated>2024-12-10T06:19:41.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.11(수) 00:00]]></content>
     </entry>
 </feed>
