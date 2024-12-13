@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-13T07:13:42.186Z</updated>
+    <updated>2024-12-13T08:18:48.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 <어린이 서커스 마술쇼> - 세종​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60977</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60977"/>
+        <updated>2024-12-13T08:18:47.531Z</updated>
+        <content type="html"><![CDATA[2024.12.18(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오리지널 어린이 캣 - 구로​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/60976</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/60976"/>
+        <updated>2024-12-13T08:18:47.531Z</updated>
+        <content type="html"><![CDATA[2024.12.18(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <해적> : THE LAST VOYAGE 마지막​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60975</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60963"/>
         <updated>2024-12-11T05:14:01.305Z</updated>
         <content type="html"><![CDATA[2024.12.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] FC 프로 페스티벌 케스파컵 2024​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60962</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60962"/>
-        <updated>2024-12-11T05:14:01.307Z</updated>
-        <content type="html"><![CDATA[2024.12.12(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 <날개 > - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60961</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60961"/>
-        <updated>2024-12-10T07:14:00.129Z</updated>
-        <content type="html"><![CDATA[2024.12.11(수) 00:00]]></content>
     </entry>
 </feed>
