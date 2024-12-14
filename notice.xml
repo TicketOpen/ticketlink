@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-14T07:12:30.828Z</updated>
+    <updated>2024-12-14T08:16:37.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 가족뮤지컬 <겨울이야기> - 제주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60985</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60985"/>
+        <updated>2024-12-14T08:16:27.877Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 포항​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60984</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60971"/>
         <updated>2024-12-11T07:14:14.914Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.13(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안산] 뮤지컬 <시카고>​ 추가 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60970</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60970"/>
-        <updated>2024-12-11T05:13:53.900Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 07:00]]></content>
     </entry>
 </feed>
