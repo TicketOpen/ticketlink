@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-13T23:13:59.295Z</updated>
+    <updated>2024-12-14T01:02:54.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  유키 구라모토 내한 25주년 기념 콘서트 - 의정부​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60983</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60983"/>
+        <updated>2024-12-14T01:02:47.189Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  유키 구라모토 내한 25주년 기념 콘서트 - 안산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60982</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60982"/>
+        <updated>2024-12-14T01:02:47.189Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  유키 구라모토 내한 25주년 기념 콘서트 - 용인​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/60981</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/60981"/>
+        <updated>2024-12-14T01:02:47.192Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <퍼스트 맨: 카뮈가 남긴 마지막 이야기> 1차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60980</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/60969"/>
         <updated>2024-12-11T06:19:52.782Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.17(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 빈 소년 합창단 신년 콘서트 - 경주​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60968</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60968"/>
-        <updated>2024-12-11T05:13:53.903Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.16(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  김복희 연말콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60967</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60967"/>
-        <updated>2024-12-11T05:13:53.903Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  컬트 빌리 크리스마스 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60966</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60966"/>
-        <updated>2024-12-11T05:13:53.906Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.12(목) 03:00]]></content>
     </entry>
 </feed>
