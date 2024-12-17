@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-17T07:14:13.469Z</updated>
+    <updated>2024-12-17T08:19:29.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​엘사의 생일파티 - 광주​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] ​<<엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 광주>>​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60991</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60991"/>
         <updated>2024-12-16T03:03:03.303Z</updated>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-17T07:14:13.504Z</updated>
+    <updated>2024-12-17T08:19:29.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3<바다넘어 육지까지> - 노원​​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -54,7 +54,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​엘사의 생일파티 - 광주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] ​<<엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 광주>>​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60991</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60991"/>
         <updated>2024-12-16T03:03:03.303Z</updated>
@@ -159,7 +159,7 @@
         <content type="html"><![CDATA[2024.12.18(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​엘사의 생일파티 - 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] ​<<엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 광주>>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/60991</id>
         <link href="http://m.ticketlink.co.kr/help/notice/60991"/>
         <updated>2024-12-16T03:03:11.387Z</updated>
