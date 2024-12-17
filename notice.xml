@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-17T09:14:59.837Z</updated>
+    <updated>2024-12-17T10:15:26.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 SEVENUS CONCERT: On Air Night with Heeala​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61000</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61000"/>
+        <updated>2024-12-17T10:15:19.240Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.19(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3<바다넘어 육지까지> - 노원​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/60998</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60985</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60985"/>
         <updated>2024-12-14T08:16:27.877Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2024 가족뮤지컬 <호두까기인형> - 포항​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60984</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60984"/>
-        <updated>2024-12-14T07:12:22.271Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 00:00]]></content>
     </entry>
 </feed>
