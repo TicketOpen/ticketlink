@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-18T05:13:34.511Z</updated>
+    <updated>2024-12-18T06:19:18.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현> - 강북 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61006</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61006"/>
+        <updated>2024-12-18T06:19:11.662Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.23(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <장수탕 선녀님> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61005</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61005"/>
+        <updated>2024-12-18T06:19:11.665Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<엘사의 생일파티 제 2탄 : 얼음공주 이야기 - 성수>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61004</id>
@@ -94,20 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/60991</id>
         <link href="http://www.ticketlink.co.kr/help/notice/60991"/>
         <updated>2024-12-16T03:03:03.303Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.19(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 과천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60990</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60990"/>
-        <updated>2024-12-16T03:03:03.315Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.19(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​공룡애니멀쇼 - 광주5.18​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60989</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60989"/>
-        <updated>2024-12-16T03:03:03.315Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.19(목) 00:00]]></content>
     </entry>
 </feed>
