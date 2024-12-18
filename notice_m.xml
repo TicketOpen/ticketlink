@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-18T01:02:15.537Z</updated>
+    <updated>2024-12-18T02:54:01.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이, 레벨업 대작전> - 서울​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61003</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61003"/>
+        <updated>2024-12-18T02:54:00.786Z</updated>
+        <content type="html"><![CDATA[2024.12.20(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 성남​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61001</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60987"/>
         <updated>2024-12-16T01:07:10.359Z</updated>
         <content type="html"><![CDATA[2024.12.20(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 강홍석 The 1st Fan Meeting < The Hong Show >​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60986</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60986"/>
-        <updated>2024-12-16T01:07:10.369Z</updated>
-        <content type="html"><![CDATA[2024.12.23(월) 09:00]]></content>
     </entry>
 </feed>
