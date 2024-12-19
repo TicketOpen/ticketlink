@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-19T03:26:15.968Z</updated>
+    <updated>2024-12-19T04:16:42.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2025 김창완밴드 콘서트 <회상> - 안동​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61013</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61013"/>
+        <updated>2024-12-19T04:16:32.787Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.20(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 <누가 내 머리에 똥 쌌어?> - 원주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61012</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.18(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 3차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/60997</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/60997"/>
-        <updated>2024-12-17T06:20:07.145Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.23(월) 02:00]]></content>
+        <title type="html"><![CDATA[​[단독판매]  2025 김창완밴드 콘서트 <회상> - 안동​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61013</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61013"/>
+        <updated>2024-12-19T04:16:41.445Z</updated>
+        <content type="html"><![CDATA[2024.12.20(금) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 <누가 내 머리에 똥 쌌어?> - 원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/60998"/>
         <updated>2024-12-17T06:20:14.704Z</updated>
         <content type="html"><![CDATA[2024.12.18(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 3차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/60997</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/60997"/>
-        <updated>2024-12-17T06:20:14.704Z</updated>
-        <content type="html"><![CDATA[2024.12.23(월) 02:00]]></content>
     </entry>
 </feed>
