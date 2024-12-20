@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-20T05:12:51.748Z</updated>
+    <updated>2024-12-20T06:18:08.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 391회 정기연주회 '2025 신년음악회; New Wave'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61021</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61021"/>
+        <updated>2024-12-20T06:18:07.803Z</updated>
+        <content type="html"><![CDATA[2024.12.24(화) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <해피 오! 해피>​ 마지막 4차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61020</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61007"/>
         <updated>2024-12-18T07:13:23.492Z</updated>
         <content type="html"><![CDATA[2024.12.23(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현> - 강북 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61006</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61006"/>
-        <updated>2024-12-18T06:19:17.899Z</updated>
-        <content type="html"><![CDATA[2024.12.23(월) 02:00]]></content>
     </entry>
 </feed>
