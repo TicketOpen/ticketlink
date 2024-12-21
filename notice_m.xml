@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-20T23:12:15.336Z</updated>
+    <updated>2024-12-21T00:59:07.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61018"/>
         <updated>2024-12-20T05:12:51.097Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​박창근 장르 with 오케스트라 전국투어 콘서트 - 고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61017</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61017"/>
-        <updated>2024-12-20T00:59:44.488Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극<스타크로스드>​ 추가 좌석 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61008"/>
         <updated>2024-12-18T07:13:23.487Z</updated>
         <content type="html"><![CDATA[2024.12.23(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌4 - 전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61007</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61007"/>
+        <updated>2024-12-21T00:59:06.937Z</updated>
+        <content type="html"><![CDATA[2024.12.23(월) 01:00]]></content>
     </entry>
 </feed>
