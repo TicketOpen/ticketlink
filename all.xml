@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-24T10:13:37.621Z</updated>
+    <updated>2024-12-24T11:11:04.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 화성 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61043</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61043"/>
+        <updated>2024-12-24T11:10:55.716Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 오산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61042</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61042"/>
+        <updated>2024-12-24T11:10:55.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.30(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 엘사의 생일파티 제 2탄 : 얼음공주 이야기 - 순천​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61041</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.24(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 09 - 김현철 단독콘서트​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61028</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61028"/>
-        <updated>2024-12-23T06:19:25.586Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.24(화) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 화성 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61043</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61043"/>
+        <updated>2024-12-24T11:11:03.707Z</updated>
+        <content type="html"><![CDATA[2024.12.31(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 당진 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61027</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61027"/>
-        <updated>2024-12-23T05:13:24.053Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 오산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61042</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61042"/>
+        <updated>2024-12-24T11:11:03.709Z</updated>
+        <content type="html"><![CDATA[2024.12.30(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 엘사의 생일파티 제 2탄 : 얼음공주 이야기 - 순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61029"/>
         <updated>2024-12-23T06:19:32.532Z</updated>
         <content type="html"><![CDATA[2024.12.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 to 10 레전드 콘서트 EP 09 - 김현철 단독콘서트​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61028</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61028"/>
-        <updated>2024-12-23T06:19:32.532Z</updated>
-        <content type="html"><![CDATA[2024.12.24(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 당진 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61027</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61027"/>
-        <updated>2024-12-23T05:13:30.464Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 05:00]]></content>
     </entry>
 </feed>
