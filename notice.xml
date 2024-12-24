@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-24T06:18:26.729Z</updated>
+    <updated>2024-12-24T07:12:48.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 뮤지컬 <광화문연가> - 용인​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61037</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61037"/>
+        <updated>2024-12-24T07:12:40.759Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌4 - 당진 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61036</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61036"/>
+        <updated>2024-12-24T07:12:40.759Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌4 - 인천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61035</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61035"/>
+        <updated>2024-12-24T07:12:40.761Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[용인] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!>​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61034</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61023"/>
         <updated>2024-12-23T02:20:39.725Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.30(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학가요제 TOP5 전국투어 콘서트 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61022</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61022"/>
-        <updated>2024-12-20T09:13:29.251Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.26(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단] 391회 정기연주회 '2025 신년음악회; New Wave'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61021</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61021"/>
-        <updated>2024-12-20T06:17:59.854Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.24(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <해피 오! 해피>​ 마지막 4차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61020</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61020"/>
-        <updated>2024-12-20T05:12:43.026Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content>
     </entry>
 </feed>
