@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-24T09:13:25.844Z</updated>
+    <updated>2024-12-24T10:13:37.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 엘사의 생일파티 제 2탄 : 얼음공주 이야기 - 순천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61041</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61041"/>
+        <updated>2024-12-24T10:13:36.982Z</updated>
+        <content type="html"><![CDATA[2024.12.30(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 엘사의 생일파티 제 2탄 : 얼음공주 이야기 - 수원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61040</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61027</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61027"/>
         <updated>2024-12-23T05:13:30.464Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 연극 <세일즈맨의 죽음> - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61026</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61026"/>
-        <updated>2024-12-23T05:13:30.471Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 05:00]]></content>
     </entry>
 </feed>
