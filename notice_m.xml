@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-24T05:13:00.186Z</updated>
+    <updated>2024-12-24T06:18:26.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[용인] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!>​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61034</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61034"/>
+        <updated>2024-12-24T06:18:26.072Z</updated>
+        <content type="html"><![CDATA[2025.01.03(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현> - 서울 용산​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61033</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61020"/>
         <updated>2024-12-20T05:12:51.094Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <명성황후> 30주년 기념 공연​ 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61019</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61019"/>
-        <updated>2024-12-20T04:16:02.660Z</updated>
-        <content type="html"><![CDATA[2024.12.26(목) 04:00]]></content>
     </entry>
 </feed>
