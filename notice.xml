@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-26T23:12:26.183Z</updated>
+    <updated>2024-12-27T01:00:03.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 일산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61049</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61049"/>
+        <updated>2024-12-27T00:59:55.146Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.06(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2025 경북대학교 신년음악회 - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61048</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족매직쇼 <스노우 버블쇼> - 청주​​ 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[2025 가족매직쇼 <스노우 버블쇼> - 청주​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61046</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61046"/>
         <updated>2024-12-26T05:12:53.373Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61035"/>
         <updated>2024-12-24T07:12:40.761Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[용인] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!>​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61034</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61034"/>
-        <updated>2024-12-24T06:18:18.425Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.03(금) 02:00]]></content>
     </entry>
 </feed>
