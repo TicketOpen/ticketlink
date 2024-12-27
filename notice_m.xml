@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-27T01:00:03.671Z</updated>
+    <updated>2024-12-27T02:18:04.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​백설공주 - 화성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61054</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61054"/>
+        <updated>2024-12-27T02:18:02.958Z</updated>
+        <content type="html"><![CDATA[2025.01.02(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 부천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61053</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61053"/>
+        <updated>2024-12-27T02:18:02.959Z</updated>
+        <content type="html"><![CDATA[2025.01.02(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 안성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61052</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61052"/>
+        <updated>2024-12-27T02:18:02.961Z</updated>
+        <content type="html"><![CDATA[2024.12.31(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀”​ - 평택 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61051</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61040"/>
         <updated>2024-12-24T09:13:25.094Z</updated>
         <content type="html"><![CDATA[2024.12.30(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 대구국제청소년오케스트라 제10회 정기연주회 <신년음악회>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61039</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61039"/>
-        <updated>2024-12-24T08:16:58.151Z</updated>
-        <content type="html"><![CDATA[2024.12.26(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <사랑의 하츄핑> - 의정부​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61038</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61038"/>
-        <updated>2024-12-24T08:16:58.151Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 뮤지컬 <광화문연가> - 용인​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61037</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61037"/>
-        <updated>2024-12-24T07:12:47.990Z</updated>
-        <content type="html"><![CDATA[2024.12.27(금) 06:00]]></content>
     </entry>
 </feed>
