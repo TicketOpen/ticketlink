@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-27T04:15:45.789Z</updated>
+    <updated>2024-12-27T05:13:02.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 ​2차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61056</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61056"/>
+        <updated>2024-12-27T05:13:01.590Z</updated>
+        <content type="html"><![CDATA[2025.01.03(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극<스타크로스드>​ 3차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61055</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61042"/>
         <updated>2024-12-24T11:11:03.709Z</updated>
         <content type="html"><![CDATA[2024.12.30(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 엘사의 생일파티 제 2탄 : 얼음공주 이야기 - 순천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61041</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61041"/>
-        <updated>2024-12-24T10:13:36.982Z</updated>
-        <content type="html"><![CDATA[2024.12.30(월) 00:00]]></content>
     </entry>
 </feed>
