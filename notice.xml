@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-30T06:18:50.080Z</updated>
+    <updated>2024-12-30T07:14:16.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 인천 중구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61059</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61059"/>
+        <updated>2024-12-30T07:14:09.718Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.06(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <에필로그: 막이 내린 후> - 부산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61058</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61045"/>
         <updated>2024-12-26T05:12:53.390Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[익산] 뮤지컬 <시카고> ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61044</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61044"/>
-        <updated>2024-12-26T05:12:53.391Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 05:00]]></content>
     </entry>
 </feed>
