@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-30T02:47:47.930Z</updated>
+    <updated>2024-12-30T03:20:16.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <에필로그: 막이 내린 후> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61058</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61058"/>
+        <updated>2024-12-30T03:20:15.469Z</updated>
+        <content type="html"><![CDATA[2024.12.31(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 남양주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61057</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61044</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61044"/>
         <updated>2024-12-26T05:13:01.465Z</updated>
-        <content type="html"><![CDATA[2024.12.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <달 샤베트> - 화성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61043</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61043"/>
-        <updated>2024-12-24T11:11:03.707Z</updated>
         <content type="html"><![CDATA[2024.12.31(화) 05:00]]></content>
     </entry>
 </feed>
