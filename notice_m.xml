@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-30T09:14:12.577Z</updated>
+    <updated>2024-12-30T10:14:25.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61055"/>
         <updated>2024-12-27T04:15:45.099Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​백설공주 - 화성​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61054</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61054"/>
-        <updated>2024-12-27T02:18:02.958Z</updated>
-        <content type="html"><![CDATA[2025.01.02(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 부천​ 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61045"/>
         <updated>2024-12-26T05:13:01.464Z</updated>
         <content type="html"><![CDATA[2024.12.27(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[익산] 뮤지컬 <시카고> ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61044</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61044"/>
+        <updated>2024-12-30T10:14:24.702Z</updated>
+        <content type="html"><![CDATA[2024.12.31(화) 05:00]]></content>
     </entry>
 </feed>
