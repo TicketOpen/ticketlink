@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2024-12-31T08:17:16.138Z</updated>
+    <updated>2024-12-31T09:13:13.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61066"/>
         <updated>2024-12-31T07:12:31.337Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​AFTER THOUGHTS & GOGOHAWK​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61065</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61065"/>
+        <updated>2024-12-31T09:13:04.783Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전세계 밀리언셀러 어린이 뮤지컬<사과가 쿵>제주 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/61051</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61051"/>
         <updated>2024-12-27T02:17:52.778Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀”​ - 서울 도봉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61050</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61050"/>
-        <updated>2024-12-27T02:17:52.781Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 01:00]]></content>
     </entry>
 </feed>
