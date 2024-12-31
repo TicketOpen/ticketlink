@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2024-12-31T04:16:00.999Z</updated>
+    <updated>2024-12-31T05:12:48.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61061"/>
         <updated>2024-12-31T02:16:49.067Z</updated>
         <content type="html"><![CDATA[2025.01.06(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알리 20주년 콘서트 <용진> - 청주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61060</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61060"/>
-        <updated>2024-12-31T02:16:49.068Z</updated>
-        <content type="html"><![CDATA[2025.01.03(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 인천 중구​ 티켓오픈 안내]]></title>
@@ -109,5 +102,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61049"/>
         <updated>2024-12-27T01:00:03.019Z</updated>
         <content type="html"><![CDATA[2025.01.06(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 경북대학교 신년음악회 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61048</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61048"/>
+        <updated>2024-12-31T05:12:48.062Z</updated>
+        <content type="html"><![CDATA[2025.01.03(금) 01:00]]></content>
     </entry>
 </feed>
