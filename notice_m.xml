@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-02T06:18:39.321Z</updated>
+    <updated>2025-01-02T07:12:31.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제 17회 오페라대상 수상자 음악회​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61074</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61074"/>
+        <updated>2025-01-02T07:12:30.730Z</updated>
+        <content type="html"><![CDATA[2025.01.03(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​공룡애니멀쇼 - 경기 광주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61073</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61059"/>
         <updated>2024-12-30T07:14:15.913Z</updated>
         <content type="html"><![CDATA[2025.01.06(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <에필로그: 막이 내린 후> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61058</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61058"/>
-        <updated>2024-12-30T03:20:15.469Z</updated>
-        <content type="html"><![CDATA[2024.12.31(화) 01:00]]></content>
     </entry>
 </feed>
