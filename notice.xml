@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-02T05:13:43.676Z</updated>
+    <updated>2025-01-02T06:18:39.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 경기 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61073</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61073"/>
+        <updated>2025-01-02T06:18:32.260Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 마법여우주비 <신비한 칠교 목걸이의 비밀> - 인천 청라 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61072</id>
@@ -18,6 +25,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61071"/>
         <updated>2025-01-02T03:16:28.349Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.03(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  Oh Jin Seok FANMEETING ​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61070</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61070"/>
+        <updated>2025-01-02T06:18:32.263Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.06(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 화성 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61058"/>
         <updated>2024-12-30T03:20:09.120Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 남양주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61057</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61057"/>
-        <updated>2024-12-27T09:13:01.581Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 ​2차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61056</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61056"/>
-        <updated>2024-12-27T05:12:54.449Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.03(금) 02:00]]></content>
     </entry>
 </feed>
