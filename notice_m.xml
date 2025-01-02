@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-02T00:59:30.476Z</updated>
+    <updated>2025-01-02T02:16:09.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 성남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61068</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61068"/>
+        <updated>2025-01-02T02:16:08.801Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 화성​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61067</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61053"/>
         <updated>2024-12-27T02:18:02.959Z</updated>
         <content type="html"><![CDATA[2025.01.02(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 안성​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61052</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61052"/>
-        <updated>2024-12-27T02:18:02.961Z</updated>
-        <content type="html"><![CDATA[2024.12.31(화) 05:00]]></content>
     </entry>
 </feed>
