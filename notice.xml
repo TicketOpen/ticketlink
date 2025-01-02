@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-01T23:12:29.131Z</updated>
+    <updated>2025-01-02T00:59:30.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.27(금) 04:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​백설공주 - 화성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61054</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61054"/>
+        <updated>2025-01-02T00:59:22.115Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 00:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 부천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61053</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61053"/>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61052"/>
         <updated>2024-12-27T02:17:52.778Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2024.12.31(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  가족뮤지컬 마법여우 주비“신비한 칠교 목걸이의 비밀”​ - 평택 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61051</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61051"/>
-        <updated>2024-12-27T02:17:52.778Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 01:00]]></content>
     </entry>
 </feed>
