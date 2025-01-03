@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-03T01:00:01.825Z</updated>
+    <updated>2025-01-03T02:18:05.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61080</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61080"/>
+        <updated>2025-01-03T02:17:58.155Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 안성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61079</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61079"/>
+        <updated>2025-01-03T02:17:58.156Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61078</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61078"/>
+        <updated>2025-01-03T02:17:58.157Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61077</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61077"/>
+        <updated>2025-01-03T02:17:58.158Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 춘천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61076</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61076"/>
+        <updated>2025-01-03T02:17:58.160Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 시즌2 - 포항​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61075</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61066"/>
         <updated>2024-12-31T07:12:31.337Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​AFTER THOUGHTS & GOGOHAWK​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61065</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61065"/>
-        <updated>2024-12-31T09:13:04.783Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세계 밀리언셀러 어린이 뮤지컬<사과가 쿵>제주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61064</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61064"/>
-        <updated>2024-12-31T02:16:42.762Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［광주］뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61063</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61063"/>
-        <updated>2024-12-31T02:16:42.762Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.08(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천]뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61062</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61062"/>
-        <updated>2024-12-31T02:16:42.763Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.03(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 빈 베를린 체임버 오케스트라 - 경주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61061</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61061"/>
-        <updated>2024-12-31T02:16:42.763Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.06(월) 01:00]]></content>
     </entry>
 </feed>
