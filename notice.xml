@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-03T04:15:33.865Z</updated>
+    <updated>2025-01-03T05:13:20.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알리 20주년 콘서트 <용진> - 청주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61083</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61083"/>
+        <updated>2025-01-03T05:13:13.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.06(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <시라노>​ 마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61082</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61082"/>
+        <updated>2025-01-03T05:13:13.398Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​THE GREATEST : 불후의명곡 정동하X알리 - 김해 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61081</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61081"/>
+        <updated>2025-01-03T05:13:13.403Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.08(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 창원​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61080</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61069"/>
         <updated>2025-01-02T03:16:28.350Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​임태경 20주년 기념 전국 투어 콘서트 < 임태경.COM:Color of Music > in 성남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61068</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61068"/>
-        <updated>2025-01-02T02:16:02.432Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 화성​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61067</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61067"/>
-        <updated>2024-12-31T07:12:31.335Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​(2025 롯데백화점 대구) 아기돼지삼형제 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61066</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61066"/>
-        <updated>2024-12-31T07:12:31.337Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.02(목) 00:00]]></content>
     </entry>
 </feed>
