@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-03T06:18:21.123Z</updated>
+    <updated>2025-01-03T07:12:35.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2025 변진섭 전국투어 콘서트 : 변천사 - 화성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61086</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61086"/>
+        <updated>2025-01-03T07:12:28.268Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 뮤지컬 <광화문연가> - 대전​​ ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61085</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61072"/>
         <updated>2025-01-02T03:16:28.348Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포크 빅3> 레전드 콘서트 in 제주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61071</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61071"/>
-        <updated>2025-01-02T03:16:28.349Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.03(금) 01:00]]></content>
     </entry>
 </feed>
