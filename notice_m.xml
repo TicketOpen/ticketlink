@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-03T05:13:20.786Z</updated>
+    <updated>2025-01-03T06:18:21.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 뮤지컬 <광화문연가> - 대전​​ ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61085</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61085"/>
+        <updated>2025-01-03T06:18:20.518Z</updated>
+        <content type="html"><![CDATA[2025.01.07(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 순천​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61084</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61084"/>
+        <updated>2025-01-03T06:18:20.519Z</updated>
+        <content type="html"><![CDATA[2025.01.08(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알리 20주년 콘서트 <용진> - 청주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61083</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61071"/>
         <updated>2025-01-02T03:16:36.511Z</updated>
         <content type="html"><![CDATA[2025.01.03(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Oh Jin Seok FANMEETING ​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61070</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61070"/>
-        <updated>2025-01-02T06:18:38.610Z</updated>
-        <content type="html"><![CDATA[2025.01.06(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 화성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61069</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61069"/>
-        <updated>2025-01-02T03:16:36.514Z</updated>
-        <content type="html"><![CDATA[2025.01.07(화) 00:00]]></content>
     </entry>
 </feed>
