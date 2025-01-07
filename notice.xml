@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-07T09:14:29.510Z</updated>
+    <updated>2025-01-07T10:14:42.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백설공주 - 구리​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61111</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61111"/>
+        <updated>2025-01-07T10:14:32.181Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.13(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 청주 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61110</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61110"/>
+        <updated>2025-01-07T10:14:32.182Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 춘천​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61109</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61109"/>
+        <updated>2025-01-07T10:14:32.183Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 세종시​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61108</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61097"/>
         <updated>2025-01-06T10:14:44.657Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2025 연극 <친정엄마와 2박 3일> - 군산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61096</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61096"/>
-        <updated>2025-01-06T09:14:29.724Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 광주​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61095</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61095"/>
-        <updated>2025-01-06T07:14:18.932Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61094</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61094"/>
-        <updated>2025-01-06T07:14:18.932Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.08(수) 00:00]]></content>
     </entry>
 </feed>
