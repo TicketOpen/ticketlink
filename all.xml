@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-07T04:15:13.085Z</updated>
+    <updated>2025-01-07T05:12:42.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 오산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61107</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61107"/>
+        <updated>2025-01-07T05:12:34.734Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 여수공연​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61106</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61106"/>
+        <updated>2025-01-07T05:12:34.735Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 세종공연​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61105</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61105"/>
+        <updated>2025-01-07T05:12:34.737Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에벤 콰르텟 내한공연 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61104</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61104"/>
+        <updated>2025-01-07T05:12:34.741Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​벨체아 콰르텟 내한공연​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61103</id>
@@ -12,11 +40,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 07:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 5년 만에 다시 돌아온 뮤지컬 <폴> ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61102</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61102"/>
+        <updated>2025-01-07T05:12:34.742Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3인3색 트롯 빅쇼 - 청주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61101</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61101"/>
         <updated>2025-01-07T02:19:21.387Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61100</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61100"/>
+        <updated>2025-01-07T05:12:34.745Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  김중연의 디너쇼 '신연회'​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -68,46 +110,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.08(수) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​최백호 단독콘서트 <낭만에 대하여> - 천안​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61092</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61092"/>
-        <updated>2025-01-06T06:19:28.320Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.08(수) 04:00]]></content>
+        <title type="html"><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 오산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61107</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61107"/>
+        <updated>2025-01-07T05:12:42.107Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 <바다넘어 육지까지> - 은평​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61091</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61091"/>
-        <updated>2025-01-06T06:19:28.321Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.07(화) 01:00]]></content>
+        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 여수공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61106</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61106"/>
+        <updated>2025-01-07T05:12:42.108Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​연극 <진창> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61090</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61090"/>
-        <updated>2025-01-06T02:50:13.637Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.08(수) 01:00]]></content>
+        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 세종공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61105</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61105"/>
+        <updated>2025-01-07T05:12:42.110Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​Just J-Min : 제이민 첫번째 콘서트 [젤리들에게]​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61089</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61089"/>
-        <updated>2025-01-06T01:02:48.143Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.16(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 김해 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61088</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61088"/>
-        <updated>2025-01-03T08:17:24.184Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <아기돼지 삼형제>-원주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61087</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61087"/>
-        <updated>2025-01-03T08:17:24.194Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.08(수) 01:00]]></content>
+        <title type="html"><![CDATA[에벤 콰르텟 내한공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61104</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61104"/>
+        <updated>2025-01-07T05:12:42.113Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​벨체아 콰르텟 내한공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -117,11 +145,25 @@
         <content type="html"><![CDATA[2025.01.09(목) 07:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매] 5년 만에 다시 돌아온 뮤지컬 <폴> ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61102</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61102"/>
+        <updated>2025-01-07T05:12:42.119Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3인3색 트롯 빅쇼 - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61101</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61101"/>
         <updated>2025-01-07T02:19:28.906Z</updated>
         <content type="html"><![CDATA[2025.01.09(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61100</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61100"/>
+        <updated>2025-01-07T05:12:42.128Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  김중연의 디너쇼 '신연회'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -171,47 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61093"/>
         <updated>2025-01-06T07:14:26.723Z</updated>
         <content type="html"><![CDATA[2025.01.08(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​최백호 단독콘서트 <낭만에 대하여> - 천안​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61092</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61092"/>
-        <updated>2025-01-06T06:19:34.615Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 바다탐험대 옥토넛 시즌3 <바다넘어 육지까지> - 은평​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61091</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61091"/>
-        <updated>2025-01-06T06:19:34.615Z</updated>
-        <content type="html"><![CDATA[2025.01.07(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​연극 <진창> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61090</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61090"/>
-        <updated>2025-01-06T02:50:21.396Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​Just J-Min : 제이민 첫번째 콘서트 [젤리들에게]​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61089</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61089"/>
-        <updated>2025-01-06T01:02:54.435Z</updated>
-        <content type="html"><![CDATA[2025.01.16(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 김해 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61088</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61088"/>
-        <updated>2025-01-03T08:17:30.652Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <아기돼지 삼형제>-원주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61087</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61087"/>
-        <updated>2025-01-03T08:17:30.652Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 01:00]]></content>
     </entry>
 </feed>
