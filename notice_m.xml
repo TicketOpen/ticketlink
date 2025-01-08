@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-08T04:16:15.285Z</updated>
+    <updated>2025-01-08T05:13:50.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENECE 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61117</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61117"/>
+        <updated>2025-01-08T05:13:49.428Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인 하우스 아티스트 최하영 I & II 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61116</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61116"/>
         <updated>2025-01-08T03:17:41.695Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3인3색 트롯 빅쇼 - 청주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61115</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61115"/>
+        <updated>2025-01-08T05:13:49.431Z</updated>
+        <content type="html"><![CDATA[2025.01.09(목) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 정준일 소극장 콘서트 '피아노 겨울 90분'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61114</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61114"/>
+        <updated>2025-01-08T05:13:49.432Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61113</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61113"/>
+        <updated>2025-01-08T05:13:49.436Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 강홍석 The 1st Fan Meeting < THE HONG SHOW > 추가 회차 티켓 오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61103"/>
         <updated>2025-01-07T03:20:21.959Z</updated>
         <content type="html"><![CDATA[2025.01.09(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 5년 만에 다시 돌아온 뮤지컬 <폴> ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61102</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61102"/>
-        <updated>2025-01-07T05:12:42.119Z</updated>
-        <content type="html"><![CDATA[2025.01.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3인3색 트롯 빅쇼 - 청주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61101</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61101"/>
-        <updated>2025-01-07T02:19:28.906Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 안양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61100</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61100"/>
-        <updated>2025-01-07T05:12:42.128Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  김중연의 디너쇼 '신연회'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61099</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61099"/>
-        <updated>2025-01-07T01:00:35.295Z</updated>
-        <content type="html"><![CDATA[2025.01.08(수) 05:00]]></content>
     </entry>
 </feed>
