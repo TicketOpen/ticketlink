@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-08T06:18:24.504Z</updated>
+    <updated>2025-01-08T07:12:32.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​2025 변진섭 전국투어 콘서트 : 변천사 - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61119</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61119"/>
+        <updated>2025-01-08T07:12:23.654Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61118</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61118"/>
+        <updated>2025-01-08T07:12:23.660Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENECE 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61117</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에벤 콰르텟 내한공연 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61104</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61104"/>
-        <updated>2025-01-07T05:12:34.741Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 07:00]]></content>
+        <title type="html"><![CDATA[​2025 변진섭 전국투어 콘서트 : 변천사 - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61119</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61119"/>
+        <updated>2025-01-08T07:12:31.675Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​벨체아 콰르텟 내한공연​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61103</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61103"/>
-        <updated>2025-01-07T03:20:15.620Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 07:00]]></content>
+        <title type="html"><![CDATA[[대전] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61118</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61118"/>
+        <updated>2025-01-08T07:12:31.704Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENECE 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61105"/>
         <updated>2025-01-07T05:12:42.110Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에벤 콰르텟 내한공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61104</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61104"/>
-        <updated>2025-01-07T05:12:42.113Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​벨체아 콰르텟 내한공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61103</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61103"/>
-        <updated>2025-01-07T03:20:21.959Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 07:00]]></content>
     </entry>
 </feed>
