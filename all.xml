@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-08T23:12:12.551Z</updated>
+    <updated>2025-01-09T00:59:43.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[​엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -40,7 +40,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3인3색 트롯 빅쇼 - 청주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[트롯빅쇼 <트롯여제 3인 3색> - 청주​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61115</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61115"/>
         <updated>2025-01-08T05:13:42.639Z</updated>
@@ -145,7 +145,7 @@
         <content type="html"><![CDATA[2025.01.10(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3인3색 트롯 빅쇼 - 청주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[트롯빅쇼 <트롯여제 3인 3색> - 청주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61115</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61115"/>
         <updated>2025-01-08T05:13:49.431Z</updated>
