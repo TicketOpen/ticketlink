@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-09T04:15:45.662Z</updated>
+    <updated>2025-01-09T05:12:54.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[커플공감로맨스코미디 연극 <헤어지는 기쁨> - 대구공연 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61122</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61122"/>
+        <updated>2025-01-09T05:12:47.715Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ​2025 LCK CL Kickoff​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61121</id>
@@ -30,7 +37,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/61118</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61118"/>
         <updated>2025-01-08T07:12:23.660Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 02:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENCE 티켓오픈 안내 (티켓링크)]]></title>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 오산 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61107</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61107"/>
-        <updated>2025-01-07T05:12:34.734Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 01:00]]></content>
+        <title type="html"><![CDATA[커플공감로맨스코미디 연극 <헤어지는 기쁨> - 대구공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61122</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61122"/>
+        <updated>2025-01-09T05:12:54.202Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ​2025 LCK CL Kickoff​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -135,7 +142,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/61118</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61118"/>
         <updated>2025-01-08T07:12:31.704Z</updated>
-        <content type="html"><![CDATA[2025.01.14(화) 02:00]]></content>
+        <content type="html"><![CDATA[2025.01.15(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENCE 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61108"/>
         <updated>2025-01-07T09:14:28.813Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 오산 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61107</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61107"/>
-        <updated>2025-01-07T05:12:42.107Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 01:00]]></content>
     </entry>
 </feed>
