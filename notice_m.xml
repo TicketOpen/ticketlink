@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-09T08:17:04.948Z</updated>
+    <updated>2025-01-09T09:14:10.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 강릉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61128</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61128"/>
+        <updated>2025-01-09T09:14:10.290Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공룡애니멀쇼 - 평택북부​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61127</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61114"/>
         <updated>2025-01-08T05:13:49.432Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61113</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61113"/>
-        <updated>2025-01-08T05:13:49.436Z</updated>
-        <content type="html"><![CDATA[2025.01.14(화) 05:00]]></content>
     </entry>
 </feed>
