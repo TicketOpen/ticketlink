@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-09T03:35:11.352Z</updated>
+    <updated>2025-01-09T04:15:45.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​2025 LCK CL Kickoff​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61121</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61121"/>
+        <updated>2025-01-09T04:15:36.894Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61120</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENECE 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENCE 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61117</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61117"/>
         <updated>2025-01-08T05:13:42.632Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61107"/>
         <updated>2025-01-07T05:12:34.734Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.09(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 여수공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61106</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61106"/>
-        <updated>2025-01-07T05:12:34.735Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 06:00]]></content>
     </entry>
 </feed>
