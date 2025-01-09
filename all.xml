@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-09T05:12:54.915Z</updated>
+    <updated>2025-01-09T06:18:00.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 7년간의 기다림! 가족 뮤지컬 또봇 : 대도시의 영웅들 - 부산​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61124</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61124"/>
+        <updated>2025-01-09T06:17:51.816Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61123</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61123"/>
+        <updated>2025-01-09T06:17:51.816Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커플공감로맨스코미디 연극 <헤어지는 기쁨> - 대구공연 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61122</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 춘천​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61109</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61109"/>
-        <updated>2025-01-07T10:14:32.183Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 7년간의 기다림! 가족 뮤지컬 또봇 : 대도시의 영웅들 - 부산​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61124</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61124"/>
+        <updated>2025-01-09T06:17:59.624Z</updated>
+        <content type="html"><![CDATA[2025.01.10(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 세종시​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61108</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61108"/>
-        <updated>2025-01-07T09:14:20.821Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 00:00]]></content>
+        <title type="html"><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61123</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61123"/>
+        <updated>2025-01-09T06:17:59.624Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커플공감로맨스코미디 연극 <헤어지는 기쁨> - 대구공연 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61110"/>
         <updated>2025-01-07T10:14:41.500Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 춘천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61109</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61109"/>
-        <updated>2025-01-07T10:14:41.503Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 세종시​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61108</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61108"/>
-        <updated>2025-01-07T09:14:28.813Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 00:00]]></content>
     </entry>
 </feed>
