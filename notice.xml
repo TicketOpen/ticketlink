@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-09T06:18:00.259Z</updated>
+    <updated>2025-01-09T07:13:00.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공룡애니멀쇼 - 평택북부​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61127</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61127"/>
+        <updated>2025-01-09T07:12:51.852Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2024 창작산실 선정작 뮤지컬 <오셀로의 재심> 마지막​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61126</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61126"/>
+        <updated>2025-01-09T07:12:51.857Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <슈퍼 히어로의 똥 닦는 법> - 제주​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61125</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61125"/>
+        <updated>2025-01-09T07:12:51.859Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 7년간의 기다림! 가족 뮤지컬 또봇 : 대도시의 영웅들 - 부산​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61124</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61113"/>
         <updated>2025-01-08T05:13:42.662Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 강홍석 The 1st Fan Meeting < THE HONG SHOW > 추가 회차 티켓 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61112</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61112"/>
-        <updated>2025-01-08T04:16:08.033Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백설공주 - 구리​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61111</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61111"/>
-        <updated>2025-01-07T10:14:32.181Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.13(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 청주 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61110</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61110"/>
-        <updated>2025-01-07T10:14:32.182Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
     </entry>
 </feed>
