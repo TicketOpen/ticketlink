@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-10T09:14:09.417Z</updated>
+    <updated>2025-01-10T10:14:19.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[통일메아리악단과 함께 하는 가족 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61153</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61153"/>
+        <updated>2025-01-10T10:14:18.841Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  오징어 게임: 더 익스피리언스 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61152</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61152"/>
+        <updated>2025-01-10T10:14:18.845Z</updated>
+        <content type="html"><![CDATA[2025.01.12(일) 23:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포항] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61151</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61138"/>
         <updated>2025-01-10T06:18:49.395Z</updated>
         <content type="html"><![CDATA[2025.01.13(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <배니싱> 2차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61137</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61137"/>
-        <updated>2025-01-10T05:13:13.314Z</updated>
-        <content type="html"><![CDATA[2025.01.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 김준수 뮤지컬 데뷔 15주년 팬미팅 'KIM JUN SU Village 15'​ 시야방해석 추가 티켓 오픈​ 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61136</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61136"/>
-        <updated>2025-01-10T05:13:13.314Z</updated>
-        <content type="html"><![CDATA[2025.01.13(월) 11:00]]></content>
     </entry>
 </feed>
