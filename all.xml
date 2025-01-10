@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-10T05:13:13.981Z</updated>
+    <updated>2025-01-10T06:18:50.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 뿌챔스​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61138</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61138"/>
+        <updated>2025-01-10T06:18:41.499Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.13(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <배니싱> 2차​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61137</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61123</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61123"/>
-        <updated>2025-01-09T06:17:51.816Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 03:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2025 뿌챔스​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61138</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61138"/>
+        <updated>2025-01-10T06:18:49.395Z</updated>
+        <content type="html"><![CDATA[2025.01.13(월) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <배니싱> 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61124"/>
         <updated>2025-01-09T06:17:59.624Z</updated>
         <content type="html"><![CDATA[2025.01.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61123</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61123"/>
-        <updated>2025-01-09T06:17:59.624Z</updated>
-        <content type="html"><![CDATA[2025.01.14(화) 03:00]]></content>
     </entry>
 </feed>
