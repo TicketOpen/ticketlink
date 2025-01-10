@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-10T03:20:21.025Z</updated>
+    <updated>2025-01-10T04:16:08.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2025 멜로소나 My Warm Concert 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61133</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61133"/>
+        <updated>2025-01-10T04:16:07.323Z</updated>
+        <content type="html"><![CDATA[2025.01.13(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 중랑 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61132</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61132"/>
+        <updated>2025-01-10T04:16:07.324Z</updated>
+        <content type="html"><![CDATA[2025.01.16(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​가족뮤지컬 [알라딘과 요술램프] - 제주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61130</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61130"/>
+        <updated>2025-01-10T04:16:07.324Z</updated>
+        <content type="html"><![CDATA[2025.01.13(월) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 브레드이발소 <빵스타 대격돌> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61129</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61118"/>
         <updated>2025-01-08T07:12:31.704Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  오징어게임 : THE EXPERIENCE 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61117</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61117"/>
-        <updated>2025-01-08T05:13:49.428Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인 하우스 아티스트 최하영 I & II 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61116</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61116"/>
-        <updated>2025-01-08T03:17:41.695Z</updated>
-        <content type="html"><![CDATA[2025.01.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트롯빅쇼 <트롯여제 3인 3색> - 청주​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61115</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61115"/>
-        <updated>2025-01-08T05:13:49.431Z</updated>
-        <content type="html"><![CDATA[2025.01.09(목) 04:00]]></content>
     </entry>
 </feed>
