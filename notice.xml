@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-10T06:18:50.200Z</updated>
+    <updated>2025-01-10T07:13:22.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 꾸러기음악회 <행진 앞으로> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61143</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61143"/>
+        <updated>2025-01-10T07:13:14.588Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] (2025 롯데백화점 대구) 프린세스 공주​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61142</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61142"/>
+        <updated>2025-01-10T07:13:14.588Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 안산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61141</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61141"/>
+        <updated>2025-01-10T07:13:14.588Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61140</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61140"/>
+        <updated>2025-01-10T07:13:14.589Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 하남​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61139</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61139"/>
+        <updated>2025-01-10T07:13:14.591Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2025 뿌챔스​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61138</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61129"/>
         <updated>2025-01-10T02:48:53.810Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 강릉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61128</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61128"/>
-        <updated>2025-01-09T09:14:02.314Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 평택북부​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61127</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61127"/>
-        <updated>2025-01-09T07:12:51.852Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 창작산실 선정작 뮤지컬 <오셀로의 재심> 마지막​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61126</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61126"/>
-        <updated>2025-01-09T07:12:51.857Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] <슈퍼 히어로의 똥 닦는 법> - 제주​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61125</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61125"/>
-        <updated>2025-01-09T07:12:51.859Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 7년간의 기다림! 가족 뮤지컬 또봇 : 대도시의 영웅들 - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61124</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61124"/>
-        <updated>2025-01-09T06:17:51.816Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.10(금) 01:00]]></content>
     </entry>
 </feed>
