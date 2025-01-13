@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-13T06:19:35.697Z</updated>
+    <updated>2025-01-13T07:13:47.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​어린이마술쇼 - 안양​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61159</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61159"/>
+        <updated>2025-01-13T07:13:39.504Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.16(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61157</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] (2025 롯데백화점 대구) 프린세스 공주​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61142</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61142"/>
-        <updated>2025-01-10T07:13:14.588Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.14(화) 01:00]]></content>
+        <title type="html"><![CDATA[​어린이마술쇼 - 안양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61159</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61159"/>
+        <updated>2025-01-13T07:13:46.892Z</updated>
+        <content type="html"><![CDATA[2025.01.16(목) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61143</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61143"/>
         <updated>2025-01-10T07:13:22.197Z</updated>
-        <content type="html"><![CDATA[2025.01.14(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] (2025 롯데백화점 대구) 프린세스 공주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61142</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61142"/>
-        <updated>2025-01-10T07:13:22.198Z</updated>
         <content type="html"><![CDATA[2025.01.14(화) 01:00]]></content>
     </entry>
 </feed>
