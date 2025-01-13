@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-13T01:03:18.391Z</updated>
+    <updated>2025-01-13T02:52:17.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루치아노 파바로티 CONCERT 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61155</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61155"/>
+        <updated>2025-01-13T02:52:16.755Z</updated>
+        <content type="html"><![CDATA[2025.01.15(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통일메아리악단과 함께 하는 가족 콘서트​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61153</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61139"/>
         <updated>2025-01-10T07:13:22.205Z</updated>
         <content type="html"><![CDATA[2025.01.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 뿌챔스​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61138</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61138"/>
-        <updated>2025-01-10T06:18:49.395Z</updated>
-        <content type="html"><![CDATA[2025.01.13(월) 05:00]]></content>
     </entry>
 </feed>
