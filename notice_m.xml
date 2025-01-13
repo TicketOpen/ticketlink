@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-13T04:16:49.428Z</updated>
+    <updated>2025-01-13T05:13:42.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 라움 마티네 콘서트 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61157</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61157"/>
+        <updated>2025-01-13T05:13:42.077Z</updated>
+        <content type="html"><![CDATA[2025.01.14(화) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 4차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61156</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61156"/>
+        <updated>2025-01-13T05:13:42.079Z</updated>
+        <content type="html"><![CDATA[2025.01.20(월) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루치아노 파바로티 CONCERT 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61155</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61155"/>
         <updated>2025-01-13T02:52:16.755Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 변진섭 전국투어 콘서트 : 변천사 - 강릉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61154</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61154"/>
+        <updated>2025-01-13T05:13:42.084Z</updated>
+        <content type="html"><![CDATA[2025.01.16(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[통일메아리악단과 함께 하는 가족 콘서트​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61142"/>
         <updated>2025-01-10T07:13:22.198Z</updated>
         <content type="html"><![CDATA[2025.01.14(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 안산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61141</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61141"/>
-        <updated>2025-01-10T07:13:22.198Z</updated>
-        <content type="html"><![CDATA[2025.01.15(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61140</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61140"/>
-        <updated>2025-01-10T07:13:22.201Z</updated>
-        <content type="html"><![CDATA[2025.01.14(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 하남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61139</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61139"/>
-        <updated>2025-01-10T07:13:22.205Z</updated>
-        <content type="html"><![CDATA[2025.01.14(화) 05:00]]></content>
     </entry>
 </feed>
