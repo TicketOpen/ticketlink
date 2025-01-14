@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-14T04:15:28.339Z</updated>
+    <updated>2025-01-14T05:12:31.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 군포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61172</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61172"/>
+        <updated>2025-01-14T05:12:22.757Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.16(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [경산] 쇼팽음악영재 드림콘서트 2부 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61171</id>
@@ -18,6 +25,27 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61170"/>
         <updated>2025-01-14T03:13:23.212Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 김해​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61169</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61169"/>
+        <updated>2025-01-14T05:12:22.758Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.17(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​휘성 X KCM 콘서트 in 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61168</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61168"/>
+        <updated>2025-01-14T05:12:22.759Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.17(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 안양​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61167</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61167"/>
+        <updated>2025-01-14T05:12:22.760Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.17(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​앤서니브라운의 돼지책 - 부산 해운대​ 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61156"/>
         <updated>2025-01-13T05:13:35.738Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.20(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루치아노 파바로티 CONCERT 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61155</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61155"/>
-        <updated>2025-01-13T02:52:10.440Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 변진섭 전국투어 콘서트 : 변천사 - 강릉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61154</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61154"/>
-        <updated>2025-01-13T05:13:35.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.16(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통일메아리악단과 함께 하는 가족 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61153</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61153"/>
-        <updated>2025-01-10T10:14:12.639Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  오징어 게임: 더 익스피리언스 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61152</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61152"/>
-        <updated>2025-01-10T10:14:12.639Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.12(일) 23:00]]></content>
     </entry>
 </feed>
