@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-14T07:12:35.464Z</updated>
+    <updated>2025-01-14T08:16:51.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 알리 20주년 콘서트 - 용진(勇進) 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61173</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61173"/>
+        <updated>2025-01-14T08:16:43.926Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 군포​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61172</id>
@@ -81,13 +88,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61161"/>
         <updated>2025-01-14T00:57:57.815Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 TREASURE FAN CONCERT [SPECIAL MOMENT] IN SEOUL​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61160</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61160"/>
-        <updated>2025-01-14T00:57:57.828Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.20(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​어린이마술쇼 - 안양​ 티켓오픈 안내]]></title>
