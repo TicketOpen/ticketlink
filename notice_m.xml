@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-15T05:12:58.504Z</updated>
+    <updated>2025-01-15T06:17:41.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈베르테르〉 25주년 공연 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61184</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61184"/>
+        <updated>2025-01-15T06:17:41.156Z</updated>
+        <content type="html"><![CDATA[2025.01.22(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이노마스 뮤직 시리즈​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61183</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61183"/>
+        <updated>2025-01-15T06:17:41.158Z</updated>
+        <content type="html"><![CDATA[2025.01.17(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 노영심 어쩌면 작은음악회​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61182</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61170"/>
         <updated>2025-01-14T03:13:30.570Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​최현우 19+I - 김해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61169</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61169"/>
-        <updated>2025-01-14T05:12:30.710Z</updated>
-        <content type="html"><![CDATA[2025.01.17(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​휘성 X KCM 콘서트 in 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61168</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61168"/>
-        <updated>2025-01-14T05:12:30.711Z</updated>
-        <content type="html"><![CDATA[2025.01.17(금) 02:00]]></content>
     </entry>
 </feed>
