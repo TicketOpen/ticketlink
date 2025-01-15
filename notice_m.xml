@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-15T06:17:41.803Z</updated>
+    <updated>2025-01-15T07:12:04.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈베르테르〉 25주년 공연 - 부산 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61184</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61184"/>
         <updated>2025-01-15T06:17:41.156Z</updated>
@@ -62,7 +62,7 @@
         <content type="html"><![CDATA[2025.01.20(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 〈알사탕〉 - 대전 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <알사탕> - 대전 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61176</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61176"/>
         <updated>2025-01-15T00:58:54.247Z</updated>
