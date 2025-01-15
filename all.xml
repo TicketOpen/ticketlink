@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-15T08:16:38.614Z</updated>
+    <updated>2025-01-15T09:13:32.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 - 부산 티켓오픈 안내 (티켓링크)]]></title>
@@ -47,7 +47,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.22(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 이재훈 <31년> 단독 콘서트 부산공연​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[< THE이재훈_31년 > 단독 콘서트 부산공연​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61178</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61178"/>
         <updated>2025-01-15T05:12:49.516Z</updated>
@@ -59,13 +59,6 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61177"/>
         <updated>2025-01-15T05:12:49.517Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.20(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 대전 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61176</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61176"/>
-        <updated>2025-01-15T00:58:46.363Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.17(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <꽃의 비밀> 2차 티켓오픈 안내 (티켓링크)]]></title>
@@ -110,6 +103,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.15(수) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 김해​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61169</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61169"/>
+        <updated>2025-01-15T09:13:25.132Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.17(금) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61184</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61184"/>
@@ -152,7 +152,7 @@
         <content type="html"><![CDATA[2025.01.22(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 이재훈 <31년> 단독 콘서트 부산공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[< THE이재훈_31년 > 단독 콘서트 부산공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61178</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61178"/>
         <updated>2025-01-15T05:12:57.861Z</updated>
@@ -164,13 +164,6 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61177"/>
         <updated>2025-01-15T05:12:57.861Z</updated>
         <content type="html"><![CDATA[2025.01.20(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <알사탕> - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61176</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61176"/>
-        <updated>2025-01-15T00:58:54.247Z</updated>
-        <content type="html"><![CDATA[2025.01.17(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <꽃의 비밀> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -213,5 +206,12 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61170"/>
         <updated>2025-01-14T03:13:30.570Z</updated>
         <content type="html"><![CDATA[2025.01.15(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 김해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61169</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61169"/>
+        <updated>2025-01-15T09:13:31.287Z</updated>
+        <content type="html"><![CDATA[2025.01.17(금) 05:00]]></content>
     </entry>
 </feed>
