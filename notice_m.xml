@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-16T04:15:09.663Z</updated>
+    <updated>2025-01-16T05:13:06.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 5차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61193</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61193"/>
+        <updated>2025-01-16T05:13:05.813Z</updated>
+        <content type="html"><![CDATA[2025.01.23(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 오르간 시리즈 II. 켄 코완​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61192</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61192"/>
+        <updated>2025-01-16T05:13:05.815Z</updated>
+        <content type="html"><![CDATA[2025.01.22(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 오르간 시리즈 I. 이베타 압칼나​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61191</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61191"/>
+        <updated>2025-01-16T05:13:05.817Z</updated>
+        <content type="html"><![CDATA[2025.01.22(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61190</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61190"/>
+        <updated>2025-01-16T05:13:05.818Z</updated>
+        <content type="html"><![CDATA[2025.01.21(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] GFRIEND 10th Anniversary < Season of Memories > 시야 제한석 추가 티켓 오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61189</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61175"/>
         <updated>2025-01-15T02:13:39.716Z</updated>
         <content type="html"><![CDATA[2025.01.20(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극<스타크로스드>​ 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61174</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61174"/>
-        <updated>2025-01-14T09:13:14.214Z</updated>
-        <content type="html"><![CDATA[2025.01.17(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 알리 20주년 콘서트 - 용진(勇進) 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61173</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61173"/>
-        <updated>2025-01-14T08:16:51.258Z</updated>
-        <content type="html"><![CDATA[2025.01.15(수) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌2 <빵빵 이야기 속으로> - 군포​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61172</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61172"/>
-        <updated>2025-01-14T05:12:30.700Z</updated>
-        <content type="html"><![CDATA[2025.01.16(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [경산] 쇼팽음악영재 드림콘서트 2부 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61171</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61171"/>
-        <updated>2025-01-14T03:13:30.563Z</updated>
-        <content type="html"><![CDATA[2025.01.15(수) 01:00]]></content>
     </entry>
 </feed>
