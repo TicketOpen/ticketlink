@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-17T04:16:18.935Z</updated>
+    <updated>2025-01-17T05:13:35.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 이천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61200</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61200"/>
+        <updated>2025-01-17T05:13:34.737Z</updated>
+        <content type="html"><![CDATA[2025.01.21(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연​ 3차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61199</id>
@@ -24,7 +31,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/61196</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61196"/>
         <updated>2025-01-17T02:11:28.940Z</updated>
-        <content type="html"><![CDATA[2025.01.20(월) 01:00]]></content>
+        <content type="html"><![CDATA[2025.01.24(금) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <100층짜리 집> - 의정부​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61183"/>
         <updated>2025-01-15T06:17:41.158Z</updated>
         <content type="html"><![CDATA[2025.01.17(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 노영심 어쩌면 작은음악회​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61182</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61182"/>
-        <updated>2025-01-16T03:14:57.953Z</updated>
-        <content type="html"><![CDATA[2025.01.20(월) 11:00]]></content>
     </entry>
 </feed>
