@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-20T07:13:25.976Z</updated>
+    <updated>2025-01-20T08:18:14.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61213"/>
         <updated>2025-01-20T07:13:25.311Z</updated>
         <content type="html"><![CDATA[2025.02.04(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] OWCS KOREA 2025 STAGE1​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61211</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61211"/>
+        <updated>2025-01-20T08:18:13.954Z</updated>
+        <content type="html"><![CDATA[2025.01.22(수) 08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  DSAC 문화공감 프로그램 연극 <회란기> - 대구 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61198"/>
         <updated>2025-01-17T02:11:28.940Z</updated>
         <content type="html"><![CDATA[2025.01.20(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 비내림국악관현악단 제7회 정기연주회​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61196</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61196"/>
-        <updated>2025-01-17T02:11:28.940Z</updated>
-        <content type="html"><![CDATA[2025.01.24(금) 01:00]]></content>
     </entry>
 </feed>
