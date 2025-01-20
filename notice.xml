@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-20T06:21:04.468Z</updated>
+    <updated>2025-01-20T07:13:25.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61213</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61213"/>
+        <updated>2025-01-20T07:13:17.820Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  DSAC 문화공감 프로그램 연극 <회란기> - 대구 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61210</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61196"/>
         <updated>2025-01-17T02:11:20.827Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <100층짜리 집> - 의정부​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61195</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61195"/>
-        <updated>2025-01-16T10:13:56.354Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.21(화) 00:00]]></content>
     </entry>
 </feed>
