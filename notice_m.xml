@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-19T23:11:09.330Z</updated>
+    <updated>2025-01-20T00:59:12.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈100층짜리 집〉 - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61203</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61203"/>
+        <updated>2025-01-20T00:59:11.368Z</updated>
+        <content type="html"><![CDATA[2025.01.22(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈100층짜리 집〉 - 성남 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61202</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61202"/>
+        <updated>2025-01-20T00:59:11.368Z</updated>
+        <content type="html"><![CDATA[2025.01.22(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] DSAC 시그니처 <양인모 바이올린 리사이틀>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61201</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61187"/>
         <updated>2025-01-16T06:18:12.357Z</updated>
         <content type="html"><![CDATA[2025.01.22(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 광화문 연가-군산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61186</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61186"/>
-        <updated>2025-01-15T10:13:40.977Z</updated>
-        <content type="html"><![CDATA[2025.01.16(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <베르테르> 25주년 공연 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61184</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61184"/>
-        <updated>2025-01-15T06:17:41.156Z</updated>
-        <content type="html"><![CDATA[2025.01.22(수) 05:00]]></content>
     </entry>
 </feed>
