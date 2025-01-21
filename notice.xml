@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-21T00:57:58.526Z</updated>
+    <updated>2025-01-21T02:12:55.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 체임버 시리즈 Ⅰ; Cello Moments 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61216</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61216"/>
+        <updated>2025-01-21T02:12:47.143Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.22(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 가족뮤지컬 <백설공주> - 용인 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61215</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61215"/>
         <updated>2025-01-21T00:57:50.577Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.22(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layone, OLNL “​OTL”​ Concert​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61214</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61214"/>
-        <updated>2025-01-20T12:24:04.195Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​최현우 19+I - 대구​ 티켓오픈 안내]]></title>
