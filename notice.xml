@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-22T09:13:53.430Z</updated>
+    <updated>2025-01-22T10:12:16.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 익산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61236</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61236"/>
+        <updated>2025-01-22T10:12:08.341Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.31(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 익산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61235</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61235"/>
+        <updated>2025-01-22T10:12:08.342Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.31(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 구리 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61233</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61233"/>
+        <updated>2025-01-22T10:12:08.342Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.31(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 매직콘서트 - 구미​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61232</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61221"/>
         <updated>2025-01-21T06:18:23.872Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <백설공주> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61220</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61220"/>
-        <updated>2025-01-21T05:13:55.336Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 이승철 콘서트 <오케스트락2> 대구공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61219</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61219"/>
-        <updated>2025-01-21T05:13:55.339Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 이승철 콘서트 <오케스트락2> 의정부공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61218</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61218"/>
-        <updated>2025-01-21T05:13:55.346Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 05:00]]></content>
     </entry>
 </feed>
