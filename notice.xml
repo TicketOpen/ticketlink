@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-22T03:16:04.595Z</updated>
+    <updated>2025-01-22T04:15:37.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/61219</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61219"/>
         <updated>2025-01-21T05:13:55.339Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 05:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 이승철 콘서트 <오케스트락2> 의정부공연​ 티켓오픈 안내]]></title>
