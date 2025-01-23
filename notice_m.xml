@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-23T04:15:31.080Z</updated>
+    <updated>2025-01-23T05:13:43.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [유레카극장] 완벽한 가족을 꿈꾸는 평범한 정은표 부부 이야기 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61245</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61245"/>
+        <updated>2025-01-23T05:13:42.635Z</updated>
+        <content type="html"><![CDATA[2025.02.03(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61244</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61244"/>
+        <updated>2025-01-23T05:13:42.635Z</updated>
+        <content type="html"><![CDATA[2025.02.11(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61243</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61243"/>
+        <updated>2025-01-23T05:13:42.635Z</updated>
+        <content type="html"><![CDATA[2025.02.11(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 창원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61242</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61242"/>
+        <updated>2025-01-23T05:13:42.635Z</updated>
+        <content type="html"><![CDATA[2025.02.11(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 인천 부평 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61241</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61230"/>
         <updated>2025-01-22T07:12:30.428Z</updated>
         <content type="html"><![CDATA[2025.01.23(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 김장훈 원맨쇼 - 순천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61229</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61229"/>
-        <updated>2025-01-22T05:13:11.454Z</updated>
-        <content type="html"><![CDATA[2025.01.24(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인천] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!>​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61228</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61228"/>
-        <updated>2025-01-22T05:13:11.454Z</updated>
-        <content type="html"><![CDATA[2025.01.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 연극 <세일즈맨의 죽음> - 인천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61227</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61227"/>
-        <updated>2025-01-22T07:12:30.433Z</updated>
-        <content type="html"><![CDATA[2025.01.24(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 연극 <세일즈맨의 죽음> - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61226</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61226"/>
-        <updated>2025-01-22T07:12:30.433Z</updated>
-        <content type="html"><![CDATA[2025.01.24(금) 06:00]]></content>
     </entry>
 </feed>
