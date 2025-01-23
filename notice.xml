@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-23T09:13:48.820Z</updated>
+    <updated>2025-01-23T10:14:42.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자취 광주공연​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61249</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61249"/>
+        <updated>2025-01-23T10:14:34.227Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 알리 20주년 콘서트 - 용진(勇進) 광주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61248</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61233"/>
         <updated>2025-01-22T10:12:08.342Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.31(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 매직콘서트 - 구미​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61232</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61232"/>
-        <updated>2025-01-22T09:13:43.576Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 00:00]]></content>
     </entry>
 </feed>

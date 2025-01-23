@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-23T09:13:48.791Z</updated>
+    <updated>2025-01-23T10:14:42.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[자취 광주공연​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61249</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61249"/>
+        <updated>2025-01-23T10:14:34.227Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 알리 20주년 콘서트 - 용진(勇進) 광주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61248</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.31(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 매직콘서트 - 구미​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61232</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61232"/>
-        <updated>2025-01-22T09:13:43.576Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 00:00]]></content>
+        <title type="html"><![CDATA[자취 광주공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61249</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61249"/>
+        <updated>2025-01-23T10:14:41.335Z</updated>
+        <content type="html"><![CDATA[2025.01.24(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 알리 20주년 콘서트 - 용진(勇進) 광주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61233"/>
         <updated>2025-01-22T10:12:15.572Z</updated>
         <content type="html"><![CDATA[2025.01.31(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 매직콘서트 - 구미​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61232</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61232"/>
-        <updated>2025-01-22T09:13:52.748Z</updated>
-        <content type="html"><![CDATA[2025.02.03(월) 00:00]]></content>
     </entry>
 </feed>
