@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-24T00:58:56.930Z</updated>
+    <updated>2025-01-24T02:13:49.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 TREASURE FAN CONCERT [SPECIAL MOMENT] IN SEOUL 추가 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61252</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61252"/>
+        <updated>2025-01-24T02:13:40.375Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서>-고양​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61251</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61237"/>
         <updated>2025-01-23T00:58:23.088Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티 제 2탄 ; 얼음공주 이야기 - 익산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61236</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61236"/>
-        <updated>2025-01-22T10:12:08.341Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.31(금) 00:00]]></content>
     </entry>
 </feed>
