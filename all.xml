@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-24T04:15:37.207Z</updated>
+    <updated>2025-01-24T05:13:16.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[디즈니&픽사 영화음악 FESTA​ ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61254</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61254"/>
+        <updated>2025-01-24T05:13:08.176Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.27(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[나랑,연이지 - 랑연 첫번째 콘서트] 1차​​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61253</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61253"/>
+        <updated>2025-01-24T05:13:08.176Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 TREASURE FAN CONCERT [SPECIAL MOMENT] IN SEOUL 추가 티켓 오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61252</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61238</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61238"/>
-        <updated>2025-01-23T02:12:52.307Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 01:00]]></content>
+        <title type="html"><![CDATA[디즈니&픽사 영화음악 FESTA​ ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61254</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61254"/>
+        <updated>2025-01-24T05:13:16.243Z</updated>
+        <content type="html"><![CDATA[2025.01.27(월) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61237</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61237"/>
-        <updated>2025-01-23T00:58:23.088Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 05:00]]></content>
+        <title type="html"><![CDATA[[나랑,연이지 - 랑연 첫번째 콘서트] 1차​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61253</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61253"/>
+        <updated>2025-01-24T05:13:16.249Z</updated>
+        <content type="html"><![CDATA[2025.02.03(월) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 TREASURE FAN CONCERT [SPECIAL MOMENT] IN SEOUL 추가 티켓 오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61239"/>
         <updated>2025-01-23T03:14:33.407Z</updated>
         <content type="html"><![CDATA[2025.01.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61238</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61238"/>
-        <updated>2025-01-23T02:12:59.702Z</updated>
-        <content type="html"><![CDATA[2025.02.03(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박창근 장르 with 오케스트라 전국투어 콘서트 - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61237</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61237"/>
-        <updated>2025-01-23T00:58:31.013Z</updated>
-        <content type="html"><![CDATA[2025.02.04(화) 05:00]]></content>
     </entry>
 </feed>
