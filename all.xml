@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-24T08:17:19.853Z</updated>
+    <updated>2025-01-24T09:14:12.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 강원특별자치도립무용단 기획공연 시나브런치콘서트 마중 - 춘천​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61261</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61261"/>
+        <updated>2025-01-24T09:14:05.633Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [피처링_트랙 11] 뮤지컬 <미아 파밀리아>​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61260</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61260"/>
         <updated>2025-01-24T08:17:10.809Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.31(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024-25 손태진 단독 콘서트 < The Showcase > 전국투어 - 앵콜 ​티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61259</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61259"/>
+        <updated>2025-01-24T09:14:05.636Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[명작동화 어린이 뮤지컬 <인어공주> - 목포 티켓오픈 안내 (티켓링크)]]></title>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 08:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> - 의성 티켓 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61246</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61246"/>
-        <updated>2025-01-24T06:17:50.073Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [유레카극장] 완벽한 가족을 꿈꾸는 평범한 정은표 부부 이야기 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61245</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61245"/>
-        <updated>2025-01-23T05:13:36.450Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 강원특별자치도립무용단 기획공연 시나브런치콘서트 마중 - 춘천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61261</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61261"/>
+        <updated>2025-01-24T09:14:11.899Z</updated>
+        <content type="html"><![CDATA[2025.02.04(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [피처링_트랙 11] 뮤지컬 <미아 파밀리아>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +122,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61260"/>
         <updated>2025-01-24T08:17:19.160Z</updated>
         <content type="html"><![CDATA[2025.01.31(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서울] 2024-25 손태진 단독 콘서트 < The Showcase > 전국투어 - 앵콜 ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61259</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61259"/>
+        <updated>2025-01-24T09:14:11.910Z</updated>
+        <content type="html"><![CDATA[2025.02.03(월) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[명작동화 어린이 뮤지컬 <인어공주> - 목포 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61247"/>
         <updated>2025-01-23T06:17:51.479Z</updated>
         <content type="html"><![CDATA[2025.01.24(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> - 의성 티켓 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61246</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61246"/>
-        <updated>2025-01-24T06:17:58.082Z</updated>
-        <content type="html"><![CDATA[2025.02.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [유레카극장] 완벽한 가족을 꿈꾸는 평범한 정은표 부부 이야기 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61245</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61245"/>
-        <updated>2025-01-23T05:13:42.635Z</updated>
-        <content type="html"><![CDATA[2025.02.03(월) 01:00]]></content>
     </entry>
 </feed>
