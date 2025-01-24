@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-01-24T05:13:16.890Z</updated>
+    <updated>2025-01-24T06:17:58.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <모리스> 1차 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61255</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61255"/>
+        <updated>2025-01-24T06:17:50.044Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.06(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니&픽사 영화음악 FESTA​ ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61254</id>
@@ -62,6 +69,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 08:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독판매]  뮤지컬 <쿠로이 저택엔 누가 살고 있을까?> - 의성 티켓 오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61246</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61246"/>
+        <updated>2025-01-24T06:17:50.073Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독판매]  [유레카극장] 완벽한 가족을 꿈꾸는 평범한 정은표 부부 이야기 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61245</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61245"/>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61241"/>
         <updated>2025-01-23T03:14:25.759Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 용인​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61240</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61240"/>
-        <updated>2025-01-23T03:14:25.765Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  아트페어대구 2025 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61239</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61239"/>
-        <updated>2025-01-23T03:14:25.768Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.01.24(금) 00:00]]></content>
     </entry>
 </feed>
