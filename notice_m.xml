@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-01-28T04:15:40.047Z</updated>
+    <updated>2025-01-28T05:12:58.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <신데렐라> - 화성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61266</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61266"/>
+        <updated>2025-01-28T05:12:58.189Z</updated>
+        <content type="html"><![CDATA[2025.01.31(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 김경호 데뷔 30주년 전국투어 콘서트:THE ROCKER-대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61265</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61252"/>
         <updated>2025-01-24T02:13:48.532Z</updated>
         <content type="html"><![CDATA[2025.02.03(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뽀로로와 친구들의 드림콘서트 - 잃어버린 꿈을 찾아서>-고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61251</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61251"/>
-        <updated>2025-01-23T11:11:00.216Z</updated>
-        <content type="html"><![CDATA[2025.01.31(금) 00:00]]></content>
     </entry>
 </feed>
