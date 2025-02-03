@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-03T01:00:16.492Z</updated>
+    <updated>2025-02-03T02:15:09.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[넌버벌 페스타 <플라잉> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,14 +89,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.03(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[명작동화 어린이 뮤지컬 <인어공주> - 양산 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[2025년 가족뮤지컬 인어공주 - 양산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61264</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61264"/>
         <updated>2025-01-25T07:11:07.025Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[명작동화 어린이 뮤지컬 <인어공주> - 포항 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[2025년 가족뮤지컬 인어공주 - 포항 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61263</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61263"/>
         <updated>2025-01-25T07:11:07.026Z</updated>
@@ -194,14 +194,14 @@
         <content type="html"><![CDATA[2025.02.03(월) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[명작동화 어린이 뮤지컬 <인어공주> - 양산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[2025년 가족뮤지컬 인어공주 - 양산 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61264</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61264"/>
         <updated>2025-01-25T07:11:15.059Z</updated>
         <content type="html"><![CDATA[2025.02.04(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[명작동화 어린이 뮤지컬 <인어공주> - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[2025년 가족뮤지컬 인어공주 - 포항 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61263</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61263"/>
         <updated>2025-01-25T07:11:15.062Z</updated>
