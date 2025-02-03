@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-03T07:13:24.461Z</updated>
+    <updated>2025-02-03T08:17:25.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 <겨울왕국> - 양산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61286</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61286"/>
+        <updated>2025-02-03T08:17:17.245Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.05(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] 시스템 임시점검(2/7 00:30 ~ 03:00)으로 인한 서비스 일시 중단 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61285</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61272"/>
         <updated>2025-01-31T05:13:09.844Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[< THE이재훈_31년 > 단독 콘서트 전주공연​​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61271</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61271"/>
-        <updated>2025-01-31T05:13:09.846Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.05(수) 05:00]]></content>
     </entry>
 </feed>
