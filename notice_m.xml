@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-03T03:16:49.392Z</updated>
+    <updated>2025-02-03T04:16:33.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 Guns N' Roses World Tour in Korea 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61277</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61277"/>
+        <updated>2025-02-03T04:16:32.507Z</updated>
+        <content type="html"><![CDATA[2025.02.26(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넌버벌 페스타 <플라잉> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61276</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61263"/>
         <updated>2025-01-25T07:11:15.062Z</updated>
         <content type="html"><![CDATA[2025.02.04(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공룡애니멀쇼 - 부산 동래 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61262</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61262"/>
-        <updated>2025-01-25T02:06:39.389Z</updated>
-        <content type="html"><![CDATA[2025.02.05(수) 00:00]]></content>
     </entry>
 </feed>
