@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-04T06:18:22.049Z</updated>
+    <updated>2025-02-04T07:12:51.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점>(3월) - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61298</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61298"/>
+        <updated>2025-02-04T07:12:42.836Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.05(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사랑의 하츄핑> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61297</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61297"/>
+        <updated>2025-02-04T07:12:42.841Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.06(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 용인 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61296</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61296"/>
+        <updated>2025-02-04T07:12:42.845Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로맨틱 화이트데이 디너 콘서트 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61295</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.05(수) 10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 어썸스테이지 [ N.Flying ] 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61282</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61282"/>
-        <updated>2025-02-03T06:18:15.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.05(수) 11:00]]></content>
+        <title type="html"><![CDATA[어린이 마술극 <리온의 신비한 과자상점>(3월) - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61298</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61298"/>
+        <updated>2025-02-04T07:12:50.919Z</updated>
+        <content type="html"><![CDATA[2025.02.05(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 어썸스테이지 [ 권진아 ] 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61281</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61281"/>
-        <updated>2025-02-03T06:18:15.273Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.05(수) 10:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <사랑의 하츄핑> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61297</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61297"/>
+        <updated>2025-02-04T07:12:50.921Z</updated>
+        <content type="html"><![CDATA[2025.02.06(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 구리 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61280</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61280"/>
-        <updated>2025-02-03T05:14:21.785Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.06(목) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 용인 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61296</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61296"/>
+        <updated>2025-02-04T07:12:50.933Z</updated>
+        <content type="html"><![CDATA[2025.02.07(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로맨틱 화이트데이 디너 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61283"/>
         <updated>2025-02-03T06:18:21.384Z</updated>
         <content type="html"><![CDATA[2025.02.05(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 어썸스테이지 [ N.Flying ] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61282</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61282"/>
-        <updated>2025-02-03T06:18:21.384Z</updated>
-        <content type="html"><![CDATA[2025.02.05(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 어썸스테이지 [ 권진아 ] 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61281</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61281"/>
-        <updated>2025-02-03T06:18:21.387Z</updated>
-        <content type="html"><![CDATA[2025.02.05(수) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 구리 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61280</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61280"/>
-        <updated>2025-02-03T05:14:27.990Z</updated>
-        <content type="html"><![CDATA[2025.02.06(목) 00:00]]></content>
     </entry>
 </feed>
