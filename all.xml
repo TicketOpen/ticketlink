@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-04T02:13:28.418Z</updated>
+    <updated>2025-02-04T03:15:42.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 나상현씨밴드 단독콘서트 '심화과정 2025' 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61292</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61292"/>
+        <updated>2025-02-04T03:15:33.210Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 청주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61291</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 Guns N' Roses World Tour in Korea 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61277</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61277"/>
-        <updated>2025-02-03T04:16:24.331Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 11:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 나상현씨밴드 단독콘서트 '심화과정 2025' 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61292</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61292"/>
+        <updated>2025-02-04T03:15:41.357Z</updated>
+        <content type="html"><![CDATA[2025.02.07(금) 10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 청주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61278"/>
         <updated>2025-02-03T05:14:27.994Z</updated>
         <content type="html"><![CDATA[2025.02.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 Guns N' Roses World Tour in Korea 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61277</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61277"/>
-        <updated>2025-02-03T04:16:32.507Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 11:00]]></content>
     </entry>
 </feed>
