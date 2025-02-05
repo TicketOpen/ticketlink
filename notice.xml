@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-05T04:15:41.463Z</updated>
+    <updated>2025-02-05T05:13:04.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2025 KIMHYUNJOONG WORLD TOUR IN SEOUL < FILAMENT > 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61310</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61310"/>
+        <updated>2025-02-05T05:12:56.638Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61309</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61309"/>
+        <updated>2025-02-05T05:12:56.641Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.11(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 구미​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61308</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61308"/>
+        <updated>2025-02-05T05:12:56.642Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<3월의 봄> 정훈희 x 송창식 with 함춘호 콘서트 – 부산​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61307</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61307"/>
+        <updated>2025-02-05T05:12:56.645Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 뮤지컬 <퍼스트 맨: 카뮈가 남긴 마지막 이야기> 3차 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61306</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61296"/>
         <updated>2025-02-04T07:12:42.845Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로맨틱 화이트데이 디너 콘서트 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61295</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61295"/>
-        <updated>2025-02-04T06:18:14.796Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.06(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 시즌2 더가까이 - 서울​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61294</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61294"/>
-        <updated>2025-02-04T05:12:32.585Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 이천공연​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61293</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61293"/>
-        <updated>2025-02-04T08:16:52.167Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 나상현씨밴드 단독콘서트 '심화과정 2025' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61292</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61292"/>
-        <updated>2025-02-04T03:15:33.210Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 10:00]]></content>
     </entry>
 </feed>
