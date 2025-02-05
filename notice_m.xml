@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-05T02:15:23.347Z</updated>
+    <updated>2025-02-05T03:16:55.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <퍼스트 맨: 카뮈가 남긴 마지막 이야기> 3차 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61306</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61306"/>
+        <updated>2025-02-05T03:16:54.397Z</updated>
+        <content type="html"><![CDATA[2025.02.06(목) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 부산 앵콜 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61305</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61292"/>
         <updated>2025-02-04T03:15:41.357Z</updated>
         <content type="html"><![CDATA[2025.02.07(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 청주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61291</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61291"/>
-        <updated>2025-02-04T02:13:27.741Z</updated>
-        <content type="html"><![CDATA[2025.02.07(금) 00:00]]></content>
     </entry>
 </feed>
