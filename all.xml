@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-06T11:10:59.068Z</updated>
+    <updated>2025-02-06T12:24:55.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 용산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61324</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61324"/>
+        <updated>2025-02-06T12:24:47.989Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​공룡애니멀쇼 - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61323</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.11(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 구미​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61308</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61308"/>
-        <updated>2025-02-05T05:12:56.642Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.07(금) 05:00]]></content>
+        <title type="html"><![CDATA[​어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 용산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61324</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61324"/>
+        <updated>2025-02-06T12:24:54.562Z</updated>
+        <content type="html"><![CDATA[2025.02.07(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​공룡애니멀쇼 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61309"/>
         <updated>2025-02-05T05:13:03.431Z</updated>
         <content type="html"><![CDATA[2025.02.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 구미​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61308</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61308"/>
-        <updated>2025-02-05T05:13:03.432Z</updated>
-        <content type="html"><![CDATA[2025.02.07(금) 05:00]]></content>
     </entry>
 </feed>
