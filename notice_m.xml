@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-06T04:15:26.218Z</updated>
+    <updated>2025-02-06T05:13:35.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ 부천 ] 뮤지컬 한글용사 아이야 – 가정의 달 특별공연 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61319</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61319"/>
+        <updated>2025-02-06T05:13:34.394Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［제주］뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61318</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61318"/>
+        <updated>2025-02-06T05:13:34.398Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 익산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61317</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61317"/>
+        <updated>2025-02-06T05:13:34.398Z</updated>
+        <content type="html"><![CDATA[2025.02.11(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 대전​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61316</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61316"/>
         <updated>2025-02-06T00:59:30.936Z</updated>
         <content type="html"><![CDATA[2025.02.11(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주] 휘성 화이트데이 콘서트​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61315</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61315"/>
+        <updated>2025-02-06T05:13:34.409Z</updated>
+        <content type="html"><![CDATA[2025.02.10(월) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[광주] 잠골버스&순순희 화이트데이 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61314</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61314"/>
+        <updated>2025-02-06T05:13:34.409Z</updated>
+        <content type="html"><![CDATA[2025.02.10(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 Soundberry Theater 티켓오픈 안내]]></title>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61305"/>
         <updated>2025-02-05T02:15:22.653Z</updated>
         <content type="html"><![CDATA[2025.02.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 임찬민 생일 팬미팅 [220225: The love letter to 2025] 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61304</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61304"/>
-        <updated>2025-02-05T02:15:22.653Z</updated>
-        <content type="html"><![CDATA[2025.02.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <미아 파밀리아> 마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61303</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61303"/>
-        <updated>2025-02-05T02:15:22.654Z</updated>
-        <content type="html"><![CDATA[2025.02.10(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 폴포츠 내한 공연 : Prime Time - 김해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61302</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61302"/>
-        <updated>2025-02-04T09:13:46.133Z</updated>
-        <content type="html"><![CDATA[2025.02.07(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 폴포츠 내한 공연 : Prime Time - 안성​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61301</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61301"/>
-        <updated>2025-02-04T09:13:46.135Z</updated>
-        <content type="html"><![CDATA[2025.02.07(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 세종시즌​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61300</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61300"/>
-        <updated>2025-02-04T09:13:46.146Z</updated>
-        <content type="html"><![CDATA[2025.02.06(목) 01:00]]></content>
     </entry>
 </feed>
