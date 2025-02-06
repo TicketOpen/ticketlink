@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-05T23:12:32.314Z</updated>
+    <updated>2025-02-06T00:59:31.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 김장훈 전국투어 콘서트 : 원맨쇼 - 대전​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61316</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61316"/>
+        <updated>2025-02-06T00:59:30.936Z</updated>
+        <content type="html"><![CDATA[2025.02.11(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 Soundberry Theater 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61313</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61300"/>
         <updated>2025-02-04T09:13:46.146Z</updated>
         <content type="html"><![CDATA[2025.02.06(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 노을 발렌타인데이 콘서트 'Sunset Love: Valentine Special'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61299</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61299"/>
-        <updated>2025-02-04T09:13:46.146Z</updated>
-        <content type="html"><![CDATA[2025.02.06(목) 10:00]]></content>
     </entry>
 </feed>
