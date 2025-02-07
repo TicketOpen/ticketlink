@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-07T04:16:22.512Z</updated>
+    <updated>2025-02-07T05:13:04.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <배니싱> 3차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61326</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61326"/>
+        <updated>2025-02-07T05:13:03.934Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 더파란 연극제 참가작 <고니의 노래>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61325</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61311"/>
         <updated>2025-02-06T17:11:48.885Z</updated>
         <content type="html"><![CDATA[2025.02.06(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 KIMHYUNJOONG WORLD TOUR IN SEOUL < FILAMENT > 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61310</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61310"/>
-        <updated>2025-02-06T17:11:48.886Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 11:00]]></content>
     </entry>
 </feed>
