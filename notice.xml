@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-07T00:59:37.804Z</updated>
+    <updated>2025-02-07T02:16:59.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 더파란 연극제 참가작 <고니의 노래>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61325</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61325"/>
+        <updated>2025-02-07T02:16:50.762Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.10(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 용산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61324</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61310"/>
         <updated>2025-02-05T05:12:56.638Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 < 급식걸즈 – 뿌슝빠슝 깨져버린 우정 > - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61309</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61309"/>
-        <updated>2025-02-05T05:12:56.641Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.11(화) 05:00]]></content>
     </entry>
 </feed>
