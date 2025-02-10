@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-10T04:16:42.231Z</updated>
+    <updated>2025-02-10T05:14:17.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최현우 19+I - 안성​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61342</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61342"/>
+        <updated>2025-02-10T05:14:17.288Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2025 수성아트피아 마티네콘서트 <7개 공연 올패키지 예매권>티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61341</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61328"/>
         <updated>2025-02-08T03:14:53.757Z</updated>
         <content type="html"><![CDATA[2025.02.13(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​2025 ARTMS World Tour < Lunar Theory > in Seoul​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61327</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61327"/>
-        <updated>2025-02-07T10:14:35.016Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 11:00]]></content>
     </entry>
 </feed>
