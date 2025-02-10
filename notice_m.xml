@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-10T05:14:17.895Z</updated>
+    <updated>2025-02-10T06:19:09.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 울산공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61346</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61346"/>
+        <updated>2025-02-10T06:19:08.960Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 천안공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61345</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61345"/>
+        <updated>2025-02-10T06:19:08.960Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 경주공연​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61344</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61344"/>
+        <updated>2025-02-10T06:19:08.960Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 Ricky [LAVENDER DAWN]​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61343</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61343"/>
+        <updated>2025-02-10T06:19:08.961Z</updated>
+        <content type="html"><![CDATA[2025.02.13(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최현우 19+I - 안성​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61342</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61332"/>
         <updated>2025-02-10T03:18:03.693Z</updated>
         <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 수성아트피아 명품시리즈 <재닌 얀센 & 데니스 코츠킨>  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61331</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61331"/>
-        <updated>2025-02-10T03:18:03.695Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 수성아트피아 명품시리즈 <백건우 & 이 무지치>  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61330</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61330"/>
-        <updated>2025-02-10T03:18:03.696Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  풍금 TOUR - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61329</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61329"/>
-        <updated>2025-02-10T03:18:03.697Z</updated>
-        <content type="html"><![CDATA[2025.02.14(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동> - 원주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61328</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61328"/>
-        <updated>2025-02-08T03:14:53.757Z</updated>
-        <content type="html"><![CDATA[2025.02.13(목) 01:00]]></content>
     </entry>
 </feed>
