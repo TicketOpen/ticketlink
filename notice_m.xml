@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-11T22:12:55.209Z</updated>
+    <updated>2025-02-11T23:13:43.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61360</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61360"/>
+        <updated>2025-02-11T23:13:42.566Z</updated>
+        <content type="html"><![CDATA[2025.02.12(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구동성로연극 유쾌코믹연극 <행복총량의 법칙> - 대구​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61359</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 천안공연​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61345</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61345"/>
-        <updated>2025-02-10T06:19:08.960Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 경주공연​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61344</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61344"/>
         <updated>2025-02-10T06:19:08.960Z</updated>
         <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
     </entry>
