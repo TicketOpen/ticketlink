@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-10T23:13:35.201Z</updated>
+    <updated>2025-02-11T00:59:39.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[안양] 뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61349</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61349"/>
+        <updated>2025-02-11T00:59:38.361Z</updated>
+        <content type="html"><![CDATA[2025.02.13(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[2차 오픈] 김승호 회장과 함께하는 2025 딥 인사이트 콘퍼런스​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61347</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61334</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61334"/>
         <updated>2025-02-10T03:18:03.691Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 마티네시리즈 <월드 콩쿠르 위너스 시리즈: 12월 베이스 박기현>​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61333</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61333"/>
-        <updated>2025-02-10T03:18:03.692Z</updated>
         <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
     </entry>
 </feed>
