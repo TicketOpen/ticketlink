@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-11T04:15:25.934Z</updated>
+    <updated>2025-02-11T05:12:45.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024-25 이은미 라이브투어 [MOVE ON]-안산공연 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61358</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61358"/>
+        <updated>2025-02-11T05:12:37.920Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-25 이은미 라이브투어 [MOVE ON]-대구 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61357</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61357"/>
+        <updated>2025-02-11T05:12:37.924Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <웃는 남자> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61355</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61355"/>
+        <updated>2025-02-11T05:12:37.924Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <웃는 남자> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61354</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61354"/>
+        <updated>2025-02-11T05:12:37.925Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 성남​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61353</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61343"/>
         <updated>2025-02-10T06:19:01.431Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.13(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최현우 19+I - 안성​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61342</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61342"/>
-        <updated>2025-02-10T05:14:09.828Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 수성아트피아 마티네콘서트 <7개 공연 올패키지 예매권>티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61341</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61341"/>
-        <updated>2025-02-10T03:17:55.915Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 수성아트피아 명품클래식시리즈 <3개공연 패키지 예매권>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61340</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61340"/>
-        <updated>2025-02-10T03:17:55.916Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 마티네시리즈 <월드 콩쿠르 위너스 시리즈: 3월 피아노 원재연> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61339</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61339"/>
-        <updated>2025-02-10T03:17:55.916Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content>
     </entry>
 </feed>
