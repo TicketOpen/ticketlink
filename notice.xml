@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-11T07:12:53.447Z</updated>
+    <updated>2025-02-11T08:17:17.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구동성로연극 유쾌코믹연극 <행복총량의 법칙> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61359</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61359"/>
+        <updated>2025-02-11T08:17:09.423Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024-25 이은미 라이브투어 [MOVE ON]-안산공연 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61358</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61344"/>
         <updated>2025-02-10T06:19:01.430Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 Ricky [LAVENDER DAWN]​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61343</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61343"/>
-        <updated>2025-02-10T06:19:01.431Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.13(목) 02:00]]></content>
     </entry>
 </feed>
