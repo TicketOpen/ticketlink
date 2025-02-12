@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-12T05:13:40.089Z</updated>
+    <updated>2025-02-12T06:18:43.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 박연우 피아노 독주회 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61373</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61373"/>
+        <updated>2025-02-12T06:18:42.719Z</updated>
+        <content type="html"><![CDATA[2025.02.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 성남​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61372</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61359"/>
         <updated>2025-02-11T08:17:17.271Z</updated>
         <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-25 이은미 라이브투어 [MOVE ON]-안산공연 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61358</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61358"/>
-        <updated>2025-02-11T05:12:45.094Z</updated>
-        <content type="html"><![CDATA[2025.02.14(금) 06:00]]></content>
     </entry>
 </feed>
