@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-12T11:11:29.948Z</updated>
+    <updated>2025-02-12T12:24:42.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[즐거운 나의 집​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61375</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61375"/>
+        <updated>2025-02-12T12:24:35.679Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.17(월) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 배우를 꿈꾸는 허수아비​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61374</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61374"/>
+        <updated>2025-02-12T12:24:35.679Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.17(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박연우 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61373</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 광주 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61360</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61360"/>
-        <updated>2025-02-11T23:13:35.491Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 01:00]]></content>
+        <title type="html"><![CDATA[즐거운 나의 집​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61375</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61375"/>
+        <updated>2025-02-12T12:24:42.175Z</updated>
+        <content type="html"><![CDATA[2025.02.17(월) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대구동성로연극 유쾌코믹연극 <행복총량의 법칙> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61359</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61359"/>
-        <updated>2025-02-11T08:17:09.423Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.12(수) 05:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 배우를 꿈꾸는 허수아비​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61374</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61374"/>
+        <updated>2025-02-12T12:24:42.176Z</updated>
+        <content type="html"><![CDATA[2025.02.17(월) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 박연우 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61361"/>
         <updated>2025-02-12T00:59:56.120Z</updated>
         <content type="html"><![CDATA[2025.02.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <또봇 - 대도시의 영웅들> - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61360</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61360"/>
-        <updated>2025-02-11T23:13:42.566Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구동성로연극 유쾌코믹연극 <행복총량의 법칙> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61359</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61359"/>
-        <updated>2025-02-11T08:17:17.271Z</updated>
-        <content type="html"><![CDATA[2025.02.12(수) 05:00]]></content>
     </entry>
 </feed>
