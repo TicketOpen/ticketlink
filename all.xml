@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-13T07:13:02.489Z</updated>
+    <updated>2025-02-13T08:17:09.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[코믹추리연극 <범인의 조건> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61388</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61388"/>
+        <updated>2025-02-13T08:17:01.284Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.18(화) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <로보카폴리> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61387</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.17(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 박연우 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61373</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61373"/>
-        <updated>2025-02-12T06:18:36.331Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 05:00]]></content>
+        <title type="html"><![CDATA[코믹추리연극 <범인의 조건> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61388</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61388"/>
+        <updated>2025-02-13T08:17:08.262Z</updated>
+        <content type="html"><![CDATA[2025.02.18(화) 04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <로보카폴리> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61374"/>
         <updated>2025-02-12T12:24:42.176Z</updated>
         <content type="html"><![CDATA[2025.02.17(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박연우 피아노 독주회 - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61373</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61373"/>
-        <updated>2025-02-12T06:18:42.719Z</updated>
-        <content type="html"><![CDATA[2025.02.14(금) 05:00]]></content>
     </entry>
 </feed>
