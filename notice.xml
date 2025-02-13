@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-13T04:15:29.564Z</updated>
+    <updated>2025-02-13T05:13:20.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  김돈의 경주 여성 합창 아카데미 (Gyeongju Lady’s Choral) - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61384</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61384"/>
+        <updated>2025-02-13T05:13:11.504Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  전효진의 은빛 발레리나 - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61383</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61383"/>
+        <updated>2025-02-13T05:13:11.507Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  조희창의 음악사 연대기 - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61382</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61382"/>
+        <updated>2025-02-13T05:13:11.511Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  박파랑의 클래식 서양 미술사Ⅱ - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61381</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61381"/>
+        <updated>2025-02-13T05:13:11.512Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 강승식 팬미팅 < HOME >​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61380</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61380"/>
+        <updated>2025-02-13T05:13:11.513Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.20(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 창원​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61379</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61370"/>
         <updated>2025-02-12T05:13:31.975Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유스웨더나잇​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61369</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61369"/>
-        <updated>2025-02-12T05:13:31.978Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 울산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61368</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61368"/>
-        <updated>2025-02-12T02:15:49.911Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​20집 발매 기념 조용필＆위대한탄생 Concert - 대전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61367</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61367"/>
-        <updated>2025-02-12T05:13:31.983Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시네마파라디소 - 비긴 어게인​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61366</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61366"/>
-        <updated>2025-02-12T02:15:49.915Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산]뮤지컬 번개맨 시즌2 - 어린이날 특별공연​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61365</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61365"/>
-        <updated>2025-02-12T02:15:49.917Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 02:00]]></content>
     </entry>
 </feed>
