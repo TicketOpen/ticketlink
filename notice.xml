@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-13T05:13:20.107Z</updated>
+    <updated>2025-02-13T06:18:22.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 카타르 필하모닉 오케스트라 초청공연​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61385</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61385"/>
+        <updated>2025-02-13T06:18:15.125Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.14(금) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  김돈의 경주 여성 합창 아카데미 (Gyeongju Lady’s Choral) - 경주 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61384</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/61371</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61371"/>
         <updated>2025-02-12T05:13:31.973Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​최백호 단독콘서트 <낭만에 대하여> - 김해​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61370</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61370"/>
-        <updated>2025-02-12T05:13:31.975Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 01:00]]></content>
     </entry>
 </feed>
