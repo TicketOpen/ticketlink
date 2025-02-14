@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-14T06:17:44.736Z</updated>
+    <updated>2025-02-14T07:12:44.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>http://www.ticketlink.co.kr/help/notice/61394</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61394"/>
         <updated>2025-02-14T03:16:34.016Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 02:00]]></content>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.20(목) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 경주 티켓오픈 안내]]></title>
