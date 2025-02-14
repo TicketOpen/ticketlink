@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-14T09:14:14.769Z</updated>
+    <updated>2025-02-14T10:14:03.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[원주] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61401</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61401"/>
+        <updated>2025-02-14T10:13:56.226Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티 제 2탄 : 얼음공주 이야기 - 포천​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61400</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61387"/>
         <updated>2025-02-13T07:12:53.569Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  여성의 날 기념 <메조소프라노 백민아 독창회> - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61386</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61386"/>
-        <updated>2025-02-13T07:12:53.569Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.17(월) 08:00]]></content>
     </entry>
 </feed>
