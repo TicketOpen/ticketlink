@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-17T01:03:16.662Z</updated>
+    <updated>2025-02-17T02:47:23.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61409</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61409"/>
+        <updated>2025-02-17T02:47:22.536Z</updated>
+        <content type="html"><![CDATA[2025.02.20(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  김제동 토크콘서트 - THE 김제동 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61402</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61402"/>
+        <updated>2025-02-17T02:47:22.543Z</updated>
+        <content type="html"><![CDATA[2025.02.19(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[원주] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61401</id>
@@ -59,7 +73,7 @@
         <id>http://m.ticketlink.co.kr/help/notice/61394</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61394"/>
         <updated>2025-02-14T03:16:41.922Z</updated>
-        <content type="html"><![CDATA[2025.02.20(목) 02:00]]></content>
+        <content type="html"><![CDATA[2025.02.24(월) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 경주 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61389"/>
         <updated>2025-02-14T02:16:53.084Z</updated>
         <content type="html"><![CDATA[2025.02.21(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코믹추리연극 <범인의 조건> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61388</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61388"/>
-        <updated>2025-02-13T08:17:08.262Z</updated>
-        <content type="html"><![CDATA[2025.02.18(화) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <로보카폴리> - 고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61387</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61387"/>
-        <updated>2025-02-13T07:13:01.816Z</updated>
-        <content type="html"><![CDATA[2025.02.20(목) 01:00]]></content>
     </entry>
 </feed>
