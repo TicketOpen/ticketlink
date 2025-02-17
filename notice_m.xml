@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-17T04:16:21.734Z</updated>
+    <updated>2025-02-17T05:14:24.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61409"/>
         <updated>2025-02-17T02:47:22.536Z</updated>
         <content type="html"><![CDATA[2025.02.20(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[< THE이재훈_31년 > 단독 콘서트 광주공연​​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61408</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61408"/>
+        <updated>2025-02-17T05:14:24.156Z</updated>
+        <content type="html"><![CDATA[2025.02.21(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[< THE이재훈_31년 > 단독 콘서트 용인공연​​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61406</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61406"/>
+        <updated>2025-02-17T05:14:24.164Z</updated>
+        <content type="html"><![CDATA[2025.02.20(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <명성황후> 30주년 기념 공연​ 4차 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61394"/>
         <updated>2025-02-14T03:16:41.922Z</updated>
         <content type="html"><![CDATA[2025.02.24(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 뮤지컬 <바다탐험대 옥토넛 시즌3> - 경주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61393</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61393"/>
-        <updated>2025-02-14T03:16:41.924Z</updated>
-        <content type="html"><![CDATA[2025.02.17(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뽀로로 포털의 세계>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61392</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61392"/>
-        <updated>2025-02-14T02:16:53.082Z</updated>
-        <content type="html"><![CDATA[2025.03.05(수) 01:00]]></content>
     </entry>
 </feed>
