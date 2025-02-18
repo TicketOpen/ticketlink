@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-18T06:18:18.975Z</updated>
+    <updated>2025-02-18T07:13:03.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이마술쇼 - 부산 동래 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61423</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61423"/>
+        <updated>2025-02-18T07:13:02.917Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GAC 기획공연 포시즌 노부스 콰르텟 'Brahms'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61422</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61422"/>
+        <updated>2025-02-18T07:13:02.917Z</updated>
+        <content type="html"><![CDATA[2025.02.19(수) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달콤 스토리 뮤직 페스티벌 2025 - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61420</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61420"/>
+        <updated>2025-02-18T07:13:02.917Z</updated>
+        <content type="html"><![CDATA[2025.02.21(금) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​진성 30주년 기념 콘서트 <진성 빅쇼> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61419</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61419"/>
+        <updated>2025-02-18T07:13:02.919Z</updated>
+        <content type="html"><![CDATA[2025.02.21(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [나랑,연이지 - 랑연 첫번째 콘서트] 추가​​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61418</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61408"/>
         <updated>2025-02-17T05:14:24.156Z</updated>
         <content type="html"><![CDATA[2025.02.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 고고학 단독 콘서트 ISSUE NO.03​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61407</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61407"/>
-        <updated>2025-02-17T09:15:30.278Z</updated>
-        <content type="html"><![CDATA[2025.02.20(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[< THE이재훈_31년 > 단독 콘서트 용인공연​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61406</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61406"/>
-        <updated>2025-02-17T05:14:24.164Z</updated>
-        <content type="html"><![CDATA[2025.02.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <명성황후> 30주년 기념 공연​ 4차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61405</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61405"/>
-        <updated>2025-02-17T04:16:20.991Z</updated>
-        <content type="html"><![CDATA[2025.02.20(목) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <삼색도> ​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61404</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61404"/>
-        <updated>2025-02-17T04:16:20.991Z</updated>
-        <content type="html"><![CDATA[2025.02.21(금) 07:00]]></content>
     </entry>
 </feed>
