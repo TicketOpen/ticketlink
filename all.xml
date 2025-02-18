@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-17T23:12:18.399Z</updated>
+    <updated>2025-02-18T00:59:26.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[앤서니브라운의 돼지책 - 서울 구로​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -26,7 +26,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.20(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 BAMA 제14회 부산국제화랑아트페어 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2025 BAMA 제14회 부산국제화랑아트페어 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61411</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61411"/>
         <updated>2025-02-17T07:13:33.347Z</updated>
@@ -131,7 +131,7 @@
         <content type="html"><![CDATA[2025.02.20(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 BAMA 제14회 부산국제화랑아트페어 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매] 2025 BAMA 제14회 부산국제화랑아트페어 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61411</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61411"/>
         <updated>2025-02-17T07:13:41.031Z</updated>
