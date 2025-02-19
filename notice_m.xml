@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-19T03:19:03.142Z</updated>
+    <updated>2025-02-19T04:16:14.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 서울 관악​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61426</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61426"/>
+        <updated>2025-02-19T04:16:13.471Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  코미디 연극 오백에 삼십-군산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61425</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[2025.02.20(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설민석의 한국사 대모험 : 안중근 소년에서 영웅으로! 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61424</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61424"/>
         <updated>2025-02-18T08:17:32.734Z</updated>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61412"/>
         <updated>2025-02-17T07:13:41.031Z</updated>
         <content type="html"><![CDATA[2025.02.20(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 BAMA 제14회 부산국제화랑아트페어 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61411</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61411"/>
-        <updated>2025-02-17T07:13:41.031Z</updated>
-        <content type="html"><![CDATA[2025.02.18(화) 02:00]]></content>
     </entry>
 </feed>
