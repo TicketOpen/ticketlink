@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-20T02:18:13.098Z</updated>
+    <updated>2025-02-20T03:17:53.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2025 보드게임페스타(세텍) 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61437</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61437"/>
+        <updated>2025-02-20T03:17:52.643Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​최현우의 MYSTICUS - 동해​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61435</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61422"/>
         <updated>2025-02-18T07:13:02.917Z</updated>
         <content type="html"><![CDATA[2025.02.19(수) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 경기도 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61421</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61421"/>
-        <updated>2025-02-18T08:17:32.741Z</updated>
-        <content type="html"><![CDATA[2025.02.24(월) 02:00]]></content>
     </entry>
 </feed>
