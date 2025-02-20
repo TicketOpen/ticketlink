@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-20T04:15:37.189Z</updated>
+    <updated>2025-02-20T05:13:09.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[​가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61440</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61440"/>
+        <updated>2025-02-20T05:13:01.556Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.26(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [피처링_트랙 13] 뮤지컬 <배니싱>​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61438</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61438"/>
+        <updated>2025-02-20T05:13:01.557Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.25(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2025 보드게임페스타(세텍) 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61437</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61437"/>
         <updated>2025-02-20T03:17:45.165Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  CIX 4th CONCERT < THUNDER FEVER > IN SEOUL​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61436</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61436"/>
+        <updated>2025-02-20T05:13:01.557Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.25(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​최현우의 MYSTICUS - 동해​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -89,25 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.20(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61424</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61424"/>
-        <updated>2025-02-18T08:17:25.235Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 01:00]]></content>
+        <title type="html"><![CDATA[​가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61440</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61440"/>
+        <updated>2025-02-20T05:13:09.094Z</updated>
+        <content type="html"><![CDATA[2025.02.26(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 부산 동래 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61423</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61423"/>
-        <updated>2025-02-18T07:12:55.456Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  GAC 기획공연 포시즌 노부스 콰르텟 'Brahms'​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61422</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61422"/>
-        <updated>2025-02-18T07:12:55.456Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.19(수) 07:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  [피처링_트랙 13] 뮤지컬 <배니싱>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61438</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61438"/>
+        <updated>2025-02-20T05:13:09.094Z</updated>
+        <content type="html"><![CDATA[2025.02.25(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2025 보드게임페스타(세텍) 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -115,6 +129,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61437"/>
         <updated>2025-02-20T03:17:52.643Z</updated>
         <content type="html"><![CDATA[2025.02.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  CIX 4th CONCERT < THUNDER FEVER > IN SEOUL​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61436</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61436"/>
+        <updated>2025-02-20T05:13:09.098Z</updated>
+        <content type="html"><![CDATA[2025.02.25(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​최현우의 MYSTICUS - 동해​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61425"/>
         <updated>2025-02-19T03:19:02.468Z</updated>
         <content type="html"><![CDATA[2025.02.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 설민석의 한국사 대모험 시즌 2 '안중근' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61424</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61424"/>
-        <updated>2025-02-18T08:17:32.734Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이마술쇼 - 부산 동래 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61423</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61423"/>
-        <updated>2025-02-18T07:13:02.917Z</updated>
-        <content type="html"><![CDATA[2025.02.24(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  GAC 기획공연 포시즌 노부스 콰르텟 'Brahms'​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61422</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61422"/>
-        <updated>2025-02-18T07:13:02.917Z</updated>
-        <content type="html"><![CDATA[2025.02.19(수) 07:00]]></content>
     </entry>
 </feed>
