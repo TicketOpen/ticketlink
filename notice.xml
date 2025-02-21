@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-21T01:02:35.406Z</updated>
+    <updated>2025-02-21T02:18:57.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <웃는 남자> - 성남 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61452</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61452"/>
+        <updated>2025-02-21T02:18:50.612Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.21(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 이소라 일곱번째 봄 콘서트 '봄 밤 핌'​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61449</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61435"/>
         <updated>2025-02-19T10:14:03.757Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라가 들리는 48시간 이탈리아 여행 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61434</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61434"/>
-        <updated>2025-02-19T08:17:27.221Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.20(목) 05:00]]></content>
     </entry>
 </feed>
