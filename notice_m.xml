@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-21T04:17:03.392Z</updated>
+    <updated>2025-02-21T05:13:45.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61452"/>
         <updated>2025-02-21T02:18:57.051Z</updated>
         <content type="html"><![CDATA[2025.02.21(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​YOON SAN-HA : SANiGHT Project #2 – 만남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61451</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61451"/>
+        <updated>2025-02-21T05:13:45.102Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 전주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61450</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61450"/>
+        <updated>2025-02-21T05:13:45.105Z</updated>
+        <content type="html"><![CDATA[2025.02.25(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 이소라 일곱번째 봄 콘서트 '봄 밤 핌'​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61438"/>
         <updated>2025-02-20T05:13:09.094Z</updated>
         <content type="html"><![CDATA[2025.02.25(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 보드게임페스타(세텍) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61437</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61437"/>
-        <updated>2025-02-20T03:17:52.643Z</updated>
-        <content type="html"><![CDATA[2025.02.24(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  CIX 4th CONCERT < THUNDER FEVER > IN SEOUL​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61436</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61436"/>
-        <updated>2025-02-20T05:13:09.098Z</updated>
-        <content type="html"><![CDATA[2025.02.25(화) 11:00]]></content>
     </entry>
 </feed>
