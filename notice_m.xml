@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-21T02:18:57.820Z</updated>
+    <updated>2025-02-21T03:19:12.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최인훈 명작 시리즈 [달아 달아 밝은 달아] - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61454</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61454"/>
+        <updated>2025-02-21T03:19:11.820Z</updated>
+        <content type="html"><![CDATA[2025.02.24(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <웃는 남자> - 성남 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61452</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61436"/>
         <updated>2025-02-20T05:13:09.098Z</updated>
         <content type="html"><![CDATA[2025.02.25(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​최현우의 MYSTICUS - 동해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61435</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61435"/>
-        <updated>2025-02-19T10:14:11.881Z</updated>
-        <content type="html"><![CDATA[2025.02.25(화) 05:00]]></content>
     </entry>
 </feed>
