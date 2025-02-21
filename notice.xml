@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-21T06:18:44.202Z</updated>
+    <updated>2025-02-21T07:13:09.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <6시 퇴근>​ 프리뷰&1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61460</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61460"/>
+        <updated>2025-02-21T07:13:02.742Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 탱고 아르헨티나 Tango Argentina - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61459</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61459"/>
+        <updated>2025-02-21T07:13:02.744Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.25(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​공룡애니멀쇼 - 서산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61457</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61457"/>
+        <updated>2025-02-21T07:13:02.747Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.26(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61456</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61456"/>
+        <updated>2025-02-21T07:13:02.748Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.25(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​한석준의 토크콘서트 <대화의 기술> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61455</id>
@@ -18,6 +46,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61454"/>
         <updated>2025-02-21T03:19:05.446Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달콤 스토리 뮤직 페스티벌 2025 - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61453</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61453"/>
+        <updated>2025-02-21T07:13:02.751Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.26(수) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <웃는 남자> - 성남 티켓오픈 안내]]></title>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61445"/>
         <updated>2025-02-20T08:17:45.286Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​백설공주 - 서울강북​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61444</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61444"/>
-        <updated>2025-02-20T07:12:59.488Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.26(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이 뮤지컬 <캣츠> - 구미​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61443</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61443"/>
-        <updated>2025-02-20T07:12:59.490Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 얼떨결에 종언​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61442</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61442"/>
-        <updated>2025-02-20T06:18:23.231Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  앙상블오푸스 <열정과 서정 사이> - 울진 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61441</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61441"/>
-        <updated>2025-02-20T06:18:23.232Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61440</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61440"/>
-        <updated>2025-02-20T05:13:01.556Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.26(수) 05:00]]></content>
     </entry>
 </feed>
