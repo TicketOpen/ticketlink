@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-24T11:11:16.521Z</updated>
+    <updated>2025-02-24T12:25:45.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61475</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61475"/>
+        <updated>2025-02-24T12:25:44.882Z</updated>
+        <content type="html"><![CDATA[2025.02.26(수) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2025 SON HOYOUNG FAN MEETING '우리의 계절, 호영'​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61474</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61460"/>
         <updated>2025-02-21T07:13:09.268Z</updated>
         <content type="html"><![CDATA[2025.03.05(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 탱고 아르헨티나 Tango Argentina - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61459</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61459"/>
-        <updated>2025-02-21T07:13:09.268Z</updated>
-        <content type="html"><![CDATA[2025.02.25(화) 05:00]]></content>
     </entry>
 </feed>
