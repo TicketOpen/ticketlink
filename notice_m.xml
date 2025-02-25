@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-25T02:48:14.614Z</updated>
+    <updated>2025-02-25T03:20:40.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국립오페라단 <마술피리> - 포항​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61479</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61479"/>
+        <updated>2025-02-25T03:20:39.939Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순동순동 신춘음악회-전주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61478</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61478"/>
+        <updated>2025-02-25T03:20:39.940Z</updated>
+        <content type="html"><![CDATA[2025.02.26(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 수원 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61477</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61464"/>
         <updated>2025-02-24T05:14:15.627Z</updated>
         <content type="html"><![CDATA[2025.03.04(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <빨래> - 진주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61463</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61463"/>
-        <updated>2025-02-24T05:14:15.632Z</updated>
-        <content type="html"><![CDATA[2025.02.26(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61462</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61462"/>
-        <updated>2025-02-24T02:50:08.838Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 02:00]]></content>
     </entry>
 </feed>
