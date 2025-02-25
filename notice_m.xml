@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-25T01:01:29.578Z</updated>
+    <updated>2025-02-25T02:48:14.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 수원 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61477</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61477"/>
+        <updated>2025-02-25T02:48:13.918Z</updated>
+        <content type="html"><![CDATA[2025.02.26(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공지] NHN링크 개인정보처리방침 변경에 대한 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61476</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61462"/>
         <updated>2025-02-24T02:50:08.838Z</updated>
         <content type="html"><![CDATA[2025.02.27(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2025 얼리버드​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61461</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61461"/>
-        <updated>2025-02-21T09:14:03.135Z</updated>
-        <content type="html"><![CDATA[2025.02.24(월) 09:00]]></content>
     </entry>
 </feed>
