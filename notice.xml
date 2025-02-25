@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-24T23:13:57.506Z</updated>
+    <updated>2025-02-25T01:01:29.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[공지] NHN링크 개인정보처리방침 변경에 대한 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61476</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61476"/>
+        <updated>2025-02-25T01:01:20.833Z</updated>
+        <content type="html"><![CDATA[2025.02.25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 고양​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61475</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61461"/>
         <updated>2025-02-21T09:13:56.919Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.24(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <6시 퇴근>​ 프리뷰&1차 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61460</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61460"/>
-        <updated>2025-02-21T07:13:02.742Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 05:00]]></content>
     </entry>
 </feed>
