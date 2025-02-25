@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-25T04:16:36.331Z</updated>
+    <updated>2025-02-25T05:14:25.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[울산] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61485</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61485"/>
+        <updated>2025-02-25T05:14:16.581Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 7차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61483</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61483"/>
+        <updated>2025-02-25T05:14:16.581Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 <언더커버> 서울 콘서트 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61482</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61482"/>
+        <updated>2025-02-25T05:14:16.582Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 구미​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61481</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61481"/>
+        <updated>2025-02-25T05:14:16.583Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 안성​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61480</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61480"/>
+        <updated>2025-02-25T05:14:16.584Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국립오페라단 <마술피리> - 포항​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61479</id>
@@ -75,39 +110,39 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 06:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 안동공연​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61468</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61468"/>
-        <updated>2025-02-24T05:14:09.172Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 05:00]]></content>
+        <title type="html"><![CDATA[[울산] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61485</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61485"/>
+        <updated>2025-02-25T05:14:24.954Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 - 해양구조대> - 용인​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61467</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61467"/>
-        <updated>2025-02-24T05:14:09.172Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.26(수) 01:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 7차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61483</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61483"/>
+        <updated>2025-02-25T05:14:24.956Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​임윤찬 피아노 리사이틀 - 바흐 골드베르크 변주곡​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61466</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61466"/>
-        <updated>2025-02-24T05:14:09.174Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 06:00]]></content>
+        <title type="html"><![CDATA[2025 <언더커버> 서울 콘서트 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61482</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61482"/>
+        <updated>2025-02-25T05:14:24.959Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​뮤지컬 <달 샤베트> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61465</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61465"/>
-        <updated>2025-02-24T02:50:01.441Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 05:00]]></content>
+        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 구미​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61481</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61481"/>
+        <updated>2025-02-25T05:14:24.966Z</updated>
+        <content type="html"><![CDATA[2025.02.27(목) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​Music Collection: BTOB 서은광 X B1A4 산들​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61464</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61464"/>
-        <updated>2025-02-24T05:14:09.183Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 11:00]]></content>
+        <title type="html"><![CDATA[2025 심수봉 전국투어콘서트 : 꽃길 - 안성​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61480</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61480"/>
+        <updated>2025-02-25T05:14:24.967Z</updated>
+        <content type="html"><![CDATA[2025.02.27(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국립오페라단 <마술피리> - 포항​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -178,40 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61469"/>
         <updated>2025-02-24T05:14:15.616Z</updated>
         <content type="html"><![CDATA[2025.02.28(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 이승철 콘서트 <오케스트락2> 안동공연​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61468</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61468"/>
-        <updated>2025-02-24T05:14:15.616Z</updated>
-        <content type="html"><![CDATA[2025.02.28(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <고고다이노 - 해양구조대> - 용인​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61467</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61467"/>
-        <updated>2025-02-24T05:14:15.617Z</updated>
-        <content type="html"><![CDATA[2025.02.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​임윤찬 피아노 리사이틀 - 바흐 골드베르크 변주곡​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61466</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61466"/>
-        <updated>2025-02-24T05:14:15.619Z</updated>
-        <content type="html"><![CDATA[2025.02.28(금) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <달 샤베트> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61465</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61465"/>
-        <updated>2025-02-24T02:50:08.836Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​Music Collection: BTOB 서은광 X B1A4 산들​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61464</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61464"/>
-        <updated>2025-02-24T05:14:15.627Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 11:00]]></content>
     </entry>
 </feed>
