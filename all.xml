@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-26T05:14:20.290Z</updated>
+    <updated>2025-02-26T06:19:37.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 이매지너리​ 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[뮤지컬 <블러디러브> - 성남 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61498</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61498"/>
+        <updated>2025-02-26T06:19:30.123Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​​뮤지컬 <이매지너리>​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61497</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61497"/>
         <updated>2025-02-26T05:14:13.206Z</updated>
@@ -103,14 +110,14 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 7차​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61483</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61483"/>
-        <updated>2025-02-25T05:14:16.581Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 05:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <블러디러브> - 성남 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61498</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61498"/>
+        <updated>2025-02-26T06:19:36.521Z</updated>
+        <content type="html"><![CDATA[2025.02.28(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​뮤지컬 이매지너리​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[[단독판매]  ​​뮤지컬 <이매지너리>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61497</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61497"/>
         <updated>2025-02-26T05:14:19.531Z</updated>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61484"/>
         <updated>2025-02-26T05:14:19.556Z</updated>
         <content type="html"><![CDATA[2025.03.05(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll & Hyde) - 20주년 7차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61483</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61483"/>
-        <updated>2025-02-25T05:14:24.956Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 05:00]]></content>
     </entry>
 </feed>
