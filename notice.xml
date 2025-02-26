@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-26T12:25:51.941Z</updated>
+    <updated>2025-02-26T13:22:11.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레셰크 모주제르 Solo Piano​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61500</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61500"/>
+        <updated>2025-02-26T13:22:04.345Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제8회 정기연주회​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61499</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61486"/>
         <updated>2025-02-25T06:18:50.017Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[울산] 가족뮤지컬 <읽으면서 바로 써먹는 어린이 감정표현>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61485</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61485"/>
-        <updated>2025-02-25T05:14:16.581Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 02:00]]></content>
     </entry>
 </feed>
