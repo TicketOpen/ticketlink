@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-26T07:13:54.432Z</updated>
+    <updated>2025-02-26T08:18:19.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제8회 정기연주회​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61499</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61499"/>
+        <updated>2025-02-26T08:18:18.964Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <블러디러브> - 성남 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61498</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61485"/>
         <updated>2025-02-25T05:14:24.954Z</updated>
         <content type="html"><![CDATA[2025.03.04(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  제27회 함평나비대축제 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61484</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61484"/>
-        <updated>2025-02-26T05:14:19.556Z</updated>
-        <content type="html"><![CDATA[2025.03.05(수) 00:00]]></content>
     </entry>
 </feed>
