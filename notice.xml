@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-27T07:13:27.972Z</updated>
+    <updated>2025-02-27T08:17:15.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​제2회 대구 그린뮤직 콘서트 <은행나무의 선물> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61511</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61511"/>
+        <updated>2025-02-27T08:17:07.132Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2025 양지은 콘서트 '흥한다!'​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61510</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61496"/>
         <updated>2025-02-26T05:14:13.207Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <블러디 러브> – 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61495</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61495"/>
-        <updated>2025-02-27T06:19:24.736Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 06:00]]></content>
     </entry>
 </feed>
