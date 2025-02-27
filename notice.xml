@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-27T01:01:15.482Z</updated>
+    <updated>2025-02-27T02:22:02.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] ​최고의 발라더 with 백지영·케이윌 - 경주 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61503</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61503"/>
+        <updated>2025-02-27T02:21:53.781Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  가족마술쇼 - 화성 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61502</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/61489</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61489"/>
         <updated>2025-02-25T06:18:50.007Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​엘사의 생일파티 - 밀양​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61488</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61488"/>
-        <updated>2025-02-25T06:18:50.017Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 00:00]]></content>
     </entry>
 </feed>
