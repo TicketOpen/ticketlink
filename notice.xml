@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-27T23:13:39.112Z</updated>
+    <updated>2025-02-28T01:02:07.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <배니싱> 4차​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61513</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61513"/>
+        <updated>2025-02-28T01:01:59.884Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오리지널 어린이 캣 - 과천​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61512</id>
@@ -97,17 +104,10 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <블러디러브> - 성남 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[뮤지컬 <블러디 러브> - 성남 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61498</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61498"/>
         <updated>2025-02-26T06:19:30.123Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.02.28(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​​뮤지컬 <이매지너리>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61497</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61497"/>
-        <updated>2025-02-26T05:14:13.206Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.06(목) 07:00]]></content>
     </entry>
 </feed>
