@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-02-28T06:18:34.015Z</updated>
+    <updated>2025-02-28T07:14:03.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사랑의 하츄핑> - 안성​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61519</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61519"/>
+        <updated>2025-02-28T07:13:55.533Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.06(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈뚜식이 : 뚜식이라서 다행이야!〉 - 대구​​​ 티켓오픈 안내 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61517</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61503"/>
         <updated>2025-02-27T02:21:53.781Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  가족마술쇼 - 화성 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61502</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61502"/>
-        <updated>2025-02-28T06:18:25.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 00:00]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-28T06:18:34.019Z</updated>
+    <updated>2025-02-28T07:14:03.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사랑의 하츄핑> - 안성​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61519</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61519"/>
+        <updated>2025-02-28T07:13:55.533Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.06(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈뚜식이 : 뚜식이라서 다행이야!〉 - 대구​​​ 티켓오픈 안내 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61517</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  가족마술쇼 - 화성 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61502</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61502"/>
-        <updated>2025-02-28T06:18:25.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.02.27(목) 00:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <사랑의 하츄핑> - 안성​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61519</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61519"/>
+        <updated>2025-02-28T07:14:03.162Z</updated>
+        <content type="html"><![CDATA[2025.03.06(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈뚜식이 : 뚜식이라서 다행이야!〉 - 대구​​​ 티켓오픈 안내 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61503"/>
         <updated>2025-02-27T02:22:01.988Z</updated>
         <content type="html"><![CDATA[2025.03.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  가족마술쇼 - 화성 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61502"/>
-        <updated>2025-02-28T06:18:33.387Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 00:00]]></content>
     </entry>
 </feed>
