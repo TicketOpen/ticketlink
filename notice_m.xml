@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-28T04:16:58.514Z</updated>
+    <updated>2025-02-28T05:14:57.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 박서진 콘서트 ［NEW:BEGIN］​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61518</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61518"/>
+        <updated>2025-02-28T05:14:56.397Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈뚜식이 : 뚜식이라서 다행이야!〉 - 대구​​​ 티켓오픈 안내 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61517</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61517"/>
+        <updated>2025-02-28T05:14:56.404Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61516</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61516"/>
+        <updated>2025-02-28T05:14:56.406Z</updated>
+        <content type="html"><![CDATA[2025.03.06(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2025 송가인 팬미팅 “평생”​ - The 차오르다 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61515</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61515"/>
         <updated>2025-02-28T03:21:46.140Z</updated>
         <content type="html"><![CDATA[2025.03.06(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61514</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61514"/>
+        <updated>2025-02-28T05:14:56.426Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <배니싱> 4차​ 티켓오픈 안내]]></title>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61503"/>
         <updated>2025-02-27T02:22:01.988Z</updated>
         <content type="html"><![CDATA[2025.03.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  가족마술쇼 - 화성 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61502</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61502"/>
-        <updated>2025-02-27T01:01:14.837Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  가족마술쇼 - 수원 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61501</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61501"/>
-        <updated>2025-02-27T01:01:14.839Z</updated>
-        <content type="html"><![CDATA[2025.02.27(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레셰크 모주제르 Solo Piano​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61500</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61500"/>
-        <updated>2025-02-26T13:22:10.781Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 경산시립교향악단 제8회 정기연주회​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61499</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61499"/>
-        <updated>2025-02-26T08:18:18.964Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 04:00]]></content>
     </entry>
 </feed>
