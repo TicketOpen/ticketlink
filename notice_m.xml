@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-02-28T09:14:30.470Z</updated>
+    <updated>2025-02-28T10:14:25.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 만나필하모닉 오케스트라 “봄 정기연주회”​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61523</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61523"/>
+        <updated>2025-02-28T10:14:24.444Z</updated>
+        <content type="html"><![CDATA[2025.03.04(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [대구] 신영숙.남경주의 뮤지컬 갈라콘서트 ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61522</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[<이미자 전통가요 헌정 공연> “​맥(脈)을 이음”​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61507</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61507"/>
-        <updated>2025-02-27T05:14:20.799Z</updated>
-        <content type="html"><![CDATA[2025.03.06(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61506</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61506"/>
         <updated>2025-02-27T05:14:20.799Z</updated>
         <content type="html"><![CDATA[2025.03.06(목) 05:00]]></content>
     </entry>
