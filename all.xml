@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-28T10:14:25.196Z</updated>
+    <updated>2025-02-28T11:11:50.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[얼떨결에 종언 2차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61526</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61526"/>
+        <updated>2025-02-28T11:11:43.565Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >)​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61524</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61524"/>
+        <updated>2025-02-28T11:11:43.565Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 만나필하모닉 오케스트라 “봄 정기연주회”​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61523</id>
@@ -40,7 +54,7 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.06(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈뚜식이 : 뚜식이라서 다행이야!〉 - 대구​​​ 티켓오픈 안내 티켓오픈 안내 (티켓링크)]]></title>
+        <title type="html"><![CDATA[가족뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> - 대구​​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61517</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61517"/>
         <updated>2025-02-28T05:14:47.910Z</updated>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.10(월) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​김창완밴드 콘서트 - 수원​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61508</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61508"/>
-        <updated>2025-02-27T05:14:13.718Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content>
+        <title type="html"><![CDATA[얼떨결에 종언 2차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61526</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61526"/>
+        <updated>2025-02-28T11:11:50.074Z</updated>
+        <content type="html"><![CDATA[2025.03.05(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<이미자 전통가요 헌정 공연> “​맥(脈)을 이음”​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61507</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61507"/>
-        <updated>2025-02-27T05:14:13.719Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.06(목) 05:00]]></content>
+        <title type="html"><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61524</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61524"/>
+        <updated>2025-02-28T11:11:50.077Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 만나필하모닉 오케스트라 “봄 정기연주회”​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -145,7 +159,7 @@
         <content type="html"><![CDATA[2025.03.06(목) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈뚜식이 : 뚜식이라서 다행이야!〉 - 대구​​​ 티켓오픈 안내 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <title type="html"><![CDATA[가족뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> - 대구​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61517</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61517"/>
         <updated>2025-02-28T05:14:56.404Z</updated>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61510"/>
         <updated>2025-02-27T05:14:20.796Z</updated>
         <content type="html"><![CDATA[2025.03.10(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​김창완밴드 콘서트 - 수원​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61508</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61508"/>
-        <updated>2025-02-27T05:14:20.799Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<이미자 전통가요 헌정 공연> “​맥(脈)을 이음”​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61507</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61507"/>
-        <updated>2025-02-27T05:14:20.799Z</updated>
-        <content type="html"><![CDATA[2025.03.06(목) 05:00]]></content>
     </entry>
 </feed>
