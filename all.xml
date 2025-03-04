@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-04T06:21:58.192Z</updated>
+    <updated>2025-03-04T07:14:32.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티- 대구 수성 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61540</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61540"/>
+        <updated>2025-03-04T07:14:23.464Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티- 파주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61539</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61539"/>
+        <updated>2025-03-04T07:14:23.472Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​백설공주 - 수원 ​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61538</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61538"/>
+        <updated>2025-03-04T07:14:23.474Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 디즈니 인 콘서트 - 경주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61537</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [피처링_트랙 16] 연극 <꽃의 비밀> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61525</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61525"/>
-        <updated>2025-03-04T01:02:21.967Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.10(월) 05:00]]></content>
+        <title type="html"><![CDATA[엘사의 생일파티- 대구 수성 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61540</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61540"/>
+        <updated>2025-03-04T07:14:31.734Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >)​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61524</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61524"/>
-        <updated>2025-02-28T11:11:43.565Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 07:00]]></content>
+        <title type="html"><![CDATA[엘사의 생일파티- 파주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61539</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61539"/>
+        <updated>2025-03-04T07:14:31.734Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 만나필하모닉 오케스트라 “봄 정기연주회”​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61523</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61523"/>
-        <updated>2025-02-28T10:14:17.962Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 01:00]]></content>
+        <title type="html"><![CDATA[​백설공주 - 수원 ​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61538</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61538"/>
+        <updated>2025-03-04T07:14:31.735Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 디즈니 인 콘서트 - 경주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61526"/>
         <updated>2025-02-28T11:11:50.074Z</updated>
         <content type="html"><![CDATA[2025.03.05(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [피처링_트랙 16] 연극 <꽃의 비밀> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61525</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61525"/>
-        <updated>2025-03-04T01:02:28.429Z</updated>
-        <content type="html"><![CDATA[2025.03.10(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >)​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61524</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61524"/>
-        <updated>2025-02-28T11:11:50.077Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 만나필하모닉 오케스트라 “봄 정기연주회”​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61523</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61523"/>
-        <updated>2025-02-28T10:14:24.444Z</updated>
-        <content type="html"><![CDATA[2025.03.04(화) 01:00]]></content>
     </entry>
 </feed>
