@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-04T09:15:20.675Z</updated>
+    <updated>2025-03-04T10:14:59.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 경상북도 도립국악단 제170회 정기연주회 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61544</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61544"/>
+        <updated>2025-03-04T10:14:58.190Z</updated>
+        <content type="html"><![CDATA[2025.03.05(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앤서니브라운의 돼지책 - 원주​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61543</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61543"/>
+        <updated>2025-03-04T10:14:58.197Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 양지원 콘서트 : 풀리네 - 부산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61542</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61542"/>
+        <updated>2025-03-04T10:14:58.199Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  박장현 단독 콘서트 '봄의 초대,장'​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61541</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61530"/>
         <updated>2025-03-04T02:51:17.058Z</updated>
         <content type="html"><![CDATA[2025.03.05(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 다시, 봄날처럼​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61529</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61529"/>
-        <updated>2025-03-04T05:14:11.995Z</updated>
-        <content type="html"><![CDATA[2025.03.06(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 풍금 TOUR - 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61528</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61528"/>
-        <updated>2025-03-04T02:51:17.058Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [피처링_트랙 15] 뮤지컬<아나키스트>​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61527</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61527"/>
-        <updated>2025-03-04T02:51:17.059Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 02:00]]></content>
     </entry>
 </feed>
