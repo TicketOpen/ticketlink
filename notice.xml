@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-04T02:51:17.780Z</updated>
+    <updated>2025-03-04T03:23:34.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2025 빈예서 팬콘서트 [봄, 예서] 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61531</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61531"/>
+        <updated>2025-03-04T03:23:26.321Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 393회 정기연주회 '2025 교향악축제 프리뷰' 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61530</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61515"/>
         <updated>2025-02-28T03:21:39.597Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.06(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​최현우 19+I - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61514</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61514"/>
-        <updated>2025-02-28T05:14:47.916Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.04(화) 05:00]]></content>
     </entry>
 </feed>
