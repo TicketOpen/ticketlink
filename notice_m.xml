@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-05T04:16:27.801Z</updated>
+    <updated>2025-03-05T05:14:26.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61550</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61550"/>
+        <updated>2025-03-05T05:14:26.063Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] VCT CK 2025 SPLIT 1 PLAYOFFS​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61548</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61548"/>
+        <updated>2025-03-05T05:14:26.064Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​히사이시 조 영화음악 콘서트 2025_부천​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61547</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61547"/>
         <updated>2025-03-05T02:51:08.383Z</updated>
         <content type="html"><![CDATA[2025.03.07(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 성남​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61546</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61546"/>
+        <updated>2025-03-05T05:14:26.073Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제42회 대구연극제 공식경연작 <하늘 땅 별 땅> - 대구​ ​티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61535"/>
         <updated>2025-03-04T06:21:57.453Z</updated>
         <content type="html"><![CDATA[2025.03.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <슈퍼윙스 - 초능력 곤충 대소동> 대전​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61534</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61534"/>
-        <updated>2025-03-04T06:21:57.472Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <뚜식이 : 뚜식이라서 다행이야!> - 부산​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61533</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61533"/>
-        <updated>2025-03-04T06:21:57.472Z</updated>
-        <content type="html"><![CDATA[2025.03.06(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​이승환 35주년 콘서트 < HEAVEN > - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61532</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61532"/>
-        <updated>2025-03-04T05:14:11.993Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 05:00]]></content>
     </entry>
 </feed>
