@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-05T06:19:06.972Z</updated>
+    <updated>2025-03-05T07:13:34.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61550"/>
         <updated>2025-03-05T05:14:18.411Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이봄소리 첫 번째 팬미팅 <봄의 소리 Vol.1> ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61549</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61549"/>
+        <updated>2025-03-05T07:13:27.207Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 06:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] VCT CK 2025 SPLIT 1 PLAYOFFS​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61538"/>
         <updated>2025-03-04T07:14:23.474Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 디즈니 인 콘서트 - 경주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61537</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61537"/>
-        <updated>2025-03-04T06:21:48.564Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.10(월) 01:00]]></content>
     </entry>
 </feed>
