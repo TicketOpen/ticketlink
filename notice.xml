@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-04T23:13:04.087Z</updated>
+    <updated>2025-03-05T01:03:41.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제42회 대구연극제 공식경연작 <하늘 땅 별 땅> - 대구​ ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61545</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61545"/>
+        <updated>2025-03-05T01:03:34.048Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 경상북도 도립국악단 제170회 정기연주회 ​티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61544</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61531"/>
         <updated>2025-03-04T03:23:26.321Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] 393회 정기연주회 '2025 교향악축제 프리뷰' 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61530</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61530"/>
-        <updated>2025-03-04T02:51:08.341Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.05(수) 08:00]]></content>
     </entry>
 </feed>
