@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-07T08:17:27.981Z</updated>
+    <updated>2025-03-07T09:14:38.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[브레멘음악대 - 성남​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61575</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61575"/>
+        <updated>2025-03-07T09:14:29.858Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 함안​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61574</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61574"/>
+        <updated>2025-03-07T09:14:29.860Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 비밀 사이 팬미팅 : 비밀리에​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61573</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61573"/>
+        <updated>2025-03-07T09:14:29.861Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PITTA 강형호 콘서트 < UNIVERSE > ENCORE - 부산 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61572</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 틈새시장 1주년 콘서트 : PALETTE​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61560</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61560"/>
-        <updated>2025-03-06T09:16:25.800Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.10(월) 11:00]]></content>
+        <title type="html"><![CDATA[브레멘음악대 - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61575</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61575"/>
+        <updated>2025-03-07T09:14:37.349Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61559</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61559"/>
-        <updated>2025-03-06T08:17:17.839Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 00:00]]></content>
+        <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 함안​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61574</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61574"/>
+        <updated>2025-03-07T09:14:37.349Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 대구​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61558</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61558"/>
-        <updated>2025-03-06T08:17:17.840Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 2025 비밀 사이 팬미팅 : 비밀리에​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61573</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61573"/>
+        <updated>2025-03-07T09:14:37.349Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PITTA 강형호 콘서트 < UNIVERSE > ENCORE - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61561"/>
         <updated>2025-03-07T01:03:09.734Z</updated>
         <content type="html"><![CDATA[2025.03.12(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 틈새시장 1주년 콘서트 : PALETTE​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61560</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61560"/>
-        <updated>2025-03-07T01:03:09.735Z</updated>
-        <content type="html"><![CDATA[2025.03.10(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61559</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61559"/>
-        <updated>2025-03-07T01:03:09.737Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61558</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61558"/>
-        <updated>2025-03-07T01:03:09.737Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
     </entry>
 </feed>
