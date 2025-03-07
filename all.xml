@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-06T23:13:45.350Z</updated>
+    <updated>2025-03-07T01:03:10.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 대전​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -108,5 +108,110 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61549"/>
         <updated>2025-03-06T07:15:39.519Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.07(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 대전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61563</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61563"/>
+        <updated>2025-03-07T01:03:09.734Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 전주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61562</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61562"/>
+        <updated>2025-03-07T01:03:09.734Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​GRUNT ZERO PARTY (Season 2)​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61561</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61561"/>
+        <updated>2025-03-07T01:03:09.734Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 틈새시장 1주년 콘서트 : PALETTE​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61560</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61560"/>
+        <updated>2025-03-07T01:03:09.735Z</updated>
+        <content type="html"><![CDATA[2025.03.10(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61559</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61559"/>
+        <updated>2025-03-07T01:03:09.737Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <바다 100층짜리 집> - 대구​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61558</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61558"/>
+        <updated>2025-03-07T01:03:09.737Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 악기야놀자 - 부산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61557</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61557"/>
+        <updated>2025-03-07T01:03:09.738Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61556</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61556"/>
+        <updated>2025-03-07T01:03:09.739Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 제주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61555</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61555"/>
+        <updated>2025-03-07T01:03:09.739Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 연극 <밑바닥에서>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61554</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61554"/>
+        <updated>2025-03-07T01:03:09.740Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] SOOP 네이션스컵 철권 8 - 한국 vs 파키스탄 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61553</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61553"/>
+        <updated>2025-03-07T01:03:09.741Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 07:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤레디움 특별전 2025: 디토와 비토 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61552</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61552"/>
+        <updated>2025-03-07T01:03:09.742Z</updated>
+        <content type="html"><![CDATA[2025.03.10(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <폴> ​마지막 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61551</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61551"/>
+        <updated>2025-03-07T01:03:09.744Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의명곡 정동하X알리 - 성남​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61550</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61550"/>
+        <updated>2025-03-07T01:03:09.746Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이봄소리 첫 번째 팬미팅 <봄의 소리 Vol.1> ​티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61549</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61549"/>
+        <updated>2025-03-07T01:03:09.747Z</updated>
+        <content type="html"><![CDATA[2025.03.07(금) 06:00]]></content>
     </entry>
 </feed>
