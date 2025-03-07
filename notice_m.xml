@@ -2,15 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-07T04:16:38.613Z</updated>
+    <updated>2025-03-07T05:14:11.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PITTA 강형호 콘서트 < UNIVERSE > ENCORE - 부산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61572</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61572"/>
+        <updated>2025-03-07T05:14:10.582Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 박서진 콘서트 ［NEW:BEGIN］​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61571</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61571"/>
+        <updated>2025-03-07T05:14:10.584Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  YOUNITE 1ST CONCERT ‘YOUNIVERSE : CONNECTED’ 예매 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61570</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61570"/>
+        <updated>2025-03-07T05:14:10.591Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대구] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61569</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61569"/>
+        <updated>2025-03-07T05:14:10.591Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  유니버설발레단 <발레 춘향> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61568</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61568"/>
+        <updated>2025-03-07T05:14:10.592Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  정태춘&박은옥 문학콘서트 <나의 시, 나의 노래> - 대구 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61567</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61567"/>
+        <updated>2025-03-07T05:14:10.594Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 2024 - 2025 INFINITE 15TH ANNIVERSARY CONCERT : LIMITED EDITION - ENCORE​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61566</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61566"/>
         <updated>2025-03-07T03:24:15.967Z</updated>
         <content type="html"><![CDATA[2025.03.12(수) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [피처링_트랙 14] 뮤지컬 <퍼스트 맨: 카뮈가 남긴 마지막 이야기>  티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61565</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61565"/>
+        <updated>2025-03-07T05:14:10.598Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 익산​ 티켓오픈 안내]]></title>
@@ -60,54 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61558"/>
         <updated>2025-03-07T01:03:09.737Z</updated>
         <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 악기야놀자 - 부산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61557</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61557"/>
-        <updated>2025-03-07T01:03:09.738Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 안산 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61556</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61556"/>
-        <updated>2025-03-07T01:03:09.739Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 제주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61555</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61555"/>
-        <updated>2025-03-07T01:03:09.739Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 연극 <밑바닥에서>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61554</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61554"/>
-        <updated>2025-03-07T01:03:09.740Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] SOOP 네이션스컵 철권 8 - 한국 vs 파키스탄 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61553</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61553"/>
-        <updated>2025-03-07T01:03:09.741Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 07:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤레디움 특별전 2025: 디토와 비토 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61552</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61552"/>
-        <updated>2025-03-07T01:03:09.742Z</updated>
-        <content type="html"><![CDATA[2025.03.10(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <폴> ​마지막 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61551</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61551"/>
-        <updated>2025-03-07T01:03:09.744Z</updated>
-        <content type="html"><![CDATA[2025.03.07(금) 06:00]]></content>
     </entry>
 </feed>
