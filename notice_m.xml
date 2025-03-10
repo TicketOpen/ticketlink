@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-10T04:13:49.030Z</updated>
+    <updated>2025-03-10T05:11:58.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61581"/>
         <updated>2025-03-10T04:13:48.244Z</updated>
         <content type="html"><![CDATA[2025.03.10(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEAK FESTIVAL 2025_일반 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61580</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61580"/>
+        <updated>2025-03-10T05:11:58.106Z</updated>
+        <content type="html"><![CDATA[2025.03.11(화) 09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​스위스 로망드 오케스트라 & 양인모​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61579</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61579"/>
+        <updated>2025-03-10T05:11:58.110Z</updated>
+        <content type="html"><![CDATA[2025.03.13(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​가족매직쇼 <구구쌤의 매직쑈라구> - 용인​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61578</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61578"/>
+        <updated>2025-03-10T05:11:58.111Z</updated>
+        <content type="html"><![CDATA[2025.03.13(목) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] HEOYOUNGSAENG LIVE IN SEOUL 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61567"/>
         <updated>2025-03-07T05:14:10.594Z</updated>
         <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2024 - 2025 INFINITE 15TH ANNIVERSARY CONCERT : LIMITED EDITION - ENCORE​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61566</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61566"/>
-        <updated>2025-03-07T03:24:15.967Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [피처링_트랙 14] 뮤지컬 <퍼스트 맨: 카뮈가 남긴 마지막 이야기>  티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61565</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61565"/>
-        <updated>2025-03-07T05:14:10.598Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 익산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61564</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61564"/>
-        <updated>2025-03-07T02:52:20.657Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 02:00]]></content>
     </entry>
 </feed>
