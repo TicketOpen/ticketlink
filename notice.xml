@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-10T08:16:06.573Z</updated>
+    <updated>2025-03-10T09:12:54.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 삼남매 트롯콘서트-반가희×공훈×신미래 대구​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61587</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61587"/>
+        <updated>2025-03-10T09:12:45.363Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사 - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61586</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61586"/>
+        <updated>2025-03-10T09:12:45.363Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김정민 전국투어 콘서트 : LIVE STAR - 서울​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61585</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61585"/>
+        <updated>2025-03-10T09:12:45.365Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 대전 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61584</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61573"/>
         <updated>2025-03-07T09:14:29.861Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PITTA 강형호 콘서트 < UNIVERSE > ENCORE - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61572</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61572"/>
-        <updated>2025-03-07T05:14:02.721Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 박서진 콘서트 ［NEW:BEGIN］​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61571</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61571"/>
-        <updated>2025-03-07T05:14:02.724Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  YOUNITE 1ST CONCERT ‘YOUNIVERSE : CONNECTED’ 예매 오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61570</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61570"/>
-        <updated>2025-03-07T05:14:02.724Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 11:00]]></content>
     </entry>
 </feed>
