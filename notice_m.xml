@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-10T05:11:58.824Z</updated>
+    <updated>2025-03-10T06:16:52.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2025 장민호 전국투어 콘서트 ‘호시절(好時節):시간여행’ – 서울앵콜​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61582</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61582"/>
+        <updated>2025-03-10T06:16:51.946Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 서울유스발레단 드림발레콘서트 3​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61581</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61568</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61568"/>
         <updated>2025-03-07T05:14:10.592Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  정태춘&박은옥 문학콘서트 <나의 시, 나의 노래> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61567</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61567"/>
-        <updated>2025-03-07T05:14:10.594Z</updated>
         <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
     </entry>
 </feed>
