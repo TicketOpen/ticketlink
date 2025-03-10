@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-10T06:16:52.652Z</updated>
+    <updated>2025-03-10T07:13:02.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61584</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61584"/>
+        <updated>2025-03-10T07:12:53.233Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 대전 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61583</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61583"/>
+        <updated>2025-03-10T07:12:53.234Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2025 장민호 전국투어 콘서트 ‘호시절(好時節):시간여행’ – 서울앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61582</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대구] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현> 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61569</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61569"/>
-        <updated>2025-03-07T05:14:02.725Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 02:00]]></content>
+        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61584</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61584"/>
+        <updated>2025-03-10T07:13:01.846Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 02:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  유니버설발레단 <발레 춘향> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61568</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61568"/>
-        <updated>2025-03-07T05:14:02.725Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 05:00]]></content>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 대전 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61583</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61583"/>
+        <updated>2025-03-10T07:13:01.847Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2025 장민호 전국투어 콘서트 ‘호시절(好時節):시간여행’ – 서울앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61570"/>
         <updated>2025-03-07T05:14:10.591Z</updated>
         <content type="html"><![CDATA[2025.03.17(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구] 가족뮤지컬 〈읽으면서 바로 써먹는 어린이 감정표현> 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61569</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61569"/>
-        <updated>2025-03-07T05:14:10.591Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  유니버설발레단 <발레 춘향> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61568</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61568"/>
-        <updated>2025-03-07T05:14:10.592Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 05:00]]></content>
     </entry>
 </feed>
