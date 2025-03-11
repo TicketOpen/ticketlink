@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-11T06:19:27.396Z</updated>
+    <updated>2025-03-11T07:13:55.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  트래블 콘서트 - 뉴욕 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61595</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61595"/>
+        <updated>2025-03-11T07:13:46.442Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 대구 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61594</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61594"/>
+        <updated>2025-03-11T07:13:46.478Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅰ. 'Marimba' 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61593</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.10(월) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2025_일반 티켓 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61580</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61580"/>
-        <updated>2025-03-10T05:11:50.502Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 09:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  트래블 콘서트 - 뉴욕 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61595</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61595"/>
+        <updated>2025-03-11T07:13:55.234Z</updated>
+        <content type="html"><![CDATA[2025.03.12(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[​스위스 로망드 오케스트라 & 양인모​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61579</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61579"/>
-        <updated>2025-03-10T05:11:50.503Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 05:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61594</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61594"/>
+        <updated>2025-03-11T07:13:55.304Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅰ. 'Marimba' 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61581"/>
         <updated>2025-03-10T04:13:48.244Z</updated>
         <content type="html"><![CDATA[2025.03.10(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAK FESTIVAL 2025_일반 티켓 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61580</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61580"/>
-        <updated>2025-03-10T05:11:58.106Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​스위스 로망드 오케스트라 & 양인모​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61579</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61579"/>
-        <updated>2025-03-10T05:11:58.110Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 05:00]]></content>
     </entry>
 </feed>
