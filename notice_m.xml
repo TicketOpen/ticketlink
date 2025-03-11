@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-11T08:17:57.328Z</updated>
+    <updated>2025-03-11T09:15:05.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 포항 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61599</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61599"/>
+        <updated>2025-03-11T09:15:04.419Z</updated>
+        <content type="html"><![CDATA[2025.03.13(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 천안​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61598</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61598"/>
+        <updated>2025-03-11T09:15:04.420Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 고양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61597</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61597"/>
+        <updated>2025-03-11T09:15:04.422Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [MD] YUURI ARENA LIVE 2025 at SEOUL OFFICIAL MD​ ​온라인 판매​ 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61596</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61596"/>
+        <updated>2025-03-11T09:15:04.424Z</updated>
+        <content type="html"><![CDATA[2025.03.13(목) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  트래블 콘서트 - 뉴욕 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61595</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61585"/>
         <updated>2025-03-10T09:12:53.997Z</updated>
         <content type="html"><![CDATA[2025.03.13(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61584</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61584"/>
-        <updated>2025-03-10T07:13:01.846Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 대전 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61583</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61583"/>
-        <updated>2025-03-10T07:13:01.847Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 장민호 전국투어 콘서트 ‘호시절(好時節):시간여행’ – 서울앵콜​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61582</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61582"/>
-        <updated>2025-03-10T06:16:51.946Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 서울유스발레단 드림발레콘서트 3​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61581</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61581"/>
-        <updated>2025-03-10T04:13:48.244Z</updated>
-        <content type="html"><![CDATA[2025.03.10(월) 05:00]]></content>
     </entry>
 </feed>
