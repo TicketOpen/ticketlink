@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-11T01:03:22.353Z</updated>
+    <updated>2025-03-11T02:52:53.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61591"/>
         <updated>2025-03-11T01:03:21.641Z</updated>
         <content type="html"><![CDATA[2025.03.11(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 김정민 전국투어 콘서트 : LIVE STAR - 김해 장유​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61590</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61590"/>
+        <updated>2025-03-11T02:52:53.246Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 군산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61589</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61589"/>
+        <updated>2025-03-11T02:52:53.250Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] MY FIRST STORY ASIA TOUR 2025 at SEOUL​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61578"/>
         <updated>2025-03-10T05:11:58.111Z</updated>
         <content type="html"><![CDATA[2025.03.13(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] HEOYOUNGSAENG LIVE IN SEOUL 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61577</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61577"/>
-        <updated>2025-03-10T02:01:52.113Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주현미 데뷔 40주년 콘서트 〈The Queen〉 – 광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61576</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61576"/>
-        <updated>2025-03-08T01:53:32.737Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 06:00]]></content>
     </entry>
 </feed>
