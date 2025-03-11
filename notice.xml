@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-10T23:13:28.049Z</updated>
+    <updated>2025-03-11T01:03:22.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연극 <꽃의 비밀> 마지막​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61592</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61592"/>
+        <updated>2025-03-11T01:03:13.989Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 가족뮤지컬 겨울왕국 - 과천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61591</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61591"/>
+        <updated>2025-03-11T01:03:13.991Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] MY FIRST STORY ASIA TOUR 2025 at SEOUL​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61588</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61588"/>
+        <updated>2025-03-11T01:03:13.994Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 삼남매 트롯콘서트-반가희×공훈×신미래 대구​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61587</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61576"/>
         <updated>2025-03-08T01:53:25.904Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레멘음악대 - 성남​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61575</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61575"/>
-        <updated>2025-03-07T09:14:29.858Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴포츠 내한 공연 : Prime Time - 함안​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61574</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61574"/>
-        <updated>2025-03-07T09:14:29.860Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 비밀 사이 팬미팅 : 비밀리에​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61573</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61573"/>
-        <updated>2025-03-07T09:14:29.861Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 11:00]]></content>
     </entry>
 </feed>
