@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-12T08:19:14.321Z</updated>
+    <updated>2025-03-12T09:14:40.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티- 강동​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61612</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61612"/>
+        <updated>2025-03-12T09:14:31.073Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 서울 앵콜​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61611</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61611"/>
+        <updated>2025-03-12T09:14:31.076Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​어린이마술쇼 - 의정부​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61610</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61610"/>
+        <updated>2025-03-12T09:14:31.078Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티- 부평​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61609</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61609"/>
+        <updated>2025-03-12T09:14:31.079Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 콘서트 - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61608</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61608"/>
+        <updated>2025-03-12T09:14:31.081Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 콘서트 - 원주​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61607</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61607"/>
+        <updated>2025-03-12T09:14:31.082Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유키 구라모토 콘서트 - 여수​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61606</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61606"/>
+        <updated>2025-03-12T09:14:31.083Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ASL 시즌19​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61605</id>
@@ -61,53 +110,53 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 고양​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61597</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61597"/>
-        <updated>2025-03-11T09:14:57.465Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 00:00]]></content>
+        <title type="html"><![CDATA[엘사의 생일파티- 강동​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61612</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61612"/>
+        <updated>2025-03-12T09:14:39.841Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매] [MD] YUURI ARENA LIVE 2025 at SEOUL OFFICIAL MD​ ​온라인 판매​ 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61596</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61596"/>
-        <updated>2025-03-11T09:14:57.467Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 07:00]]></content>
+        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 서울 앵콜​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61611</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61611"/>
+        <updated>2025-03-12T09:14:39.844Z</updated>
+        <content type="html"><![CDATA[2025.03.14(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  트래블 콘서트 - 뉴욕 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61595</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61595"/>
-        <updated>2025-03-11T07:13:46.442Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 05:00]]></content>
+        <title type="html"><![CDATA[​어린이마술쇼 - 의정부​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61610</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61610"/>
+        <updated>2025-03-12T09:14:39.846Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 대구 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61594</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61594"/>
-        <updated>2025-03-11T07:13:46.478Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
+        <title type="html"><![CDATA[엘사의 생일파티- 부평​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61609</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61609"/>
+        <updated>2025-03-12T09:14:39.848Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅰ. 'Marimba' 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61593</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61593"/>
-        <updated>2025-03-11T06:19:18.364Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.12(수) 08:00]]></content>
+        <title type="html"><![CDATA[유키 구라모토 콘서트 - 진주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61608</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61608"/>
+        <updated>2025-03-12T09:14:39.849Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <꽃의 비밀> 마지막​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61592</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61592"/>
-        <updated>2025-03-11T01:03:13.989Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 02:00]]></content>
+        <title type="html"><![CDATA[유키 구라모토 콘서트 - 원주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61607</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61607"/>
+        <updated>2025-03-12T09:14:39.850Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 겨울왕국 - 과천 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61591</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61591"/>
-        <updated>2025-03-11T01:03:13.991Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.11(화) 01:00]]></content>
+        <title type="html"><![CDATA[유키 구라모토 콘서트 - 여수​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61606</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61606"/>
+        <updated>2025-03-12T09:14:39.852Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] ASL 시즌19​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -164,54 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61598"/>
         <updated>2025-03-11T09:15:04.420Z</updated>
         <content type="html"><![CDATA[2025.03.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 브레드이발소 <빵스타 대격돌> - 고양​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61597</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61597"/>
-        <updated>2025-03-11T09:15:04.422Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [MD] YUURI ARENA LIVE 2025 at SEOUL OFFICIAL MD​ ​온라인 판매​ 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61596</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61596"/>
-        <updated>2025-03-11T09:15:04.424Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  트래블 콘서트 - 뉴욕 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61595</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61595"/>
-        <updated>2025-03-11T07:13:55.234Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 대구 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61594</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61594"/>
-        <updated>2025-03-11T07:13:55.304Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립교향악단] GSO 오티움 콘서트 Ⅰ. 'Marimba' 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61593</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61593"/>
-        <updated>2025-03-11T06:19:26.728Z</updated>
-        <content type="html"><![CDATA[2025.03.12(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 <꽃의 비밀> 마지막​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61592</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61592"/>
-        <updated>2025-03-11T01:03:21.640Z</updated>
-        <content type="html"><![CDATA[2025.03.17(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 가족뮤지컬 겨울왕국 - 과천 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61591</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61591"/>
-        <updated>2025-03-11T01:03:21.641Z</updated>
-        <content type="html"><![CDATA[2025.03.11(화) 01:00]]></content>
     </entry>
 </feed>
