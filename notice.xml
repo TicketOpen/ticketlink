@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-12T04:16:09.499Z</updated>
+    <updated>2025-03-12T05:13:35.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［서울］뮤지컬 번개맨 시즌2 - 여름맞이 특별공연 - 송파 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61604</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61604"/>
+        <updated>2025-03-12T05:13:26.423Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이미자 전통가요 헌정 공연 <맥(脈)을 이음>​ 추가 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61603</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61603"/>
+        <updated>2025-03-12T05:13:26.425Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경기광주] 뮤지컬 한글용사 아이야 <사라진 한글을 찾아라!> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61602</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61602"/>
+        <updated>2025-03-12T05:13:26.426Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조항조 전국투어 콘서트 : 생각 -  성남 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61601</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61590"/>
         <updated>2025-03-11T02:52:46.527Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​폴포츠 내한 공연 : Prime Time - 군산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61589</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61589"/>
-        <updated>2025-03-11T02:52:46.527Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] MY FIRST STORY ASIA TOUR 2025 at SEOUL​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61588</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61588"/>
-        <updated>2025-03-11T01:03:13.994Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 삼남매 트롯콘서트-반가희×공훈×신미래 대구​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61587</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61587"/>
-        <updated>2025-03-10T09:12:45.363Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 02:00]]></content>
     </entry>
 </feed>
