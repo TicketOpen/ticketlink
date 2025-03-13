@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-13T08:19:02.915Z</updated>
+    <updated>2025-03-13T09:14:46.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 서울​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61624</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61624"/>
+        <updated>2025-03-13T09:14:37.806Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 광주 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61623</id>
@@ -54,6 +61,13 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 청주 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61616</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61616"/>
+        <updated>2025-03-13T09:14:37.816Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61615</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61615"/>
@@ -96,18 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘사의 생일파티- 부평​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61609</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61609"/>
-        <updated>2025-03-12T09:14:31.079Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키 구라모토 콘서트 - 진주​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61608</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61608"/>
-        <updated>2025-03-12T09:14:31.081Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 01:00]]></content>
+        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 서울​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61624</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61624"/>
+        <updated>2025-03-13T09:14:45.592Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 광주 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -159,6 +166,13 @@
         <content type="html"><![CDATA[2025.03.14(금) 01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 청주 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61616</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61616"/>
+        <updated>2025-03-13T09:14:45.604Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61615</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61615"/>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61610"/>
         <updated>2025-03-12T09:14:39.846Z</updated>
         <content type="html"><![CDATA[2025.03.17(월) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티- 부평​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61609</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61609"/>
-        <updated>2025-03-12T09:14:39.848Z</updated>
-        <content type="html"><![CDATA[2025.03.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키 구라모토 콘서트 - 진주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61608</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61608"/>
-        <updated>2025-03-12T09:14:39.849Z</updated>
-        <content type="html"><![CDATA[2025.03.17(월) 01:00]]></content>
     </entry>
 </feed>
