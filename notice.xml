@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-13T23:13:14.039Z</updated>
+    <updated>2025-03-14T01:02:22.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엘사의 생일파티- 대구 어린이세상​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61629</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61629"/>
+        <updated>2025-03-14T01:02:14.529Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 부평 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61628</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61628"/>
+        <updated>2025-03-14T01:02:14.530Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 광명 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61626</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61626"/>
+        <updated>2025-03-14T01:02:14.532Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2025 수성아트피아 스테이지 S시리즈 <연극 - 꽃의 비밀>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61625</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61625"/>
+        <updated>2025-03-14T01:02:14.532Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 서울​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61624</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61614"/>
         <updated>2025-03-13T01:02:55.583Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61613</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61613"/>
-        <updated>2025-03-13T01:02:55.585Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티- 강동​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61612</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61612"/>
-        <updated>2025-03-12T09:14:31.073Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베베핀 뮤지컬 <우당탕탕 패밀리> - 서울 앵콜​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61611</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61611"/>
-        <updated>2025-03-12T09:14:31.076Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​어린이마술쇼 - 의정부​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61610</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61610"/>
-        <updated>2025-03-12T09:14:31.078Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 00:00]]></content>
     </entry>
 </feed>
