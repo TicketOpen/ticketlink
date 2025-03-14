@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-14T06:18:54.291Z</updated>
+    <updated>2025-03-14T07:24:46.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 부천 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61639</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61639"/>
+        <updated>2025-03-14T07:24:38.440Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61638</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61638"/>
+        <updated>2025-03-14T07:24:38.440Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년 가족뮤지컬 <겨울이야기> - 여수​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61637</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61637"/>
+        <updated>2025-03-14T07:24:38.441Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  2025 루프 랩 부산 아트 페어 (Loop Lab Busan Art Fair) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61636</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61625"/>
         <updated>2025-03-14T01:02:14.532Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 서울​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61624</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61624"/>
-        <updated>2025-03-13T09:14:37.806Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 광주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61623</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61623"/>
-        <updated>2025-03-13T06:18:39.976Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​DSAC 시즌 콘서트 < 신춘음악회 : Revibe > - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61622</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61622"/>
-        <updated>2025-03-13T06:18:39.978Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 05:00]]></content>
     </entry>
 </feed>
