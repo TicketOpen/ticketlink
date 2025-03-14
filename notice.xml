@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-14T02:51:14.366Z</updated>
+    <updated>2025-03-14T03:24:28.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61632"/>
         <updated>2025-03-14T02:51:05.575Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  Junsu’s Azit​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61630</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61630"/>
+        <updated>2025-03-14T03:24:19.985Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.24(월) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티- 대구 어린이세상​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61617"/>
         <updated>2025-03-13T02:53:25.001Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 헬로카봇 시즌8 <미래연구소를 지켜라!> - 청주 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61616</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61616"/>
-        <updated>2025-03-13T09:14:37.816Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 05:00]]></content>
     </entry>
 </feed>
