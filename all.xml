@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-14T04:16:01.179Z</updated>
+    <updated>2025-03-14T05:13:34.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2025 루프 랩 부산 아트 페어 (Loop Lab Busan Art Fair) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61636</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61636"/>
+        <updated>2025-03-14T05:13:27.784Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립오페라단] 오페라 갈라 콘서트 < 60 Stars > 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61635</id>
@@ -12,11 +19,32 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 부산​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61634</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61634"/>
+        <updated>2025-03-14T05:13:27.790Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 안산 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61633</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61633"/>
+        <updated>2025-03-14T05:13:27.791Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 대구 어린이세상​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61632</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61632"/>
         <updated>2025-03-14T02:51:05.575Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61631</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61631"/>
+        <updated>2025-03-14T05:13:27.799Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  Junsu’s Azit​ 티켓오픈 안내 (티켓링크)]]></title>
@@ -82,32 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  GAC 기획공연 포커스 박종성×김형석 프로젝트 ‘그대, 다시’ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61621</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61621"/>
-        <updated>2025-03-13T06:18:39.979Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.14(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <모리스> 3차 티켓 오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61620</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61620"/>
-        <updated>2025-03-13T06:18:39.981Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 정동하 Prologue​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61619</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61619"/>
-        <updated>2025-03-13T02:53:24.998Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.13(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충북도립극단 <한 여름밤의 템페스트>​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61618</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61618"/>
-        <updated>2025-03-13T02:53:24.999Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.17(월) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  2025 루프 랩 부산 아트 페어 (Loop Lab Busan Art Fair) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61636</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61636"/>
+        <updated>2025-03-14T05:13:34.239Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립오페라단] 오페라 갈라 콘서트 < 60 Stars > 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -117,11 +124,32 @@
         <content type="html"><![CDATA[2025.03.14(금) 05:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 부산​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61634</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61634"/>
+        <updated>2025-03-14T05:13:34.240Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​최현우 19+I - 안산 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61633</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61633"/>
+        <updated>2025-03-14T05:13:34.240Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 대구 어린이세상​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61632</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61632"/>
         <updated>2025-03-14T02:51:13.614Z</updated>
         <content type="html"><![CDATA[2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61631</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61631"/>
+        <updated>2025-03-14T05:13:34.240Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  Junsu’s Azit​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -185,33 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61622"/>
         <updated>2025-03-13T06:18:48.579Z</updated>
         <content type="html"><![CDATA[2025.03.19(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  GAC 기획공연 포커스 박종성×김형석 프로젝트 ‘그대, 다시’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61621</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61621"/>
-        <updated>2025-03-13T06:18:48.579Z</updated>
-        <content type="html"><![CDATA[2025.03.14(금) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <모리스> 3차 티켓 오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61620</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61620"/>
-        <updated>2025-03-13T06:18:48.584Z</updated>
-        <content type="html"><![CDATA[2025.03.18(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 정동하 Prologue​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61619</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61619"/>
-        <updated>2025-03-13T02:53:32.812Z</updated>
-        <content type="html"><![CDATA[2025.03.13(목) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충북도립극단 <한 여름밤의 템페스트>​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61618</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61618"/>
-        <updated>2025-03-13T02:53:32.813Z</updated>
-        <content type="html"><![CDATA[2025.03.17(월) 00:00]]></content>
     </entry>
 </feed>
