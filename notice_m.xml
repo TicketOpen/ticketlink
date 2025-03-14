@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-14T01:02:22.796Z</updated>
+    <updated>2025-03-14T02:51:14.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 대구 어린이세상​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61632</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61632"/>
+        <updated>2025-03-14T02:51:13.614Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘사의 생일파티- 대구 어린이세상​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61629</id>
@@ -18,6 +25,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61628"/>
         <updated>2025-03-14T01:02:22.112Z</updated>
         <content type="html"><![CDATA[2025.03.19(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GREATEST : 불후의 명곡 정동하X알리 - 목포 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61627</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61627"/>
+        <updated>2025-03-14T02:51:13.619Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 광명 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61616"/>
         <updated>2025-03-13T09:14:45.604Z</updated>
         <content type="html"><![CDATA[2025.03.17(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 김창옥 토크콘서트 시즌 5 - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61615</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61615"/>
-        <updated>2025-03-13T05:13:53.770Z</updated>
-        <content type="html"><![CDATA[2025.03.18(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> 부천 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61614</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61614"/>
-        <updated>2025-03-13T01:03:03.963Z</updated>
-        <content type="html"><![CDATA[2025.03.17(월) 01:00]]></content>
     </entry>
 </feed>
