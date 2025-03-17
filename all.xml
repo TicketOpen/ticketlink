@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-17T02:56:06.830Z</updated>
+    <updated>2025-03-17T03:27:46.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  GAC 기획공연 스타인웨이 위너콘서트 인 코리아 <제이든 이직-드쥬르코 리사이틀> 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61646</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61646"/>
+        <updated>2025-03-17T03:27:37.123Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족 뮤지컬 아기돼지 삼형제 in 완주​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61643</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.24(월) 09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘사의 생일파티- 대구 어린이세상​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61629</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61629"/>
-        <updated>2025-03-14T01:02:14.529Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  GAC 기획공연 스타인웨이 위너콘서트 인 코리아 <제이든 이직-드쥬르코 리사이틀> 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61646</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61646"/>
+        <updated>2025-03-17T03:27:45.526Z</updated>
+        <content type="html"><![CDATA[2025.03.18(화) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족 뮤지컬 아기돼지 삼형제 in 완주​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61630"/>
         <updated>2025-03-14T03:24:28.047Z</updated>
         <content type="html"><![CDATA[2025.03.24(월) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘사의 생일파티- 대구 어린이세상​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61629</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61629"/>
-        <updated>2025-03-14T01:02:22.110Z</updated>
-        <content type="html"><![CDATA[2025.03.19(수) 00:00]]></content>
     </entry>
 </feed>
