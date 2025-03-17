@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-17T04:17:13.066Z</updated>
+    <updated>2025-03-17T05:14:44.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2025 롯데콘서트홀 마티네 <황수미의 사운드트랙>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61647</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61647"/>
+        <updated>2025-03-17T05:14:37.362Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  GAC 기획공연 스타인웨이 위너콘서트 인 코리아 <제이든 이직-드쥬르코 리사이틀> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61646</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61646"/>
         <updated>2025-03-17T03:27:37.123Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <사랑은 비를 타고> 30주년 공연 1차 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61645</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61645"/>
+        <updated>2025-03-17T05:14:37.366Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허용별콘서트 : 보컬전쟁 시즌2 - “The War of Vocalists II” - 서울 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61644</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61644"/>
+        <updated>2025-03-17T05:14:37.371Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족 뮤지컬 아기돼지 삼형제 in 완주​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61633"/>
         <updated>2025-03-14T05:13:27.791Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 대구 어린이세상​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61632</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61632"/>
-        <updated>2025-03-14T02:51:05.575Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?>​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61631</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61631"/>
-        <updated>2025-03-14T05:13:27.799Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.18(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  Junsu’s Azit​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61630</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61630"/>
-        <updated>2025-03-14T03:24:19.985Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.24(월) 09:00]]></content>
     </entry>
 </feed>
