@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-17T01:05:37.760Z</updated>
+    <updated>2025-03-17T02:56:06.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족 뮤지컬 아기돼지 삼형제 in 완주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61643</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61643"/>
+        <updated>2025-03-17T02:56:06.059Z</updated>
+        <content type="html"><![CDATA[2025.03.17(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 콘서트 - 춘천​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61642</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61629</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61629"/>
         <updated>2025-03-14T01:02:22.110Z</updated>
-        <content type="html"><![CDATA[2025.03.19(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 체험학습 뮤지컬 <틀려도 괜찮아> - 부평 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61628</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61628"/>
-        <updated>2025-03-14T01:02:22.112Z</updated>
         <content type="html"><![CDATA[2025.03.19(수) 00:00]]></content>
     </entry>
 </feed>
