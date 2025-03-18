@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-18T07:14:32.206Z</updated>
+    <updated>2025-03-18T08:18:14.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 394회 정기연주회 '운명의 봄'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61662</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61662"/>
+        <updated>2025-03-18T08:18:13.597Z</updated>
+        <content type="html"><![CDATA[2025.03.19(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이은결 < TRACK > -​ 대구 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61661</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61648"/>
         <updated>2025-03-17T06:19:49.188Z</updated>
         <content type="html"><![CDATA[2025.03.20(목) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 롯데콘서트홀 마티네 <황수미의 사운드트랙>​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61647</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61647"/>
-        <updated>2025-03-17T05:14:43.856Z</updated>
-        <content type="html"><![CDATA[2025.03.19(수) 05:00]]></content>
     </entry>
 </feed>
