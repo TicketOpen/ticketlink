@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-19T07:14:00.362Z</updated>
+    <updated>2025-03-19T08:18:37.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61672"/>
         <updated>2025-03-19T03:26:37.534Z</updated>
         <content type="html"><![CDATA[2025.03.20(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  Forest of Dreams 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61671</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61671"/>
+        <updated>2025-03-19T08:18:36.509Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조항조 전국투어 콘서트 : 생각 -  광주 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61670</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61670"/>
+        <updated>2025-03-19T08:18:36.509Z</updated>
+        <content type="html"><![CDATA[2025.03.25(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​2025 김창옥 토크콘서트 시즌 5 - 김해​ 티켓오픈 안내]]></title>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61658"/>
         <updated>2025-03-18T06:19:51.974Z</updated>
         <content type="html"><![CDATA[2025.03.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  넌버벌 퍼포먼스 <인피니티 플라잉> - 울진 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61657</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61657"/>
-        <updated>2025-03-18T03:26:51.833Z</updated>
-        <content type="html"><![CDATA[2025.03.26(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <이매지너리> 2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61656</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61656"/>
-        <updated>2025-03-18T05:14:05.509Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 02:00]]></content>
     </entry>
 </feed>
