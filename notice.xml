@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-19T23:13:56.488Z</updated>
+    <updated>2025-03-20T01:03:00.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​리사 오노 내한공연 2025 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61676</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61676"/>
+        <updated>2025-03-20T01:02:51.315Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리사 오노 내한공연 2025 - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61675</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61675"/>
+        <updated>2025-03-20T01:02:51.316Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬<명성황후> 30주년 기념 공연 - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61674</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61674"/>
+        <updated>2025-03-20T01:02:51.317Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.25(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 박혜나의 나나랜드: ROAD TO NANALAND​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61673</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61673"/>
+        <updated>2025-03-20T01:02:51.320Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.27(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [광주시립합창단] 기획연주회Ⅰ <칭구야~ 노올~자> 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61672</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61662"/>
         <updated>2025-03-18T08:18:05.431Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은결 < TRACK > -​ 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61661</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61661"/>
-        <updated>2025-03-18T07:14:24.054Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은결 < TRACK > - 제주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61660</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61660"/>
-        <updated>2025-03-18T07:14:24.062Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61659</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61659"/>
-        <updated>2025-03-18T06:19:43.157Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.24(월) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <백작> 프리뷰​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61658</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61658"/>
-        <updated>2025-03-18T06:19:43.167Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.25(화) 05:00]]></content>
     </entry>
 </feed>
