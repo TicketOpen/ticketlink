@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-20T07:13:43.529Z</updated>
+    <updated>2025-03-20T08:18:50.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DSAC 온 스테이지 <교집합> - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61686</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61686"/>
+        <updated>2025-03-20T08:18:49.865Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 마티 잉골드 127년 만의 전주 귀환 '빛의 향연'​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61685</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61685"/>
+        <updated>2025-03-20T08:18:49.876Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 용인 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61684</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61684"/>
+        <updated>2025-03-20T08:18:49.876Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 김경호 전국투어 콘서트 - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61683</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61683"/>
+        <updated>2025-03-20T08:18:49.877Z</updated>
+        <content type="html"><![CDATA[2025.03.21(금) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 성남​​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61682</id>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61672"/>
         <updated>2025-03-19T03:26:37.534Z</updated>
         <content type="html"><![CDATA[2025.03.20(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  Forest of Dreams 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61671</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61671"/>
-        <updated>2025-03-19T08:18:36.509Z</updated>
-        <content type="html"><![CDATA[2025.03.21(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항조 전국투어 콘서트 : 생각 -  광주 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61670</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61670"/>
-        <updated>2025-03-19T08:18:36.509Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 김창옥 토크콘서트 시즌 5 - 김해​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61669</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61669"/>
-        <updated>2025-03-19T05:13:53.311Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 이승철 콘서트 <오케스트락2> 수원공연​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61668</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61668"/>
-        <updated>2025-03-19T05:13:53.364Z</updated>
-        <content type="html"><![CDATA[2025.03.24(월) 05:00]]></content>
     </entry>
 </feed>
