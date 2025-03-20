@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-20T05:14:14.147Z</updated>
+    <updated>2025-03-20T06:19:32.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 안산​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61681</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61681"/>
+        <updated>2025-03-20T06:19:24.437Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <삼색도> ​​2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61680</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61680"/>
+        <updated>2025-03-20T06:19:24.447Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.25(화) 07:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <인화> 2차 ​​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61679</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61679"/>
+        <updated>2025-03-20T06:19:24.448Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.25(화) 06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <안녕! 다온아> - 대구​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61678</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61667"/>
         <updated>2025-03-19T02:55:07.007Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.20(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  공룡 애니멀쇼 시즌 1 & 시즌 2 - 대구 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61666</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61666"/>
-        <updated>2025-03-19T01:04:09.349Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.19(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동> - 부산​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61665</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61665"/>
-        <updated>2025-03-18T11:12:15.854Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <꼬마버스 타요 - 소원을 들어주는 요술 지팡이 대소동> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61664</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61664"/>
-        <updated>2025-03-18T11:12:15.855Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 01:00]]></content>
     </entry>
 </feed>
