@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-21T06:20:48.129Z</updated>
+    <updated>2025-03-21T07:13:56.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  [대구] 장애인의 날 기념음악회 맑은 울림, 아름다운 동행 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61696</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61696"/>
+        <updated>2025-03-21T07:13:56.251Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <6시 퇴근>​ 2차 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61695</id>
@@ -25,6 +32,20 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61693"/>
         <updated>2025-03-21T05:13:30.544Z</updated>
         <content type="html"><![CDATA[2025.03.27(목) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 연극 <친정엄마와2박3일> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61692</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61692"/>
+        <updated>2025-03-21T07:13:56.268Z</updated>
+        <content type="html"><![CDATA[2025.03.25(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안산]뮤지컬 번개맨 시즌2 <번개맨!VS번개맨?> 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61691</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61691"/>
+        <updated>2025-03-21T07:13:56.269Z</updated>
+        <content type="html"><![CDATA[2025.03.25(화) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​대니구 & 디토 체임버 오케스트라  프라마베라< Primavera >-군산​ 티켓오픈 안내]]></title>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61682"/>
         <updated>2025-03-20T07:13:42.766Z</updated>
         <content type="html"><![CDATA[2025.03.21(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <드라랄라 치과> - 안산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61681</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61681"/>
-        <updated>2025-03-20T06:19:31.670Z</updated>
-        <content type="html"><![CDATA[2025.03.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <삼색도> ​​2차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61680</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61680"/>
-        <updated>2025-03-20T06:19:31.672Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <인화> 2차 ​​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61679</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61679"/>
-        <updated>2025-03-20T06:19:31.674Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 06:00]]></content>
     </entry>
 </feed>
