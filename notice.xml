@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-21T08:18:07.016Z</updated>
+    <updated>2025-03-21T09:14:45.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 뮤지컬 <여신님이 보고 계셔> - 광주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61697</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61697"/>
+        <updated>2025-03-21T09:14:37.934Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.27(목) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [대구] 장애인의 날 기념음악회 맑은 울림, 아름다운 동행 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61696</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61683"/>
         <updated>2025-03-20T08:18:42.943Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 성남​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61682</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61682"/>
-        <updated>2025-03-20T07:13:33.767Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 00:00]]></content>
     </entry>
 </feed>
