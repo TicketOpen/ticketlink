@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-21T01:04:15.010Z</updated>
+    <updated>2025-03-21T02:55:56.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​대니구 & 디토 체임버 오케스트라  프라마베라< Primavera >-군산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61690</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61690"/>
+        <updated>2025-03-21T02:55:55.894Z</updated>
+        <content type="html"><![CDATA[2025.03.24(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 변진섭 전국투어 콘서트 : 변천사  - 원주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61689</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61689"/>
+        <updated>2025-03-21T02:55:55.896Z</updated>
+        <content type="html"><![CDATA[2025.03.26(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 김정민 전국투어 콘서트 : LIVE STAR - 원주​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61688</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61688"/>
+        <updated>2025-03-21T02:55:55.898Z</updated>
+        <content type="html"><![CDATA[2025.03.26(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] DSAC 온 스테이지 <교집합> - 대구​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61686</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61675"/>
         <updated>2025-03-20T01:02:59.987Z</updated>
         <content type="html"><![CDATA[2025.03.21(금) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬<명성황후> 30주년 기념 공연 - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61674</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61674"/>
-        <updated>2025-03-20T01:02:59.987Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 박혜나의 나나랜드: ROAD TO NANALAND​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61673</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61673"/>
-        <updated>2025-03-20T01:02:59.988Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [광주시립합창단] 기획연주회Ⅰ <칭구야~ 노올~자> 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61672</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61672"/>
-        <updated>2025-03-19T03:26:37.534Z</updated>
-        <content type="html"><![CDATA[2025.03.20(목) 01:00]]></content>
     </entry>
 </feed>
