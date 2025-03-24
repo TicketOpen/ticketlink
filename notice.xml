@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-24T01:06:26.338Z</updated>
+    <updated>2025-03-24T03:00:10.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어 <백조의 호수> - 부산 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61700</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61700"/>
+        <updated>2025-03-24T03:00:01.690Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.31(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어 <백조의 호수> - 고양 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61699</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61699"/>
+        <updated>2025-03-24T03:00:01.693Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.31(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 천안 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61698</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61686"/>
         <updated>2025-03-20T08:18:42.939Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 마티 잉골드 127년 만의 전주 귀환 '빛의 향연'​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61685</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61685"/>
-        <updated>2025-03-20T08:18:42.939Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> - 용인 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61684</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61684"/>
-        <updated>2025-03-20T08:18:42.941Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.21(금) 00:00]]></content>
     </entry>
 </feed>
