@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-24T05:15:11.908Z</updated>
+    <updated>2025-03-24T06:20:26.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  GAC 기획공연 디즈니 인 콘서트: Beyond the Magic 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61703</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61703"/>
+        <updated>2025-03-24T06:20:26.228Z</updated>
+        <content type="html"><![CDATA[2025.03.25(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  <페이트/그랜드 오더> 공식 방송 Vol.17 (공개 방송) 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61701</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61688"/>
         <updated>2025-03-21T02:55:55.898Z</updated>
         <content type="html"><![CDATA[2025.03.26(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신 전국 투어 콘서트 ‘그때’ - 광주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61687</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61687"/>
-        <updated>2025-03-21T05:13:30.555Z</updated>
-        <content type="html"><![CDATA[2025.03.24(월) 11:00]]></content>
     </entry>
 </feed>
