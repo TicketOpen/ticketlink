@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-25T05:15:46.647Z</updated>
+    <updated>2025-03-25T06:19:51.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <모리스> 티켓링크 피처링​ 티켓 오픈안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61708</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61708"/>
+        <updated>2025-03-25T06:19:50.977Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 장보람 팬콘서트 - '보람듯이'​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61707</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61693"/>
         <updated>2025-03-21T05:13:30.544Z</updated>
         <content type="html"><![CDATA[2025.03.27(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 연극 <친정엄마와2박3일> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61692</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61692"/>
-        <updated>2025-03-21T07:13:56.268Z</updated>
-        <content type="html"><![CDATA[2025.03.25(화) 05:00]]></content>
     </entry>
 </feed>
