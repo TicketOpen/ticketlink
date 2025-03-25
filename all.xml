@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-25T08:19:09.137Z</updated>
+    <updated>2025-03-25T09:14:54.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제22회 대구펫쇼 멍멍야옹​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61710</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61710"/>
+        <updated>2025-03-25T09:14:45.596Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.31(월) 15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <배니싱> 5차​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61709</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61709"/>
+        <updated>2025-03-25T09:14:45.599Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.01(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [피처링_트랙 17] 뮤지컬 <모리스>​ 티켓 오픈안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61708</id>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.25(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미기쇼 콘서트! 좋은 기운 한가득 라이브쇼!​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61694</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61694"/>
-        <updated>2025-03-21T06:20:38.313Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.24(월) 01:00]]></content>
+        <title type="html"><![CDATA[제22회 대구펫쇼 멍멍야옹​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61710</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61710"/>
+        <updated>2025-03-25T09:14:53.823Z</updated>
+        <content type="html"><![CDATA[2025.03.31(월) 15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 스텔라장 정규 2집 발매 기념 단독 콘서트 ‘What Makes You?’ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61693</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61693"/>
-        <updated>2025-03-21T05:13:22.237Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.27(목) 11:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <배니싱> 5차​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61709</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61709"/>
+        <updated>2025-03-25T09:14:53.823Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [피처링_트랙 17] 뮤지컬 <모리스>​ 티켓 오픈안내 (티켓링크 모바일)]]></title>
@@ -199,19 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61695"/>
         <updated>2025-03-21T06:20:47.405Z</updated>
         <content type="html"><![CDATA[2025.03.25(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미기쇼 콘서트! 좋은 기운 한가득 라이브쇼!​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61694</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61694"/>
-        <updated>2025-03-21T06:20:47.405Z</updated>
-        <content type="html"><![CDATA[2025.03.24(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 스텔라장 정규 2집 발매 기념 단독 콘서트 ‘What Makes You?’ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61693</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61693"/>
-        <updated>2025-03-21T05:13:30.544Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 11:00]]></content>
     </entry>
 </feed>
