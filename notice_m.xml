@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-26T08:18:21.564Z</updated>
+    <updated>2025-03-26T09:15:30.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 수박수영장 - 동해​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61714</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61714"/>
+        <updated>2025-03-26T09:15:29.390Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[< RAUM어버이날 콘서트 나태주 디너쇼 > 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61713</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어 <백조의 호수> - 부산 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61700</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61700"/>
-        <updated>2025-03-24T03:00:10.098Z</updated>
-        <content type="html"><![CDATA[2025.03.31(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어 <백조의 호수> - 고양 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61699</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61699"/>
         <updated>2025-03-24T03:00:10.098Z</updated>
         <content type="html"><![CDATA[2025.03.31(월) 05:00]]></content>
     </entry>
