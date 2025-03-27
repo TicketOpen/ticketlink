@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-26T23:13:45.251Z</updated>
+    <updated>2025-03-27T01:04:07.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[광주시립극단] 제24회 정기공연 <위선자 타르튀프>​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61715</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61715"/>
+        <updated>2025-03-27T01:03:58.367Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.28(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 수박수영장 - 동해​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61714</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61701"/>
         <updated>2025-03-24T03:36:01.853Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.26(수) 03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모스크바 라 클라시크 발레단 월드투어 <백조의 호수> - 부산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61700</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61700"/>
-        <updated>2025-03-24T03:00:01.690Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.31(월) 05:00]]></content>
     </entry>
 </feed>
