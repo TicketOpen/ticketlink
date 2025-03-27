@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-27T07:14:12.883Z</updated>
+    <updated>2025-03-27T08:18:23.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61720"/>
         <updated>2025-03-27T07:14:12.151Z</updated>
         <content type="html"><![CDATA[2025.04.01(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 권인하 전국투어 콘서트 : 가왕 - 서울​​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61719</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61719"/>
+        <updated>2025-03-27T08:18:22.641Z</updated>
+        <content type="html"><![CDATA[2025.04.02(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  [지역주민] 이상한 챔버 오케스트라 - 울산​​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61707"/>
         <updated>2025-03-24T09:16:19.772Z</updated>
         <content type="html"><![CDATA[2025.03.27(목) 06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] ​임태현 팬미팅 - '태혀나서 처음으로'​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61706</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61706"/>
-        <updated>2025-03-24T09:16:19.784Z</updated>
-        <content type="html"><![CDATA[2025.03.27(목) 07:00]]></content>
     </entry>
 </feed>
