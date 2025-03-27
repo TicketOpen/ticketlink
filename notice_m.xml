@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-27T01:04:07.200Z</updated>
+    <updated>2025-03-27T02:55:41.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 푸에르자 부르타 < 아벤 > - 서울 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61716</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61716"/>
+        <updated>2025-03-27T02:55:41.201Z</updated>
+        <content type="html"><![CDATA[2025.03.31(월) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립극단] 제24회 정기공연 <위선자 타르튀프>​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61715</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61702"/>
         <updated>2025-03-26T05:15:20.085Z</updated>
         <content type="html"><![CDATA[2025.03.28(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  <페이트/그랜드 오더> 공식 방송 Vol.17 (공개 방송) 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61701</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61701"/>
-        <updated>2025-03-24T03:36:10.934Z</updated>
-        <content type="html"><![CDATA[2025.03.26(수) 03:00]]></content>
     </entry>
 </feed>
