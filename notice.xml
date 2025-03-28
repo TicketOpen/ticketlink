@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-27T23:13:52.987Z</updated>
+    <updated>2025-03-28T01:03:50.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 광주시립창극단 특별기획공연 '판소리 감상회'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61723</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61723"/>
+        <updated>2025-03-28T01:03:40.550Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.28(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리온의 신비한 과자상점-어린이 마술극(4월)-부산 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61721</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61708"/>
         <updated>2025-03-25T06:19:42.769Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.01(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 장보람 팬콘서트 - '보람듯이'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61707</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61707"/>
-        <updated>2025-03-24T09:16:12.997Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.27(목) 06:00]]></content>
     </entry>
 </feed>
