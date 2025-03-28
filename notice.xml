@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-28T01:03:50.385Z</updated>
+    <updated>2025-03-28T02:57:20.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61723"/>
         <updated>2025-03-28T01:03:40.550Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.28(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조항조 전국투어 콘서트 : 생각 -  구미​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61722</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61722"/>
+        <updated>2025-03-28T02:57:11.359Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.02(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리온의 신비한 과자상점-어린이 마술극(4월)-부산 티켓오픈 안내]]></title>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/61709</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61709"/>
         <updated>2025-03-25T09:14:45.599Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.01(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] [피처링_트랙 17] 뮤지컬 <모리스>​ 티켓 오픈안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61708</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61708"/>
-        <updated>2025-03-25T06:19:42.769Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.01(화) 02:00]]></content>
     </entry>
 </feed>
