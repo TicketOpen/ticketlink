@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-28T07:14:01.623Z</updated>
+    <updated>2025-03-28T08:18:46.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <미샤 마이스키 첼로 리사이틀 - 대구> ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61732</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61732"/>
+        <updated>2025-03-28T08:18:38.339Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.31(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <모리스> 마지막 티켓 오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61731</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61718"/>
         <updated>2025-03-27T06:19:50.463Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.28(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  2025 LoL 멸망전 시즌1 - 결승전 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61717</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61717"/>
-        <updated>2025-03-27T06:19:50.465Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.27(목) 07:00]]></content>
     </entry>
 </feed>
