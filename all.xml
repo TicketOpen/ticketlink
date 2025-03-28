@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-28T05:14:00.523Z</updated>
+    <updated>2025-03-28T06:19:44.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <모리스> 마지막 티켓 오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61731</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61731"/>
+        <updated>2025-03-28T06:19:35.121Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.02(수) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 용인​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61730</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.03.27(목) 07:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025 푸에르자 부르타 < 아벤 > - 서울 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61716</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61716"/>
-        <updated>2025-03-27T02:55:33.608Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.31(월) 01:00]]></content>
+        <title type="html"><![CDATA[뮤지컬 <모리스> 마지막 티켓 오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61731</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61731"/>
+        <updated>2025-03-28T06:19:44.109Z</updated>
+        <content type="html"><![CDATA[2025.04.02(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 용인​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61717"/>
         <updated>2025-03-27T06:19:56.933Z</updated>
         <content type="html"><![CDATA[2025.03.27(목) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 푸에르자 부르타 < 아벤 > - 서울 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61716</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61716"/>
-        <updated>2025-03-27T02:55:41.201Z</updated>
-        <content type="html"><![CDATA[2025.03.31(월) 01:00]]></content>
     </entry>
 </feed>
