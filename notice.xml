@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-29T07:12:36.594Z</updated>
+    <updated>2025-03-29T08:16:22.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​[안산] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61734</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61734"/>
+        <updated>2025-03-29T08:16:14.522Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.03.31(월) 22:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​민화로 만나는 동물의 사육제 - 울산​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61733</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61720"/>
         <updated>2025-03-27T07:14:02.901Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.01(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 권인하 전국투어 콘서트 : 가왕 - 서울​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61719</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61719"/>
-        <updated>2025-03-27T08:18:14.874Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.02(수) 02:00]]></content>
     </entry>
 </feed>
