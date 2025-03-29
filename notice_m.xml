@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-29T01:03:29.940Z</updated>
+    <updated>2025-03-29T02:53:45.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​민화로 만나는 동물의 사육제 - 울산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61733</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61733"/>
+        <updated>2025-03-29T02:53:44.277Z</updated>
+        <content type="html"><![CDATA[2025.04.09(수) 12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] <미샤 마이스키 첼로 리사이틀 - 대구> ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61732</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61719"/>
         <updated>2025-03-27T08:18:22.641Z</updated>
         <content type="html"><![CDATA[2025.04.02(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  [지역주민] 이상한 챔버 오케스트라 - 울산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61718</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61718"/>
-        <updated>2025-03-27T06:19:56.929Z</updated>
-        <content type="html"><![CDATA[2025.03.28(금) 00:00]]></content>
     </entry>
 </feed>
