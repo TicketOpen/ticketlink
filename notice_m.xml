@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-03-30T23:13:46.586Z</updated>
+    <updated>2025-03-31T01:07:50.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 양산 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61735</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61735"/>
+        <updated>2025-03-31T01:07:49.650Z</updated>
+        <content type="html"><![CDATA[2025.04.03(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[안산] 뮤지컬 <플랫폼> - 각인, 두번째 이야기​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61734</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61721"/>
         <updated>2025-03-27T07:14:12.151Z</updated>
         <content type="html"><![CDATA[2025.03.28(금) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 국립현대무용단 <얍!얍!얍!> - 포항​​​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61720</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61720"/>
-        <updated>2025-03-27T07:14:12.151Z</updated>
-        <content type="html"><![CDATA[2025.04.01(화) 05:00]]></content>
     </entry>
 </feed>
