@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-03-31T08:19:49.364Z</updated>
+    <updated>2025-03-31T09:16:51.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 20세기소년 음감회 (20th CENTURY BOY’z  LISTENING PARTY)​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61741</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61741"/>
+        <updated>2025-03-31T09:16:43.386Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.03(목) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] SOOP OVERWATCH2 CUP 2025 SEASON 1​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61740</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61727"/>
         <updated>2025-03-28T05:13:51.325Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 청주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61726</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61726"/>
-        <updated>2025-03-28T05:13:51.326Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.01(화) 05:00]]></content>
     </entry>
 </feed>
