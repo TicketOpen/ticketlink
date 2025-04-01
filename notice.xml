@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-01T12:28:23.285Z</updated>
+    <updated>2025-04-01T13:25:38.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벙커에 부는 봄바람~ 벙커 봄봄 음악회 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61752</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61752"/>
+        <updated>2025-04-01T13:25:28.892Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.02(수) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 당진​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61751</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61737"/>
         <updated>2025-03-31T08:19:41.268Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​그룹사운드 잔나비 콘서트 <모든소년소녀들> 2025 - 서울 THE 1ST WEEK​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61736</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61736"/>
-        <updated>2025-03-31T08:19:41.270Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 10:00]]></content>
     </entry>
 </feed>
