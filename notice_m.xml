@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-01T05:14:34.850Z</updated>
+    <updated>2025-04-01T06:21:22.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 안산​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61747</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61747"/>
+        <updated>2025-04-01T06:21:21.897Z</updated>
+        <content type="html"><![CDATA[2025.04.03(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 변진섭 전국투어 콘서트 : 변천사 - 안산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61746</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61746"/>
+        <updated>2025-04-01T06:21:21.900Z</updated>
+        <content type="html"><![CDATA[2025.04.03(목) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <백작> 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61744</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61744"/>
+        <updated>2025-04-01T06:21:21.902Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  2025 키즈오페라 <피노키오> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61742</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61742"/>
+        <updated>2025-04-01T06:21:21.906Z</updated>
+        <content type="html"><![CDATA[2025.04.01(화) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 20세기소년 음감회 (20th CENTURY BOY’z  LISTENING PARTY)​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61741</id>
@@ -18,6 +46,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61740"/>
         <updated>2025-03-31T08:19:48.589Z</updated>
         <content type="html"><![CDATA[2025.04.02(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] GAC기획공연 11시 음악산책 명작시리즈1 '오만과 편견' 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61739</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61739"/>
+        <updated>2025-04-01T06:21:21.913Z</updated>
+        <content type="html"><![CDATA[2025.04.02(수) 02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​[광주시립교향악단 특별음악회] GSO 키즈콘서트 '모래 위의 클래식'​ 티켓오픈 안내]]></title>
@@ -74,40 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61731"/>
         <updated>2025-03-28T06:19:44.109Z</updated>
         <content type="html"><![CDATA[2025.04.02(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 용인​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61730</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61730"/>
-        <updated>2025-03-28T05:13:59.776Z</updated>
-        <content type="html"><![CDATA[2025.04.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61729</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61729"/>
-        <updated>2025-03-28T05:13:59.776Z</updated>
-        <content type="html"><![CDATA[2025.04.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 성남​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61728</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61728"/>
-        <updated>2025-03-28T05:13:59.783Z</updated>
-        <content type="html"><![CDATA[2025.04.02(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대차증권과 함께하는 클라우스 메켈레 & 파리 오케스트라 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61727</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61727"/>
-        <updated>2025-03-31T11:12:19.838Z</updated>
-        <content type="html"><![CDATA[2025.04.02(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <명성황후> 30주년 기념 공연 - 청주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61726</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61726"/>
-        <updated>2025-04-01T03:09:47.776Z</updated>
-        <content type="html"><![CDATA[2025.04.01(화) 05:00]]></content>
     </entry>
 </feed>
