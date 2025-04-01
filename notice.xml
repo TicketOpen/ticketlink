@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-01T10:15:43.706Z</updated>
+    <updated>2025-04-01T11:12:22.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 당진​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61751</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61751"/>
+        <updated>2025-04-01T11:12:13.985Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-원주​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61750</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61736"/>
         <updated>2025-03-31T08:19:41.270Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 양산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61735</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61735"/>
-        <updated>2025-03-31T01:07:40.810Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.03(목) 01:00]]></content>
     </entry>
 </feed>
