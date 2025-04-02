@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-02T04:16:47.435Z</updated>
+    <updated>2025-04-02T05:15:22.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61759"/>
         <updated>2025-04-02T02:58:21.040Z</updated>
         <content type="html"><![CDATA[2025.04.03(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 강릉​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61758</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61758"/>
+        <updated>2025-04-02T05:15:22.009Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  최백호&변진섭 낭만콘서트 - 울진 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61745"/>
         <updated>2025-04-01T08:19:20.260Z</updated>
         <content type="html"><![CDATA[2025.04.08(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <백작> 1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61744</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61744"/>
-        <updated>2025-04-01T06:21:21.902Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 05:00]]></content>
     </entry>
 </feed>
