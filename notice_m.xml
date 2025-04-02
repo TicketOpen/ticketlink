@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-02T09:15:15.923Z</updated>
+    <updated>2025-04-02T10:16:25.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 2025 한국가곡대축제 <삶이 그대를 속일지라도> - 부산​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61762</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61762"/>
+        <updated>2025-04-02T10:16:24.812Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호영x김소현x손준호 뮤지컬 갈라 콘서트 - 전주​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61761</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61748"/>
         <updated>2025-04-01T08:19:20.232Z</updated>
         <content type="html"><![CDATA[2025.04.07(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 안산​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61747</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61747"/>
-        <updated>2025-04-01T06:21:21.897Z</updated>
-        <content type="html"><![CDATA[2025.04.03(목) 00:00]]></content>
     </entry>
 </feed>
