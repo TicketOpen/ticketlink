@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-03T07:15:14.611Z</updated>
+    <updated>2025-04-03T08:18:44.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61768</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61768"/>
+        <updated>2025-04-03T08:18:36.262Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61767</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.28(월) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벙커에 부는 봄바람~ 벙커 봄봄 음악회 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61752</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61752"/>
-        <updated>2025-04-01T13:25:28.892Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.02(수) 11:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61768</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61768"/>
+        <updated>2025-04-03T08:18:43.971Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 07:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61753"/>
         <updated>2025-04-02T02:58:21.050Z</updated>
         <content type="html"><![CDATA[2025.04.28(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벙커에 부는 봄바람~ 벙커 봄봄 음악회 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61752</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61752"/>
-        <updated>2025-04-01T13:25:37.783Z</updated>
-        <content type="html"><![CDATA[2025.04.02(수) 11:00]]></content>
     </entry>
 </feed>
