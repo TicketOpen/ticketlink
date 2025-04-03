@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-03T09:15:22.492Z</updated>
+    <updated>2025-04-03T10:15:20.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 20세기소년(20th Century Boy’z) DEBUT 콘서트​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61769</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61769"/>
+        <updated>2025-04-03T10:15:19.746Z</updated>
+        <content type="html"><![CDATA[2025.04.16(수) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61768</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61754"/>
         <updated>2025-04-02T02:58:21.049Z</updated>
         <content type="html"><![CDATA[2025.04.07(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 조희창의<토요 클래식 살롱> - Ⅱ. 카프리치오&랩소디 (경주)​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61753</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61753"/>
-        <updated>2025-04-02T02:58:21.050Z</updated>
-        <content type="html"><![CDATA[2025.04.28(월) 01:00]]></content>
     </entry>
 </feed>
