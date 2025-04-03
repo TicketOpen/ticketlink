@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-03T04:17:32.763Z</updated>
+    <updated>2025-04-03T05:14:41.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61767</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61767"/>
+        <updated>2025-04-03T05:14:32.557Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 부천​​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61766</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61766"/>
+        <updated>2025-04-03T05:14:32.566Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 나 혼자만 레벨업:어라이즈 글로벌 첫번째 공식 대회​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61765</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61765"/>
+        <updated>2025-04-03T05:14:32.567Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤종신 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61764</id>
@@ -89,25 +110,25 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.02(수) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 당진​​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61751</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61751"/>
-        <updated>2025-04-01T11:12:13.985Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61767</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61767"/>
+        <updated>2025-04-03T05:14:41.005Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-원주​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61750</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61750"/>
-        <updated>2025-04-01T10:15:36.116Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content>
+        <title type="html"><![CDATA[가족뮤지컬 <고고다이노 - 해양구조대> - 부천​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61766</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61766"/>
+        <updated>2025-04-03T05:14:41.007Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-순천​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61749</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61749"/>
-        <updated>2025-04-01T10:15:36.121Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 나 혼자만 레벨업:어라이즈 글로벌 첫번째 공식 대회​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61765</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61765"/>
+        <updated>2025-04-03T05:14:41.007Z</updated>
+        <content type="html"><![CDATA[2025.04.04(금) 05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤종신 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -192,26 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61752"/>
         <updated>2025-04-01T13:25:37.783Z</updated>
         <content type="html"><![CDATA[2025.04.02(수) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전> - 당진​​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61751</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61751"/>
-        <updated>2025-04-01T11:12:21.694Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-원주​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61750</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61750"/>
-        <updated>2025-04-01T10:15:42.902Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 최고다 호기심딱지 시즌3 <호빵이 레벨업 대작전>-순천​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61749</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61749"/>
-        <updated>2025-04-01T10:15:42.904Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 01:00]]></content>
     </entry>
 </feed>
