@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-04T07:13:56.805Z</updated>
+    <updated>2025-04-04T08:18:55.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린이 명작 극장 <라푼젤> - 평택​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61784</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61784"/>
+        <updated>2025-04-04T08:18:45.211Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2025 특별음악회 <희망의 선율, 사랑나눔 음악회> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61783</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61783"/>
+        <updated>2025-04-04T08:18:45.211Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  HOME SWEET HOME - 드라마 태권도의저주를풀어줘 팬미팅​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61782</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61782"/>
+        <updated>2025-04-04T08:18:45.214Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61781</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61770"/>
         <updated>2025-04-04T01:04:18.700Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 20세기소년(20th Century Boy’z) DEBUT 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61769</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61769"/>
-        <updated>2025-04-03T10:15:11.504Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.16(수) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 현대무용단-탐 45주년기념 작품시리즈 Ⅱ 솔로공연​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61768</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61768"/>
-        <updated>2025-04-03T08:18:36.262Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 제16회 대구꽃박람회​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61767</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61767"/>
-        <updated>2025-04-03T05:14:32.557Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 05:00]]></content>
     </entry>
 </feed>
