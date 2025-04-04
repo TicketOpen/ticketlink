@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-04T01:04:28.111Z</updated>
+    <updated>2025-04-04T02:56:55.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 추가 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61777</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61777"/>
+        <updated>2025-04-04T02:56:45.844Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.09(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <출동! 슈퍼윙스 - 초능력 곤충 대소동> - 수원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61776</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61776"/>
+        <updated>2025-04-04T02:56:45.851Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.09(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <할머니의 여름휴가>_극장 용 1차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61775</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61775"/>
+        <updated>2025-04-04T02:56:45.851Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 통영​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61774</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61774"/>
+        <updated>2025-04-04T02:56:45.852Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사  - 통영​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61773</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61773"/>
+        <updated>2025-04-04T02:56:45.852Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 인천​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61772</id>
@@ -74,40 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61763"/>
         <updated>2025-04-03T01:04:42.274Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 2025 한국가곡대축제 <삶이 그대를 속일지라도> - 부산​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61762</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61762"/>
-        <updated>2025-04-02T10:16:15.323Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호영x김소현x손준호 뮤지컬 갈라 콘서트 - 전주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61761</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61761"/>
-        <updated>2025-04-02T07:14:09.858Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.03(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정다한 데뷔 10주년 기념 콘서트 - 안산 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61760</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61760"/>
-        <updated>2025-04-02T07:14:09.863Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디오스 피아졸라, 라이브 탱고 - 대전​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61759</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61759"/>
-        <updated>2025-04-02T02:58:13.286Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.03(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승환 35주년 콘서트 < HEAVEN > - 강릉​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61758</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61758"/>
-        <updated>2025-04-02T05:15:12.333Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 05:00]]></content>
     </entry>
 </feed>
