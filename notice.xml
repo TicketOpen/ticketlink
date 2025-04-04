@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-03T23:15:01.970Z</updated>
+    <updated>2025-04-04T01:04:28.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61772</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61772"/>
+        <updated>2025-04-04T01:04:18.692Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.09(수) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고양] 2025 가족뮤지컬 <엄마까투리 - 유치원도, 도시도 처음이야> 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61771</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61771"/>
+        <updated>2025-04-04T01:04:18.692Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.09(수) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <설민석의 한국사 대모험 : 안중근> 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61770</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61770"/>
+        <updated>2025-04-04T01:04:18.700Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 20세기소년(20th Century Boy’z) DEBUT 콘서트​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61769</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61758"/>
         <updated>2025-04-02T05:15:12.333Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  최백호&변진섭 낭만콘서트 - 울진 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61757</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61757"/>
-        <updated>2025-04-02T02:58:13.288Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.17(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 화성	 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61755</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61755"/>
-        <updated>2025-04-02T02:58:13.293Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <레인보우 버블젬-흩어진 버블젬을 찾아라!> - 광주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61754</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61754"/>
-        <updated>2025-04-02T02:58:13.294Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 01:00]]></content>
     </entry>
 </feed>
