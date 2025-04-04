@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-04T04:17:08.387Z</updated>
+    <updated>2025-04-04T05:14:42.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] eLigue 1 Tour Korea FC PRO MASTERS 한국 대표 선발전​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61778</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61778"/>
+        <updated>2025-04-04T05:14:35.109Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <조선 이야기꾼 전기수> 추가 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61777</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61764"/>
         <updated>2025-04-03T02:56:47.471Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <더 픽션> in 대구​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61763</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61763"/>
-        <updated>2025-04-03T01:04:42.274Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 02:00]]></content>
     </entry>
 </feed>
