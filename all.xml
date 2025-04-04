@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-04T05:14:42.822Z</updated>
+    <updated>2025-04-04T06:19:53.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​Pile Birthday Events 2025 in Seoul​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61779</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61779"/>
+        <updated>2025-04-04T06:19:44.948Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] eLigue 1 Tour Korea FC PRO MASTERS 한국 대표 선발전​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61778</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤종신 콘서트​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61764</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61764"/>
-        <updated>2025-04-03T02:56:47.471Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.04(금) 04:00]]></content>
+        <title type="html"><![CDATA[[단독판매]  ​Pile Birthday Events 2025 in Seoul​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61779</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61779"/>
+        <updated>2025-04-04T06:19:52.830Z</updated>
+        <content type="html"><![CDATA[2025.04.10(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] eLigue 1 Tour Korea FC PRO MASTERS 한국 대표 선발전​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61765"/>
         <updated>2025-04-03T05:14:41.007Z</updated>
         <content type="html"><![CDATA[2025.04.04(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신 콘서트​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61764</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61764"/>
-        <updated>2025-04-03T02:56:55.967Z</updated>
-        <content type="html"><![CDATA[2025.04.04(금) 04:00]]></content>
     </entry>
 </feed>
