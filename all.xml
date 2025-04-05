@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-04T23:13:17.215Z</updated>
+    <updated>2025-04-05T01:03:21.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 이세계 페스티벌 2025​ 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61785</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61785"/>
+        <updated>2025-04-05T01:03:11.562Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 명작 극장 <라푼젤> - 평택​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61784</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.09(수) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <설민석의 한국사 대모험 : 안중근> 2차 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61770</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61770"/>
-        <updated>2025-04-04T01:04:18.700Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 01:00]]></content>
+        <title type="html"><![CDATA[[단독판매] 이세계 페스티벌 2025​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61785</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61785"/>
+        <updated>2025-04-05T01:03:20.443Z</updated>
+        <content type="html"><![CDATA[2025.04.10(목) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이 명작 극장 <라푼젤> - 평택​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61771"/>
         <updated>2025-04-04T01:04:27.280Z</updated>
         <content type="html"><![CDATA[2025.04.09(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <설민석의 한국사 대모험 : 안중근> 2차 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61770</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61770"/>
-        <updated>2025-04-04T01:04:27.280Z</updated>
-        <content type="html"><![CDATA[2025.04.11(금) 01:00]]></content>
     </entry>
 </feed>
