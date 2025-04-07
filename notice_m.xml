@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-07T04:17:28.407Z</updated>
+    <updated>2025-04-07T05:15:07.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 닐로 단독 콘서트 '들려줄게'​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61791</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61791"/>
+        <updated>2025-04-07T05:15:06.331Z</updated>
+        <content type="html"><![CDATA[2025.04.09(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​메조소프라노 김보라 리사이틀 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61789</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61789"/>
+        <updated>2025-04-07T05:15:06.331Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​2025 김창완밴드 전국투어 콘서트 <회상> - 고양​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61788</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61788"/>
         <updated>2025-04-07T03:01:48.251Z</updated>
         <content type="html"><![CDATA[2025.04.30(수) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2025 HYERI FANMEETING TOUR < Welcome to HYERI’s STUDIO > IN SEOUL (NIGHT.ver)​ ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61787</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61787"/>
+        <updated>2025-04-07T05:15:06.340Z</updated>
+        <content type="html"><![CDATA[2025.04.14(월) 11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​2025 HYERI FANMEETING TOUR < Welcome to HYERI’s STUDIO > IN SEOUL (DAY.ver) ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61786</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61786"/>
+        <updated>2025-04-07T05:15:06.343Z</updated>
+        <content type="html"><![CDATA[2025.04.14(월) 11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] 이세계 페스티벌 2025​ 티켓오픈 안내]]></title>
@@ -80,34 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61776</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61776"/>
         <updated>2025-04-06T18:16:56.657Z</updated>
-        <content type="html"><![CDATA[2025.04.09(수) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <할머니의 여름휴가>_극장 용 1차 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61775</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61775"/>
-        <updated>2025-04-06T18:16:56.658Z</updated>
-        <content type="html"><![CDATA[2025.04.11(금) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 심수봉 전국투어 콘서트 : 꽃길 - 통영​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61774</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61774"/>
-        <updated>2025-04-06T18:16:56.660Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 변진섭 전국투어 콘서트 : 변천사  - 통영​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61773</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61773"/>
-        <updated>2025-04-06T18:16:56.661Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족매직쇼 <구구쌤의 매직쑈라구> - 인천​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61772</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61772"/>
-        <updated>2025-04-06T18:16:56.664Z</updated>
         <content type="html"><![CDATA[2025.04.09(수) 01:00]]></content>
     </entry>
 </feed>
