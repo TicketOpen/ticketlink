@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-07T09:16:09.401Z</updated>
+    <updated>2025-04-07T10:16:15.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[책 먹는 여우 - 양주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61796</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61796"/>
+        <updated>2025-04-07T10:16:06.500Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​어린이가족 발레뮤지컬 <돈키호테>​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61795</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61782"/>
         <updated>2025-04-04T08:18:45.214Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 인천​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61781</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61781"/>
-        <updated>2025-04-04T07:13:48.145Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 05:00]]></content>
     </entry>
 </feed>
