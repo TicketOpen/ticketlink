@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-07T06:20:41.291Z</updated>
+    <updated>2025-04-07T07:15:11.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61793"/>
         <updated>2025-04-07T06:20:30.794Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 00:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 가족뮤지컬 <고양이 해결사 깜냥>​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61792</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61792"/>
+        <updated>2025-04-07T07:15:03.243Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 닐로 단독 콘서트 '들려줄게'​ 티켓오픈 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61779"/>
         <updated>2025-04-04T06:19:44.948Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] eLigue 1 Tour Korea FC PRO MASTERS 한국 대표 선발전​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61778</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61778"/>
-        <updated>2025-04-04T05:14:35.109Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 08:00]]></content>
     </entry>
 </feed>
