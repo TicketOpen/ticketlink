@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-07T07:15:11.083Z</updated>
+    <updated>2025-04-07T08:19:37.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <하트셉수트> 이집트 진출 기원 스페셜 콘서트 ​티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61794</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61794"/>
+        <updated>2025-04-07T08:19:29.787Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025년 가족 뮤지컬 <겨울이야기> - 진주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61793</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61780"/>
         <updated>2025-04-04T07:13:48.147Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​Pile Birthday Events 2025 in Seoul​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61779</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61779"/>
-        <updated>2025-04-04T06:19:44.948Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 11:00]]></content>
     </entry>
 </feed>
