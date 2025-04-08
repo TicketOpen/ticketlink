@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-08T05:14:45.885Z</updated>
+    <updated>2025-04-08T06:19:58.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [광주시립교향악단] 체임버 시리즈 Ⅲ 'Romance of May'​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61806</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61806"/>
+        <updated>2025-04-08T06:19:50.418Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.09(수) 08:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종문화회관 무경계 컨템퍼러리 Sync Next 25​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61805</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61792"/>
         <updated>2025-04-07T07:15:03.243Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​GAC 기획공연 포커스 닐로 단독 콘서트 '들려줄게'​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61791</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61791"/>
-        <updated>2025-04-07T05:14:55.903Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.09(수) 02:00]]></content>
     </entry>
 </feed>
