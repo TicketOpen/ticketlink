@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-08T04:17:11.721Z</updated>
+    <updated>2025-04-08T05:14:45.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종문화회관 무경계 컨템퍼러리 Sync Next 25​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61805</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61805"/>
+        <updated>2025-04-08T05:14:45.226Z</updated>
+        <content type="html"><![CDATA[2025.04.28(월) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​음악극 <태일> 1차 ​티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61804</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61804"/>
+        <updated>2025-04-08T05:14:45.226Z</updated>
+        <content type="html"><![CDATA[2025.04.11(금) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <폭풍우 치는 밤에> 1차​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61803</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61803"/>
+        <updated>2025-04-08T05:14:45.228Z</updated>
+        <content type="html"><![CDATA[2025.04.10(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 소너스아카이브 콘서트 [카더가든x콜드x공기남] 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61802</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61802"/>
+        <updated>2025-04-08T05:14:45.228Z</updated>
+        <content type="html"><![CDATA[2025.04.11(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 <한 여름밤의 템페스트>​ 추가 좌석 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61801</id>
@@ -55,7 +83,7 @@
         <content type="html"><![CDATA[2025.04.10(목) 00:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 <하트셉수트> 이집트 진출 기원 스페셜 콘서트 ​티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬 <하트셉수트> 이집트 진출 기원 스페셜 콘서트 ​티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61794</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61794"/>
         <updated>2025-04-07T08:19:36.464Z</updated>
@@ -81,33 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61791"/>
         <updated>2025-04-07T05:15:06.331Z</updated>
         <content type="html"><![CDATA[2025.04.09(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​이별의 아리아 - 대구​​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61790</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61790"/>
-        <updated>2025-04-07T06:20:40.421Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​메조소프라노 김보라 리사이틀 - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61789</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61789"/>
-        <updated>2025-04-07T05:15:06.331Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​2025 김창완밴드 전국투어 콘서트 <회상> - 고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61788</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61788"/>
-        <updated>2025-04-07T03:01:48.251Z</updated>
-        <content type="html"><![CDATA[2025.04.30(수) 02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2025 HYERI FANMEETING TOUR < Welcome to HYERI’s STUDIO > IN SEOUL (NIGHT.ver)​ ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61787</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61787"/>
-        <updated>2025-04-07T05:15:06.340Z</updated>
-        <content type="html"><![CDATA[2025.04.14(월) 11:00]]></content>
     </entry>
 </feed>
