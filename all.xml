@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-08T01:04:46.922Z</updated>
+    <updated>2025-04-08T03:03:00.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 <한 여름밤의 템페스트>​ 추가 좌석 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61801</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61801"/>
+        <updated>2025-04-08T03:02:51.705Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 목포​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61800</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.14(월) 11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2025 HYERI FANMEETING TOUR < Welcome to HYERI’s STUDIO > IN SEOUL (DAY.ver) ​티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61786</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61786"/>
-        <updated>2025-04-07T05:14:55.905Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.14(월) 11:00]]></content>
+        <title type="html"><![CDATA[연극 <한 여름밤의 템페스트>​ 추가 좌석 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61801</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61801"/>
+        <updated>2025-04-08T03:03:00.271Z</updated>
+        <content type="html"><![CDATA[2025.04.10(목) 01:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 목포​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -205,13 +212,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61787</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61787"/>
         <updated>2025-04-07T05:15:06.340Z</updated>
-        <content type="html"><![CDATA[2025.04.14(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2025 HYERI FANMEETING TOUR < Welcome to HYERI’s STUDIO > IN SEOUL (DAY.ver) ​티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61786</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61786"/>
-        <updated>2025-04-07T05:15:06.343Z</updated>
         <content type="html"><![CDATA[2025.04.14(월) 11:00]]></content>
     </entry>
 </feed>
