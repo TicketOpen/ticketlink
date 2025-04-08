@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-07T23:14:33.941Z</updated>
+    <updated>2025-04-08T01:04:46.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 목포​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61800</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61800"/>
+        <updated>2025-04-08T01:04:37.560Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61799</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61799"/>
+        <updated>2025-04-08T01:04:37.560Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 창원​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61798</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61798"/>
+        <updated>2025-04-08T01:04:37.561Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 전주​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61797</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61797"/>
+        <updated>2025-04-08T01:04:37.561Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책 먹는 여우 - 양주​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61796</id>
@@ -81,33 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61786"/>
         <updated>2025-04-07T05:14:55.905Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.14(월) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 이세계 페스티벌 2025​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61785</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61785"/>
-        <updated>2025-04-05T01:03:11.562Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이 명작 극장 <라푼젤> - 평택​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61784</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61784"/>
-        <updated>2025-04-04T08:18:45.211Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​2025 특별음악회 <희망의 선율, 사랑나눔 음악회> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61783</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61783"/>
-        <updated>2025-04-04T08:18:45.211Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.07(월) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  HOME SWEET HOME - 드라마 태권도의저주를풀어줘 팬미팅​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61782</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61782"/>
-        <updated>2025-04-04T08:18:45.214Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 11:00]]></content>
     </entry>
 </feed>
