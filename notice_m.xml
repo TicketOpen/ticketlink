@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-08T08:19:30.377Z</updated>
+    <updated>2025-04-08T09:15:22.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] <뮤지컬 그렇게 우린,> 세종​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61808</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61808"/>
+        <updated>2025-04-08T09:15:21.622Z</updated>
+        <content type="html"><![CDATA[2025.04.08(화) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매]  알리 20주년 콘서트 - 용진(勇進) 서울 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61807</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61794"/>
         <updated>2025-04-07T08:19:36.464Z</updated>
         <content type="html"><![CDATA[2025.04.08(화) 07:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025년 가족 뮤지컬 <겨울이야기> - 진주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61793</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61793"/>
-        <updated>2025-04-07T06:20:40.419Z</updated>
-        <content type="html"><![CDATA[2025.04.08(화) 00:00]]></content>
     </entry>
 </feed>
