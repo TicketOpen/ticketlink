@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-08T09:15:22.500Z</updated>
+    <updated>2025-04-08T10:16:24.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 유키 구라모토 콘서트 Peacefully - 인천​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61811</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61811"/>
+        <updated>2025-04-08T10:16:16.587Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 가족뮤지컬 <뽀로로 포털의 세계> - 원주​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61810</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61810"/>
+        <updated>2025-04-08T10:16:16.587Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 서울​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61809</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61809"/>
+        <updated>2025-04-08T10:16:16.587Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] <뮤지컬 그렇게 우린,> 세종​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61808</id>
@@ -88,26 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61797"/>
         <updated>2025-04-08T01:04:37.561Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책 먹는 여우 - 양주​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61796</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61796"/>
-        <updated>2025-04-07T10:16:06.500Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​어린이가족 발레뮤지컬 <돈키호테>​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61795</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61795"/>
-        <updated>2025-04-07T09:16:00.208Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매] 뮤지컬 <하트셉수트> 이집트 진출 기원 스페셜 콘서트 ​티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61794</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61794"/>
-        <updated>2025-04-07T08:19:29.787Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.08(화) 07:00]]></content>
     </entry>
 </feed>
