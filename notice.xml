@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-09T08:20:17.229Z</updated>
+    <updated>2025-04-09T09:15:38.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG아트센터 25주년 기념 제작 연극 ‘헤다 가블러’ 마지막 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61818</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61818"/>
+        <updated>2025-04-09T09:15:30.264Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.15(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 <신데렐라> - 광주​​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61817</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61803"/>
         <updated>2025-04-08T05:14:36.200Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 소너스아카이브 콘서트 [카더가든x콜드x공기남] 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61802</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61802"/>
-        <updated>2025-04-08T05:14:36.200Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 05:00]]></content>
     </entry>
 </feed>
