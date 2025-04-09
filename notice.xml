@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-09T06:20:33.063Z</updated>
+    <updated>2025-04-09T07:14:07.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 <신데렐라> - 양산​​​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61816</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61816"/>
+        <updated>2025-04-09T07:13:59.132Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <와일드 그레이> 1차​​​​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61815</id>
@@ -101,13 +108,6 @@
         <id>http://www.ticketlink.co.kr/help/notice/61801</id>
         <link href="http://www.ticketlink.co.kr/help/notice/61801"/>
         <updated>2025-04-08T03:02:51.705Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​[단독판매]  2025 김동하 Stand-up Tour < Life Goes On > - 목포​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61800</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61800"/>
-        <updated>2025-04-08T01:04:37.560Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
     </entry>
 </feed>
