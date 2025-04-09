@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-09T11:13:20.622Z</updated>
+    <updated>2025-04-09T12:28:04.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 풍금 TOUR - 대전​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61820</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61820"/>
+        <updated>2025-04-09T12:28:03.966Z</updated>
+        <content type="html"><![CDATA[2025.05.08(목) 03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 풍금 TOUR - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61819</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61819"/>
+        <updated>2025-04-09T12:28:03.966Z</updated>
+        <content type="html"><![CDATA[2025.04.15(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG아트센터 25주년 기념 제작 연극 ‘헤다 가블러’ 마지막 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61818</id>
@@ -95,19 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61805"/>
         <updated>2025-04-08T05:14:45.226Z</updated>
         <content type="html"><![CDATA[2025.04.28(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​음악극 <태일> 1차 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61804</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61804"/>
-        <updated>2025-04-08T05:14:45.226Z</updated>
-        <content type="html"><![CDATA[2025.04.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬 <폭풍우 치는 밤에> 1차​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61803</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61803"/>
-        <updated>2025-04-08T05:14:45.228Z</updated>
-        <content type="html"><![CDATA[2025.04.10(목) 05:00]]></content>
     </entry>
 </feed>
