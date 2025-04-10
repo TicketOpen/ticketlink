@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-10T13:24:57.917Z</updated>
+    <updated>2025-04-10T14:14:37.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코믹소동연극 <런투패밀리> - 대구​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61826</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61826"/>
+        <updated>2025-04-10T14:14:29.997Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사카구치 켄타로 아시아 투어 팬미팅 2025 in 서울 (KENTARO SAKAGUCHI ASIA TOUR FAN MEETING 2025 in SEOUL) 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61825</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61811"/>
         <updated>2025-04-08T10:16:16.587Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.10(목) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 가족뮤지컬 <뽀로로 포털의 세계> - 원주​​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61810</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61810"/>
-        <updated>2025-04-08T10:16:16.587Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 01:00]]></content>
     </entry>
 </feed>
