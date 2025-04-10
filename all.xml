@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/ticketlink/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-10T10:15:44.712Z</updated>
+    <updated>2025-04-10T11:12:28.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사카구치 켄타로 아시아 투어 팬미팅 2025 in 서울 (KENTARO SAKAGUCHI ASIA TOUR FAN MEETING 2025 in SEOUL) 티켓오픈 안내 (티켓링크)]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61825</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61825"/>
+        <updated>2025-04-10T11:12:19.095Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >) 3차​​ 티켓오픈 안내 (티켓링크)]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61824</id>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 01:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 서울​​ 티켓오픈 안내 (티켓링크)]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61809</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61809"/>
-        <updated>2025-04-08T10:16:16.587Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 02:00]]></content>
+        <title type="html"><![CDATA[사카구치 켄타로 아시아 투어 팬미팅 2025 in 서울 (KENTARO SAKAGUCHI ASIA TOUR FAN MEETING 2025 in SEOUL) 티켓오픈 안내 (티켓링크 모바일)]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61825</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61825"/>
+        <updated>2025-04-10T11:12:28.045Z</updated>
+        <content type="html"><![CDATA[2025.04.11(금) 09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >) 3차​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
@@ -206,12 +213,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61810"/>
         <updated>2025-04-08T10:16:23.670Z</updated>
         <content type="html"><![CDATA[2025.04.11(금) 01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데뷔 60주년 기념공연] 2025 남진 전국투어 - 서울​​ 티켓오픈 안내 (티켓링크 모바일)]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61809</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61809"/>
-        <updated>2025-04-08T10:16:23.671Z</updated>
-        <content type="html"><![CDATA[2025.04.11(금) 02:00]]></content>
     </entry>
 </feed>
