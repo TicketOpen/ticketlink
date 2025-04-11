@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-11T06:20:10.902Z</updated>
+    <updated>2025-04-11T07:14:16.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 안양​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61838</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61838"/>
+        <updated>2025-04-11T07:14:15.861Z</updated>
+        <content type="html"><![CDATA[2025.04.15(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬<빨래> - 수원​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61837</id>
@@ -102,12 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61824"/>
         <updated>2025-04-10T08:19:10.051Z</updated>
         <content type="html"><![CDATA[2025.04.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 베베핀 뮤지컬 <우당탕탕 패밀리> - 목포​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61823</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61823"/>
-        <updated>2025-04-10T08:19:10.057Z</updated>
-        <content type="html"><![CDATA[2025.04.11(금) 01:00]]></content>
     </entry>
 </feed>
