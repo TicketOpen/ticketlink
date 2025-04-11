@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-11T08:19:05.785Z</updated>
+    <updated>2025-04-11T09:14:58.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 임창정 30주년 <촌스러운 콘서트> - 서울​​​​ 2차 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61840</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61840"/>
+        <updated>2025-04-11T09:14:48.988Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.15(화) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​2025 심수봉 전국투어 콘서트 : 꽃길 - 대구​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61839</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61839"/>
+        <updated>2025-04-11T09:14:48.992Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.17(목) 02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​뮤지컬 <사랑의 하츄핑> – 안양​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61838</id>
@@ -95,19 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61826"/>
         <updated>2025-04-10T14:14:29.997Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사카구치 켄타로 아시아 투어 팬미팅 2025 in 서울 (KENTARO SAKAGUCHI ASIA TOUR FAN MEETING 2025 in SEOUL) 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61825</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61825"/>
-        <updated>2025-04-10T11:12:19.095Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.11(금) 09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼뮤지컬 Again <드림하이> (Showmusical Again < DreamHigh >) 3차​​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61824</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61824"/>
-        <updated>2025-04-10T08:19:02.755Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.16(수) 05:00]]></content>
     </entry>
 </feed>
