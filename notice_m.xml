@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-14T07:15:43.518Z</updated>
+    <updated>2025-04-14T08:19:56.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] OWCS 챔피언스 클래시 2025 항저우​​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61850</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61850"/>
+        <updated>2025-04-14T08:19:55.456Z</updated>
+        <content type="html"><![CDATA[2025.04.16(수) 08:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 서울 2025​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61849</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61849"/>
+        <updated>2025-04-14T08:19:55.459Z</updated>
+        <content type="html"><![CDATA[2025.04.17(목) 05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] DSAC 아트 페스티벌 <제8회 피아노 위크 in 2025> - 대구​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61848</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61848"/>
+        <updated>2025-04-14T08:19:55.462Z</updated>
+        <content type="html"><![CDATA[2025.04.15(화) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <사랑의 하츄핑> – 성남 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61847</id>
@@ -88,26 +109,5 @@
         <link href="http://m.ticketlink.co.kr/help/notice/61836"/>
         <updated>2025-04-11T05:16:06.155Z</updated>
         <content type="html"><![CDATA[2025.04.17(목) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​< THE이재훈_31주년 > 단독 콘서트 천안공연 ​티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61835</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61835"/>
-        <updated>2025-04-11T05:16:06.158Z</updated>
-        <content type="html"><![CDATA[2025.04.16(수) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독판매]  ​DSAC 시그니처 <미하일 플레트네프 피아노 리사이틀> - 대구​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61834</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61834"/>
-        <updated>2025-04-11T02:58:51.940Z</updated>
-        <content type="html"><![CDATA[2025.04.14(월) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​응답하라 OST 콘서트​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61833</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61833"/>
-        <updated>2025-04-11T01:05:14.893Z</updated>
-        <content type="html"><![CDATA[2025.04.15(화) 02:00]]></content>
     </entry>
 </feed>
