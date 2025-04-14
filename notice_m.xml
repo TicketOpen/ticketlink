@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-14T05:16:09.356Z</updated>
+    <updated>2025-04-14T06:21:57.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[​2025 <어린이 서커스 마술쇼> - 부천​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61846</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61846"/>
+        <updated>2025-04-14T06:21:57.145Z</updated>
+        <content type="html"><![CDATA[2025.04.15(화) 02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독판매]  ​맥스 할로웨이 & 정찬성 팬미팅​ 티켓오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61845</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61845"/>
+        <updated>2025-04-14T06:21:57.145Z</updated>
+        <content type="html"><![CDATA[2025.04.17(목) 03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독판매] [피처링_트랙 18] 뮤지컬 <랭보> 앵콜 티켓 오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61844</id>
@@ -93,20 +107,6 @@
         <title type="html"><![CDATA[가족뮤지컬 <넘버블록스> - 용인​ 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61832</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61832"/>
-        <updated>2025-04-11T01:05:14.900Z</updated>
-        <content type="html"><![CDATA[2025.04.16(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <넘버블록스> - 전주​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61831</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61831"/>
-        <updated>2025-04-11T01:05:14.900Z</updated>
-        <content type="html"><![CDATA[2025.04.16(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <넘버블록스> - 대구 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61830</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61830"/>
         <updated>2025-04-11T01:05:14.900Z</updated>
         <content type="html"><![CDATA[2025.04.16(수) 00:00]]></content>
     </entry>
