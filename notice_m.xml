@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://m.ticketlink.co.kr/help/notice</id>
     <title>티켓링크 모바일</title>
-    <updated>2025-04-14T04:17:06.759Z</updated>
+    <updated>2025-04-14T05:16:09.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] [피처링_트랙 18] 뮤지컬 <랭보> 앵콜 티켓 오픈 안내]]></title>
+        <id>http://m.ticketlink.co.kr/help/notice/61844</id>
+        <link href="http://m.ticketlink.co.kr/help/notice/61844"/>
+        <updated>2025-04-14T05:16:08.664Z</updated>
+        <content type="html"><![CDATA[2025.04.18(금) 05:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 가족뮤지컬 <고양이 해결사 깜냥>​ 추가 티켓오픈 안내]]></title>
         <id>http://m.ticketlink.co.kr/help/notice/61843</id>
@@ -101,13 +108,6 @@
         <id>http://m.ticketlink.co.kr/help/notice/61830</id>
         <link href="http://m.ticketlink.co.kr/help/notice/61830"/>
         <updated>2025-04-11T01:05:14.900Z</updated>
-        <content type="html"><![CDATA[2025.04.16(수) 00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <넘버블록스> - 고양​ 티켓오픈 안내]]></title>
-        <id>http://m.ticketlink.co.kr/help/notice/61829</id>
-        <link href="http://m.ticketlink.co.kr/help/notice/61829"/>
-        <updated>2025-04-11T01:05:14.903Z</updated>
         <content type="html"><![CDATA[2025.04.16(수) 00:00]]></content>
     </entry>
 </feed>
