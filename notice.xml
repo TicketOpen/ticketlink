@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.ticketlink.co.kr/help/notice</id>
     <title>티켓링크</title>
-    <updated>2025-04-15T04:17:14.506Z</updated>
+    <updated>2025-04-15T05:14:51.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://tketlink.dn.toastoven.net/ticketlink-cdn/web/TLfavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독판매] 뮤지컬배우 이해준 콘서트 < From Hae:ven >​​ 티켓오픈 안내]]></title>
+        <id>http://www.ticketlink.co.kr/help/notice/61852</id>
+        <link href="http://www.ticketlink.co.kr/help/notice/61852"/>
+        <updated>2025-04-15T05:14:43.215Z</updated>
+        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.22(화) 11:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[​착한가격 전석 12.000원 앤서니브라운의 돼지책 - 서울 구로​ 티켓오픈 안내]]></title>
         <id>http://www.ticketlink.co.kr/help/notice/61851</id>
@@ -102,12 +109,5 @@
         <link href="http://www.ticketlink.co.kr/help/notice/61838"/>
         <updated>2025-04-11T07:14:07.202Z</updated>
         <content type="html"><![CDATA[<em>오픈</em>: 2025.04.15(화) 05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​뮤지컬<빨래> - 수원​ 티켓오픈 안내]]></title>
-        <id>http://www.ticketlink.co.kr/help/notice/61837</id>
-        <link href="http://www.ticketlink.co.kr/help/notice/61837"/>
-        <updated>2025-04-11T05:15:59.518Z</updated>
-        <content type="html"><![CDATA[<em>오픈</em>: 2025.04.16(수) 05:00]]></content>
     </entry>
 </feed>
